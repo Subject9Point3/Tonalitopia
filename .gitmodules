@@ -1,0 +1,12 @@
+[submodule "Features/Modular-Character-Movement-System"]
+	path = Features/Modular-Character-Movement-System
+	url = https://github.com/5Babbitt/Modular-Character-Movement-System.git
+[submodule "Assets/Features/Modular-Character-Movement-System"]
+	path = Assets/Features/Modular-Character-Movement-System
+	url = https://github.com/5Babbitt/Modular-Character-Movement-System.git
+[submodule "Assets/Features/Babbitts-Unity-Utils"]
+	path = Assets/Features/Babbitts-Unity-Utils
+	url = https://github.com/5Babbitt/Babbitts-Unity-Utils.git
+[submodule "Assets/Features/Babbits-SOAP-Tools"]
+	path = Assets/Features/Babbits-SOAP-Tools
+	url = https://github.com/5Babbitt/Babbits-SOAP-Tools.git
