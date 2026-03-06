@@ -1,6 +1,3 @@
-[submodule "Features/Modular-Character-Movement-System"]
-	path = Features/Modular-Character-Movement-System
-	url = https://github.com/5Babbitt/Modular-Character-Movement-System.git
 [submodule "Assets/Features/Modular-Character-Movement-System"]
 	path = Assets/Features/Modular-Character-Movement-System
 	url = https://github.com/5Babbitt/Modular-Character-Movement-System.git
