@@ -747,6 +747,7 @@ GameObject:
   - component: {fileID: 682942578}
   - component: {fileID: 682942577}
   - component: {fileID: 682942576}
+  - component: {fileID: 682942580}
   - component: {fileID: 682942579}
   m_Layer: 0
   m_Name: CinemachineCamera
@@ -844,12 +845,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43af9602ce9bf224c8b707c6f2310a5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CameraPositionAngleCalculator
-  lockHeight: 0
+  lockHeight: 1
   lockLength: 0
-  lockAngle: 1
-  height: 9.000003
+  lockAngle: 0
+  height: 9
   length: 2.4115438
   angle: 75
+--- !u!114 &682942580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 682942574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e8b78ac948f05a46a6d8339a503172b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.Cinemachine::Unity.Cinemachine.CinemachineHardLookAt
+  LookAtOffset: {x: 0, y: 0, z: 0}
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
