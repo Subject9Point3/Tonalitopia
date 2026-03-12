@@ -105,6 +105,7 @@ InitTestScene*.unity*
 *.prof
 *.validationcache
 *.wsettings
+*.bnk
 IncrementalSoundBankData.xml
 /Assets/AddressableAssetsData/*/*.bin*
 */Assets/StreamingAssets/aa.meta
