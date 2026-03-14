@@ -35,7 +35,7 @@ public static class NavMeshUtils
         }
 
         if (validTriangles.Count == 0)
-            return NavMeshUtils.GetRandomNavMeshPosition(triangulation);
+            return GetRandomNavMeshPosition(triangulation);
 
         int randomTriangle = validTriangles[Random.Range(0, validTriangles.Count)];
 
