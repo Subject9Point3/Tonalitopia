@@ -4,9 +4,12 @@ using UnityEngine.Events;
 public class InstrumentHolder : MonoBehaviour
 {
     [SerializeField] private InstrumentObjectSO instrument;
+    [SerializeField] private bool canBeGivenTo = true;
 
     public UnityEvent<InstrumentObjectSO> OnInstrumentSet;
     public UnityEvent OnInstrumentCleared;
+    
+    public bool CanBeGivenTo => canBeGivenTo;
 
     private void Start()
     {
@@ -14,6 +17,7 @@ public class InstrumentHolder : MonoBehaviour
         SetInstrument(instrument);
     }
 
+    public bool HasInstrument => instrument != null;
     public InstrumentObjectSO GetInstrument() => instrument;
     
     private void SetInstrument(InstrumentObjectSO newInstrument)
@@ -35,6 +39,7 @@ public class InstrumentHolder : MonoBehaviour
     public void GiveInstrument(InstrumentHolder instrumentHolder)
     {
         if (instrumentHolder.GetInstrument() != null) return;
+        if (!instrumentHolder.CanBeGivenTo) return;
         
         instrumentHolder.SetInstrument(instrument);
         ClearInstrument();
@@ -44,7 +49,17 @@ public class InstrumentHolder : MonoBehaviour
     {
         if (instrumentHolder.GetInstrument() == null) return;
         
+        // if (instrument != null) DropInstrument();
+        if (instrument != null) return;
+        
         instrumentHolder.GiveInstrument(this);
+    }
+
+    private void DropInstrument()
+    {
+        if (instrument == null) return;
+        Instantiate(instrument.Prefab, transform.position + transform.forward, Quaternion.identity);
+        ClearInstrument();
     }
 
     private void PlayInstrument()

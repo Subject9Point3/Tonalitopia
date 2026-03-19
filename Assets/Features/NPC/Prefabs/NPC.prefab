@@ -118,6 +118,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InstrumentHolder
   instrument: {fileID: 0}
+  canBeGivenTo: 1
   OnInstrumentSet:
     m_PersistentCalls:
       m_Calls:

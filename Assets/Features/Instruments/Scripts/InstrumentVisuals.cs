@@ -11,6 +11,7 @@ public class InstrumentVisuals : MonoBehaviour
 
     public void ClearInstrument()
     {
+        if (instrumentTransform.childCount < 1) return;
         Destroy(instrumentTransform.GetChild(0).gameObject);
     }
 }
