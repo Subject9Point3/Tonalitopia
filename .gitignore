@@ -110,3 +110,53 @@ IncrementalSoundBankData.xml
 /Assets/AddressableAssetsData/*/*.bin*
 */Assets/StreamingAssets/aa.meta
 */Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset
+## ------------------- ##
+## IDE / Editor         ##
+## ------------------- ##
+
+# VS Code
+/.vscode/
+
+# JetBrains Rider on Linux
+.idea/
+*.rider.user
+
+# Visual Studio config
+.vsconfig
+
+## ------------------- ##
+## Linux Specific       ##
+## ------------------- ##
+
+# Temporary and backup files
+*~
+.fuse_hidden*
+.nfs*
+
+# KDE directory settings
+.directory
+
+# Linux Trash
+.Trash-*
+
+# Snap/Flatpak artifacts
+.var/
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+## ------------------- ##
+## Cross-platform       ##
+## ------------------- ##
+
+# Case sensitivity guard
+*.unity.meta
+*.Unity.meta
+
+# ArtSource backup files
+*.blend[0-9]*
+*.max.bak
+*.psd~
