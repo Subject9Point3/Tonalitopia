@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Assets/Features/Babbits-SOAP-Tools" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Assets/Features/Babbitts-Unity-Utils" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Assets/Features/Modular-Character-Movement-System" vcs="Git" />
-  </component>
-</project>
