@@ -1,0 +1,20 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1254911147	Music_NPC_Postion_Test_Play			\Default Work Unit\Music_NPC_Postion_Test_Play	
+
+Modulator Envelope	ID	Name			Wwise Object Path	Notes
+	176568689	Modulator Envelope (Custom)				
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	56718997	Celeste 2 F#5	.cache\6D\{6D32C489-589E-807E-1DD3-328A6F9DC09B}.wem		\Containers\Default Work Unit\NPC Instruments\1_Celeste_Test\Celeste 2 F#5		133178
+	75547722	1_PhaseOne_A_Celeste	.cache\D8\{D8DC5A5E-472A-80F6-6303-70F3AEA1CC1C}.wem		\Containers\Default Work Unit\MusicState_PositionTest\PhaseOne\PhaseOne_A_1a_Intro_2Bars\1_PhaseOne_A_Celeste		240
+	234173086	Celeste 2 E4	.cache\64\{64E4B36F-C2D8-6164-9FBC-422DEB6489FE}.wem		\Containers\Default Work Unit\NPC Instruments\1_Celeste_Test\Celeste 2 E4		183952
+	314265877	Celeste 2 C#6	.cache\02\{02E17410-8BA6-1F3E-D096-65523B25984F}.wem		\Containers\Default Work Unit\NPC Instruments\1_Celeste_Test\Celeste 2 C#6		131770
+	381950430	1_PhaseOne_A_Celeste	.cache\0D\{0D8AA7AC-61DF-0A8D-7B13-0CB209E01E75}.wem		\Containers\Default Work Unit\MusicState_PositionTest\PhaseOne\PhaseOne_A_1a_Intro_2Bars\1_PhaseOne_A_Celeste		226
+	422892058	Celeste 2 G6	.cache\C5\{C52DD72A-D72D-48FB-BF3A-9CC9AD524A4C}.wem		\Containers\Default Work Unit\NPC Instruments\1_Celeste_Test\Celeste 2 G6		103652
+	565708093	Celeste 2 B4	.cache\CA\{CAE70CB4-42BF-5D7C-54F0-E8D200478DF6}.wem		\Containers\Default Work Unit\NPC Instruments\1_Celeste_Test\Celeste 2 B4		169710
+	754737171	1_PhaseOne_A_Celeste	.cache\2C\{2C722295-1AA9-4C16-6A42-2CD1A038B809}.wem		\Containers\Default Work Unit\MusicState_PositionTest\PhaseOne\PhaseOne_A_1a_Intro_2Bars\1_PhaseOne_A_Celeste		240
+	833168132	1_PhaseOne_A_Celeste	.cache\ED\{EDF6A50C-E869-CDFD-FC55-75B75734F095}.wem		\Containers\Default Work Unit\MusicState_PositionTest\PhaseOne\PhaseOne_A_1a_Intro_2Bars\1_PhaseOne_A_Celeste		146
+	845240086	Celeste 2 A3	.cache\70\{7076F7A8-523A-D983-BB51-CE2718F4BABC}.wem		\Containers\Default Work Unit\NPC Instruments\1_Celeste_Test\Celeste 2 A3		159614
+	922372359	Celeste 2 D3	.cache\89\{89C095C5-512C-182B-8589-30E6CE913463}.wem		\Containers\Default Work Unit\NPC Instruments\1_Celeste_Test\Celeste 2 D3		110310
+	1012886531	1_PhaseOne_A_Celeste	.cache\6B\{6B6A3A30-44EC-AA24-DA10-EACAE77279A3}.wem		\Containers\Default Work Unit\MusicState_PositionTest\PhaseOne\PhaseOne_A_1a_Intro_2Bars\1_PhaseOne_A_Celeste		226
+

@@ -1,0 +1,166 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "89505537",
+    "Type": "User",
+    "GUID": "{D8D3F7AC-8ECC-47DC-BC7E-E64C75702A11}",
+    "Language": "SFX",
+    "Hash": "{C011A028-59E6-C96A-D6DF-C81EEAA16E2A}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Gameplay",
+    "ShortName": "Gameplay",
+    "Path": "Gameplay.bnk",
+    "Media": [
+     {
+      "Id": "56718997",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 F#5.wav",
+      "CachePath": "6D/{6D32C489-589E-807E-1DD3-328A6F9DC09B}.wem"
+     },
+     {
+      "Id": "75547722",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste Pattern 1 Variation 4.mid",
+      "CachePath": "D8/{D8DC5A5E-472A-80F6-6303-70F3AEA1CC1C}.wem"
+     },
+     {
+      "Id": "234173086",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 E4.wav",
+      "CachePath": "64/{64E4B36F-C2D8-6164-9FBC-422DEB6489FE}.wem"
+     },
+     {
+      "Id": "314265877",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 C#6.wav",
+      "CachePath": "02/{02E17410-8BA6-1F3E-D096-65523B25984F}.wem"
+     },
+     {
+      "Id": "381950430",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste Pattern 1 Variation 2.mid",
+      "CachePath": "0D/{0D8AA7AC-61DF-0A8D-7B13-0CB209E01E75}.wem"
+     },
+     {
+      "Id": "422892058",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 G6.wav",
+      "CachePath": "C5/{C52DD72A-D72D-48FB-BF3A-9CC9AD524A4C}.wem"
+     },
+     {
+      "Id": "565708093",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 B4.wav",
+      "CachePath": "CA/{CAE70CB4-42BF-5D7C-54F0-E8D200478DF6}.wem"
+     },
+     {
+      "Id": "754737171",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste Pattern 1 Variation 3.mid",
+      "CachePath": "2C/{2C722295-1AA9-4C16-6A42-2CD1A038B809}.wem"
+     },
+     {
+      "Id": "833168132",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste Pattern 1 Variation 5.mid",
+      "CachePath": "ED/{EDF6A50C-E869-CDFD-FC55-75B75734F095}.wem"
+     },
+     {
+      "Id": "845240086",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 A3.wav",
+      "CachePath": "70/{7076F7A8-523A-D983-BB51-CE2718F4BABC}.wem"
+     },
+     {
+      "Id": "922372359",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 D3.wav",
+      "CachePath": "89/{89C095C5-512C-182B-8589-30E6CE913463}.wem"
+     },
+     {
+      "Id": "1012886531",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste Pattern 1 Variation 1.mid",
+      "CachePath": "6B/{6B6A3A30-44EC-AA24-DA10-EACAE77279A3}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1254911147",
+      "Name": "Music_NPC_Postion_Test_Play",
+      "ObjectPath": "\\Events\\Default Work Unit\\Music_NPC_Postion_Test_Play",
+      "GUID": "{0EC852A1-373F-4A98-9C75-13B8A252F348}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "56718997"
+       },
+       {
+        "Id": "75547722"
+       },
+       {
+        "Id": "234173086"
+       },
+       {
+        "Id": "314265877"
+       },
+       {
+        "Id": "381950430"
+       },
+       {
+        "Id": "422892058"
+       },
+       {
+        "Id": "565708093"
+       },
+       {
+        "Id": "754737171"
+       },
+       {
+        "Id": "833168132"
+       },
+       {
+        "Id": "845240086"
+       },
+       {
+        "Id": "922372359"
+       },
+       {
+        "Id": "1012886531"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{DCFA7CC9-1AA6-CA0B-6477-231F935D180E}"
+ }
+}
