@@ -1,0 +1,84 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	73183939	ClarinetLowCowbell			\Default Work Unit\ClarinetLowCowbell	
+	474846413	FluteHighCowbell			\Default Work Unit\FluteHighCowbell	
+	1301975716	ViolaTabla			\Default Work Unit\ViolaTabla	
+	1413498124	BassoonUdu			\Default Work Unit\BassoonUdu	
+	1705315364	OboeAnvil			\Default Work Unit\OboeAnvil	
+	2303000183	VibraphoneCymbal			\Default Work Unit\VibraphoneCymbal	
+	2357403405	PianoKickSnare			\Default Work Unit\PianoKickSnare	
+	2608626964	CelloConga			\Default Work Unit\CelloConga	
+	2694696584	MarimbaLowKit			\Default Work Unit\MarimbaLowKit	
+	3464414902	ViolinBamboo			\Default Work Unit\ViolinBamboo	
+	3482004262	CelesteHighKit			\Default Work Unit\CelesteHighKit	
+	4165357381	BassDarabuka			\Default Work Unit\BassDarabuka	
+
+State	ID	Name	State Group			Notes
+	748895195	None	ClarinetLowCowbell			
+	2032637112	Midimite_LowCowbell	ClarinetLowCowbell			
+	3339647189	Modalman_Clarinet	ClarinetLowCowbell			
+	4047794399	NPC_Clarinet	ClarinetLowCowbell			
+	648049514	Midimite_HighCowbell	FluteHighCowbell			
+	748895195	None	FluteHighCowbell			
+	2626952999	Modalman_Flute	FluteHighCowbell			
+	4050165685	NPC_Flute	FluteHighCowbell			
+	274510094	Modalman_Viola	ViolaTabla			
+	632282368	NPC_Viola	ViolaTabla			
+	748895195	None	ViolaTabla			
+	1702411004	Midimite_Tabla	ViolaTabla			
+	748895195	None	BassoonUdu			
+	2582786496	Midimite_Udu	BassoonUdu			
+	2613648810	Modalman_Bassoon	BassoonUdu			
+	2747654820	NPC_Bassoon	BassoonUdu			
+	516967432	Modalman_Oboe	OboeAnvil			
+	748895195	None	OboeAnvil			
+	1274921330	NPC_Oboe	OboeAnvil			
+	1819772878	Midimite_Anvil	OboeAnvil			
+	748895195	None	VibraphoneCymbal			
+	911569586	Midimite_Cymbal	VibraphoneCymbal			
+	2281535139	Modalman_Vibraphone	VibraphoneCymbal			
+	4239875109	NPC_Vibraphone	VibraphoneCymbal			
+	748895195	None	PianoKickSnare			
+	3043757710	Modalman_Piano	PianoKickSnare			
+	3369293493	Midimite_KickSnare	PianoKickSnare			
+	3805777016	NPC_Piano	PianoKickSnare			
+	748895195	None	CelloConga			
+	1781666048	NPC_Cello	CelloConga			
+	1962323748	Midimite_Conga	CelloConga			
+	2506517806	Modalman_Cello	CelloConga			
+	284414508	Modalman_Marimba	MarimbaLowKit			
+	608418222	NPC_Marimba	MarimbaLowKit			
+	748895195	None	MarimbaLowKit			
+	2514397822	Midimite_LowKit	MarimbaLowKit			
+	748895195	None	ViolinBamboo			
+	1540944886	NPC_Violin	ViolinBamboo			
+	3172327104	Midimite_Bamboo	ViolinBamboo			
+	3354045468	Modalman_Violin	ViolinBamboo			
+	748895195	None	CelesteHighKit			
+	1937297268	Midimite_HighKit	CelesteHighKit			
+	2822540212	Modalman_Celeste	CelesteHighKit			
+	4244078214	NPC_Celeste	CelesteHighKit			
+	603031370	Modalman_Bass	BassDarabuka			
+	748895195	None	BassDarabuka			
+	1517246961	Midimite_Darabuka	BassDarabuka			
+	2873691804	NPC_Bass	BassDarabuka			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	4237034167	BitcrushAmount			\Default Work Unit\BitcrushAmount	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	43418073	1_NPC_Bus_Celeste			\Default Work Unit\Main Audio Bus\1_NPC_Bus_Celeste	
+	571675678	celeste test			\Default Work Unit\Main Audio Bus\celeste test	
+	2246998526	Main Audio Bus			\Default Work Unit\Main Audio Bus	
+	2799548653	New Audio Bus_01			\Default Work Unit\Main Audio Bus\New Audio Bus_01	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	373392551	New_Auxiliary_Bus			\Default Work Unit\Main Audio Bus\New_Auxiliary_Bus	
+
+Effect plug-ins	ID	Name	Type				Notes
+	505060943	Limiter	Wwise Compressor			
+	3825041543	New_AkBitcrusher	AkBitcrusher			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

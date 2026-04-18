@@ -1,0 +1,33 @@
+{
+ "PluginInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "PluginLibs": [
+   {
+    "LibName": "Wwise Compressor",
+    "LibId": "7077891",
+    "Type": "Effect",
+    "DLL": "AkCompressor",
+    "StaticLib": "AkCompressorFX"
+   },
+   {
+    "LibName": "System",
+    "LibId": "11403271",
+    "Type": "AudioDevice"
+   },
+   {
+    "LibName": "No Output",
+    "LibId": "11862023",
+    "Type": "AudioDevice"
+   },
+   {
+    "LibName": "AkBitcrusher",
+    "LibId": "13173763",
+    "Type": "Effect",
+    "DLL": "AkBitcrusher",
+    "StaticLib": "AkBitcrusherFX"
+   }
+  ],
+  "FileHash": "{0A04710E-652F-88BE-F339-C43395221F80}"
+ }
+}
