@@ -1,0 +1,7157 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "89505537",
+    "Type": "User",
+    "GUID": "{D8D3F7AC-8ECC-47DC-BC7E-E64C75702A11}",
+    "Language": "SFX",
+    "Hash": "{DCFCD39A-3FB5-E2DE-17F5-B29210659471}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Gameplay",
+    "ShortName": "Gameplay",
+    "Path": "Gameplay.bnk",
+    "Media": [
+     {
+      "Id": "689272",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "High Cowbell Pattern 1 Variation 4.mid",
+      "CachePath": "92/{92A4F6C0-7340-85B1-5EA7-ADA0249F317E}.wem"
+     },
+     {
+      "Id": "3353201",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Wood Block.wav",
+      "CachePath": "E4/{E438C7B7-F083-23CB-963E-E187B4A3AB20}.wem"
+     },
+     {
+      "Id": "4669765",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tamb Single Hit 2 Fast Atack 1.wav",
+      "CachePath": "76/{76165D1E-EAC9-0CD7-0AD3-88D8A085C871}.wem"
+     },
+     {
+      "Id": "12921684",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe Pattern 1 Variation 3.mid",
+      "CachePath": "CE/{CE561C2B-C8D7-0F5D-A040-58CF5CA538A5}.wem"
+     },
+     {
+      "Id": "14839378",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "E3.wav",
+      "CachePath": "C3/{C3106497-A279-5532-FAC0-49E982D68C5A}.wem"
+     },
+     {
+      "Id": "15255499",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 F#5.wav",
+      "CachePath": "57/{57C9A61C-DFE4-C34B-12B5-889DD3EDA1D9}.wem"
+     },
+     {
+      "Id": "17702575",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Shinachiku-F#1.wav",
+      "CachePath": "65/{65872487-C463-7312-1482-74CEBBA0E71B}.wem"
+     },
+     {
+      "Id": "20417624",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pearl Tom Dry Flr 1.wav",
+      "CachePath": "4B/{4B305185-3A78-602B-9CEF-655423CCC3A1}.wem"
+     },
+     {
+      "Id": "21415402",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass D2.wav",
+      "CachePath": "2F/{2F116232-25A3-F8E7-9BB4-F89CFA5A55D7}.wem"
+     },
+     {
+      "Id": "21784592",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Congas11-1.wav",
+      "CachePath": "0D/{0D2C51B9-09F5-762F-112F-95661F524C0F}.wem"
+     },
+     {
+      "Id": "23271907",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tite Room Hydra Kick 4 1.wav",
+      "CachePath": "26/{268E4C34-51E4-B4D0-4C23-792C8311F2D0}.wem"
+     },
+     {
+      "Id": "27830178",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Cello F#2.wav",
+      "CachePath": "22/{222863B2-834E-8337-11DD-A61C2AA1518F}.wem"
+     },
+     {
+      "Id": "27957574",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "CowBellRvb12-1.wav",
+      "CachePath": "88/{88FA52FA-99FD-95A2-84A2-8DEC2181EF03}.wem"
+     },
+     {
+      "Id": "31185591",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Shinachiku-C#3.wav",
+      "CachePath": "C9/{C9A4B5FD-44E8-F1AB-16CE-132380D33F14}.wem"
+     },
+     {
+      "Id": "32398722",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bongo Open Med 2 1.wav",
+      "CachePath": "C2/{C2D88FA6-E32B-F81A-C019-E9CF8AFECB7E}.wem"
+     },
+     {
+      "Id": "38741245",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Bass D1.wav",
+      "CachePath": "C9/{C9CD3FFD-ECA0-B91B-D43B-08C3B4B593E8}.wem"
+     },
+     {
+      "Id": "40056596",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Don-Don Mute 1.wav",
+      "CachePath": "DB/{DBFE0F6F-0940-152A-D59F-3C9BB0D90BD8}.wem"
+     },
+     {
+      "Id": "42259494",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Conga Lo 1.wav",
+      "CachePath": "3E/{3E9CF47C-541D-0070-E70E-44A1073D7C30}.wem"
+     },
+     {
+      "Id": "44581923",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Violin A#4.wav",
+      "CachePath": "18/{18F190BB-55A5-8E3A-091E-A0914DDA4D4D}.wem"
+     },
+     {
+      "Id": "60482078",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Low Kit Pattern 1 Variation 5.mid",
+      "CachePath": "3A/{3A97E499-F890-086C-5C54-BAE45D1C66C3}.wem"
+     },
+     {
+      "Id": "61253708",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Breathy Flute G1.wav",
+      "CachePath": "A3/{A30E41EE-BFFB-2635-085D-FF4EEDB3BAD2}.wem"
+     },
+     {
+      "Id": "68673862",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "High Kit Pattern 1 Variation 3.mid",
+      "CachePath": "C4/{C4F2D990-CB5E-BC6C-981B-9B7AD6169145}.wem"
+     },
+     {
+      "Id": "71854843",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pearl Tom Dry Hi Mid 1.wav",
+      "CachePath": "A6/{A63E67C2-7554-8EDF-E494-86D1DAFAEDDC}.wem"
+     },
+     {
+      "Id": "75547722",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste Pattern 1 Variation 4.mid",
+      "CachePath": "D8/{D8DC5A5E-472A-80F6-6303-70F3AEA1CC1C}.wem"
+     },
+     {
+      "Id": "75885555",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe Pattern 1 Variation 2.mid",
+      "CachePath": "57/{57488119-F2F3-39C3-BF09-5743BD0F045B}.wem"
+     },
+     {
+      "Id": "76130517",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon E2.wav",
+      "CachePath": "1A/{1A77D09B-EE50-DE98-AEA2-1DF627CB81EE}.wem"
+     },
+     {
+      "Id": "83208944",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Pattern 1 Variation 1.mid",
+      "CachePath": "F8/{F8CEC4D3-815F-1956-ED93-B860ADAB20AB}.wem"
+     },
+     {
+      "Id": "83455997",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu SlapRel Lo 1.wav",
+      "CachePath": "61/{619A4A5F-471D-7CF6-C834-7764841651FA}.wem"
+     },
+     {
+      "Id": "84233198",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Tone Lo 2.wav",
+      "CachePath": "15/{1558453E-DB8E-9ABF-838A-5EC0714F8215}.wem"
+     },
+     {
+      "Id": "85865070",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass F#3.wav",
+      "CachePath": "9C/{9C887E57-833F-1201-36C0-33213CEB4EB0}.wem"
+     },
+     {
+      "Id": "87032757",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano F#4.wav",
+      "CachePath": "3F/{3FE74E87-C65C-853F-5088-B0B232F3CF35}.wem"
+     },
+     {
+      "Id": "91783057",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 G6.wav",
+      "CachePath": "EF/{EF22DD82-9679-82C9-0BAC-9046E7953F33}.wem"
+     },
+     {
+      "Id": "92173294",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cello Pattern 1 Variation 3.mid",
+      "CachePath": "5F/{5F0F7013-9661-BA8E-158A-6970EDCD0B3B}.wem"
+     },
+     {
+      "Id": "92768601",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Flute Pattern 1 Variation 5.mid",
+      "CachePath": "DC/{DC7B624B-E282-437F-C183-A4BB02F00831}.wem"
+     },
+     {
+      "Id": "95108799",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibraphone Pattern 1 Variation 2.mid",
+      "CachePath": "51/{51726151-9B40-7B7F-CFD2-F5D21CC764A1}.wem"
+     },
+     {
+      "Id": "96069176",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Violin Pattern 1 Variation 3.mid",
+      "CachePath": "AC/{ACF34458-0BDB-696E-A0DD-FD429351F1B6}.wem"
+     },
+     {
+      "Id": "97555033",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rap 606 Snare 1.wav",
+      "CachePath": "2D/{2DAE1D87-B8DF-93CA-E8CD-91DD16A47FD5}.wem"
+     },
+     {
+      "Id": "102221632",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Walk Drum Tone 1.wav",
+      "CachePath": "2F/{2FA54D18-E4E1-F0B8-CD68-C93146CF7A55}.wem"
+     },
+     {
+      "Id": "102267127",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Congas11-5.wav",
+      "CachePath": "7C/{7C7CA0A6-378D-9C66-C797-FE85FEE29B2D}.wem"
+     },
+     {
+      "Id": "102590234",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Clarinet Pattern 1 Variation 2.mid",
+      "CachePath": "10/{108D1A83-3A75-A3A8-1D05-9FA1059C60F6}.wem"
+     },
+     {
+      "Id": "107130729",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tablas 1 Variation 4.mid",
+      "CachePath": "A3/{A3E06D4C-2F3F-F29E-CE9F-42AA4E67E448}.wem"
+     },
+     {
+      "Id": "108327184",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass D3.wav",
+      "CachePath": "34/{345596CD-7369-0247-FA8F-B67770B628DE}.wem"
+     },
+     {
+      "Id": "110144224",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Shinachiku-E3.wav",
+      "CachePath": "E7/{E733BA3E-B1C5-0522-AC3B-9FEEFB16563F}.wem"
+     },
+     {
+      "Id": "110955213",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka 1 Variation 1.mid",
+      "CachePath": "61/{6156ADB1-C318-CB8C-3DF0-1038D504EE9B}.wem"
+     },
+     {
+      "Id": "113968636",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Walk Drum Stik 2.wav",
+      "CachePath": "48/{48C5C892-0CD5-9453-8132-8535A22D9959}.wem"
+     },
+     {
+      "Id": "115155849",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tam Tam Open 2.wav",
+      "CachePath": "7E/{7E6E8399-4370-45C9-6DC0-6F5C5275DBB6}.wem"
+     },
+     {
+      "Id": "116126986",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Marimba Pattern 1 Variation 4.mid",
+      "CachePath": "6F/{6F762F79-9E39-D95E-3102-41FD87529460}.wem"
+     },
+     {
+      "Id": "117872015",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Cello A#3.wav",
+      "CachePath": "AC/{ACF6AE80-02EA-5E44-2EB0-7AF6A622247C}.wem"
+     },
+     {
+      "Id": "124166167",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tam Tam SltTens2.wav",
+      "CachePath": "0A/{0ABCADA3-E136-83C9-6FBF-64B558ADFBE5}.wem"
+     },
+     {
+      "Id": "124954580",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka11-3.wav",
+      "CachePath": "54/{5436CD8B-42C5-213E-4EBC-42C3018ECB61}.wem"
+     },
+     {
+      "Id": "128453004",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano C#3.wav",
+      "CachePath": "F5/{F5ABBB44-D785-D1EB-D040-88E9E4B60794}.wem"
+     },
+     {
+      "Id": "129402466",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe Pattern 1 Variation 1.mid",
+      "CachePath": "6F/{6F0D271A-6C25-233F-FFD8-18303700D7AE}.wem"
+     },
+     {
+      "Id": "130700704",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "G4.wav",
+      "CachePath": "EB/{EB80DFC5-6897-EE46-CE18-5D0442F6E1AA}.wem"
+     },
+     {
+      "Id": "137145340",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Modalman Marimba Pattern 1 Variation 1.mid",
+      "CachePath": "7C/{7C8B2873-6391-BC46-EE7C-E4611F86715A}.wem"
+     },
+     {
+      "Id": "147538421",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Cello A#2.wav",
+      "CachePath": "8E/{8E03FA76-F0B3-734C-3BBE-385FA3DFB8AB}.wem"
+     },
+     {
+      "Id": "148178644",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ride Med 22 RIM ROCK 1.wav",
+      "CachePath": "42/{4229D740-2C28-95BD-A594-BA1AED2851BD}.wem"
+     },
+     {
+      "Id": "163231996",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon C3.wav",
+      "CachePath": "C4/{C4F2CE6D-70B1-6F1C-3381-F0EF44E985C5}.wem"
+     },
+     {
+      "Id": "163858747",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rosewood Tap 2.wav",
+      "CachePath": "18/{18241723-1EB7-732C-16C5-037AA3345FC2}.wem"
+     },
+     {
+      "Id": "165124588",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibraphone Pattern 1 Variation 4.mid",
+      "CachePath": "89/{89CD18A7-AFB0-66DA-0370-DBE3802A7279}.wem"
+     },
+     {
+      "Id": "166547667",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tam Tam Hi Lo 2.wav",
+      "CachePath": "FC/{FCA0BB9A-92F8-3393-8B2E-A04B456558B0}.wem"
+     },
+     {
+      "Id": "169269049",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Whistle Long 1.wav",
+      "CachePath": "49/{496236F0-15E0-D939-1591-466FB3CEEEE1}.wem"
+     },
+     {
+      "Id": "172709377",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass Pattern 1 Variation 3.mid",
+      "CachePath": "4C/{4CA0700F-E9E1-2920-ECA0-C1F1EB078B96}.wem"
+     },
+     {
+      "Id": "177100185",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "High Kit Pattern 1 Variation 4.mid",
+      "CachePath": "11/{112AB14E-9527-3E6E-9EBE-F2102DC5813C}.wem"
+     },
+     {
+      "Id": "186209506",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibes    A4.wav",
+      "CachePath": "B2/{B203EAFF-CA7A-CA21-169D-E0605DBC9F4F}.wem"
+     },
+     {
+      "Id": "192633058",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "A#1 2.wav",
+      "CachePath": "98/{98512EE6-BE68-1206-0B23-B3319F410E4C}.wem"
+     },
+     {
+      "Id": "197945168",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 E4.wav",
+      "CachePath": "BA/{BA2A5EE9-9785-F141-DAFB-E552E26883FE}.wem"
+     },
+     {
+      "Id": "199368353",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Anvil11-1.wav",
+      "CachePath": "A9/{A9CF8D8D-D532-952B-1D0B-AF43847EF162}.wem"
+     },
+     {
+      "Id": "200239377",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Hat 15 Tip Closed 3 1.wav",
+      "CachePath": "45/{45DA47C7-565D-2E1D-919B-93F5CD8A6298}.wem"
+     },
+     {
+      "Id": "201212973",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Release Hi 2.wav",
+      "CachePath": "3A/{3AA935C2-99A7-FAFD-4E7C-E4B7820E48EE}.wem"
+     },
+     {
+      "Id": "205789152",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Hand Claps 1.wav",
+      "CachePath": "13/{13F20DD1-CE1D-EE67-9356-F745681B6B02}.wem"
+     },
+     {
+      "Id": "207503840",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibraphone Pattern 1 Variation 3.mid",
+      "CachePath": "E8/{E8384DE3-0A64-D08F-A21D-A4BDB7FB1D4F}.wem"
+     },
+     {
+      "Id": "207776403",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Modalman Celeste Pattern 1 Variation 1.mid",
+      "CachePath": "9B/{9B72B501-CA18-2C03-15B1-E9E8D5A0BEFD}.wem"
+     },
+     {
+      "Id": "209649507",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Anvil Pattern 1 Variation 3.mid",
+      "CachePath": "05/{052EFB2A-3FC3-94FB-E653-D9A4B4C907A1}.wem"
+     },
+     {
+      "Id": "211957193",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Violin E4.wav",
+      "CachePath": "2B/{2B756FDE-4741-7382-93C5-4544FDA45C0A}.wem"
+     },
+     {
+      "Id": "212579209",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cymbals Pattern 1 Variation 3.mid",
+      "CachePath": "28/{28440FD8-E532-E96E-8804-5C24C9E16F16}.wem"
+     },
+     {
+      "Id": "213736176",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cowbell 1.wav",
+      "CachePath": "B4/{B47A59DD-9C14-07AD-24DB-8E7471F3E969}.wem"
+     },
+     {
+      "Id": "213884473",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Cello D3.wav",
+      "CachePath": "A0/{A0F1D77D-CD76-507A-4F33-136A6B362C32}.wem"
+     },
+     {
+      "Id": "214187809",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Congas11-3.wav",
+      "CachePath": "1A/{1A498106-FA30-4674-A437-A54840A01964}.wem"
+     },
+     {
+      "Id": "222677479",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Low Cowbell Pattern 1 Variation 1.mid",
+      "CachePath": "1B/{1B706553-0EB7-A65D-77E1-2F945CFE8193}.wem"
+     },
+     {
+      "Id": "232362962",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Breathy FluteG#3.wav",
+      "CachePath": "81/{8159A1B2-90CB-A500-6064-B3623198E252}.wem"
+     },
+     {
+      "Id": "232547070",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ride Hard 22 MID ROCK 1.wav",
+      "CachePath": "AA/{AACB0BCA-A9A8-5E5E-9D12-762FC17D333E}.wem"
+     },
+     {
+      "Id": "233934279",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tam Tam HndTens2.wav",
+      "CachePath": "C4/{C401D31A-DC71-10B2-0B00-5645F0B827BF}.wem"
+     },
+     {
+      "Id": "236301090",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rosewood Harm 2.wav",
+      "CachePath": "DD/{DD86F734-C9D2-799B-5606-964D0E1546DD}.wem"
+     },
+     {
+      "Id": "237844074",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Breathy Flute D1.wav",
+      "CachePath": "FA/{FA40C380-9B80-7A36-7F36-C2A00677611D}.wem"
+     },
+     {
+      "Id": "239149171",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Marimba Pattern 1 Variation 3.mid",
+      "CachePath": "75/{7518595F-3CF7-2124-E34A-78E7496706DB}.wem"
+     },
+     {
+      "Id": "247429081",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Pattern 1 Variation 2.mid",
+      "CachePath": "65/{65B15AC5-03E0-4498-8EFA-1603E3BCDAB0}.wem"
+     },
+     {
+      "Id": "250345606",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe Pattern 1 Variation 4.mid",
+      "CachePath": "F4/{F462F0C1-BE16-5B9E-A033-5AFE244677C5}.wem"
+     },
+     {
+      "Id": "251379201",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe Pattern 1 Variation 5.mid",
+      "CachePath": "2D/{2D607C9C-1996-2E72-851B-B7C5A0E72691}.wem"
+     },
+     {
+      "Id": "253826488",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Marimba Hard F3 1.wav",
+      "CachePath": "3C/{3CD5AF20-7161-27ED-4291-3865D4812227}.wem"
+     },
+     {
+      "Id": "255514248",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Anvil Pattern 1 Variation 1.mid",
+      "CachePath": "07/{0740F544-4322-FD06-D0E5-BB59412C5002}.wem"
+     },
+     {
+      "Id": "260625366",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "D3.wav",
+      "CachePath": "04/{04D33A7A-767E-C253-45D0-5ACC7BCD9C9A}.wem"
+     },
+     {
+      "Id": "261265794",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cowbell11-3.wav",
+      "CachePath": "C9/{C9C4DD67-4F31-060C-6D5F-AE3637FE12D8}.wem"
+     },
+     {
+      "Id": "263625493",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "C2.wav",
+      "CachePath": "0C/{0C830F28-2D6F-B021-B28A-923CA1353839}.wem"
+     },
+     {
+      "Id": "264546312",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka11-4.wav",
+      "CachePath": "E1/{E1C54428-8081-B9D2-74D7-A5D4E671FD6D}.wem"
+     },
+     {
+      "Id": "265400033",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tri Single Stroke MUTED 2 1.wav",
+      "CachePath": "B7/{B75C3D98-C8BF-6948-6FCC-03254A71BDC9}.wem"
+     },
+     {
+      "Id": "265695773",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Cello D2.wav",
+      "CachePath": "5D/{5DC774F3-0AED-E780-19CD-91C0FB23767D}.wem"
+     },
+     {
+      "Id": "267832212",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rosewood Tek 2.wav",
+      "CachePath": "6B/{6B622BF1-BF5E-3616-398E-E6B74AD82D30}.wem"
+     },
+     {
+      "Id": "267938365",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Timbale High 1.wav",
+      "CachePath": "37/{37E00EF6-D410-7135-3CF3-14AAE0C2E530}.wem"
+     },
+     {
+      "Id": "269181606",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano Pattern 1 Variation 4.mid",
+      "CachePath": "2D/{2D96B194-E948-D54F-4486-C21FD38D71CD}.wem"
+     },
+     {
+      "Id": "270987751",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tam Tam HndStrk1.wav",
+      "CachePath": "B6/{B6B2086B-B580-954D-442A-A4C93D478FEF}.wem"
+     },
+     {
+      "Id": "272155081",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tam Tam HandMut2.wav",
+      "CachePath": "BD/{BD345DAF-A9A5-0593-5E45-11C7C1A47A34}.wem"
+     },
+     {
+      "Id": "273935497",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tri Single Stroke 4 1.wav",
+      "CachePath": "DB/{DB10BA2E-5520-BBAA-C670-80314FC2D49B}.wem"
+     },
+     {
+      "Id": "275428034",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Modalman Cello Pattern 1 Variation 1.mid",
+      "CachePath": "44/{44282337-65F5-9C3D-A0B6-F55CC68A0DD1}.wem"
+     },
+     {
+      "Id": "280912481",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Don-Don Flat 1a.wav",
+      "CachePath": "66/{66096210-D964-15FD-3485-C29D8753635B}.wem"
+     },
+     {
+      "Id": "281631531",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Walk Drum Mffl 1.wav",
+      "CachePath": "58/{58E0435C-3C4E-0AC3-95E6-7BF06EDA814C}.wem"
+     },
+     {
+      "Id": "282832448",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Finger Hi 2.wav",
+      "CachePath": "E9/{E988154D-C2C8-9CF6-BBC9-6268B418DE23}.wem"
+     },
+     {
+      "Id": "287469539",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bamboo 1 Variation 2.mid",
+      "CachePath": "EF/{EFB82D98-AC32-277B-0117-57A09358CE6C}.wem"
+     },
+     {
+      "Id": "291231289",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pearl Tom Dry Lo Mid.wav",
+      "CachePath": "E2/{E275F876-75F2-AA55-CB68-4FFFD170784F}.wem"
+     },
+     {
+      "Id": "293949217",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibes    E2.wav",
+      "CachePath": "28/{284D4FA9-42CB-2D65-E8EE-71B3B45DBF4E}.wem"
+     },
+     {
+      "Id": "299184655",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "A#4.wav",
+      "CachePath": "E1/{E1BA4885-B3CE-7CBA-42B1-C28EF490A735}.wem"
+     },
+     {
+      "Id": "300376831",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Anvil Pattern 1 Variation 2.mid",
+      "CachePath": "CE/{CE2A2919-06D6-B82D-7166-FD9359337D23}.wem"
+     },
+     {
+      "Id": "303581462",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "RX 5 Stereo Rim2 L 1.wav",
+      "CachePath": "31/{31F4C4F3-01C7-0F35-466E-BB353C66B849}.wem"
+     },
+     {
+      "Id": "304690743",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rosewood Flam.wav",
+      "CachePath": "6A/{6A51DBDD-5522-3149-7E2D-85537AA5D969}.wem"
+     },
+     {
+      "Id": "306393088",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "High Cowbell Pattern 1 Variation 3.mid",
+      "CachePath": "9E/{9E847CAA-C0D0-A42D-0767-BD66B9650DF2}.wem"
+     },
+     {
+      "Id": "307087347",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Finger Hi 1.wav",
+      "CachePath": "E0/{E0FC5AC6-AB2F-B595-71DD-011E56087858}.wem"
+     },
+     {
+      "Id": "308004264",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Wood Block 1.wav",
+      "CachePath": "E4/{E438C7B7-F083-23CB-963E-E187B4A3AB20}.wem"
+     },
+     {
+      "Id": "312165925",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Modalman Flute Pattern 1 Variation 1.mid",
+      "CachePath": "60/{607E7C7E-F5C3-06E6-D2D5-1AAB2F058B36}.wem"
+     },
+     {
+      "Id": "321890565",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Kim Kim Tone 1b.wav",
+      "CachePath": "A3/{A33F20E2-6B4A-9BA2-24A1-6350C11F3A50}.wem"
+     },
+     {
+      "Id": "333265941",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tama 24_ BD (T) SHT AMB 1.wav",
+      "CachePath": "DC/{DC8D3F2F-7567-D738-51F0-5EE288DA19B1}.wem"
+     },
+     {
+      "Id": "333638848",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano C5.wav",
+      "CachePath": "8F/{8F5BCA56-508A-6057-D0DF-1DD58A235E13}.wem"
+     },
+     {
+      "Id": "335863411",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibraslap 2 1.wav",
+      "CachePath": "B7/{B75597B7-B9B5-21B4-BA5C-242E0BA35403}.wem"
+     },
+     {
+      "Id": "336272938",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibes    E5.wav",
+      "CachePath": "D6/{D6AD8FAE-C1D7-98F4-1C2A-F4732178234A}.wem"
+     },
+     {
+      "Id": "348624598",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe F#2.wav",
+      "CachePath": "C6/{C69B0111-3A49-564B-867D-D4700597B855}.wem"
+     },
+     {
+      "Id": "350926906",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Viola Pattern 1 Variation 1.mid",
+      "CachePath": "F8/{F89A3A15-BFA1-7CD7-F3B2-51FC3E3D7E16}.wem"
+     },
+     {
+      "Id": "366395370",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Tone Lo 1.wav",
+      "CachePath": "E1/{E1176DC1-98B8-471C-28E3-C81B808900C5}.wem"
+     },
+     {
+      "Id": "366401855",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Shinachiku-B2.wav",
+      "CachePath": "AE/{AEB29002-D832-9322-3D82-AD2E42D80FB9}.wem"
+     },
+     {
+      "Id": "375913495",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "E2.wav",
+      "CachePath": "A0/{A01CB7E4-25BB-0798-EA55-8E00B6906EA2}.wem"
+     },
+     {
+      "Id": "378688346",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cello Pattern 1 Variation 2.mid",
+      "CachePath": "45/{450CAAFD-C4A1-0CFB-383D-0673E15BEB2E}.wem"
+     },
+     {
+      "Id": "378743144",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka 1 Variation 2.mid",
+      "CachePath": "CF/{CF989DCC-59B2-3FAB-ADC7-118BC3E4A638}.wem"
+     },
+     {
+      "Id": "380309901",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Kick Snare Pattern 1 Variation 5.mid",
+      "CachePath": "C3/{C3F78A20-2B53-DCE1-93F2-7469E4B4E56D}.wem"
+     },
+     {
+      "Id": "381268898",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rosewood Slap 2.wav",
+      "CachePath": "71/{718FFD60-A4D3-BF52-7EB0-C86D45851517}.wem"
+     },
+     {
+      "Id": "381950430",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste Pattern 1 Variation 2.mid",
+      "CachePath": "0D/{0D8AA7AC-61DF-0A8D-7B13-0CB209E01E75}.wem"
+     },
+     {
+      "Id": "391242189",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cowbell11-2.wav",
+      "CachePath": "E0/{E095750F-2DF6-C9FE-A1C0-23B7A61BBDC9}.wem"
+     },
+     {
+      "Id": "393957052",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Kim Kim Tone 1a.wav",
+      "CachePath": "91/{91B10F29-BDB0-88D6-7193-CA9C5152C144}.wem"
+     },
+     {
+      "Id": "394854655",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Pattern 1 Variation 4.mid",
+      "CachePath": "B2/{B2B96513-496C-106B-C059-869A9F889ED6}.wem"
+     },
+     {
+      "Id": "402810176",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "High Cowbell Pattern 1 Variation 1.mid",
+      "CachePath": "52/{52F00B5B-87F5-B3BF-87ED-43378E766BFC}.wem"
+     },
+     {
+      "Id": "403261595",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibes    A3.wav",
+      "CachePath": "A9/{A9593268-E4FF-967A-C7AB-40FAE42CAB3D}.wem"
+     },
+     {
+      "Id": "403439396",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 A3.wav",
+      "CachePath": "55/{55D1B4E8-6156-E753-4B9B-6A83BEB91D67}.wem"
+     },
+     {
+      "Id": "408879825",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tablas 1 Variation 5.mid",
+      "CachePath": "3D/{3D83CD82-1990-E42C-5649-07E356AC5707}.wem"
+     },
+     {
+      "Id": "413570812",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano F#6.wav",
+      "CachePath": "21/{2113CE8C-0439-641E-8F11-B6E32B5A46E7}.wem"
+     },
+     {
+      "Id": "413602454",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Walk Drum Slap 2.wav",
+      "CachePath": "82/{82A98A45-FF2C-278F-AD42-AD2D4C6C6146}.wem"
+     },
+     {
+      "Id": "424883239",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon C2.wav",
+      "CachePath": "E2/{E2832E4B-3C2C-D515-3BC2-BF95F2BD13B3}.wem"
+     },
+     {
+      "Id": "425227757",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Clave 1.wav",
+      "CachePath": "D1/{D105DC9B-ABAE-B322-D078-BC155A1B02E5}.wem"
+     },
+     {
+      "Id": "427215420",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon G#1.wav",
+      "CachePath": "4F/{4F136518-CA6A-0A85-40B1-6C641C2F4FDF}.wem"
+     },
+     {
+      "Id": "428029986",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Breathy Flute F2.wav",
+      "CachePath": "10/{10E61470-96BC-BF50-923A-0FC3283B96FA}.wem"
+     },
+     {
+      "Id": "428278711",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Violin E2.wav",
+      "CachePath": "56/{56F20548-399E-9E50-E6A3-1CAA8C80FB0D}.wem"
+     },
+     {
+      "Id": "436292517",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe A#3.wav",
+      "CachePath": "6B/{6B06D5C8-C82A-BED5-8CBB-D685B440B4E5}.wem"
+     },
+     {
+      "Id": "440542341",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crash 16 Hrd 1.wav",
+      "CachePath": "79/{792E5A10-D0AF-7540-C036-2B5121227CAC}.wem"
+     },
+     {
+      "Id": "442298474",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "G#2.wav",
+      "CachePath": "25/{25DA0043-9A90-5174-14DB-52FE5A2A4D79}.wem"
+     },
+     {
+      "Id": "445177836",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Modalman Viola Pattern 1 Variation 1.mid",
+      "CachePath": "6F/{6F91ACA4-639A-680E-6355-C61A9E154C7F}.wem"
+     },
+     {
+      "Id": "445328684",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "High Kit Pattern 1 Variation 2.mid",
+      "CachePath": "F1/{F138ABBF-0859-E518-C7C9-EC6CFA5012A8}.wem"
+     },
+     {
+      "Id": "450879635",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Whistle Short 1.wav",
+      "CachePath": "6B/{6B80AE64-B6C6-76AF-1227-DC14938C570F}.wem"
+     },
+     {
+      "Id": "451541361",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Flute Pattern 1 Variation 2.mid",
+      "CachePath": "F5/{F5E7F961-C428-1E98-1F8D-DCE4B63ACDD1}.wem"
+     },
+     {
+      "Id": "452240670",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "E1.wav",
+      "CachePath": "56/{564690E3-DDF6-4A1D-3293-E77995AB1F1C}.wem"
+     },
+     {
+      "Id": "457870168",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "F#4.wav",
+      "CachePath": "D2/{D26D6707-C039-250B-FDC1-824D6998A02F}.wem"
+     },
+     {
+      "Id": "458037523",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Violin C4.wav",
+      "CachePath": "B4/{B4B34DDE-21D2-041B-718A-8E1CDA52073B}.wem"
+     },
+     {
+      "Id": "459267277",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Congas 1 Variation 5.mid",
+      "CachePath": "95/{957BF643-CA29-372F-F6DE-F4F18DCB4D86}.wem"
+     },
+     {
+      "Id": "459535189",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass F#1.wav",
+      "CachePath": "A4/{A4D42995-2239-98BB-441E-58CD3DE968BF}.wem"
+     },
+     {
+      "Id": "462007144",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tablas 1 Variation 2.mid",
+      "CachePath": "D9/{D9A52BC5-A944-6500-3BFD-8495FF44FE8C}.wem"
+     },
+     {
+      "Id": "468073868",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Cello F#1.wav",
+      "CachePath": "DC/{DCB8E472-701E-835B-3CA2-296E76FFA5B6}.wem"
+     },
+     {
+      "Id": "468967625",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Low Cowbell Pattern 1 Variation 2.mid",
+      "CachePath": "82/{821C37E1-4423-4462-2E61-89F5983B3539}.wem"
+     },
+     {
+      "Id": "469185088",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Marimba Pattern 1 Variation 5.mid",
+      "CachePath": "1A/{1A64E61A-A478-8944-A774-79FC44E98079}.wem"
+     },
+     {
+      "Id": "470909278",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tablas 1 Variation 1.mid",
+      "CachePath": "0F/{0FB0B690-4B14-6068-31D4-C4A5F38B4DE8}.wem"
+     },
+     {
+      "Id": "471383976",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Finger Lo 1.wav",
+      "CachePath": "9C/{9C9F8509-CFE7-F34D-F22E-983F7B4E8B9A}.wem"
+     },
+     {
+      "Id": "473532142",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cymbals Pattern 1 Variation 4.mid",
+      "CachePath": "79/{79C887FE-CED9-8040-9E7A-22DDEB036707}.wem"
+     },
+     {
+      "Id": "475756439",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crash 14 Vry Hrd.wav",
+      "CachePath": "6C/{6CA3F473-895A-097B-4C6D-0EE5D9239769}.wem"
+     },
+     {
+      "Id": "475882251",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Tone Hi 2.wav",
+      "CachePath": "06/{06A9183F-69B9-4F44-56C6-99A76B60EA6D}.wem"
+     },
+     {
+      "Id": "485139616",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Kim Kim Rels 1b.wav",
+      "CachePath": "85/{85FE05A1-2BFA-5C1E-E4E9-4112958E8ADD}.wem"
+     },
+     {
+      "Id": "490951067",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano G#3.wav",
+      "CachePath": "95/{95830B81-7375-E723-D5DA-2BB53C567B5E}.wem"
+     },
+     {
+      "Id": "491014133",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Low Cowbell Pattern 1 Variation 3.mid",
+      "CachePath": "CF/{CF41501C-2054-64EA-FD23-DE3A0179DF33}.wem"
+     },
+     {
+      "Id": "499507119",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Congas 1 Variation 1.mid",
+      "CachePath": "60/{6077B306-B139-F491-A8D7-4D7198E27EB8}.wem"
+     },
+     {
+      "Id": "500829512",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "C4.wav",
+      "CachePath": "D3/{D3F47100-3548-1655-25BE-19AD4CEA5E4A}.wem"
+     },
+     {
+      "Id": "503636846",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "CowBellRvb12-2.wav",
+      "CachePath": "05/{05914EBC-D891-1D31-E72E-483A7B73FC34}.wem"
+     },
+     {
+      "Id": "508571168",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Marimba Pattern 1 Variation 1.mid",
+      "CachePath": "B6/{B63331C9-2686-551D-6B98-09BE0DE16134}.wem"
+     },
+     {
+      "Id": "509678705",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cowbell11-5.wav",
+      "CachePath": "67/{67C92022-01FC-CE2D-A2F3-689A6275D9AB}.wem"
+     },
+     {
+      "Id": "510328836",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Don-Don LftMute2.wav",
+      "CachePath": "CD/{CDE6923E-7EF7-DF35-BD74-2DD6E93C2823}.wem"
+     },
+     {
+      "Id": "512711140",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka11-1.wav",
+      "CachePath": "18/{1845D7D9-B2F8-611F-CB2B-FC530EB968CE}.wem"
+     },
+     {
+      "Id": "514274139",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Kick Snare Pattern 1 Variation 3.mid",
+      "CachePath": "F4/{F4FFDE5F-DF04-B6EB-8703-E5EDBFAAABF7}.wem"
+     },
+     {
+      "Id": "517002295",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cymbals Pattern 1 Variation 5.mid",
+      "CachePath": "2A/{2A22E320-2199-2386-B52B-5CCF68B84D17}.wem"
+     },
+     {
+      "Id": "517640608",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bamboo 1 Variation 5.mid",
+      "CachePath": "6A/{6A644B21-F31A-8195-29BB-22C5E0EBB7B3}.wem"
+     },
+     {
+      "Id": "523829047",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Walk Drum Tuch 2.wav",
+      "CachePath": "E7/{E79CF2E5-4FEF-FA71-0DB6-CF90BFB0E08C}.wem"
+     },
+     {
+      "Id": "525766946",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MARIMBA HARD A4 1.wav",
+      "CachePath": "C2/{C2EA6F57-DB5D-BC68-4283-6C084D15A318}.wem"
+     },
+     {
+      "Id": "525850813",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon E3.wav",
+      "CachePath": "7D/{7D13BE87-B75F-F0BD-F7C5-6EEB6D63D85C}.wem"
+     },
+     {
+      "Id": "528821726",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Violin G#4.wav",
+      "CachePath": "BB/{BBFEAD7D-C11A-2F6F-F578-F1F1EF114E8E}.wem"
+     },
+     {
+      "Id": "530546492",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Breathy FluteD#3.wav",
+      "CachePath": "BB/{BB779D20-46FE-D609-8AFA-A54B19AD6E92}.wem"
+     },
+     {
+      "Id": "531520737",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano G#5.wav",
+      "CachePath": "A1/{A171FB09-5061-21D4-2E25-39A8E4DD27EA}.wem"
+     },
+     {
+      "Id": "535540288",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Clarinet Pattern 1 Variation 5.mid",
+      "CachePath": "40/{40A7E7F8-006B-8C6D-9396-EF2584499069}.wem"
+     },
+     {
+      "Id": "539563178",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "G#3.wav",
+      "CachePath": "34/{34611E83-C18A-8050-9041-6BEC5032C278}.wem"
+     },
+     {
+      "Id": "540614330",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Don-DonLo HiFst2.wav",
+      "CachePath": "7A/{7AA0F9D8-5948-B3FA-7A9B-652E1608E77E}.wem"
+     },
+     {
+      "Id": "543432925",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cello Pattern 1 Variation 4.mid",
+      "CachePath": "46/{46FB9B35-3397-F1A1-FE0E-6731F45EE22D}.wem"
+     },
+     {
+      "Id": "544486939",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MARIMBA HARD C#4 1.wav",
+      "CachePath": "AA/{AAEB5022-C42A-C12C-792A-0ED25A3A39A3}.wem"
+     },
+     {
+      "Id": "545046596",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Kick Snare Pattern 1 Variation 4.mid",
+      "CachePath": "73/{7339CD30-AADC-15FC-7F84-A5F60C88A3A6}.wem"
+     },
+     {
+      "Id": "545651443",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Violin G#1.wav",
+      "CachePath": "62/{62E71F3E-F58A-B7EE-7B2E-9676C59DAB72}.wem"
+     },
+     {
+      "Id": "546822540",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka 1 Variation 5.mid",
+      "CachePath": "B7/{B760133F-8DF4-2494-8907-D8B7072A8D94}.wem"
+     },
+     {
+      "Id": "549572716",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon Pattern 1 Variation 2.mid",
+      "CachePath": "4C/{4C96DD45-28BB-B9CD-7182-ED8FBDA96E7C}.wem"
+     },
+     {
+      "Id": "550031233",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "D2 1.wav",
+      "CachePath": "18/{18149056-B96E-B070-F1A5-C5CE46432CD1}.wem"
+     },
+     {
+      "Id": "551747623",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Pattern 1 Variation 5.mid",
+      "CachePath": "0A/{0A79677B-4198-DC93-979E-D258D9C44838}.wem"
+     },
+     {
+      "Id": "554932157",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Congas 1 Variation 2.mid",
+      "CachePath": "88/{8843A5CA-8FD0-FCF5-55E3-50FA3219B900}.wem"
+     },
+     {
+      "Id": "558643149",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Don-Don LftHnd 2.wav",
+      "CachePath": "67/{67A42519-4A6C-C400-D9D7-4023EAEE1BFC}.wem"
+     },
+     {
+      "Id": "559246894",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bamboo 1 Variation 4.mid",
+      "CachePath": "8C/{8C891186-96A1-DE53-3AA4-2BB7BE69FE38}.wem"
+     },
+     {
+      "Id": "563860182",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Kick Snare Pattern 1 Variation 1.mid",
+      "CachePath": "7B/{7B43348D-F3C9-7EF7-7360-84E3C7098FA1}.wem"
+     },
+     {
+      "Id": "570812423",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon Pattern 1 Variation 4.mid",
+      "CachePath": "22/{22A79C57-521F-52AE-7EF3-10C1763C13DF}.wem"
+     },
+     {
+      "Id": "574001564",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Violin Pattern 1 Variation 2.mid",
+      "CachePath": "C1/{C149EA24-B44F-CB16-6E4A-7A4938E1B99F}.wem"
+     },
+     {
+      "Id": "575575716",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cowbell11-6.wav",
+      "CachePath": "E6/{E6BCCDE1-D94D-83ED-8237-BD8C073EA9AB}.wem"
+     },
+     {
+      "Id": "576431499",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano G#2.wav",
+      "CachePath": "4E/{4E6B502F-51EA-874D-508B-F29FE1FD7F0B}.wem"
+     },
+     {
+      "Id": "577692163",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ride Med 22 BELL ROCK 1.wav",
+      "CachePath": "E8/{E847D8BC-7928-16A3-F145-1F94DC5DFB67}.wem"
+     },
+     {
+      "Id": "577782490",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bamboo 1 Variation 3.mid",
+      "CachePath": "79/{79B628CD-7095-8635-AA76-9E5054E2BB87}.wem"
+     },
+     {
+      "Id": "579929523",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Violin C2.wav",
+      "CachePath": "CB/{CBA71587-7A32-86D6-30DE-77468789D4F1}.wem"
+     },
+     {
+      "Id": "585206133",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Viola Pattern 1 Variation 3.mid",
+      "CachePath": "4F/{4F2AEABB-50A0-BAFF-AB0D-01E35F93ADF0}.wem"
+     },
+     {
+      "Id": "587834434",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibes    A1.wav",
+      "CachePath": "84/{8413F1F4-8562-7F35-9D03-2AE531BE948F}.wem"
+     },
+     {
+      "Id": "592576006",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Agogo Low 1.wav",
+      "CachePath": "B3/{B3E3F14E-E173-AF04-83DE-21597B9FC3E1}.wem"
+     },
+     {
+      "Id": "593042180",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano C#4.wav",
+      "CachePath": "14/{14726748-30A9-C158-8A9C-7AAD132ADB37}.wem"
+     },
+     {
+      "Id": "599423762",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "E4.wav",
+      "CachePath": "23/{23A26CBE-ADEB-1042-B978-FC1C53ABA3B5}.wem"
+     },
+     {
+      "Id": "601321482",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Shinachiku-C#2.wav",
+      "CachePath": "B2/{B2416C66-BCAA-6383-AED4-77C54FAF8892}.wem"
+     },
+     {
+      "Id": "604222247",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pearl Tom Dry Flr.wav",
+      "CachePath": "4B/{4B305185-3A78-602B-9CEF-655423CCC3A1}.wem"
+     },
+     {
+      "Id": "606188244",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass A#3.wav",
+      "CachePath": "ED/{ED691B0A-A215-A0EB-3495-9D18A204D013}.wem"
+     },
+     {
+      "Id": "609654576",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass F#2.wav",
+      "CachePath": "C6/{C664B4F9-A921-2B28-B567-F9B6D2310A18}.wem"
+     },
+     {
+      "Id": "610250922",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bamboo 1 Variation 1.mid",
+      "CachePath": "81/{813D6E5F-6FE2-83BD-16D1-77CFA4E6B158}.wem"
+     },
+     {
+      "Id": "614247710",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Violin Pattern 1 Variation 1.mid",
+      "CachePath": "DB/{DB96B144-4382-AA46-8EAF-DEF4E8F80F3F}.wem"
+     },
+     {
+      "Id": "616205867",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Violin Pattern 1 Variation 5.mid",
+      "CachePath": "5E/{5E5E8743-27E8-6347-7B69-9BA2EE0D37E8}.wem"
+     },
+     {
+      "Id": "616572257",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Shinachiku-B1.wav",
+      "CachePath": "A0/{A0EAB924-6AB1-F6D1-8569-134928B1B479}.wem"
+     },
+     {
+      "Id": "623086102",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano F#5.wav",
+      "CachePath": "C3/{C31CAC06-21FC-4596-7069-EFDB1A50959C}.wem"
+     },
+     {
+      "Id": "626621871",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pearl Tom Dry Lo Mid 1.wav",
+      "CachePath": "E2/{E275F876-75F2-AA55-CB68-4FFFD170784F}.wem"
+     },
+     {
+      "Id": "627723819",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass A#1.wav",
+      "CachePath": "EA/{EAB86384-1188-4E31-DF52-B9438F24B671}.wem"
+     },
+     {
+      "Id": "630324862",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "High Cowbell Pattern 1 Variation 5.mid",
+      "CachePath": "7E/{7EEA0749-AE8F-83A4-6592-F687E60E7F91}.wem"
+     },
+     {
+      "Id": "632674512",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano F#1.wav",
+      "CachePath": "70/{70DA6E07-A312-37F8-76DB-CE7CC3EFBA95}.wem"
+     },
+     {
+      "Id": "633192126",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka11-6.wav",
+      "CachePath": "01/{018E915F-2770-E003-8169-15BBE3FF14A9}.wem"
+     },
+     {
+      "Id": "634523006",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Anvil Pattern 1 Variation 5.mid",
+      "CachePath": "61/{6166BB15-61B1-50DE-6445-7681AA289B30}.wem"
+     },
+     {
+      "Id": "635492298",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Slap Lo 1.wav",
+      "CachePath": "12/{12E96F24-7AF5-79A4-0EF4-921CB3442097}.wem"
+     },
+     {
+      "Id": "639175187",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon C4.wav",
+      "CachePath": "65/{65B87AE3-3C09-929D-402F-691BE3CBD252}.wem"
+     },
+     {
+      "Id": "652395845",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Conga Hi 1.wav",
+      "CachePath": "9A/{9A648ACA-84D3-6972-2E06-5FAA55441CF1}.wem"
+     },
+     {
+      "Id": "652998035",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Low Kit Pattern 1 Variation 2.mid",
+      "CachePath": "00/{00CCC5A7-DF0C-FD27-322F-1D4B1B0971AB}.wem"
+     },
+     {
+      "Id": "661415140",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "RoseWood Bass 1.wav",
+      "CachePath": "95/{958B3877-FF76-3FC0-EF31-ADCD5C48FBB0}.wem"
+     },
+     {
+      "Id": "661576523",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon Pattern 1 Variation 3.mid",
+      "CachePath": "0F/{0F907408-9492-D22C-E707-EE89C3857DDE}.wem"
+     },
+     {
+      "Id": "663497079",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass Pattern 1 Variation 2.mid",
+      "CachePath": "36/{36082989-8219-0ACD-E584-1EAF6A1FBBE4}.wem"
+     },
+     {
+      "Id": "663702620",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Low Cowbell Pattern 1 Variation 4.mid",
+      "CachePath": "F2/{F2701D6F-C853-2D0D-F613-0890242015BA}.wem"
+     },
+     {
+      "Id": "664205855",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Anvil11-2.wav",
+      "CachePath": "EA/{EA6BAEEE-F143-3A67-1EB2-C98ADF3BB9F0}.wem"
+     },
+     {
+      "Id": "665897494",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Hat 15 Ped Closed 1.wav",
+      "CachePath": "C8/{C800C50E-EEC1-47D7-FF44-9ACDB62F884F}.wem"
+     },
+     {
+      "Id": "671057283",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Shinachiku-A1.wav",
+      "CachePath": "3A/{3A4975A9-4FB5-F42C-FA4B-098AF755AD01}.wem"
+     },
+     {
+      "Id": "675492892",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Modalman Oboe Pattern 1 Variation 1.mid",
+      "CachePath": "78/{782E5930-624B-AC52-00E0-C528BA877AA8}.wem"
+     },
+     {
+      "Id": "682491578",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon G#2.wav",
+      "CachePath": "54/{54729445-BB72-71B2-6189-3928C3308598}.wem"
+     },
+     {
+      "Id": "687999286",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Modalman Bass Pattern 1 Variation 1.mid",
+      "CachePath": "47/{47AE4A7E-C3C5-3A5F-4F96-8EAECBA93A98}.wem"
+     },
+     {
+      "Id": "697906610",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Walk Drum MStik2.wav",
+      "CachePath": "DC/{DC965B17-AB3F-CDD0-BCC7-E8DABC662487}.wem"
+     },
+     {
+      "Id": "701459979",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cowbell11-1.wav",
+      "CachePath": "3B/{3B03E9E6-9D88-F624-A4B1-F4A6DA6BF429}.wem"
+     },
+     {
+      "Id": "701571295",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "High Cowbell Pattern 1 Variation 2.mid",
+      "CachePath": "BF/{BF25A5D9-BBFE-8AFB-CC8D-280E01193C47}.wem"
+     },
+     {
+      "Id": "702931137",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Don-Don Hi Lo 2.wav",
+      "CachePath": "D5/{D5A43459-8822-36CA-9B84-C216A8FEC341}.wem"
+     },
+     {
+      "Id": "703785980",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cello Pattern 1 Variation 5.mid",
+      "CachePath": "FD/{FD946D15-50DB-FFB2-7327-F70BE9CBB6AC}.wem"
+     },
+     {
+      "Id": "704253390",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Timbale Low 1.wav",
+      "CachePath": "54/{54CC8E47-7E4E-BDFD-6329-300D57BC8487}.wem"
+     },
+     {
+      "Id": "705335531",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Don-Don Lo Hi 2.wav",
+      "CachePath": "E7/{E7AFF87E-6E6F-D728-AB1A-A3CA182EB524}.wem"
+     },
+     {
+      "Id": "726667027",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cowbell11-4.wav",
+      "CachePath": "FB/{FB89F957-1474-D2DE-506B-8DDCE864B877}.wem"
+     },
+     {
+      "Id": "728973493",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibraphone Pattern 1 Variation 1.mid",
+      "CachePath": "27/{27B4779A-3E17-C82D-82BD-B609C5CE013B}.wem"
+     },
+     {
+      "Id": "730158390",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tam Tam Flat 1.wav",
+      "CachePath": "C8/{C894ED8D-D3B6-8053-C64D-DA3BFB753433}.wem"
+     },
+     {
+      "Id": "731195047",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Tone Hi 1.wav",
+      "CachePath": "48/{484DCF26-DBAA-B543-7A42-FAE90C9DBAEB}.wem"
+     },
+     {
+      "Id": "732358395",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Release Lo 1.wav",
+      "CachePath": "27/{271012B6-7D41-CC17-0EBF-47A75982BCA5}.wem"
+     },
+     {
+      "Id": "732451914",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "C3.wav",
+      "CachePath": "2A/{2A25199E-8334-0164-DE70-9222C42121F3}.wem"
+     },
+     {
+      "Id": "734674654",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "F#2.wav",
+      "CachePath": "38/{383AC6C4-D498-7CD6-BE99-E7733460D3DA}.wem"
+     },
+     {
+      "Id": "737113384",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe  D2.wav",
+      "CachePath": "0E/{0E9D6512-E21C-DF96-C073-26D51A8E5F5D}.wem"
+     },
+     {
+      "Id": "743127439",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Cello D1.wav",
+      "CachePath": "BD/{BDD8C4E8-0444-B21B-65ED-FD11BF6EBA43}.wem"
+     },
+     {
+      "Id": "746380247",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rosewood Hi Lo 1.wav",
+      "CachePath": "0B/{0B8B8EA2-B4E8-E384-2C0E-91EE4C35B2D3}.wem"
+     },
+     {
+      "Id": "747501468",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bongo Open Med 3 1.wav",
+      "CachePath": "E7/{E7377AAB-F044-0BE5-DAB3-8AB4C2F2F029}.wem"
+     },
+     {
+      "Id": "751601444",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "African Hi Shkr 1 1.wav",
+      "CachePath": "CE/{CEB9151D-8250-7808-8BE5-F074C31CB0F8}.wem"
+     },
+     {
+      "Id": "753364354",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibraphone Pattern 1 Variation 5.mid",
+      "CachePath": "61/{617EC289-6E42-48C3-C03E-A3F96901884D}.wem"
+     },
+     {
+      "Id": "754737171",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste Pattern 1 Variation 3.mid",
+      "CachePath": "2C/{2C722295-1AA9-4C16-6A42-2CD1A038B809}.wem"
+     },
+     {
+      "Id": "756950181",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Congas11-6.wav",
+      "CachePath": "69/{693A238A-F4BA-32B4-C08B-0A91DD624AEB}.wem"
+     },
+     {
+      "Id": "765296256",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka 1 Variation 3.mid",
+      "CachePath": "45/{45C0F9CD-6599-DD41-A38C-F3AC4FCCC6F6}.wem"
+     },
+     {
+      "Id": "769275126",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tam Tam FulTens2 1.wav",
+      "CachePath": "F0/{F0B47D8E-D887-2ECE-C20C-4E2114739CD6}.wem"
+     },
+     {
+      "Id": "769586167",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon Pattern 1 Variation 1.mid",
+      "CachePath": "4E/{4E78AAC4-0F7B-03A4-1718-3139797C9B10}.wem"
+     },
+     {
+      "Id": "773182663",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Don-DonHi LoFst2.wav",
+      "CachePath": "ED/{EDA67D1A-F373-3A43-F1A4-C1E2444BB8AE}.wem"
+     },
+     {
+      "Id": "775046600",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "High Kit Pattern 1 Variation 1.mid",
+      "CachePath": "EC/{EC88F415-FB19-4EC9-AE7E-3E3F3F8E1022}.wem"
+     },
+     {
+      "Id": "776451998",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Kick Snare Pattern 1 Variation 2.mid",
+      "CachePath": "2F/{2F08B330-3974-3721-50B1-9668D77C7BD0}.wem"
+     },
+     {
+      "Id": "779460630",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Agogo High 1.wav",
+      "CachePath": "A3/{A3A49B68-66C1-BAE2-F54D-F5B4E7FEEA1C}.wem"
+     },
+     {
+      "Id": "783217746",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Conga Hi Rim 1.wav",
+      "CachePath": "C3/{C36D661E-0324-26F4-B15A-A656D1729054}.wem"
+     },
+     {
+      "Id": "790603763",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Violin G#3.wav",
+      "CachePath": "12/{12D51D87-E0AE-24D2-18F3-458CB738C64D}.wem"
+     },
+     {
+      "Id": "792970752",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Flute Pattern 1 Variation 3.mid",
+      "CachePath": "88/{881D1237-B670-83F8-935D-EAD03CDBC1B7}.wem"
+     },
+     {
+      "Id": "793729772",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Release Lo 2.wav",
+      "CachePath": "3D/{3D50FC58-625A-FFE6-1C50-B17FBE5A5BFC}.wem"
+     },
+     {
+      "Id": "794825017",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass Pattern 1 Variation 4.mid",
+      "CachePath": "FC/{FC292001-8707-696A-0A96-BAF53C3F42A3}.wem"
+     },
+     {
+      "Id": "796397920",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu SlapRel Lo 2.wav",
+      "CachePath": "37/{37427B3B-5FF9-837C-CD48-EC57F636E9F3}.wem"
+     },
+     {
+      "Id": "800634307",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 B4.wav",
+      "CachePath": "9C/{9CA742FB-F4E1-30C7-9099-EF0C75F10F99}.wem"
+     },
+     {
+      "Id": "803168021",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Kim Kim Rels 2b.wav",
+      "CachePath": "5B/{5B53D93C-3552-AB58-1D94-09D024C90CCD}.wem"
+     },
+     {
+      "Id": "805368003",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Slap Hi 2.wav",
+      "CachePath": "64/{6479185D-E0DF-5FC5-D8F3-9ED10D38D2C3}.wem"
+     },
+     {
+      "Id": "811541862",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Don-Don Tens 2Lo.wav",
+      "CachePath": "90/{90A56E3E-461D-5DDF-EFD6-B879529B6138}.wem"
+     },
+     {
+      "Id": "813353166",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibes    A2.wav",
+      "CachePath": "68/{684F96F6-973D-BEF2-E36E-77C102FBCB33}.wem"
+     },
+     {
+      "Id": "813643200",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Modalman Violin Pattern 1 Variation 1.mid",
+      "CachePath": "FB/{FB139B21-DF26-A1CE-778E-A51AD6D4766F}.wem"
+     },
+     {
+      "Id": "815225631",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 C#6.wav",
+      "CachePath": "2E/{2E8F64DE-F2D1-F1D6-951A-C3B384EB4707}.wem"
+     },
+     {
+      "Id": "816787651",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "G#1.wav",
+      "CachePath": "91/{912EA6A4-3663-DC17-8587-45B5E07BCB4D}.wem"
+     },
+     {
+      "Id": "818008264",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tama SN GBRLTR LNG AMB.wav",
+      "CachePath": "FC/{FC40C7B3-8540-2441-C26C-A6361D627CBB}.wem"
+     },
+     {
+      "Id": "826589817",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano Pattern 1 Variation 5.mid",
+      "CachePath": "92/{92E51A6D-63EF-709D-4859-81B80B9D00EE}.wem"
+     },
+     {
+      "Id": "829699739",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka11-8.wav",
+      "CachePath": "C1/{C17777FF-276F-CA6D-A102-DE3D3789C32F}.wem"
+     },
+     {
+      "Id": "830492792",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tam Tam FulTens1.wav",
+      "CachePath": "AA/{AA259DE3-B977-59F0-A068-5092BFDF4F0E}.wem"
+     },
+     {
+      "Id": "831035867",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Breathy Flute C2.wav",
+      "CachePath": "B4/{B42A41DF-77EB-E0A4-270B-E2C97B5A6E66}.wem"
+     },
+     {
+      "Id": "833168132",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste Pattern 1 Variation 5.mid",
+      "CachePath": "ED/{EDF6A50C-E869-CDFD-FC55-75B75734F095}.wem"
+     },
+     {
+      "Id": "835534349",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Modalman Piano Pattern 1 Variation 1.mid",
+      "CachePath": "D5/{D5E8D82F-34CF-40AB-36EE-87094A1A806B}.wem"
+     },
+     {
+      "Id": "836394672",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass Pattern 1 Variation 5.mid",
+      "CachePath": "A8/{A8B05477-4111-B8B2-FB28-91AE4F1593CF}.wem"
+     },
+     {
+      "Id": "840167568",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano D1.wav",
+      "CachePath": "A0/{A08535BE-7605-BBCB-A6E9-998F0D55BEEB}.wem"
+     },
+     {
+      "Id": "847484891",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "A#2.wav",
+      "CachePath": "59/{59F25B7D-C9AD-4D76-3742-2C063C423D32}.wem"
+     },
+     {
+      "Id": "854523287",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Modalman Vibraphone Pattern 1 Variation 1.mid",
+      "CachePath": "C2/{C2034420-B105-EE8A-6C5A-9C3EAA52F286}.wem"
+     },
+     {
+      "Id": "855724205",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka11-9.wav",
+      "CachePath": "59/{591A01AB-D313-8F29-ABC3-D429854D0E74}.wem"
+     },
+     {
+      "Id": "855876426",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano C6.wav",
+      "CachePath": "66/{66660B6C-4705-3290-9243-7811BA48EA79}.wem"
+     },
+     {
+      "Id": "863206823",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe A#2.wav",
+      "CachePath": "E7/{E7985F7E-8753-5823-7EA3-48EF9F770DF0}.wem"
+     },
+     {
+      "Id": "864655323",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibes    E4.wav",
+      "CachePath": "6A/{6A7B147B-DE07-7829-438F-CFC3DCD16170}.wem"
+     },
+     {
+      "Id": "869359312",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Low Kit Pattern 1 Variation 4.mid",
+      "CachePath": "2F/{2F766ACE-A306-D9B4-B55F-B81710D21776}.wem"
+     },
+     {
+      "Id": "876340311",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Walk Drum CSlap1.wav",
+      "CachePath": "40/{408BC39C-6B4B-CF58-F4FF-55B59486CC32}.wem"
+     },
+     {
+      "Id": "876349647",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Slap Lo 2.wav",
+      "CachePath": "D6/{D6181D62-50CF-97FC-E27D-84BDDE06A1EF}.wem"
+     },
+     {
+      "Id": "878721896",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Shinachiku-F#2.wav",
+      "CachePath": "2A/{2A651B7D-E8ED-C917-B1C4-44158B44A532}.wem"
+     },
+     {
+      "Id": "879381182",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MARIMBA HARD A5 1.wav",
+      "CachePath": "6D/{6DAA0F46-0082-7009-85BA-87CB1BB865BE}.wem"
+     },
+     {
+      "Id": "880159901",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Shinachiku-E1.wav",
+      "CachePath": "B5/{B5761E62-865F-0B8B-7531-BF4C5335FAF6}.wem"
+     },
+     {
+      "Id": "881136023",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Low Kit Pattern 1 Variation 1.mid",
+      "CachePath": "E7/{E771CE59-0CB2-F15B-F4AE-BB6FBFA0A52D}.wem"
+     },
+     {
+      "Id": "883862847",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Congas11-2.wav",
+      "CachePath": "D3/{D314E3B3-88C0-364F-3DD7-24DDD0C06FB0}.wem"
+     },
+     {
+      "Id": "886699710",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano Pattern 1 Variation 3.mid",
+      "CachePath": "59/{59467D2C-60EA-9E8D-3BDD-A9B06D0DE8C8}.wem"
+     },
+     {
+      "Id": "888969336",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Breathy FluteA#2.wav",
+      "CachePath": "DE/{DE759D76-B198-E316-3A95-43B80DA069A1}.wem"
+     },
+     {
+      "Id": "889816203",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Clarinet F#1.wav",
+      "CachePath": "E0/{E02E97E0-0D45-682B-9B7C-65DA5EA646C4}.wem"
+     },
+     {
+      "Id": "891933742",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Modalman Clarinet Pattern 1 Variation 1.mid",
+      "CachePath": "A6/{A6947320-C7E2-C46B-65B3-CB90D4CBA817}.wem"
+     },
+     {
+      "Id": "892621121",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Clarinet Pattern 1 Variation 1.mid",
+      "CachePath": "8A/{8A660360-2AF1-56D5-3CDD-C213670A04C3}.wem"
+     },
+     {
+      "Id": "898230005",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Violin G#2.wav",
+      "CachePath": "02/{0208D6CE-12D1-6F73-D7C4-523EF5A77C44}.wem"
+     },
+     {
+      "Id": "905501705",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Don-Don Flat 2b.wav",
+      "CachePath": "DA/{DA919E2A-4DAE-B460-FF9E-BEE4DE558041}.wem"
+     },
+     {
+      "Id": "908835970",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pearl Tom Dry Hi Mid.wav",
+      "CachePath": "A6/{A63E67C2-7554-8EDF-E494-86D1DAFAEDDC}.wem"
+     },
+     {
+      "Id": "909887747",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Modalman Bassoon Pattern 1 Variation 1.mid",
+      "CachePath": "13/{1369E37C-19FC-0D18-065B-6C103378062D}.wem"
+     },
+     {
+      "Id": "911111294",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cymbals Pattern 1 Variation 1.mid",
+      "CachePath": "90/{908418A8-0125-457C-2D63-C3FD88C62979}.wem"
+     },
+     {
+      "Id": "915063569",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Crash 14 Vry Hrd 1.wav",
+      "CachePath": "6C/{6CA3F473-895A-097B-4C6D-0EE5D9239769}.wem"
+     },
+     {
+      "Id": "916583028",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Low Cowbell Pattern 1 Variation 5.mid",
+      "CachePath": "E0/{E039B12E-2202-C8F1-B02C-5C7FE983B1E7}.wem"
+     },
+     {
+      "Id": "917593734",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka11-2.wav",
+      "CachePath": "34/{34202D6A-530A-3F1A-C17D-822DB9D12237}.wem"
+     },
+     {
+      "Id": "918481730",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Walk Drum Bass 1.wav",
+      "CachePath": "C6/{C6D9350A-BCE6-7D92-8AC3-C1444F676049}.wem"
+     },
+     {
+      "Id": "918765828",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Viola Pattern 1 Variation 2.mid",
+      "CachePath": "7E/{7EDCD933-7A45-B8EC-84C6-266DCA2CC755}.wem"
+     },
+     {
+      "Id": "920490563",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cello Pattern 1 Variation 1.mid",
+      "CachePath": "40/{40464D06-6B4E-5846-0A84-EDE3A775A898}.wem"
+     },
+     {
+      "Id": "921177141",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Pattern 1 Variation 3.mid",
+      "CachePath": "13/{133B48FC-AD12-59BD-A187-0698235CDB22}.wem"
+     },
+     {
+      "Id": "926910193",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "D4.wav",
+      "CachePath": "C6/{C6B9FEA1-4272-534C-65F9-E2AA523864DA}.wem"
+     },
+     {
+      "Id": "927025447",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Violin C3.wav",
+      "CachePath": "28/{28E5F174-D228-7CC7-D6BF-8C48C6DD0D3C}.wem"
+     },
+     {
+      "Id": "927436136",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Release Hi 1.wav",
+      "CachePath": "57/{575E0113-64FC-2AFC-C0CC-D7F21B991015}.wem"
+     },
+     {
+      "Id": "930926261",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "High Kit Pattern 1 Variation 5.mid",
+      "CachePath": "D6/{D6F2BEBB-9211-DFD4-10A7-64866048166A}.wem"
+     },
+     {
+      "Id": "934644856",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass A#2.wav",
+      "CachePath": "6D/{6D254929-340C-E5CB-3E89-5C8E6EDB12EB}.wem"
+     },
+     {
+      "Id": "939922972",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano E0.wav",
+      "CachePath": "93/{9384D273-0CB4-BD7F-C5CA-35DDA88F00EE}.wem"
+     },
+     {
+      "Id": "946480905",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 D3.wav",
+      "CachePath": "30/{3037D00A-963A-847F-8C60-FB954842F8A5}.wem"
+     },
+     {
+      "Id": "949298774",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Slap Hi 1.wav",
+      "CachePath": "1D/{1DF456D0-5370-9764-5CA9-EF3A12C2F7A4}.wem"
+     },
+     {
+      "Id": "949762831",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Flute Pattern 1 Variation 4.mid",
+      "CachePath": "F9/{F9F18AEB-8398-0197-CCB6-1F9BB6A9C214}.wem"
+     },
+     {
+      "Id": "951287413",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Flute Pattern 1 Variation 1.mid",
+      "CachePath": "FA/{FA686769-CFD1-41C7-559C-468DFBE0BA20}.wem"
+     },
+     {
+      "Id": "953559841",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Congas11-4.wav",
+      "CachePath": "A0/{A0E9A4F5-0B2B-1929-6FA2-8407434D197E}.wem"
+     },
+     {
+      "Id": "958929737",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon Pattern 1 Variation 5.mid",
+      "CachePath": "B3/{B38A9DB2-E07F-2A00-962E-F3AD0E400CCD}.wem"
+     },
+     {
+      "Id": "963947200",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cabasa Med 4 1.wav",
+      "CachePath": "34/{34BE1E61-2910-4037-0777-EAABCE83AFEF}.wem"
+     },
+     {
+      "Id": "965335731",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibes    E3.wav",
+      "CachePath": "47/{470A1EA6-0D49-CDA6-C513-9B2CCA5D1A13}.wem"
+     },
+     {
+      "Id": "967871766",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano Pattern 1 Variation 1.mid",
+      "CachePath": "8A/{8A0385C8-8232-4E86-E337-40153314DF09}.wem"
+     },
+     {
+      "Id": "971985938",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Anvil Pattern 1 Variation 4.mid",
+      "CachePath": "62/{629B0701-0012-CE92-AC5A-805BCC558A6A}.wem"
+     },
+     {
+      "Id": "972963235",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Hat 15 Ped Closed 1 1.wav",
+      "CachePath": "C8/{C800C50E-EEC1-47D7-FF44-9ACDB62F884F}.wem"
+     },
+     {
+      "Id": "973695398",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Shinachiku-A2.wav",
+      "CachePath": "78/{78063753-830F-F4ED-5540-4E9D7E37C895}.wem"
+     },
+     {
+      "Id": "973974619",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Viola Pattern 1 Variation 4.mid",
+      "CachePath": "AA/{AA28F007-FAFD-76BF-031D-0A414FB1CD01}.wem"
+     },
+     {
+      "Id": "974006803",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "China 18 Edge 1.wav",
+      "CachePath": "D2/{D2D76116-576D-4A9C-E687-9414EB824809}.wem"
+     },
+     {
+      "Id": "974046727",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Clarinet Pattern 1 Variation 4.mid",
+      "CachePath": "8F/{8F75C886-0301-EB2C-6823-464FC64D93EB}.wem"
+     },
+     {
+      "Id": "975827321",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Marimba Pattern 1 Variation 2.mid",
+      "CachePath": "4D/{4DDEBF32-F4C0-24A8-8F95-2AC6ACFBBC43}.wem"
+     },
+     {
+      "Id": "975916691",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano A0.wav",
+      "CachePath": "E8/{E8763333-987B-4667-B1F2-F64E88D01CD9}.wem"
+     },
+     {
+      "Id": "976683412",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Viola Pattern 1 Variation 5.mid",
+      "CachePath": "60/{60F71B36-FB9E-8497-A5E5-E6A3D15A750B}.wem"
+     },
+     {
+      "Id": "983330696",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tam Tam Hand 2.wav",
+      "CachePath": "41/{41CF70B7-1A50-D245-1AB6-879376C80D48}.wem"
+     },
+     {
+      "Id": "989158920",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka 1 Variation 4.mid",
+      "CachePath": "C2/{C2B1488F-44D4-A932-0627-A51D364F6870}.wem"
+     },
+     {
+      "Id": "989598401",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka11-7.wav",
+      "CachePath": "71/{71CE8810-534F-E05A-D7F6-D23A5F135459}.wem"
+     },
+     {
+      "Id": "990657672",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Shinachiku-E2.wav",
+      "CachePath": "2D/{2DDBC1FB-725C-02A7-9F07-6F586B697F46}.wem"
+     },
+     {
+      "Id": "992913321",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tablas 1 Variation 3.mid",
+      "CachePath": "F7/{F7578726-AE1A-B8F9-73A5-543001B348CC}.wem"
+     },
+     {
+      "Id": "995464744",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano C#2.wav",
+      "CachePath": "A8/{A8AC356E-72AC-F4E5-CF33-2E62BAFBC9E4}.wem"
+     },
+     {
+      "Id": "998328220",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cymbals Pattern 1 Variation 2.mid",
+      "CachePath": "E5/{E5623A94-6D46-2D12-847C-46353B5CA4A7}.wem"
+     },
+     {
+      "Id": "1003668973",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rosewood Fingr 2.wav",
+      "CachePath": "58/{5838A3EF-0BE2-F473-E2C5-73281A23DBBA}.wem"
+     },
+     {
+      "Id": "1003757347",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MARIMBA HARD C#3 1.wav",
+      "CachePath": "9D/{9DFA00B6-8B2B-0132-A0F2-EB2617E533DA}.wem"
+     },
+     {
+      "Id": "1005171565",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Clarinet Pattern 1 Variation 3.mid",
+      "CachePath": "B3/{B3B7E1F9-2C97-2C1F-939C-1FA8B35AD109}.wem"
+     },
+     {
+      "Id": "1006573459",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Cello F#3.wav",
+      "CachePath": "54/{54DDEE7C-C840-137F-3C75-07CBC39AC4C2}.wem"
+     },
+     {
+      "Id": "1008115885",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Shinachiku-F#3.wav",
+      "CachePath": "C4/{C4F8AD7A-78E1-D59C-C384-5416F93A8FCE}.wem"
+     },
+     {
+      "Id": "1010652535",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Violin E3.wav",
+      "CachePath": "F8/{F89EB7CC-E901-4F40-47C7-647BA3495515}.wem"
+     },
+     {
+      "Id": "1011428257",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Congas 1 Variation 3.mid",
+      "CachePath": "E4/{E41DC163-EB17-D10E-39B5-C3F13CB88FB3}.wem"
+     },
+     {
+      "Id": "1012886531",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste Pattern 1 Variation 1.mid",
+      "CachePath": "6B/{6B6A3A30-44EC-AA24-DA10-EACAE77279A3}.wem"
+     },
+     {
+      "Id": "1014005610",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Finger Lo 2.wav",
+      "CachePath": "D9/{D9C352C0-3D27-2A92-128D-F79EE5730326}.wem"
+     },
+     {
+      "Id": "1020875682",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe D3.wav",
+      "CachePath": "25/{2526299E-1F48-1E5D-9297-CA299C22AC2C}.wem"
+     },
+     {
+      "Id": "1026236251",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon E1.wav",
+      "CachePath": "88/{88C6BA12-1881-FFA7-55CE-7345276B26CF}.wem"
+     },
+     {
+      "Id": "1028248302",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass Pattern 1 Variation 1.mid",
+      "CachePath": "1C/{1CC1799C-F085-2780-DFD6-C11FB396C171}.wem"
+     },
+     {
+      "Id": "1030705377",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe F#3.wav",
+      "CachePath": "DD/{DD39F890-A8BD-113D-2741-42AF42D164D6}.wem"
+     },
+     {
+      "Id": "1038268121",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tonkotsu-A5.wav",
+      "CachePath": "22/{2254A25D-BB81-2BC4-272A-B816E6115EC1}.wem"
+     },
+     {
+      "Id": "1042797889",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano Pattern 1 Variation 2.mid",
+      "CachePath": "98/{98A3C73B-2819-822E-13AE-0129A454FD7E}.wem"
+     },
+     {
+      "Id": "1047757846",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "F#3.wav",
+      "CachePath": "F2/{F2BAF9B2-F284-914C-63CD-1A7B1E586D63}.wem"
+     },
+     {
+      "Id": "1048995393",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Congas 1 Variation 4.mid",
+      "CachePath": "41/{41D20A3F-7B35-608E-3F1C-916AAF8D9DA8}.wem"
+     },
+     {
+      "Id": "1054453262",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka11-5.wav",
+      "CachePath": "D8/{D8CA47C1-6266-7EBA-8039-1C90C00B8D7C}.wem"
+     },
+     {
+      "Id": "1055495477",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Arco Cello A#1.wav",
+      "CachePath": "66/{6679A680-7AF7-A80E-C6B3-E4E610B3E450}.wem"
+     },
+     {
+      "Id": "1056133703",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Kim Kim Rels 1a.wav",
+      "CachePath": "0D/{0D8D28E9-AD1A-85BA-62DF-0888A0A2B8C2}.wem"
+     },
+     {
+      "Id": "1058288609",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe E4.wav",
+      "CachePath": "E9/{E9BB0816-C5DC-98AD-AC23-65B2D8DFD8B8}.wem"
+     },
+     {
+      "Id": "1058326709",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Kim Kim Rels 2a.wav",
+      "CachePath": "E5/{E56BD15F-EED3-B4F4-A0BD-032E9241B1AD}.wem"
+     },
+     {
+      "Id": "1062956687",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Violin Pattern 1 Variation 4.mid",
+      "CachePath": "96/{967EF9AE-433B-7146-7640-3F7A301626EA}.wem"
+     },
+     {
+      "Id": "1063082767",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tonkotsu-E6.wav",
+      "CachePath": "A1/{A1831487-3925-1CEA-012C-561394F5C456}.wem"
+     },
+     {
+      "Id": "1072207344",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Low Kit Pattern 1 Variation 3.mid",
+      "CachePath": "D6/{D62C0AC5-D3B7-EFFA-C336-9579551FEB27}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2377704824",
+      "Name": "MUS_Select_Midimite_All_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\MUS_Select_Midimite_All_SetState",
+      "GUID": "{D8DAB125-0D31-4BA1-BE38-0E0A288FF566}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "474846413",
+        "Id": "648049514",
+        "Name": "Midimite_HighCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\Midimite_HighCowbell",
+        "GUID": "{5072FA08-0A7D-4E86-BE66-43FDD0A6ECD0}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "2303000183",
+        "Id": "911569586",
+        "Name": "Midimite_Cymbal",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\Midimite_Cymbal",
+        "GUID": "{E31E6E22-7B25-463A-AF33-673C8AB71085}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "4165357381",
+        "Id": "1517246961",
+        "Name": "Midimite_Darabuka",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\Midimite_Darabuka",
+        "GUID": "{BE00C6F0-8A3E-4D21-90B7-A982473FC9D7}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "1301975716",
+        "Id": "1702411004",
+        "Name": "Midimite_Tabla",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\Midimite_Tabla",
+        "GUID": "{7E0FD7EA-EDAE-4525-8E14-0FC09C2BB959}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "1705315364",
+        "Id": "1819772878",
+        "Name": "Midimite_Anvil",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\Midimite_Anvil",
+        "GUID": "{378D5D8F-E24A-4A80-91E6-80F0C09045F3}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "3482004262",
+        "Id": "1937297268",
+        "Name": "Midimite_HighKit",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\Midimite_HighKit",
+        "GUID": "{D2CBDC70-EA96-4016-B48B-42A473E2ABE1}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "2608626964",
+        "Id": "1962323748",
+        "Name": "Midimite_Conga",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\Midimite_Conga",
+        "GUID": "{C8A259D9-63A5-46F7-A435-BD243C1C9433}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "73183939",
+        "Id": "2032637112",
+        "Name": "Midimite_LowCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\Midimite_LowCowbell",
+        "GUID": "{037AD994-F038-4CB7-AB45-05C624F7BCB5}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "2694696584",
+        "Id": "2514397822",
+        "Name": "Midimite_LowKit",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\Midimite_LowKit",
+        "GUID": "{1B514A97-249E-4879-ABF2-FD4D22D415D6}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "1413498124",
+        "Id": "2582786496",
+        "Name": "Midimite_Udu",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\Midimite_Udu",
+        "GUID": "{25BC8CF3-CDD7-476E-9561-780E4AEF0FF9}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "3464414902",
+        "Id": "3172327104",
+        "Name": "Midimite_Bamboo",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\Midimite_Bamboo",
+        "GUID": "{76FDCB66-89D7-4C9D-8093-FDAD0F3EC878}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "2357403405",
+        "Id": "3369293493",
+        "Name": "Midimite_KickSnare",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\Midimite_KickSnare",
+        "GUID": "{687871FD-15D2-4A84-B077-BE88FAF68382}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "393555609",
+      "Name": "MUS_Select_Midimite_Anvil_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instruments\\MUS_Select_Midimite_Anvil_SetState",
+      "GUID": "{1940789C-E15B-4AA1-A95C-47A42704AD93}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1705315364",
+        "Id": "1819772878",
+        "Name": "Midimite_Anvil",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\Midimite_Anvil",
+        "GUID": "{378D5D8F-E24A-4A80-91E6-80F0C09045F3}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "2626071685",
+      "Name": "MUS_Select_Midimite_Bamboo_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instruments\\MUS_Select_Midimite_Bamboo_SetState",
+      "GUID": "{D1E73EEF-EA07-4231-8A08-EE77FB0F12D7}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "3464414902",
+        "Id": "3172327104",
+        "Name": "Midimite_Bamboo",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\Midimite_Bamboo",
+        "GUID": "{76FDCB66-89D7-4C9D-8093-FDAD0F3EC878}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "3624855175",
+      "Name": "MUS_Select_Midimite_Conga_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instruments\\MUS_Select_Midimite_Conga_SetState",
+      "GUID": "{06D74D07-82A1-4507-BA5B-E3AEEC59D257}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2608626964",
+        "Id": "1962323748",
+        "Name": "Midimite_Conga",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\Midimite_Conga",
+        "GUID": "{C8A259D9-63A5-46F7-A435-BD243C1C9433}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "170029303",
+      "Name": "MUS_Select_Midimite_Cymbal_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instruments\\MUS_Select_Midimite_Cymbal_SetState",
+      "GUID": "{C08BC0FC-8C30-4B47-B6EA-2C1CA517FF56}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2303000183",
+        "Id": "911569586",
+        "Name": "Midimite_Cymbal",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\Midimite_Cymbal",
+        "GUID": "{E31E6E22-7B25-463A-AF33-673C8AB71085}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "3696392210",
+      "Name": "MUS_Select_Midimite_Darabuka_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instruments\\MUS_Select_Midimite_Darabuka_SetState",
+      "GUID": "{C1B79A41-2E9D-442D-821F-E8183BCE52DF}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "4165357381",
+        "Id": "1517246961",
+        "Name": "Midimite_Darabuka",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\Midimite_Darabuka",
+        "GUID": "{BE00C6F0-8A3E-4D21-90B7-A982473FC9D7}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "1587648245",
+      "Name": "MUS_Select_Midimite_HighCowbell_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instruments\\MUS_Select_Midimite_HighCowbell_SetState",
+      "GUID": "{CEC698F3-750E-49D0-9437-28603DE11D50}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "474846413",
+        "Id": "648049514",
+        "Name": "Midimite_HighCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\Midimite_HighCowbell",
+        "GUID": "{5072FA08-0A7D-4E86-BE66-43FDD0A6ECD0}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "2989708487",
+      "Name": "MUS_Select_Midimite_HighKit_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instruments\\MUS_Select_Midimite_HighKit_SetState",
+      "GUID": "{604B23F4-4316-4FB7-8A64-E7C1B0C2803E}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "3482004262",
+        "Id": "1937297268",
+        "Name": "Midimite_HighKit",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\Midimite_HighKit",
+        "GUID": "{D2CBDC70-EA96-4016-B48B-42A473E2ABE1}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "1545170428",
+      "Name": "MUS_Select_Midimite_KickSnare_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instruments\\MUS_Select_Midimite_KickSnare_SetState",
+      "GUID": "{2DC4039A-EE05-4028-8EA6-B3E0999787F1}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2357403405",
+        "Id": "3369293493",
+        "Name": "Midimite_KickSnare",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\Midimite_KickSnare",
+        "GUID": "{687871FD-15D2-4A84-B077-BE88FAF68382}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "2509951855",
+      "Name": "MUS_Select_Midimite_Kit_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instrument_Subgroups\\MUS_Select_Midimite_Kit_SetState",
+      "GUID": "{19CCDDC4-F2C1-4E9E-85B2-CBD89147145F}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "4165357381",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\None",
+        "GUID": "{20C33161-1025-4351-9781-66DFF2DF7952}"
+       },
+       {
+        "GroupId": "2303000183",
+        "Id": "911569586",
+        "Name": "Midimite_Cymbal",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\Midimite_Cymbal",
+        "GUID": "{E31E6E22-7B25-463A-AF33-673C8AB71085}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "3482004262",
+        "Id": "1937297268",
+        "Name": "Midimite_HighKit",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\Midimite_HighKit",
+        "GUID": "{D2CBDC70-EA96-4016-B48B-42A473E2ABE1}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "2694696584",
+        "Id": "2514397822",
+        "Name": "Midimite_LowKit",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\Midimite_LowKit",
+        "GUID": "{1B514A97-249E-4879-ABF2-FD4D22D415D6}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "2357403405",
+        "Id": "3369293493",
+        "Name": "Midimite_KickSnare",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\Midimite_KickSnare",
+        "GUID": "{687871FD-15D2-4A84-B077-BE88FAF68382}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "4274406441",
+      "Name": "MUS_Select_Midimite_LowCowbell_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instruments\\MUS_Select_Midimite_LowCowbell_SetState",
+      "GUID": "{BCD45E48-6A6D-45F4-871C-4056B72A63E2}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "73183939",
+        "Id": "2032637112",
+        "Name": "Midimite_LowCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\Midimite_LowCowbell",
+        "GUID": "{037AD994-F038-4CB7-AB45-05C624F7BCB5}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "3484089227",
+      "Name": "MUS_Select_Midimite_LowKit_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instruments\\MUS_Select_Midimite_LowKit_SetState",
+      "GUID": "{78D7DA2F-A7D6-4555-9C28-97F2CE1A2625}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2694696584",
+        "Id": "2514397822",
+        "Name": "Midimite_LowKit",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\Midimite_LowKit",
+        "GUID": "{1B514A97-249E-4879-ABF2-FD4D22D415D6}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "3186375448",
+      "Name": "MUS_Select_Midimite_Metalic_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instrument_Subgroups\\MUS_Select_Midimite_Metalic_SetState",
+      "GUID": "{942A5F76-8A16-4306-8A8F-8A680F5EAD15}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "474846413",
+        "Id": "648049514",
+        "Name": "Midimite_HighCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\Midimite_HighCowbell",
+        "GUID": "{5072FA08-0A7D-4E86-BE66-43FDD0A6ECD0}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "2694696584",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\None",
+        "GUID": "{E7F03BD0-DF8C-4B93-BD0C-73B417AC683A}"
+       },
+       {
+        "GroupId": "1705315364",
+        "Id": "1819772878",
+        "Name": "Midimite_Anvil",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\Midimite_Anvil",
+        "GUID": "{378D5D8F-E24A-4A80-91E6-80F0C09045F3}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "73183939",
+        "Id": "2032637112",
+        "Name": "Midimite_LowCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\Midimite_LowCowbell",
+        "GUID": "{037AD994-F038-4CB7-AB45-05C624F7BCB5}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "1413498124",
+        "Id": "2582786496",
+        "Name": "Midimite_Udu",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\Midimite_Udu",
+        "GUID": "{25BC8CF3-CDD7-476E-9561-780E4AEF0FF9}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "1501110763",
+      "Name": "MUS_Select_Midimite_Tabla_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instruments\\MUS_Select_Midimite_Tabla_SetState",
+      "GUID": "{576F6182-C764-474A-A4AC-7FDE6EF9DA7B}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1301975716",
+        "Id": "1702411004",
+        "Name": "Midimite_Tabla",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\Midimite_Tabla",
+        "GUID": "{7E0FD7EA-EDAE-4525-8E14-0FC09C2BB959}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "1950356627",
+      "Name": "MUS_Select_Midimite_Udu_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instruments\\MUS_Select_Midimite_Udu_SetState",
+      "GUID": "{D7001FF2-AC43-4A50-858C-B32A07B79BC0}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1413498124",
+        "Id": "2582786496",
+        "Name": "Midimite_Udu",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\Midimite_Udu",
+        "GUID": "{25BC8CF3-CDD7-476E-9561-780E4AEF0FF9}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "728119267",
+      "Name": "MUS_Select_Midimite_Wooden_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Midimite_Events\\Midimite_Instrument_Subgroups\\MUS_Select_Midimite_Wooden_SetState",
+      "GUID": "{D308D991-7AC3-43AA-AF42-1FD34A904ED4}",
+      "Color": "10",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2694696584",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\None",
+        "GUID": "{E7F03BD0-DF8C-4B93-BD0C-73B417AC683A}"
+       },
+       {
+        "GroupId": "4165357381",
+        "Id": "1517246961",
+        "Name": "Midimite_Darabuka",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\Midimite_Darabuka",
+        "GUID": "{BE00C6F0-8A3E-4D21-90B7-A982473FC9D7}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "1301975716",
+        "Id": "1702411004",
+        "Name": "Midimite_Tabla",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\Midimite_Tabla",
+        "GUID": "{7E0FD7EA-EDAE-4525-8E14-0FC09C2BB959}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "2608626964",
+        "Id": "1962323748",
+        "Name": "Midimite_Conga",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\Midimite_Conga",
+        "GUID": "{C8A259D9-63A5-46F7-A435-BD243C1C9433}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "3464414902",
+        "Id": "3172327104",
+        "Name": "Midimite_Bamboo",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\Midimite_Bamboo",
+        "GUID": "{76FDCB66-89D7-4C9D-8093-FDAD0F3EC878}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "1501100971",
+      "Name": "MUS_Select_Modalman_Bass_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Modalman_Events\\Modalman_Instruments\\MUS_Select_Modalman_Bass_SetState",
+      "GUID": "{FD2D5AFC-7EAA-479B-B938-9A7A53AFF387}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "4165357381",
+        "Id": "603031370",
+        "Name": "Modalman_Bass",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\Modalman_Bass",
+        "GUID": "{FE7829FE-A7EA-4411-9A7D-34B458C4A4CC}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "2070339345",
+      "Name": "MUS_Select_Modalman_Bassoon_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Modalman_Events\\Modalman_Instruments\\MUS_Select_Modalman_Bassoon_SetState",
+      "GUID": "{E4DCEB4F-94EC-43A8-A741-3A7F2EACD0A8}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1413498124",
+        "Id": "2613648810",
+        "Name": "Modalman_Bassoon",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\Modalman_Bassoon",
+        "GUID": "{ECE25CEB-B417-4102-9E76-17FB952417DD}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "1599771135",
+      "Name": "MUS_Select_Modalman_Celeste_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Modalman_Events\\Modalman_Instruments\\MUS_Select_Modalman_Celeste_SetState",
+      "GUID": "{22D86DE4-EA07-4904-9684-7AE39B345255}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "3482004262",
+        "Id": "2822540212",
+        "Name": "Modalman_Celeste",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\Modalman_Celeste",
+        "GUID": "{D22495F8-8B6E-4658-9CED-B210C0946C56}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "3118841357",
+      "Name": "MUS_Select_Modalman_Cello_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Modalman_Events\\Modalman_Instruments\\MUS_Select_Modalman_Cello_SetState",
+      "GUID": "{BC8C150F-0625-44D4-9EDB-3FAB39011D2C}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2608626964",
+        "Id": "2506517806",
+        "Name": "Modalman_Cello",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\Modalman_Cello",
+        "GUID": "{E7CE52EA-3C02-4B82-86EA-9D70A6C1F39F}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "2527601710",
+      "Name": "MUS_Select_Modalman_Clarinet_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Modalman_Events\\Modalman_Instruments\\MUS_Select_Modalman_Clarinet_SetState",
+      "GUID": "{9464810D-6119-4681-A2A0-34EBDAFD6684}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "73183939",
+        "Id": "3339647189",
+        "Name": "Modalman_Clarinet",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\Modalman_Clarinet",
+        "GUID": "{D03F36B9-B839-47E5-BEE6-6A0DB51B1197}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "447104786",
+      "Name": "MUS_Select_Modalman_Flute_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Modalman_Events\\Modalman_Instruments\\MUS_Select_Modalman_Flute_SetState",
+      "GUID": "{A54F607B-A1DA-4105-9522-8E2B968D405C}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "474846413",
+        "Id": "2626952999",
+        "Name": "Modalman_Flute",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\Modalman_Flute",
+        "GUID": "{0C2A2777-CD68-4096-9430-9ABF6C36E907}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "2954020507",
+      "Name": "MUS_Select_Modalman_Marimba_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Modalman_Events\\Modalman_Instruments\\MUS_Select_Modalman_Marimba_SetState",
+      "GUID": "{83791500-7503-466D-9E89-9D30ED717807}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2694696584",
+        "Id": "284414508",
+        "Name": "Modalman_Marimba",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\Modalman_Marimba",
+        "GUID": "{73DB7FF0-FB86-4E52-ACBB-A91944E7ADD5}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "1836352077",
+      "Name": "MUS_Select_Modalman_Oboe_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Modalman_Events\\Modalman_Instruments\\MUS_Select_Modalman_Oboe_SetState",
+      "GUID": "{2BF46C43-2303-4F53-8EA6-084D1F0FC479}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1705315364",
+        "Id": "516967432",
+        "Name": "Modalman_Oboe",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\Modalman_Oboe",
+        "GUID": "{11AF86E4-4DAC-4CEE-A392-D724728CDAC3}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "3215744161",
+      "Name": "MUS_Select_Modalman_Piano_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Modalman_Events\\Modalman_Instruments\\MUS_Select_Modalman_Piano_SetState",
+      "GUID": "{0EA3927D-6521-48F7-A506-A0A31005F6E5}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2357403405",
+        "Id": "3043757710",
+        "Name": "Modalman_Piano",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\Modalman_Piano",
+        "GUID": "{D195B6A1-4917-41DC-9C1D-16CE5131C9FA}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "4278832496",
+      "Name": "MUS_Select_Modalman_Vibraphone_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Modalman_Events\\Modalman_Instruments\\MUS_Select_Modalman_Vibraphone_SetState",
+      "GUID": "{C9CD27BB-DD04-4070-B8B9-58E36716F4F6}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2303000183",
+        "Id": "2281535139",
+        "Name": "Modalman_Vibraphone",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\Modalman_Vibraphone",
+        "GUID": "{D4053C52-A5BA-4D0F-986B-F57E6D24A174}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "3405257389",
+      "Name": "MUS_Select_Modalman_Viola_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Modalman_Events\\Modalman_Instruments\\MUS_Select_Modalman_Viola_SetState",
+      "GUID": "{FF005D7D-36A6-41F1-BBCD-EEC0A342E2F6}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1301975716",
+        "Id": "274510094",
+        "Name": "Modalman_Viola",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\Modalman_Viola",
+        "GUID": "{B8AD13A5-ACBB-430B-BC8E-8FBCD5DABED8}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "4127664625",
+      "Name": "MUS_Select_Modalman_Violin_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\Modalman_Events\\Modalman_Instruments\\MUS_Select_Modalman_Violin_SetState",
+      "GUID": "{ED079584-DB73-412B-B8D9-16A9F6A0E0B5}",
+      "Color": "2",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "3464414902",
+        "Id": "3354045468",
+        "Name": "Modalman_Violin",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\Modalman_Violin",
+        "GUID": "{97F5516E-3CD2-4B1F-A2BF-E4C3D17F94F6}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "4021057327",
+      "Name": "MUS_Select_NPC_All_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\MUS_Select_NPC_All_SetState",
+      "GUID": "{A5E2D987-193D-4625-9E78-D7393DEB8FA5}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2694696584",
+        "Id": "608418222",
+        "Name": "NPC_Marimba",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\NPC_Marimba",
+        "GUID": "{C54D15C8-DFCC-4F19-86BF-ACE686B5398D}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "1301975716",
+        "Id": "632282368",
+        "Name": "NPC_Viola",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\NPC_Viola",
+        "GUID": "{C09721E9-1ADE-4710-85B0-F3DB97E2F8B2}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "1705315364",
+        "Id": "1274921330",
+        "Name": "NPC_Oboe",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\NPC_Oboe",
+        "GUID": "{DF422829-51B1-4293-BD21-D48CFBD969C0}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "3464414902",
+        "Id": "1540944886",
+        "Name": "NPC_Violin",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\NPC_Violin",
+        "GUID": "{78444450-1D6A-42FC-9258-5787C2DE175A}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "2608626964",
+        "Id": "1781666048",
+        "Name": "NPC_Cello",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\NPC_Cello",
+        "GUID": "{A9C22207-9B25-4EE0-A166-16945210CB81}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "1413498124",
+        "Id": "2747654820",
+        "Name": "NPC_Bassoon",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\NPC_Bassoon",
+        "GUID": "{D2EF3D91-3836-4A2B-B30C-960E86267302}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "4165357381",
+        "Id": "2873691804",
+        "Name": "NPC_Bass",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\NPC_Bass",
+        "GUID": "{C1351B67-A8BD-44F3-8455-64DF51DA70D8}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "2357403405",
+        "Id": "3805777016",
+        "Name": "NPC_Piano",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\NPC_Piano",
+        "GUID": "{88490592-22F3-4DF9-ADEC-4AE782C5E6B2}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "73183939",
+        "Id": "4047794399",
+        "Name": "NPC_Clarinet",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\NPC_Clarinet",
+        "GUID": "{D6E4F502-53E4-4F95-A2C9-F6DDBB44463E}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "474846413",
+        "Id": "4050165685",
+        "Name": "NPC_Flute",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\NPC_Flute",
+        "GUID": "{067606F5-5D0F-4B21-9DD3-ABEC4E7B2C75}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "2303000183",
+        "Id": "4239875109",
+        "Name": "NPC_Vibraphone",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\NPC_Vibraphone",
+        "GUID": "{FEB58FB5-A216-4A9D-8174-7195E33063E2}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "3482004262",
+        "Id": "4244078214",
+        "Name": "NPC_Celeste",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\NPC_Celeste",
+        "GUID": "{2C8A1017-19C2-4B57-B11C-0720412E1AE1}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "1365582647",
+      "Name": "MUS_Select_NPC_Bass_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instruments\\MUS_Select_NPC_Bass_SetState",
+      "GUID": "{BA6D0B06-0AC3-49A2-9525-6111659D1F2C}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "4165357381",
+        "Id": "2873691804",
+        "Name": "NPC_Bass",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\NPC_Bass",
+        "GUID": "{C1351B67-A8BD-44F3-8455-64DF51DA70D8}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "2593655117",
+      "Name": "MUS_Select_NPC_Bassoon_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instruments\\MUS_Select_NPC_Bassoon_SetState",
+      "GUID": "{5A7DE186-8A84-4051-9E0D-96FE0B96A950}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1413498124",
+        "Id": "2747654820",
+        "Name": "NPC_Bassoon",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\NPC_Bassoon",
+        "GUID": "{D2EF3D91-3836-4A2B-B30C-960E86267302}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "2002824219",
+      "Name": "MUS_Select_NPC_Celeste_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instruments\\MUS_Select_NPC_Celeste_SetState",
+      "GUID": "{77DBD6D4-6683-4271-BC46-7CC77EE747EB}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "3482004262",
+        "Id": "4244078214",
+        "Name": "NPC_Celeste",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\NPC_Celeste",
+        "GUID": "{2C8A1017-19C2-4B57-B11C-0720412E1AE1}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "1231312593",
+      "Name": "MUS_Select_NPC_Cello_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instruments\\MUS_Select_NPC_Cello_SetState",
+      "GUID": "{2FC80AC5-90EF-4A60-9933-690DC430CACA}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2608626964",
+        "Id": "1781666048",
+        "Name": "NPC_Cello",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\NPC_Cello",
+        "GUID": "{A9C22207-9B25-4EE0-A166-16945210CB81}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "4155790442",
+      "Name": "MUS_Select_NPC_Clarinet_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instruments\\MUS_Select_NPC_Clarinet_SetState",
+      "GUID": "{35655547-59C4-44E6-B2D8-F90326181F49}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "73183939",
+        "Id": "4047794399",
+        "Name": "NPC_Clarinet",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\NPC_Clarinet",
+        "GUID": "{D6E4F502-53E4-4F95-A2C9-F6DDBB44463E}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "33305086",
+      "Name": "MUS_Select_NPC_Flute_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instruments\\MUS_Select_NPC_Flute_SetState",
+      "GUID": "{B581E56F-76E3-45AF-9B5F-2A6325C93CB6}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "474846413",
+        "Id": "4050165685",
+        "Name": "NPC_Flute",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\NPC_Flute",
+        "GUID": "{067606F5-5D0F-4B21-9DD3-ABEC4E7B2C75}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "2976741093",
+      "Name": "MUS_Select_NPC_Keyboard_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instrument_Subgroups\\MUS_Select_NPC_Keyboard_SetState",
+      "GUID": "{9E389235-7E1F-434F-8543-4DB0BB02ABAA}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2694696584",
+        "Id": "608418222",
+        "Name": "NPC_Marimba",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\NPC_Marimba",
+        "GUID": "{C54D15C8-DFCC-4F19-86BF-ACE686B5398D}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "1705315364",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\None",
+        "GUID": "{C12E06F8-4D52-4DBD-9F79-F90B0AD4DCB6}"
+       },
+       {
+        "GroupId": "2357403405",
+        "Id": "3805777016",
+        "Name": "NPC_Piano",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\NPC_Piano",
+        "GUID": "{88490592-22F3-4DF9-ADEC-4AE782C5E6B2}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "2303000183",
+        "Id": "4239875109",
+        "Name": "NPC_Vibraphone",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\NPC_Vibraphone",
+        "GUID": "{FEB58FB5-A216-4A9D-8174-7195E33063E2}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "3482004262",
+        "Id": "4244078214",
+        "Name": "NPC_Celeste",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\NPC_Celeste",
+        "GUID": "{2C8A1017-19C2-4B57-B11C-0720412E1AE1}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "2553536095",
+      "Name": "MUS_Select_NPC_Marimba_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instruments\\MUS_Select_NPC_Marimba_SetState",
+      "GUID": "{9F98E3A2-8A17-4341-ADB6-C787964CD814}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2694696584",
+        "Id": "608418222",
+        "Name": "NPC_Marimba",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\NPC_Marimba",
+        "GUID": "{C54D15C8-DFCC-4F19-86BF-ACE686B5398D}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "833593809",
+      "Name": "MUS_Select_NPC_Oboe_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instruments\\MUS_Select_NPC_Oboe_SetState",
+      "GUID": "{D5976C33-0315-4F24-B824-B71E6F413A0B}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1705315364",
+        "Id": "1274921330",
+        "Name": "NPC_Oboe",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\NPC_Oboe",
+        "GUID": "{DF422829-51B1-4293-BD21-D48CFBD969C0}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "3084040373",
+      "Name": "MUS_Select_NPC_Piano_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instruments\\MUS_Select_NPC_Piano_SetState",
+      "GUID": "{22122CC5-A6C3-48A7-8B83-2E6F30E8DACC}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2357403405",
+        "Id": "3805777016",
+        "Name": "NPC_Piano",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\NPC_Piano",
+        "GUID": "{88490592-22F3-4DF9-ADEC-4AE782C5E6B2}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "167856097",
+      "Name": "MUS_Select_NPC_String_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instrument_Subgroups\\MUS_Select_NPC_String_SetState",
+      "GUID": "{E496ED00-98EC-4D7B-BC5A-B998FE228931}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1301975716",
+        "Id": "632282368",
+        "Name": "NPC_Viola",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\NPC_Viola",
+        "GUID": "{C09721E9-1ADE-4710-85B0-F3DB97E2F8B2}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "2694696584",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\None",
+        "GUID": "{E7F03BD0-DF8C-4B93-BD0C-73B417AC683A}"
+       },
+       {
+        "GroupId": "3464414902",
+        "Id": "1540944886",
+        "Name": "NPC_Violin",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\NPC_Violin",
+        "GUID": "{78444450-1D6A-42FC-9258-5787C2DE175A}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "2608626964",
+        "Id": "1781666048",
+        "Name": "NPC_Cello",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\NPC_Cello",
+        "GUID": "{A9C22207-9B25-4EE0-A166-16945210CB81}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "4165357381",
+        "Id": "2873691804",
+        "Name": "NPC_Bass",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\NPC_Bass",
+        "GUID": "{C1351B67-A8BD-44F3-8455-64DF51DA70D8}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "773440636",
+      "Name": "MUS_Select_NPC_Vibraphone_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instruments\\MUS_Select_NPC_Vibraphone_SetState",
+      "GUID": "{446FB683-D25F-4C76-92F1-AE54D278FFCF}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2303000183",
+        "Id": "4239875109",
+        "Name": "NPC_Vibraphone",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\NPC_Vibraphone",
+        "GUID": "{FEB58FB5-A216-4A9D-8174-7195E33063E2}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "2675173529",
+      "Name": "MUS_Select_NPC_Viola_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instruments\\MUS_Select_NPC_Viola_SetState",
+      "GUID": "{112B593E-4BBD-429C-AC7B-FC1F209BC1EE}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1301975716",
+        "Id": "632282368",
+        "Name": "NPC_Viola",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\NPC_Viola",
+        "GUID": "{C09721E9-1ADE-4710-85B0-F3DB97E2F8B2}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "1330530653",
+      "Name": "MUS_Select_NPC_Violin_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instruments\\MUS_Select_NPC_Violin_SetState",
+      "GUID": "{AFF11928-460D-4F08-9700-9EAD82FD535B}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "3464414902",
+        "Id": "1540944886",
+        "Name": "NPC_Violin",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\NPC_Violin",
+        "GUID": "{78444450-1D6A-42FC-9258-5787C2DE175A}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "2929296915",
+      "Name": "MUS_Select_NPC_Woodwind_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\NPC_Instrument_Subgroups\\MUS_Select_NPC_Woodwind_SetState",
+      "GUID": "{CF2AA3D5-5D10-4DC2-B872-06426518B3F6}",
+      "Color": "4",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2694696584",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\None",
+        "GUID": "{E7F03BD0-DF8C-4B93-BD0C-73B417AC683A}"
+       },
+       {
+        "GroupId": "1705315364",
+        "Id": "1274921330",
+        "Name": "NPC_Oboe",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\NPC_Oboe",
+        "GUID": "{DF422829-51B1-4293-BD21-D48CFBD969C0}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "1413498124",
+        "Id": "2747654820",
+        "Name": "NPC_Bassoon",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\NPC_Bassoon",
+        "GUID": "{D2EF3D91-3836-4A2B-B30C-960E86267302}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "73183939",
+        "Id": "4047794399",
+        "Name": "NPC_Clarinet",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\NPC_Clarinet",
+        "GUID": "{D6E4F502-53E4-4F95-A2C9-F6DDBB44463E}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "474846413",
+        "Id": "4050165685",
+        "Name": "NPC_Flute",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\NPC_Flute",
+        "GUID": "{067606F5-5D0F-4B21-9DD3-ABEC4E7B2C75}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "1254911147",
+      "Name": "Music_NPC_Postion_Test_Play",
+      "ObjectPath": "\\Events\\Default Work Unit\\Test_Events\\Music_NPC_Postion_Test_Play",
+      "GUID": "{0EC852A1-373F-4A98-9C75-13B8A252F348}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "15255499"
+       },
+       {
+        "Id": "75547722"
+       },
+       {
+        "Id": "91783057"
+       },
+       {
+        "Id": "197945168"
+       },
+       {
+        "Id": "381950430"
+       },
+       {
+        "Id": "403439396"
+       },
+       {
+        "Id": "754737171"
+       },
+       {
+        "Id": "800634307"
+       },
+       {
+        "Id": "815225631"
+       },
+       {
+        "Id": "833168132"
+       },
+       {
+        "Id": "946480905"
+       },
+       {
+        "Id": "1012886531"
+       }
+      ]
+     },
+     {
+      "Id": "1256202815",
+      "Name": "Play",
+      "ObjectPath": "\\Events\\Default Work Unit\\Global_Events\\Play",
+      "GUID": "{41FA280C-BAD7-4AE5-99B4-69A8E50A9655}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "689272"
+       },
+       {
+        "Id": "3353201"
+       },
+       {
+        "Id": "4669765"
+       },
+       {
+        "Id": "12921684"
+       },
+       {
+        "Id": "14839378"
+       },
+       {
+        "Id": "15255499"
+       },
+       {
+        "Id": "17702575"
+       },
+       {
+        "Id": "20417624"
+       },
+       {
+        "Id": "21415402"
+       },
+       {
+        "Id": "21784592"
+       },
+       {
+        "Id": "23271907"
+       },
+       {
+        "Id": "27830178"
+       },
+       {
+        "Id": "27957574"
+       },
+       {
+        "Id": "31185591"
+       },
+       {
+        "Id": "32398722"
+       },
+       {
+        "Id": "38741245"
+       },
+       {
+        "Id": "40056596"
+       },
+       {
+        "Id": "42259494"
+       },
+       {
+        "Id": "44581923"
+       },
+       {
+        "Id": "60482078"
+       },
+       {
+        "Id": "61253708"
+       },
+       {
+        "Id": "68673862"
+       },
+       {
+        "Id": "71854843"
+       },
+       {
+        "Id": "75547722"
+       },
+       {
+        "Id": "75885555"
+       },
+       {
+        "Id": "76130517"
+       },
+       {
+        "Id": "83208944"
+       },
+       {
+        "Id": "83455997"
+       },
+       {
+        "Id": "84233198"
+       },
+       {
+        "Id": "85865070"
+       },
+       {
+        "Id": "87032757"
+       },
+       {
+        "Id": "91783057"
+       },
+       {
+        "Id": "92173294"
+       },
+       {
+        "Id": "92768601"
+       },
+       {
+        "Id": "95108799"
+       },
+       {
+        "Id": "96069176"
+       },
+       {
+        "Id": "97555033"
+       },
+       {
+        "Id": "102221632"
+       },
+       {
+        "Id": "102267127"
+       },
+       {
+        "Id": "102590234"
+       },
+       {
+        "Id": "107130729"
+       },
+       {
+        "Id": "108327184"
+       },
+       {
+        "Id": "110144224"
+       },
+       {
+        "Id": "110955213"
+       },
+       {
+        "Id": "113968636"
+       },
+       {
+        "Id": "115155849"
+       },
+       {
+        "Id": "116126986"
+       },
+       {
+        "Id": "117872015"
+       },
+       {
+        "Id": "124166167"
+       },
+       {
+        "Id": "124954580"
+       },
+       {
+        "Id": "128453004"
+       },
+       {
+        "Id": "129402466"
+       },
+       {
+        "Id": "130700704"
+       },
+       {
+        "Id": "137145340"
+       },
+       {
+        "Id": "147538421"
+       },
+       {
+        "Id": "148178644"
+       },
+       {
+        "Id": "163231996"
+       },
+       {
+        "Id": "163858747"
+       },
+       {
+        "Id": "165124588"
+       },
+       {
+        "Id": "166547667"
+       },
+       {
+        "Id": "169269049"
+       },
+       {
+        "Id": "172709377"
+       },
+       {
+        "Id": "177100185"
+       },
+       {
+        "Id": "186209506"
+       },
+       {
+        "Id": "192633058"
+       },
+       {
+        "Id": "197945168"
+       },
+       {
+        "Id": "199368353"
+       },
+       {
+        "Id": "200239377"
+       },
+       {
+        "Id": "201212973"
+       },
+       {
+        "Id": "205789152"
+       },
+       {
+        "Id": "207503840"
+       },
+       {
+        "Id": "207776403"
+       },
+       {
+        "Id": "209649507"
+       },
+       {
+        "Id": "211957193"
+       },
+       {
+        "Id": "212579209"
+       },
+       {
+        "Id": "213736176"
+       },
+       {
+        "Id": "213884473"
+       },
+       {
+        "Id": "214187809"
+       },
+       {
+        "Id": "222677479"
+       },
+       {
+        "Id": "232362962"
+       },
+       {
+        "Id": "232547070"
+       },
+       {
+        "Id": "233934279"
+       },
+       {
+        "Id": "236301090"
+       },
+       {
+        "Id": "237844074"
+       },
+       {
+        "Id": "239149171"
+       },
+       {
+        "Id": "247429081"
+       },
+       {
+        "Id": "250345606"
+       },
+       {
+        "Id": "251379201"
+       },
+       {
+        "Id": "253826488"
+       },
+       {
+        "Id": "255514248"
+       },
+       {
+        "Id": "260625366"
+       },
+       {
+        "Id": "261265794"
+       },
+       {
+        "Id": "263625493"
+       },
+       {
+        "Id": "264546312"
+       },
+       {
+        "Id": "265400033"
+       },
+       {
+        "Id": "265695773"
+       },
+       {
+        "Id": "267832212"
+       },
+       {
+        "Id": "267938365"
+       },
+       {
+        "Id": "269181606"
+       },
+       {
+        "Id": "270987751"
+       },
+       {
+        "Id": "272155081"
+       },
+       {
+        "Id": "273935497"
+       },
+       {
+        "Id": "275428034"
+       },
+       {
+        "Id": "280912481"
+       },
+       {
+        "Id": "281631531"
+       },
+       {
+        "Id": "282832448"
+       },
+       {
+        "Id": "287469539"
+       },
+       {
+        "Id": "291231289"
+       },
+       {
+        "Id": "293949217"
+       },
+       {
+        "Id": "299184655"
+       },
+       {
+        "Id": "300376831"
+       },
+       {
+        "Id": "303581462"
+       },
+       {
+        "Id": "304690743"
+       },
+       {
+        "Id": "306393088"
+       },
+       {
+        "Id": "307087347"
+       },
+       {
+        "Id": "308004264"
+       },
+       {
+        "Id": "312165925"
+       },
+       {
+        "Id": "321890565"
+       },
+       {
+        "Id": "333265941"
+       },
+       {
+        "Id": "333638848"
+       },
+       {
+        "Id": "335863411"
+       },
+       {
+        "Id": "336272938"
+       },
+       {
+        "Id": "348624598"
+       },
+       {
+        "Id": "350926906"
+       },
+       {
+        "Id": "366395370"
+       },
+       {
+        "Id": "366401855"
+       },
+       {
+        "Id": "375913495"
+       },
+       {
+        "Id": "378688346"
+       },
+       {
+        "Id": "378743144"
+       },
+       {
+        "Id": "380309901"
+       },
+       {
+        "Id": "381268898"
+       },
+       {
+        "Id": "381950430"
+       },
+       {
+        "Id": "391242189"
+       },
+       {
+        "Id": "393957052"
+       },
+       {
+        "Id": "394854655"
+       },
+       {
+        "Id": "402810176"
+       },
+       {
+        "Id": "403261595"
+       },
+       {
+        "Id": "403439396"
+       },
+       {
+        "Id": "408879825"
+       },
+       {
+        "Id": "413570812"
+       },
+       {
+        "Id": "413602454"
+       },
+       {
+        "Id": "424883239"
+       },
+       {
+        "Id": "425227757"
+       },
+       {
+        "Id": "427215420"
+       },
+       {
+        "Id": "428029986"
+       },
+       {
+        "Id": "428278711"
+       },
+       {
+        "Id": "436292517"
+       },
+       {
+        "Id": "440542341"
+       },
+       {
+        "Id": "442298474"
+       },
+       {
+        "Id": "445177836"
+       },
+       {
+        "Id": "445328684"
+       },
+       {
+        "Id": "450879635"
+       },
+       {
+        "Id": "451541361"
+       },
+       {
+        "Id": "452240670"
+       },
+       {
+        "Id": "457870168"
+       },
+       {
+        "Id": "458037523"
+       },
+       {
+        "Id": "459267277"
+       },
+       {
+        "Id": "459535189"
+       },
+       {
+        "Id": "462007144"
+       },
+       {
+        "Id": "468073868"
+       },
+       {
+        "Id": "468967625"
+       },
+       {
+        "Id": "469185088"
+       },
+       {
+        "Id": "470909278"
+       },
+       {
+        "Id": "471383976"
+       },
+       {
+        "Id": "473532142"
+       },
+       {
+        "Id": "475756439"
+       },
+       {
+        "Id": "475882251"
+       },
+       {
+        "Id": "485139616"
+       },
+       {
+        "Id": "490951067"
+       },
+       {
+        "Id": "491014133"
+       },
+       {
+        "Id": "499507119"
+       },
+       {
+        "Id": "500829512"
+       },
+       {
+        "Id": "503636846"
+       },
+       {
+        "Id": "508571168"
+       },
+       {
+        "Id": "509678705"
+       },
+       {
+        "Id": "510328836"
+       },
+       {
+        "Id": "512711140"
+       },
+       {
+        "Id": "514274139"
+       },
+       {
+        "Id": "517002295"
+       },
+       {
+        "Id": "517640608"
+       },
+       {
+        "Id": "523829047"
+       },
+       {
+        "Id": "525766946"
+       },
+       {
+        "Id": "525850813"
+       },
+       {
+        "Id": "528821726"
+       },
+       {
+        "Id": "530546492"
+       },
+       {
+        "Id": "531520737"
+       },
+       {
+        "Id": "535540288"
+       },
+       {
+        "Id": "539563178"
+       },
+       {
+        "Id": "540614330"
+       },
+       {
+        "Id": "543432925"
+       },
+       {
+        "Id": "544486939"
+       },
+       {
+        "Id": "545046596"
+       },
+       {
+        "Id": "545651443"
+       },
+       {
+        "Id": "546822540"
+       },
+       {
+        "Id": "549572716"
+       },
+       {
+        "Id": "550031233"
+       },
+       {
+        "Id": "551747623"
+       },
+       {
+        "Id": "554932157"
+       },
+       {
+        "Id": "558643149"
+       },
+       {
+        "Id": "559246894"
+       },
+       {
+        "Id": "563860182"
+       },
+       {
+        "Id": "570812423"
+       },
+       {
+        "Id": "574001564"
+       },
+       {
+        "Id": "575575716"
+       },
+       {
+        "Id": "576431499"
+       },
+       {
+        "Id": "577692163"
+       },
+       {
+        "Id": "577782490"
+       },
+       {
+        "Id": "579929523"
+       },
+       {
+        "Id": "585206133"
+       },
+       {
+        "Id": "587834434"
+       },
+       {
+        "Id": "592576006"
+       },
+       {
+        "Id": "593042180"
+       },
+       {
+        "Id": "599423762"
+       },
+       {
+        "Id": "601321482"
+       },
+       {
+        "Id": "604222247"
+       },
+       {
+        "Id": "606188244"
+       },
+       {
+        "Id": "609654576"
+       },
+       {
+        "Id": "610250922"
+       },
+       {
+        "Id": "614247710"
+       },
+       {
+        "Id": "616205867"
+       },
+       {
+        "Id": "616572257"
+       },
+       {
+        "Id": "623086102"
+       },
+       {
+        "Id": "626621871"
+       },
+       {
+        "Id": "627723819"
+       },
+       {
+        "Id": "630324862"
+       },
+       {
+        "Id": "632674512"
+       },
+       {
+        "Id": "633192126"
+       },
+       {
+        "Id": "634523006"
+       },
+       {
+        "Id": "635492298"
+       },
+       {
+        "Id": "639175187"
+       },
+       {
+        "Id": "652395845"
+       },
+       {
+        "Id": "652998035"
+       },
+       {
+        "Id": "661415140"
+       },
+       {
+        "Id": "661576523"
+       },
+       {
+        "Id": "663497079"
+       },
+       {
+        "Id": "663702620"
+       },
+       {
+        "Id": "664205855"
+       },
+       {
+        "Id": "665897494"
+       },
+       {
+        "Id": "671057283"
+       },
+       {
+        "Id": "675492892"
+       },
+       {
+        "Id": "682491578"
+       },
+       {
+        "Id": "687999286"
+       },
+       {
+        "Id": "697906610"
+       },
+       {
+        "Id": "701459979"
+       },
+       {
+        "Id": "701571295"
+       },
+       {
+        "Id": "702931137"
+       },
+       {
+        "Id": "703785980"
+       },
+       {
+        "Id": "704253390"
+       },
+       {
+        "Id": "705335531"
+       },
+       {
+        "Id": "726667027"
+       },
+       {
+        "Id": "728973493"
+       },
+       {
+        "Id": "730158390"
+       },
+       {
+        "Id": "731195047"
+       },
+       {
+        "Id": "732358395"
+       },
+       {
+        "Id": "732451914"
+       },
+       {
+        "Id": "734674654"
+       },
+       {
+        "Id": "737113384"
+       },
+       {
+        "Id": "743127439"
+       },
+       {
+        "Id": "746380247"
+       },
+       {
+        "Id": "747501468"
+       },
+       {
+        "Id": "751601444"
+       },
+       {
+        "Id": "753364354"
+       },
+       {
+        "Id": "754737171"
+       },
+       {
+        "Id": "756950181"
+       },
+       {
+        "Id": "765296256"
+       },
+       {
+        "Id": "769275126"
+       },
+       {
+        "Id": "769586167"
+       },
+       {
+        "Id": "773182663"
+       },
+       {
+        "Id": "775046600"
+       },
+       {
+        "Id": "776451998"
+       },
+       {
+        "Id": "779460630"
+       },
+       {
+        "Id": "783217746"
+       },
+       {
+        "Id": "790603763"
+       },
+       {
+        "Id": "792970752"
+       },
+       {
+        "Id": "793729772"
+       },
+       {
+        "Id": "794825017"
+       },
+       {
+        "Id": "796397920"
+       },
+       {
+        "Id": "800634307"
+       },
+       {
+        "Id": "803168021"
+       },
+       {
+        "Id": "805368003"
+       },
+       {
+        "Id": "811541862"
+       },
+       {
+        "Id": "813353166"
+       },
+       {
+        "Id": "813643200"
+       },
+       {
+        "Id": "815225631"
+       },
+       {
+        "Id": "816787651"
+       },
+       {
+        "Id": "818008264"
+       },
+       {
+        "Id": "826589817"
+       },
+       {
+        "Id": "829699739"
+       },
+       {
+        "Id": "830492792"
+       },
+       {
+        "Id": "831035867"
+       },
+       {
+        "Id": "833168132"
+       },
+       {
+        "Id": "835534349"
+       },
+       {
+        "Id": "836394672"
+       },
+       {
+        "Id": "840167568"
+       },
+       {
+        "Id": "847484891"
+       },
+       {
+        "Id": "854523287"
+       },
+       {
+        "Id": "855724205"
+       },
+       {
+        "Id": "855876426"
+       },
+       {
+        "Id": "863206823"
+       },
+       {
+        "Id": "864655323"
+       },
+       {
+        "Id": "869359312"
+       },
+       {
+        "Id": "876340311"
+       },
+       {
+        "Id": "876349647"
+       },
+       {
+        "Id": "878721896"
+       },
+       {
+        "Id": "879381182"
+       },
+       {
+        "Id": "880159901"
+       },
+       {
+        "Id": "881136023"
+       },
+       {
+        "Id": "883862847"
+       },
+       {
+        "Id": "886699710"
+       },
+       {
+        "Id": "888969336"
+       },
+       {
+        "Id": "889816203"
+       },
+       {
+        "Id": "891933742"
+       },
+       {
+        "Id": "892621121"
+       },
+       {
+        "Id": "898230005"
+       },
+       {
+        "Id": "905501705"
+       },
+       {
+        "Id": "908835970"
+       },
+       {
+        "Id": "909887747"
+       },
+       {
+        "Id": "911111294"
+       },
+       {
+        "Id": "915063569"
+       },
+       {
+        "Id": "916583028"
+       },
+       {
+        "Id": "917593734"
+       },
+       {
+        "Id": "918481730"
+       },
+       {
+        "Id": "918765828"
+       },
+       {
+        "Id": "920490563"
+       },
+       {
+        "Id": "921177141"
+       },
+       {
+        "Id": "926910193"
+       },
+       {
+        "Id": "927025447"
+       },
+       {
+        "Id": "927436136"
+       },
+       {
+        "Id": "930926261"
+       },
+       {
+        "Id": "934644856"
+       },
+       {
+        "Id": "939922972"
+       },
+       {
+        "Id": "946480905"
+       },
+       {
+        "Id": "949298774"
+       },
+       {
+        "Id": "949762831"
+       },
+       {
+        "Id": "951287413"
+       },
+       {
+        "Id": "953559841"
+       },
+       {
+        "Id": "958929737"
+       },
+       {
+        "Id": "963947200"
+       },
+       {
+        "Id": "965335731"
+       },
+       {
+        "Id": "967871766"
+       },
+       {
+        "Id": "971985938"
+       },
+       {
+        "Id": "972963235"
+       },
+       {
+        "Id": "973695398"
+       },
+       {
+        "Id": "973974619"
+       },
+       {
+        "Id": "974006803"
+       },
+       {
+        "Id": "974046727"
+       },
+       {
+        "Id": "975827321"
+       },
+       {
+        "Id": "975916691"
+       },
+       {
+        "Id": "976683412"
+       },
+       {
+        "Id": "983330696"
+       },
+       {
+        "Id": "989158920"
+       },
+       {
+        "Id": "989598401"
+       },
+       {
+        "Id": "990657672"
+       },
+       {
+        "Id": "992913321"
+       },
+       {
+        "Id": "995464744"
+       },
+       {
+        "Id": "998328220"
+       },
+       {
+        "Id": "1003668973"
+       },
+       {
+        "Id": "1003757347"
+       },
+       {
+        "Id": "1005171565"
+       },
+       {
+        "Id": "1006573459"
+       },
+       {
+        "Id": "1008115885"
+       },
+       {
+        "Id": "1010652535"
+       },
+       {
+        "Id": "1011428257"
+       },
+       {
+        "Id": "1012886531"
+       },
+       {
+        "Id": "1014005610"
+       },
+       {
+        "Id": "1020875682"
+       },
+       {
+        "Id": "1026236251"
+       },
+       {
+        "Id": "1028248302"
+       },
+       {
+        "Id": "1030705377"
+       },
+       {
+        "Id": "1038268121"
+       },
+       {
+        "Id": "1042797889"
+       },
+       {
+        "Id": "1047757846"
+       },
+       {
+        "Id": "1048995393"
+       },
+       {
+        "Id": "1054453262"
+       },
+       {
+        "Id": "1055495477"
+       },
+       {
+        "Id": "1056133703"
+       },
+       {
+        "Id": "1058288609"
+       },
+       {
+        "Id": "1058326709"
+       },
+       {
+        "Id": "1062956687"
+       },
+       {
+        "Id": "1063082767"
+       },
+       {
+        "Id": "1072207344"
+       }
+      ]
+     },
+     {
+      "Id": "1449827180",
+      "Name": "Reset_Instrument_State",
+      "ObjectPath": "\\Events\\Default Work Unit\\Global_Events\\Reset_Instrument_State",
+      "GUID": "{42AB4CB3-517E-4C1F-B633-BBFEFD36CA43}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1705315364",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\None",
+        "GUID": "{C12E06F8-4D52-4DBD-9F79-F90B0AD4DCB6}"
+       }
+      ]
+     },
+     {
+      "Id": "3157003241",
+      "Name": "test",
+      "ObjectPath": "\\Events\\Default Work Unit\\Test_Events\\test",
+      "GUID": "{C4C79271-AD73-462A-8C15-B2B168806C5F}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "689272"
+       },
+       {
+        "Id": "3353201"
+       },
+       {
+        "Id": "4669765"
+       },
+       {
+        "Id": "12921684"
+       },
+       {
+        "Id": "14839378"
+       },
+       {
+        "Id": "15255499"
+       },
+       {
+        "Id": "17702575"
+       },
+       {
+        "Id": "20417624"
+       },
+       {
+        "Id": "21415402"
+       },
+       {
+        "Id": "21784592"
+       },
+       {
+        "Id": "23271907"
+       },
+       {
+        "Id": "27830178"
+       },
+       {
+        "Id": "27957574"
+       },
+       {
+        "Id": "31185591"
+       },
+       {
+        "Id": "32398722"
+       },
+       {
+        "Id": "38741245"
+       },
+       {
+        "Id": "40056596"
+       },
+       {
+        "Id": "42259494"
+       },
+       {
+        "Id": "44581923"
+       },
+       {
+        "Id": "60482078"
+       },
+       {
+        "Id": "61253708"
+       },
+       {
+        "Id": "68673862"
+       },
+       {
+        "Id": "71854843"
+       },
+       {
+        "Id": "75547722"
+       },
+       {
+        "Id": "75885555"
+       },
+       {
+        "Id": "76130517"
+       },
+       {
+        "Id": "83208944"
+       },
+       {
+        "Id": "83455997"
+       },
+       {
+        "Id": "84233198"
+       },
+       {
+        "Id": "85865070"
+       },
+       {
+        "Id": "87032757"
+       },
+       {
+        "Id": "91783057"
+       },
+       {
+        "Id": "92173294"
+       },
+       {
+        "Id": "92768601"
+       },
+       {
+        "Id": "95108799"
+       },
+       {
+        "Id": "96069176"
+       },
+       {
+        "Id": "97555033"
+       },
+       {
+        "Id": "102221632"
+       },
+       {
+        "Id": "102267127"
+       },
+       {
+        "Id": "102590234"
+       },
+       {
+        "Id": "107130729"
+       },
+       {
+        "Id": "108327184"
+       },
+       {
+        "Id": "110144224"
+       },
+       {
+        "Id": "110955213"
+       },
+       {
+        "Id": "113968636"
+       },
+       {
+        "Id": "115155849"
+       },
+       {
+        "Id": "116126986"
+       },
+       {
+        "Id": "117872015"
+       },
+       {
+        "Id": "124166167"
+       },
+       {
+        "Id": "124954580"
+       },
+       {
+        "Id": "128453004"
+       },
+       {
+        "Id": "129402466"
+       },
+       {
+        "Id": "130700704"
+       },
+       {
+        "Id": "137145340"
+       },
+       {
+        "Id": "147538421"
+       },
+       {
+        "Id": "148178644"
+       },
+       {
+        "Id": "163231996"
+       },
+       {
+        "Id": "163858747"
+       },
+       {
+        "Id": "165124588"
+       },
+       {
+        "Id": "166547667"
+       },
+       {
+        "Id": "169269049"
+       },
+       {
+        "Id": "172709377"
+       },
+       {
+        "Id": "177100185"
+       },
+       {
+        "Id": "186209506"
+       },
+       {
+        "Id": "192633058"
+       },
+       {
+        "Id": "197945168"
+       },
+       {
+        "Id": "199368353"
+       },
+       {
+        "Id": "200239377"
+       },
+       {
+        "Id": "201212973"
+       },
+       {
+        "Id": "205789152"
+       },
+       {
+        "Id": "207503840"
+       },
+       {
+        "Id": "207776403"
+       },
+       {
+        "Id": "209649507"
+       },
+       {
+        "Id": "211957193"
+       },
+       {
+        "Id": "212579209"
+       },
+       {
+        "Id": "213736176"
+       },
+       {
+        "Id": "213884473"
+       },
+       {
+        "Id": "214187809"
+       },
+       {
+        "Id": "222677479"
+       },
+       {
+        "Id": "232362962"
+       },
+       {
+        "Id": "232547070"
+       },
+       {
+        "Id": "233934279"
+       },
+       {
+        "Id": "236301090"
+       },
+       {
+        "Id": "237844074"
+       },
+       {
+        "Id": "239149171"
+       },
+       {
+        "Id": "247429081"
+       },
+       {
+        "Id": "250345606"
+       },
+       {
+        "Id": "251379201"
+       },
+       {
+        "Id": "253826488"
+       },
+       {
+        "Id": "255514248"
+       },
+       {
+        "Id": "260625366"
+       },
+       {
+        "Id": "261265794"
+       },
+       {
+        "Id": "263625493"
+       },
+       {
+        "Id": "264546312"
+       },
+       {
+        "Id": "265400033"
+       },
+       {
+        "Id": "265695773"
+       },
+       {
+        "Id": "267832212"
+       },
+       {
+        "Id": "267938365"
+       },
+       {
+        "Id": "269181606"
+       },
+       {
+        "Id": "270987751"
+       },
+       {
+        "Id": "272155081"
+       },
+       {
+        "Id": "273935497"
+       },
+       {
+        "Id": "275428034"
+       },
+       {
+        "Id": "280912481"
+       },
+       {
+        "Id": "281631531"
+       },
+       {
+        "Id": "282832448"
+       },
+       {
+        "Id": "287469539"
+       },
+       {
+        "Id": "291231289"
+       },
+       {
+        "Id": "293949217"
+       },
+       {
+        "Id": "299184655"
+       },
+       {
+        "Id": "300376831"
+       },
+       {
+        "Id": "303581462"
+       },
+       {
+        "Id": "304690743"
+       },
+       {
+        "Id": "306393088"
+       },
+       {
+        "Id": "307087347"
+       },
+       {
+        "Id": "308004264"
+       },
+       {
+        "Id": "312165925"
+       },
+       {
+        "Id": "321890565"
+       },
+       {
+        "Id": "333265941"
+       },
+       {
+        "Id": "333638848"
+       },
+       {
+        "Id": "335863411"
+       },
+       {
+        "Id": "336272938"
+       },
+       {
+        "Id": "348624598"
+       },
+       {
+        "Id": "350926906"
+       },
+       {
+        "Id": "366395370"
+       },
+       {
+        "Id": "366401855"
+       },
+       {
+        "Id": "375913495"
+       },
+       {
+        "Id": "378688346"
+       },
+       {
+        "Id": "378743144"
+       },
+       {
+        "Id": "380309901"
+       },
+       {
+        "Id": "381268898"
+       },
+       {
+        "Id": "381950430"
+       },
+       {
+        "Id": "391242189"
+       },
+       {
+        "Id": "393957052"
+       },
+       {
+        "Id": "394854655"
+       },
+       {
+        "Id": "402810176"
+       },
+       {
+        "Id": "403261595"
+       },
+       {
+        "Id": "403439396"
+       },
+       {
+        "Id": "408879825"
+       },
+       {
+        "Id": "413570812"
+       },
+       {
+        "Id": "413602454"
+       },
+       {
+        "Id": "424883239"
+       },
+       {
+        "Id": "425227757"
+       },
+       {
+        "Id": "427215420"
+       },
+       {
+        "Id": "428029986"
+       },
+       {
+        "Id": "428278711"
+       },
+       {
+        "Id": "436292517"
+       },
+       {
+        "Id": "440542341"
+       },
+       {
+        "Id": "442298474"
+       },
+       {
+        "Id": "445177836"
+       },
+       {
+        "Id": "445328684"
+       },
+       {
+        "Id": "450879635"
+       },
+       {
+        "Id": "451541361"
+       },
+       {
+        "Id": "452240670"
+       },
+       {
+        "Id": "457870168"
+       },
+       {
+        "Id": "458037523"
+       },
+       {
+        "Id": "459267277"
+       },
+       {
+        "Id": "459535189"
+       },
+       {
+        "Id": "462007144"
+       },
+       {
+        "Id": "468073868"
+       },
+       {
+        "Id": "468967625"
+       },
+       {
+        "Id": "469185088"
+       },
+       {
+        "Id": "470909278"
+       },
+       {
+        "Id": "471383976"
+       },
+       {
+        "Id": "473532142"
+       },
+       {
+        "Id": "475756439"
+       },
+       {
+        "Id": "475882251"
+       },
+       {
+        "Id": "485139616"
+       },
+       {
+        "Id": "490951067"
+       },
+       {
+        "Id": "491014133"
+       },
+       {
+        "Id": "499507119"
+       },
+       {
+        "Id": "500829512"
+       },
+       {
+        "Id": "503636846"
+       },
+       {
+        "Id": "508571168"
+       },
+       {
+        "Id": "509678705"
+       },
+       {
+        "Id": "510328836"
+       },
+       {
+        "Id": "512711140"
+       },
+       {
+        "Id": "514274139"
+       },
+       {
+        "Id": "517002295"
+       },
+       {
+        "Id": "517640608"
+       },
+       {
+        "Id": "523829047"
+       },
+       {
+        "Id": "525766946"
+       },
+       {
+        "Id": "525850813"
+       },
+       {
+        "Id": "528821726"
+       },
+       {
+        "Id": "530546492"
+       },
+       {
+        "Id": "531520737"
+       },
+       {
+        "Id": "535540288"
+       },
+       {
+        "Id": "539563178"
+       },
+       {
+        "Id": "540614330"
+       },
+       {
+        "Id": "543432925"
+       },
+       {
+        "Id": "544486939"
+       },
+       {
+        "Id": "545046596"
+       },
+       {
+        "Id": "545651443"
+       },
+       {
+        "Id": "546822540"
+       },
+       {
+        "Id": "549572716"
+       },
+       {
+        "Id": "550031233"
+       },
+       {
+        "Id": "551747623"
+       },
+       {
+        "Id": "554932157"
+       },
+       {
+        "Id": "558643149"
+       },
+       {
+        "Id": "559246894"
+       },
+       {
+        "Id": "563860182"
+       },
+       {
+        "Id": "570812423"
+       },
+       {
+        "Id": "574001564"
+       },
+       {
+        "Id": "575575716"
+       },
+       {
+        "Id": "576431499"
+       },
+       {
+        "Id": "577692163"
+       },
+       {
+        "Id": "577782490"
+       },
+       {
+        "Id": "579929523"
+       },
+       {
+        "Id": "585206133"
+       },
+       {
+        "Id": "587834434"
+       },
+       {
+        "Id": "592576006"
+       },
+       {
+        "Id": "593042180"
+       },
+       {
+        "Id": "599423762"
+       },
+       {
+        "Id": "601321482"
+       },
+       {
+        "Id": "604222247"
+       },
+       {
+        "Id": "606188244"
+       },
+       {
+        "Id": "609654576"
+       },
+       {
+        "Id": "610250922"
+       },
+       {
+        "Id": "614247710"
+       },
+       {
+        "Id": "616205867"
+       },
+       {
+        "Id": "616572257"
+       },
+       {
+        "Id": "623086102"
+       },
+       {
+        "Id": "626621871"
+       },
+       {
+        "Id": "627723819"
+       },
+       {
+        "Id": "630324862"
+       },
+       {
+        "Id": "632674512"
+       },
+       {
+        "Id": "633192126"
+       },
+       {
+        "Id": "634523006"
+       },
+       {
+        "Id": "635492298"
+       },
+       {
+        "Id": "639175187"
+       },
+       {
+        "Id": "652395845"
+       },
+       {
+        "Id": "652998035"
+       },
+       {
+        "Id": "661415140"
+       },
+       {
+        "Id": "661576523"
+       },
+       {
+        "Id": "663497079"
+       },
+       {
+        "Id": "663702620"
+       },
+       {
+        "Id": "664205855"
+       },
+       {
+        "Id": "665897494"
+       },
+       {
+        "Id": "671057283"
+       },
+       {
+        "Id": "675492892"
+       },
+       {
+        "Id": "682491578"
+       },
+       {
+        "Id": "687999286"
+       },
+       {
+        "Id": "697906610"
+       },
+       {
+        "Id": "701459979"
+       },
+       {
+        "Id": "701571295"
+       },
+       {
+        "Id": "702931137"
+       },
+       {
+        "Id": "703785980"
+       },
+       {
+        "Id": "704253390"
+       },
+       {
+        "Id": "705335531"
+       },
+       {
+        "Id": "726667027"
+       },
+       {
+        "Id": "728973493"
+       },
+       {
+        "Id": "730158390"
+       },
+       {
+        "Id": "731195047"
+       },
+       {
+        "Id": "732358395"
+       },
+       {
+        "Id": "732451914"
+       },
+       {
+        "Id": "734674654"
+       },
+       {
+        "Id": "737113384"
+       },
+       {
+        "Id": "743127439"
+       },
+       {
+        "Id": "746380247"
+       },
+       {
+        "Id": "747501468"
+       },
+       {
+        "Id": "751601444"
+       },
+       {
+        "Id": "753364354"
+       },
+       {
+        "Id": "754737171"
+       },
+       {
+        "Id": "756950181"
+       },
+       {
+        "Id": "765296256"
+       },
+       {
+        "Id": "769275126"
+       },
+       {
+        "Id": "769586167"
+       },
+       {
+        "Id": "773182663"
+       },
+       {
+        "Id": "775046600"
+       },
+       {
+        "Id": "776451998"
+       },
+       {
+        "Id": "779460630"
+       },
+       {
+        "Id": "783217746"
+       },
+       {
+        "Id": "790603763"
+       },
+       {
+        "Id": "792970752"
+       },
+       {
+        "Id": "793729772"
+       },
+       {
+        "Id": "794825017"
+       },
+       {
+        "Id": "796397920"
+       },
+       {
+        "Id": "800634307"
+       },
+       {
+        "Id": "803168021"
+       },
+       {
+        "Id": "805368003"
+       },
+       {
+        "Id": "811541862"
+       },
+       {
+        "Id": "813353166"
+       },
+       {
+        "Id": "813643200"
+       },
+       {
+        "Id": "815225631"
+       },
+       {
+        "Id": "816787651"
+       },
+       {
+        "Id": "818008264"
+       },
+       {
+        "Id": "826589817"
+       },
+       {
+        "Id": "829699739"
+       },
+       {
+        "Id": "830492792"
+       },
+       {
+        "Id": "831035867"
+       },
+       {
+        "Id": "833168132"
+       },
+       {
+        "Id": "835534349"
+       },
+       {
+        "Id": "836394672"
+       },
+       {
+        "Id": "840167568"
+       },
+       {
+        "Id": "847484891"
+       },
+       {
+        "Id": "854523287"
+       },
+       {
+        "Id": "855724205"
+       },
+       {
+        "Id": "855876426"
+       },
+       {
+        "Id": "863206823"
+       },
+       {
+        "Id": "864655323"
+       },
+       {
+        "Id": "869359312"
+       },
+       {
+        "Id": "876340311"
+       },
+       {
+        "Id": "876349647"
+       },
+       {
+        "Id": "878721896"
+       },
+       {
+        "Id": "879381182"
+       },
+       {
+        "Id": "880159901"
+       },
+       {
+        "Id": "881136023"
+       },
+       {
+        "Id": "883862847"
+       },
+       {
+        "Id": "886699710"
+       },
+       {
+        "Id": "888969336"
+       },
+       {
+        "Id": "889816203"
+       },
+       {
+        "Id": "891933742"
+       },
+       {
+        "Id": "892621121"
+       },
+       {
+        "Id": "898230005"
+       },
+       {
+        "Id": "905501705"
+       },
+       {
+        "Id": "908835970"
+       },
+       {
+        "Id": "909887747"
+       },
+       {
+        "Id": "911111294"
+       },
+       {
+        "Id": "915063569"
+       },
+       {
+        "Id": "916583028"
+       },
+       {
+        "Id": "917593734"
+       },
+       {
+        "Id": "918481730"
+       },
+       {
+        "Id": "918765828"
+       },
+       {
+        "Id": "920490563"
+       },
+       {
+        "Id": "921177141"
+       },
+       {
+        "Id": "926910193"
+       },
+       {
+        "Id": "927025447"
+       },
+       {
+        "Id": "927436136"
+       },
+       {
+        "Id": "930926261"
+       },
+       {
+        "Id": "934644856"
+       },
+       {
+        "Id": "939922972"
+       },
+       {
+        "Id": "946480905"
+       },
+       {
+        "Id": "949298774"
+       },
+       {
+        "Id": "949762831"
+       },
+       {
+        "Id": "951287413"
+       },
+       {
+        "Id": "953559841"
+       },
+       {
+        "Id": "958929737"
+       },
+       {
+        "Id": "963947200"
+       },
+       {
+        "Id": "965335731"
+       },
+       {
+        "Id": "967871766"
+       },
+       {
+        "Id": "971985938"
+       },
+       {
+        "Id": "972963235"
+       },
+       {
+        "Id": "973695398"
+       },
+       {
+        "Id": "973974619"
+       },
+       {
+        "Id": "974006803"
+       },
+       {
+        "Id": "974046727"
+       },
+       {
+        "Id": "975827321"
+       },
+       {
+        "Id": "975916691"
+       },
+       {
+        "Id": "976683412"
+       },
+       {
+        "Id": "983330696"
+       },
+       {
+        "Id": "989158920"
+       },
+       {
+        "Id": "989598401"
+       },
+       {
+        "Id": "990657672"
+       },
+       {
+        "Id": "992913321"
+       },
+       {
+        "Id": "995464744"
+       },
+       {
+        "Id": "998328220"
+       },
+       {
+        "Id": "1003668973"
+       },
+       {
+        "Id": "1003757347"
+       },
+       {
+        "Id": "1005171565"
+       },
+       {
+        "Id": "1006573459"
+       },
+       {
+        "Id": "1008115885"
+       },
+       {
+        "Id": "1010652535"
+       },
+       {
+        "Id": "1011428257"
+       },
+       {
+        "Id": "1012886531"
+       },
+       {
+        "Id": "1014005610"
+       },
+       {
+        "Id": "1020875682"
+       },
+       {
+        "Id": "1026236251"
+       },
+       {
+        "Id": "1028248302"
+       },
+       {
+        "Id": "1030705377"
+       },
+       {
+        "Id": "1038268121"
+       },
+       {
+        "Id": "1042797889"
+       },
+       {
+        "Id": "1047757846"
+       },
+       {
+        "Id": "1048995393"
+       },
+       {
+        "Id": "1054453262"
+       },
+       {
+        "Id": "1055495477"
+       },
+       {
+        "Id": "1056133703"
+       },
+       {
+        "Id": "1058288609"
+       },
+       {
+        "Id": "1058326709"
+       },
+       {
+        "Id": "1062956687"
+       },
+       {
+        "Id": "1063082767"
+       },
+       {
+        "Id": "1072207344"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "50307539",
+      "Name": "RTPC_Global_PlaybackSpeed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\RTPC_Global_PlaybackSpeed",
+      "GUID": "{CBDD31D1-936B-4C13-B196-95D4B8073B07}"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "73183939",
+      "Name": "ClarinetLowCowbell",
+      "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell",
+      "GUID": "{D1907E4C-26CB-47F3-AAFB-0C63B55BFBAD}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\None",
+        "GUID": "{8C524E1A-C30A-4C93-9933-8E28017EE769}"
+       },
+       {
+        "Id": "2032637112",
+        "Name": "Midimite_LowCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\Midimite_LowCowbell",
+        "GUID": "{037AD994-F038-4CB7-AB45-05C624F7BCB5}",
+        "Color": "10"
+       },
+       {
+        "Id": "3339647189",
+        "Name": "Modalman_Clarinet",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\Modalman_Clarinet",
+        "GUID": "{D03F36B9-B839-47E5-BEE6-6A0DB51B1197}",
+        "Color": "2"
+       },
+       {
+        "Id": "4047794399",
+        "Name": "NPC_Clarinet",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\NPC_Clarinet",
+        "GUID": "{D6E4F502-53E4-4F95-A2C9-F6DDBB44463E}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "474846413",
+      "Name": "FluteHighCowbell",
+      "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell",
+      "GUID": "{EA5B980A-0E43-4400-9EB8-E864BD29455D}",
+      "States": [
+       {
+        "Id": "648049514",
+        "Name": "Midimite_HighCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\Midimite_HighCowbell",
+        "GUID": "{5072FA08-0A7D-4E86-BE66-43FDD0A6ECD0}",
+        "Color": "10"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\None",
+        "GUID": "{6EBD3726-831A-43D8-821A-B8DBBE6603A4}"
+       },
+       {
+        "Id": "2626952999",
+        "Name": "Modalman_Flute",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\Modalman_Flute",
+        "GUID": "{0C2A2777-CD68-4096-9430-9ABF6C36E907}",
+        "Color": "2"
+       },
+       {
+        "Id": "4050165685",
+        "Name": "NPC_Flute",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\NPC_Flute",
+        "GUID": "{067606F5-5D0F-4B21-9DD3-ABEC4E7B2C75}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "1301975716",
+      "Name": "ViolaTabla",
+      "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla",
+      "GUID": "{6D45FC29-614D-4A55-A9BF-2D5F09C76319}",
+      "States": [
+       {
+        "Id": "274510094",
+        "Name": "Modalman_Viola",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\Modalman_Viola",
+        "GUID": "{B8AD13A5-ACBB-430B-BC8E-8FBCD5DABED8}",
+        "Color": "2"
+       },
+       {
+        "Id": "632282368",
+        "Name": "NPC_Viola",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\NPC_Viola",
+        "GUID": "{C09721E9-1ADE-4710-85B0-F3DB97E2F8B2}",
+        "Color": "4"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\None",
+        "GUID": "{31133AD6-5F78-48D2-859A-008C05A6DE5C}"
+       },
+       {
+        "Id": "1702411004",
+        "Name": "Midimite_Tabla",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\Midimite_Tabla",
+        "GUID": "{7E0FD7EA-EDAE-4525-8E14-0FC09C2BB959}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "1413498124",
+      "Name": "BassoonUdu",
+      "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu",
+      "GUID": "{CA1C2FC5-E071-4948-97EF-DB1CB3F12E1A}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\None",
+        "GUID": "{E8159135-D8A8-4DF1-A70E-BE4CD0C6285C}"
+       },
+       {
+        "Id": "2582786496",
+        "Name": "Midimite_Udu",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\Midimite_Udu",
+        "GUID": "{25BC8CF3-CDD7-476E-9561-780E4AEF0FF9}",
+        "Color": "10"
+       },
+       {
+        "Id": "2613648810",
+        "Name": "Modalman_Bassoon",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\Modalman_Bassoon",
+        "GUID": "{ECE25CEB-B417-4102-9E76-17FB952417DD}",
+        "Color": "2"
+       },
+       {
+        "Id": "2747654820",
+        "Name": "NPC_Bassoon",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\NPC_Bassoon",
+        "GUID": "{D2EF3D91-3836-4A2B-B30C-960E86267302}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "1705315364",
+      "Name": "OboeAnvil",
+      "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil",
+      "GUID": "{42660BAC-4ECC-450A-AD8F-4B742C17953B}",
+      "States": [
+       {
+        "Id": "516967432",
+        "Name": "Modalman_Oboe",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\Modalman_Oboe",
+        "GUID": "{11AF86E4-4DAC-4CEE-A392-D724728CDAC3}",
+        "Color": "2"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\None",
+        "GUID": "{C12E06F8-4D52-4DBD-9F79-F90B0AD4DCB6}"
+       },
+       {
+        "Id": "1274921330",
+        "Name": "NPC_Oboe",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\NPC_Oboe",
+        "GUID": "{DF422829-51B1-4293-BD21-D48CFBD969C0}",
+        "Color": "4"
+       },
+       {
+        "Id": "1819772878",
+        "Name": "Midimite_Anvil",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\Midimite_Anvil",
+        "GUID": "{378D5D8F-E24A-4A80-91E6-80F0C09045F3}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "2303000183",
+      "Name": "VibraphoneCymbal",
+      "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal",
+      "GUID": "{0287CC98-B007-4F19-B213-5223E3965E7D}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\None",
+        "GUID": "{68B41C1C-77B9-439D-B4A3-0CA15E6C8386}"
+       },
+       {
+        "Id": "911569586",
+        "Name": "Midimite_Cymbal",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\Midimite_Cymbal",
+        "GUID": "{E31E6E22-7B25-463A-AF33-673C8AB71085}",
+        "Color": "10"
+       },
+       {
+        "Id": "2281535139",
+        "Name": "Modalman_Vibraphone",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\Modalman_Vibraphone",
+        "GUID": "{D4053C52-A5BA-4D0F-986B-F57E6D24A174}",
+        "Color": "2"
+       },
+       {
+        "Id": "4239875109",
+        "Name": "NPC_Vibraphone",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\NPC_Vibraphone",
+        "GUID": "{FEB58FB5-A216-4A9D-8174-7195E33063E2}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "2357403405",
+      "Name": "PianoKickSnare",
+      "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare",
+      "GUID": "{C1AF14DD-3364-4BCE-8AF5-9E89928C596F}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\None",
+        "GUID": "{11DB9CC3-A90B-45E7-9A5E-D5924F1649D2}"
+       },
+       {
+        "Id": "3043757710",
+        "Name": "Modalman_Piano",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\Modalman_Piano",
+        "GUID": "{D195B6A1-4917-41DC-9C1D-16CE5131C9FA}",
+        "Color": "2"
+       },
+       {
+        "Id": "3369293493",
+        "Name": "Midimite_KickSnare",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\Midimite_KickSnare",
+        "GUID": "{687871FD-15D2-4A84-B077-BE88FAF68382}",
+        "Color": "10"
+       },
+       {
+        "Id": "3805777016",
+        "Name": "NPC_Piano",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\NPC_Piano",
+        "GUID": "{88490592-22F3-4DF9-ADEC-4AE782C5E6B2}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "2608626964",
+      "Name": "CelloConga",
+      "ObjectPath": "\\States\\Default Work Unit\\CelloConga",
+      "GUID": "{A6C26B97-1386-43A4-A93C-3169A4C35D95}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\None",
+        "GUID": "{15F55C78-4CA3-4363-A799-B2487B08549F}"
+       },
+       {
+        "Id": "1781666048",
+        "Name": "NPC_Cello",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\NPC_Cello",
+        "GUID": "{A9C22207-9B25-4EE0-A166-16945210CB81}",
+        "Color": "4"
+       },
+       {
+        "Id": "1962323748",
+        "Name": "Midimite_Conga",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\Midimite_Conga",
+        "GUID": "{C8A259D9-63A5-46F7-A435-BD243C1C9433}",
+        "Color": "10"
+       },
+       {
+        "Id": "2506517806",
+        "Name": "Modalman_Cello",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\Modalman_Cello",
+        "GUID": "{E7CE52EA-3C02-4B82-86EA-9D70A6C1F39F}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "2694696584",
+      "Name": "MarimbaLowKit",
+      "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit",
+      "GUID": "{3F36416A-434E-4957-940F-46073E85F724}",
+      "States": [
+       {
+        "Id": "284414508",
+        "Name": "Modalman_Marimba",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\Modalman_Marimba",
+        "GUID": "{73DB7FF0-FB86-4E52-ACBB-A91944E7ADD5}",
+        "Color": "2"
+       },
+       {
+        "Id": "608418222",
+        "Name": "NPC_Marimba",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\NPC_Marimba",
+        "GUID": "{C54D15C8-DFCC-4F19-86BF-ACE686B5398D}",
+        "Color": "4"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\None",
+        "GUID": "{E7F03BD0-DF8C-4B93-BD0C-73B417AC683A}"
+       },
+       {
+        "Id": "2514397822",
+        "Name": "Midimite_LowKit",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\Midimite_LowKit",
+        "GUID": "{1B514A97-249E-4879-ABF2-FD4D22D415D6}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "3464414902",
+      "Name": "ViolinBamboo",
+      "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo",
+      "GUID": "{5C87EAF2-B6F2-45DA-8920-F6A0097C77E9}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\None",
+        "GUID": "{870AE249-CA46-4710-BD85-C5ACAD56F5F3}"
+       },
+       {
+        "Id": "1540944886",
+        "Name": "NPC_Violin",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\NPC_Violin",
+        "GUID": "{78444450-1D6A-42FC-9258-5787C2DE175A}",
+        "Color": "4"
+       },
+       {
+        "Id": "3172327104",
+        "Name": "Midimite_Bamboo",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\Midimite_Bamboo",
+        "GUID": "{76FDCB66-89D7-4C9D-8093-FDAD0F3EC878}",
+        "Color": "10"
+       },
+       {
+        "Id": "3354045468",
+        "Name": "Modalman_Violin",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\Modalman_Violin",
+        "GUID": "{97F5516E-3CD2-4B1F-A2BF-E4C3D17F94F6}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "3482004262",
+      "Name": "CelesteHighKit",
+      "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit",
+      "GUID": "{16240C4D-077E-4DD6-AFB9-B1802554E550}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\None",
+        "GUID": "{4192EC8C-2BDC-48C4-B4E2-1BB69044F3D5}"
+       },
+       {
+        "Id": "1937297268",
+        "Name": "Midimite_HighKit",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\Midimite_HighKit",
+        "GUID": "{D2CBDC70-EA96-4016-B48B-42A473E2ABE1}",
+        "Color": "10"
+       },
+       {
+        "Id": "2822540212",
+        "Name": "Modalman_Celeste",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\Modalman_Celeste",
+        "GUID": "{D22495F8-8B6E-4658-9CED-B210C0946C56}",
+        "Color": "2"
+       },
+       {
+        "Id": "4244078214",
+        "Name": "NPC_Celeste",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\NPC_Celeste",
+        "GUID": "{2C8A1017-19C2-4B57-B11C-0720412E1AE1}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "4165357381",
+      "Name": "BassDarabuka",
+      "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka",
+      "GUID": "{2288B661-A264-4AF0-AE1B-99AAC1A94F9B}",
+      "States": [
+       {
+        "Id": "603031370",
+        "Name": "Modalman_Bass",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\Modalman_Bass",
+        "GUID": "{FE7829FE-A7EA-4411-9A7D-34B458C4A4CC}",
+        "Color": "2"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\None",
+        "GUID": "{20C33161-1025-4351-9781-66DFF2DF7952}"
+       },
+       {
+        "Id": "1517246961",
+        "Name": "Midimite_Darabuka",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\Midimite_Darabuka",
+        "GUID": "{BE00C6F0-8A3E-4D21-90B7-A982473FC9D7}",
+        "Color": "10"
+       },
+       {
+        "Id": "2873691804",
+        "Name": "NPC_Bass",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\NPC_Bass",
+        "GUID": "{C1351B67-A8BD-44F3-8455-64DF51DA70D8}",
+        "Color": "4"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A9511C44-6AB4-DC05-5380-A02F4A3ADCEA}"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "Tonalitopia",
+   "GUID": "{A884A6FA-8AB1-4238-A079-DA3FBAEC76E0}",
+   "Generator": "2025.1.6.9117"
+  },
+  "CacheRoot": "../../../../WwiseProjects/Tonalitopia/.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{ED0571F8-155F-4850-B632-CA0C5350573F}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{25B69A60-75EF-4CA7-9B62-083595CB43FD}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{78C6A02F-86CF-4607-AF25-3A6B0E81AA3F}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{C8371EEB-7DFC-AB89-8651-49BF8B3DDC94}"
+ }
+}
