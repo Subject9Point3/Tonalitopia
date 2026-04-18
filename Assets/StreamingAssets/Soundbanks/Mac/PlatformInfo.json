@@ -3,7 +3,7 @@
   "Platform": {
    "Name": "Mac",
    "BasePlatform": "Mac",
-   "Generator": "2025.1.4.9062"
+   "Generator": "2025.1.6.9117"
   },
   "RootPaths": {
    "ProjectRoot": "../../../../../WwiseProjects/Tonalitopia",
@@ -14,7 +14,7 @@
   },
   "DefaultAlign": "16",
   "Settings": {
-   "AutoSoundBankDefinition": "false",
+   "AutoSoundBankDefinition": "true",
    "CopyLooseStreamedMediaFiles": "true",
    "SubFoldersForGeneratedFiles": "true",
    "RemoveUnusedGeneratedFiles": "true",
@@ -33,6 +33,6 @@
    "PrintObjectPath": "true",
    "PrintObjectColor": "true"
   },
-  "FileHash": "{5ACEF873-F265-63C0-49CE-E2F975D76C89}"
+  "FileHash": "{989FDC2E-CDEF-20AF-E54C-B24C80120C47}"
  }
 }

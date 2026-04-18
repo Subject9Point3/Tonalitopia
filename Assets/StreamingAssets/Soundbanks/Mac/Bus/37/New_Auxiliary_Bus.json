@@ -1,0 +1,29 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "373392551",
+    "Type": "Bus",
+    "GUID": "{BD452E81-4146-447F-B5F0-E0C77925C614}",
+    "Language": "SFX",
+    "Hash": "{67670791-F81F-AD6D-7D0D-B7BB343C2FA4}",
+    "ObjectPath": "New_Auxiliary_Bus",
+    "ShortName": "New_Auxiliary_Bus",
+    "Path": "Bus/37/New_Auxiliary_Bus.bnk",
+    "AuxBusses": [
+     {
+      "Id": "373392551",
+      "Name": "New_Auxiliary_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\New_Auxiliary_Bus",
+      "GUID": "{BD452E81-4146-447F-B5F0-E0C77925C614}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{738D932F-0E33-D6ED-B95F-66CC215DCEE0}"
+ }
+}

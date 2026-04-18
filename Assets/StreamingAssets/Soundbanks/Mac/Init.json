@@ -10,11 +10,29 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{270E2181-1277-C352-7F55-C4E0CD22F19E}",
+    "Hash": "{C8D41B7A-0C33-29DB-EA4E-92BC7920E95B}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
     "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "505060943",
+       "Name": "Limiter",
+       "ObjectPath": "\\Effects\\Default Work Unit\\Limiter",
+       "GUID": "{D0443FC1-4E15-40FA-B0EC-DA0EE6314019}",
+       "LibName": "Wwise Compressor",
+       "LibId": "7077891"
+      },
+      {
+       "Id": "3825041543",
+       "Name": "New_AkBitcrusher",
+       "ObjectPath": "\\Effects\\Default Work Unit\\New_AkBitcrusher",
+       "GUID": "{0EE9053D-5EF5-437D-8D4D-B8C587012FB6}",
+       "LibName": "AkBitcrusher",
+       "LibId": "13173763"
+      }
+     ],
      "AudioDevices": [
       {
        "Id": "2317455096",
@@ -36,20 +54,487 @@
     },
     "Busses": [
      {
+      "Id": "43418073",
+      "Name": "1_NPC_Bus_Celeste",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\1_NPC_Bus_Celeste",
+      "GUID": "{0E152450-3B7D-447E-AD5E-8EBF095DB3FA}",
+      "MaxAttenuation": "100"
+     },
+     {
+      "Id": "571675678",
+      "Name": "celeste test",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\celeste test",
+      "GUID": "{AEC1A34E-013D-4886-BF8C-47FFD0957073}"
+     },
+     {
       "Id": "2246998526",
       "Name": "Main Audio Bus",
       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus",
-      "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
+      "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "505060943"
+        },
+        {
+         "Id": "3825041543"
+        }
+       ]
+      }
      },
      {
-      "Id": "2255513057",
-      "Name": "New Audio Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\New Audio Bus",
-      "GUID": "{0E152450-3B7D-447E-AD5E-8EBF095DB3FA}"
+      "Id": "2799548653",
+      "Name": "New Audio Bus_01",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\New Audio Bus_01",
+      "GUID": "{1DBCB753-8215-4AF4-AAA1-06966E216410}"
+     }
+    ],
+    "AuxBusses": [
+     {
+      "Id": "373392551",
+      "Name": "New_Auxiliary_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\New_Auxiliary_Bus",
+      "GUID": "{BD452E81-4146-447F-B5F0-E0C77925C614}"
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "50307539",
+      "Name": "RTPC_Global_PlaybackSpeed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\RTPC_Global_PlaybackSpeed",
+      "GUID": "{CBDD31D1-936B-4C13-B196-95D4B8073B07}"
+     },
+     {
+      "Id": "4237034167",
+      "Name": "BitcrushAmount",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\BitcrushAmount",
+      "GUID": "{45141CB3-3B48-4F83-9006-7DA0A731A281}"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "73183939",
+      "Name": "ClarinetLowCowbell",
+      "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell",
+      "GUID": "{D1907E4C-26CB-47F3-AAFB-0C63B55BFBAD}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\None",
+        "GUID": "{8C524E1A-C30A-4C93-9933-8E28017EE769}"
+       },
+       {
+        "Id": "2032637112",
+        "Name": "Midimite_LowCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\Midimite_LowCowbell",
+        "GUID": "{037AD994-F038-4CB7-AB45-05C624F7BCB5}",
+        "Color": "10"
+       },
+       {
+        "Id": "3339647189",
+        "Name": "Modalman_Clarinet",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\Modalman_Clarinet",
+        "GUID": "{D03F36B9-B839-47E5-BEE6-6A0DB51B1197}",
+        "Color": "2"
+       },
+       {
+        "Id": "4047794399",
+        "Name": "NPC_Clarinet",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\NPC_Clarinet",
+        "GUID": "{D6E4F502-53E4-4F95-A2C9-F6DDBB44463E}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "474846413",
+      "Name": "FluteHighCowbell",
+      "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell",
+      "GUID": "{EA5B980A-0E43-4400-9EB8-E864BD29455D}",
+      "States": [
+       {
+        "Id": "648049514",
+        "Name": "Midimite_HighCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\Midimite_HighCowbell",
+        "GUID": "{5072FA08-0A7D-4E86-BE66-43FDD0A6ECD0}",
+        "Color": "10"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\None",
+        "GUID": "{6EBD3726-831A-43D8-821A-B8DBBE6603A4}"
+       },
+       {
+        "Id": "2626952999",
+        "Name": "Modalman_Flute",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\Modalman_Flute",
+        "GUID": "{0C2A2777-CD68-4096-9430-9ABF6C36E907}",
+        "Color": "2"
+       },
+       {
+        "Id": "4050165685",
+        "Name": "NPC_Flute",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\NPC_Flute",
+        "GUID": "{067606F5-5D0F-4B21-9DD3-ABEC4E7B2C75}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "1301975716",
+      "Name": "ViolaTabla",
+      "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla",
+      "GUID": "{6D45FC29-614D-4A55-A9BF-2D5F09C76319}",
+      "States": [
+       {
+        "Id": "274510094",
+        "Name": "Modalman_Viola",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\Modalman_Viola",
+        "GUID": "{B8AD13A5-ACBB-430B-BC8E-8FBCD5DABED8}",
+        "Color": "2"
+       },
+       {
+        "Id": "632282368",
+        "Name": "NPC_Viola",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\NPC_Viola",
+        "GUID": "{C09721E9-1ADE-4710-85B0-F3DB97E2F8B2}",
+        "Color": "4"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\None",
+        "GUID": "{31133AD6-5F78-48D2-859A-008C05A6DE5C}"
+       },
+       {
+        "Id": "1702411004",
+        "Name": "Midimite_Tabla",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\Midimite_Tabla",
+        "GUID": "{7E0FD7EA-EDAE-4525-8E14-0FC09C2BB959}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "1413498124",
+      "Name": "BassoonUdu",
+      "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu",
+      "GUID": "{CA1C2FC5-E071-4948-97EF-DB1CB3F12E1A}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\None",
+        "GUID": "{E8159135-D8A8-4DF1-A70E-BE4CD0C6285C}"
+       },
+       {
+        "Id": "2582786496",
+        "Name": "Midimite_Udu",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\Midimite_Udu",
+        "GUID": "{25BC8CF3-CDD7-476E-9561-780E4AEF0FF9}",
+        "Color": "10"
+       },
+       {
+        "Id": "2613648810",
+        "Name": "Modalman_Bassoon",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\Modalman_Bassoon",
+        "GUID": "{ECE25CEB-B417-4102-9E76-17FB952417DD}",
+        "Color": "2"
+       },
+       {
+        "Id": "2747654820",
+        "Name": "NPC_Bassoon",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\NPC_Bassoon",
+        "GUID": "{D2EF3D91-3836-4A2B-B30C-960E86267302}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "1705315364",
+      "Name": "OboeAnvil",
+      "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil",
+      "GUID": "{42660BAC-4ECC-450A-AD8F-4B742C17953B}",
+      "States": [
+       {
+        "Id": "516967432",
+        "Name": "Modalman_Oboe",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\Modalman_Oboe",
+        "GUID": "{11AF86E4-4DAC-4CEE-A392-D724728CDAC3}",
+        "Color": "2"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\None",
+        "GUID": "{C12E06F8-4D52-4DBD-9F79-F90B0AD4DCB6}"
+       },
+       {
+        "Id": "1274921330",
+        "Name": "NPC_Oboe",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\NPC_Oboe",
+        "GUID": "{DF422829-51B1-4293-BD21-D48CFBD969C0}",
+        "Color": "4"
+       },
+       {
+        "Id": "1819772878",
+        "Name": "Midimite_Anvil",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\Midimite_Anvil",
+        "GUID": "{378D5D8F-E24A-4A80-91E6-80F0C09045F3}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "2303000183",
+      "Name": "VibraphoneCymbal",
+      "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal",
+      "GUID": "{0287CC98-B007-4F19-B213-5223E3965E7D}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\None",
+        "GUID": "{68B41C1C-77B9-439D-B4A3-0CA15E6C8386}"
+       },
+       {
+        "Id": "911569586",
+        "Name": "Midimite_Cymbal",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\Midimite_Cymbal",
+        "GUID": "{E31E6E22-7B25-463A-AF33-673C8AB71085}",
+        "Color": "10"
+       },
+       {
+        "Id": "2281535139",
+        "Name": "Modalman_Vibraphone",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\Modalman_Vibraphone",
+        "GUID": "{D4053C52-A5BA-4D0F-986B-F57E6D24A174}",
+        "Color": "2"
+       },
+       {
+        "Id": "4239875109",
+        "Name": "NPC_Vibraphone",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\NPC_Vibraphone",
+        "GUID": "{FEB58FB5-A216-4A9D-8174-7195E33063E2}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "2357403405",
+      "Name": "PianoKickSnare",
+      "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare",
+      "GUID": "{C1AF14DD-3364-4BCE-8AF5-9E89928C596F}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\None",
+        "GUID": "{11DB9CC3-A90B-45E7-9A5E-D5924F1649D2}"
+       },
+       {
+        "Id": "3043757710",
+        "Name": "Modalman_Piano",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\Modalman_Piano",
+        "GUID": "{D195B6A1-4917-41DC-9C1D-16CE5131C9FA}",
+        "Color": "2"
+       },
+       {
+        "Id": "3369293493",
+        "Name": "Midimite_KickSnare",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\Midimite_KickSnare",
+        "GUID": "{687871FD-15D2-4A84-B077-BE88FAF68382}",
+        "Color": "10"
+       },
+       {
+        "Id": "3805777016",
+        "Name": "NPC_Piano",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\NPC_Piano",
+        "GUID": "{88490592-22F3-4DF9-ADEC-4AE782C5E6B2}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "2608626964",
+      "Name": "CelloConga",
+      "ObjectPath": "\\States\\Default Work Unit\\CelloConga",
+      "GUID": "{A6C26B97-1386-43A4-A93C-3169A4C35D95}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\None",
+        "GUID": "{15F55C78-4CA3-4363-A799-B2487B08549F}"
+       },
+       {
+        "Id": "1781666048",
+        "Name": "NPC_Cello",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\NPC_Cello",
+        "GUID": "{A9C22207-9B25-4EE0-A166-16945210CB81}",
+        "Color": "4"
+       },
+       {
+        "Id": "1962323748",
+        "Name": "Midimite_Conga",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\Midimite_Conga",
+        "GUID": "{C8A259D9-63A5-46F7-A435-BD243C1C9433}",
+        "Color": "10"
+       },
+       {
+        "Id": "2506517806",
+        "Name": "Modalman_Cello",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\Modalman_Cello",
+        "GUID": "{E7CE52EA-3C02-4B82-86EA-9D70A6C1F39F}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "2694696584",
+      "Name": "MarimbaLowKit",
+      "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit",
+      "GUID": "{3F36416A-434E-4957-940F-46073E85F724}",
+      "States": [
+       {
+        "Id": "284414508",
+        "Name": "Modalman_Marimba",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\Modalman_Marimba",
+        "GUID": "{73DB7FF0-FB86-4E52-ACBB-A91944E7ADD5}",
+        "Color": "2"
+       },
+       {
+        "Id": "608418222",
+        "Name": "NPC_Marimba",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\NPC_Marimba",
+        "GUID": "{C54D15C8-DFCC-4F19-86BF-ACE686B5398D}",
+        "Color": "4"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\None",
+        "GUID": "{E7F03BD0-DF8C-4B93-BD0C-73B417AC683A}"
+       },
+       {
+        "Id": "2514397822",
+        "Name": "Midimite_LowKit",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\Midimite_LowKit",
+        "GUID": "{1B514A97-249E-4879-ABF2-FD4D22D415D6}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "3464414902",
+      "Name": "ViolinBamboo",
+      "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo",
+      "GUID": "{5C87EAF2-B6F2-45DA-8920-F6A0097C77E9}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\None",
+        "GUID": "{870AE249-CA46-4710-BD85-C5ACAD56F5F3}"
+       },
+       {
+        "Id": "1540944886",
+        "Name": "NPC_Violin",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\NPC_Violin",
+        "GUID": "{78444450-1D6A-42FC-9258-5787C2DE175A}",
+        "Color": "4"
+       },
+       {
+        "Id": "3172327104",
+        "Name": "Midimite_Bamboo",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\Midimite_Bamboo",
+        "GUID": "{76FDCB66-89D7-4C9D-8093-FDAD0F3EC878}",
+        "Color": "10"
+       },
+       {
+        "Id": "3354045468",
+        "Name": "Modalman_Violin",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\Modalman_Violin",
+        "GUID": "{97F5516E-3CD2-4B1F-A2BF-E4C3D17F94F6}",
+        "Color": "2"
+       }
+      ]
+     },
+     {
+      "Id": "3482004262",
+      "Name": "CelesteHighKit",
+      "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit",
+      "GUID": "{16240C4D-077E-4DD6-AFB9-B1802554E550}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\None",
+        "GUID": "{4192EC8C-2BDC-48C4-B4E2-1BB69044F3D5}"
+       },
+       {
+        "Id": "1937297268",
+        "Name": "Midimite_HighKit",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\Midimite_HighKit",
+        "GUID": "{D2CBDC70-EA96-4016-B48B-42A473E2ABE1}",
+        "Color": "10"
+       },
+       {
+        "Id": "2822540212",
+        "Name": "Modalman_Celeste",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\Modalman_Celeste",
+        "GUID": "{D22495F8-8B6E-4658-9CED-B210C0946C56}",
+        "Color": "2"
+       },
+       {
+        "Id": "4244078214",
+        "Name": "NPC_Celeste",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\NPC_Celeste",
+        "GUID": "{2C8A1017-19C2-4B57-B11C-0720412E1AE1}",
+        "Color": "4"
+       }
+      ]
+     },
+     {
+      "Id": "4165357381",
+      "Name": "BassDarabuka",
+      "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka",
+      "GUID": "{2288B661-A264-4AF0-AE1B-99AAC1A94F9B}",
+      "States": [
+       {
+        "Id": "603031370",
+        "Name": "Modalman_Bass",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\Modalman_Bass",
+        "GUID": "{FE7829FE-A7EA-4411-9A7D-34B458C4A4CC}",
+        "Color": "2"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\None",
+        "GUID": "{20C33161-1025-4351-9781-66DFF2DF7952}"
+       },
+       {
+        "Id": "1517246961",
+        "Name": "Midimite_Darabuka",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\Midimite_Darabuka",
+        "GUID": "{BE00C6F0-8A3E-4D21-90B7-A982473FC9D7}",
+        "Color": "10"
+       },
+       {
+        "Id": "2873691804",
+        "Name": "NPC_Bass",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\NPC_Bass",
+        "GUID": "{C1351B67-A8BD-44F3-8455-64DF51DA70D8}",
+        "Color": "4"
+       }
+      ]
      }
     ]
    }
   ],
-  "FileHash": "{9E4E75C3-407C-2BCD-6F3F-CADCA4C67C57}"
+  "FileHash": "{13C81E3A-CBF5-A337-0CC0-73F4F3A5D41B}"
  }
 }

@@ -3,7 +3,7 @@
   "Project": {
    "Name": "Tonalitopia",
    "GUID": "{A884A6FA-8AB1-4238-A079-DA3FBAEC76E0}",
-   "Generator": "2025.1.4.9062"
+   "Generator": "2025.1.6.9117"
   },
   "CacheRoot": "../../../../WwiseProjects/Tonalitopia/.cache",
   "Platforms": [
@@ -31,6 +31,6 @@
     "UseAsStandIn": "true"
    }
   ],
-  "FileHash": "{91C2FFFC-4D4C-3FE5-4924-56A7FB390F83}"
+  "FileHash": "{F03F61F8-E03B-03D5-0DBB-71E1BEF7B185}"
  }
 }

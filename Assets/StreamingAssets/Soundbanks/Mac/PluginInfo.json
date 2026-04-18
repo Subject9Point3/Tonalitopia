@@ -4,6 +4,13 @@
   "BasePlatform": "Mac",
   "PluginLibs": [
    {
+    "LibName": "Wwise Compressor",
+    "LibId": "7077891",
+    "Type": "Effect",
+    "DLL": "AkCompressor",
+    "StaticLib": "AkCompressorFX"
+   },
+   {
     "LibName": "System",
     "LibId": "11403271",
     "Type": "AudioDevice"
@@ -12,8 +19,15 @@
     "LibName": "No Output",
     "LibId": "11862023",
     "Type": "AudioDevice"
+   },
+   {
+    "LibName": "AkBitcrusher",
+    "LibId": "13173763",
+    "Type": "Effect",
+    "DLL": "AkBitcrusher",
+    "StaticLib": "AkBitcrusherFX"
    }
   ],
-  "FileHash": "{FBB1DD20-2267-5DFC-9D4C-1103B4D6B869}"
+  "FileHash": "{5DDF2E7C-1572-7EA4-B4C7-EAF90BF446AE}"
  }
 }

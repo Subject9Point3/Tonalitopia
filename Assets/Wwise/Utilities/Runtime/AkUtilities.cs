@@ -12,7 +12,7 @@ Licensees holding valid licenses to the AUDIOKINETIC Wwise Technology may use
 this file in accordance with the end user license agreement provided with the
 software or, alternatively, in accordance with the terms contained
 in a written agreement between you and Audiokinetic Inc.
-Copyright (c) 2025 Audiokinetic Inc.
+Copyright (c) 2026 Audiokinetic Inc.
 *******************************************************************************/
 
 #if !(UNITY_QNX) // Disable under unsupported platforms.
@@ -312,6 +312,13 @@ public partial class AkUtilities
 					return;
 				}
 			}
+			
+			var lastWriteTime = System.IO.File.GetLastWriteTime(WwiseProjectPath);
+			if (s_ProjectBankPaths.Count > 0 && lastWriteTime <= s_LastBankPathUpdate)
+			{
+				return;
+			}
+			s_LastBankPathUpdate = lastWriteTime;
 
 			s_ProjectBankPaths.Clear();
 			var doc = new System.Xml.XmlDocument();
