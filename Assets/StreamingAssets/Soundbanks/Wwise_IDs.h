@@ -57,10 +57,10 @@ namespace AK
         static const AkUniqueID MUS_SELECT_NPC_VIOLA_SETSTATE = 2675173529U;
         static const AkUniqueID MUS_SELECT_NPC_VIOLIN_SETSTATE = 1330530653U;
         static const AkUniqueID MUS_SELECT_NPC_WOODWIND_SETSTATE = 2929296915U;
-        static const AkUniqueID MUSIC_NPC_POSTION_TEST_PLAY = 1254911147U;
         static const AkUniqueID PLAY = 1256202815U;
+        static const AkUniqueID RANDOMIZE_RTPC_AMOUNT = 2806945659U;
         static const AkUniqueID RESET_INSTRUMENT_STATE = 1449827180U;
-        static const AkUniqueID TEST = 3157003241U;
+        static const AkUniqueID RESET_RTPC_AMOUNT = 4040405583U;
     } // namespace EVENTS
 
     namespace STATES
@@ -226,6 +226,54 @@ namespace AK
     namespace GAME_PARAMETERS
     {
         static const AkUniqueID BITCRUSHAMOUNT = 4237034167U;
+        static const AkUniqueID MIDIMITE_DISTANCE_ANVIL = 1334567154U;
+        static const AkUniqueID MIDIMITE_DISTANCE_BAMBOO = 522080476U;
+        static const AkUniqueID MIDIMITE_DISTANCE_CONGA = 4267506872U;
+        static const AkUniqueID MIDIMITE_DISTANCE_CYMBAL = 2825161798U;
+        static const AkUniqueID MIDIMITE_DISTANCE_DARABUKA = 2689207365U;
+        static const AkUniqueID MIDIMITE_DISTANCE_HIGHCOWBELL = 334945398U;
+        static const AkUniqueID MIDIMITE_DISTANCE_HIGHKIT = 3271029776U;
+        static const AkUniqueID MIDIMITE_DISTANCE_KICKSNARE = 3151135617U;
+        static const AkUniqueID MIDIMITE_DISTANCE_LOWCOWBELL = 3295000348U;
+        static const AkUniqueID MIDIMITE_DISTANCE_LOWKIT = 677520706U;
+        static const AkUniqueID MIDIMITE_DISTANCE_TABLA = 2883991624U;
+        static const AkUniqueID MIDIMITE_DISTANCE_UDU = 3447802340U;
+        static const AkUniqueID MIDIMITE_PANNING_ANVIL = 1920498140U;
+        static const AkUniqueID MIDIMITE_PANNING_BAMBOO = 576587594U;
+        static const AkUniqueID MIDIMITE_PANNING_CONGA = 3535064650U;
+        static const AkUniqueID MIDIMITE_PANNING_CYMBAL = 1696939484U;
+        static const AkUniqueID MIDIMITE_PANNING_DARABUKA = 2721143815U;
+        static const AkUniqueID MIDIMITE_PANNING_HIGHCOWBELL = 1893100756U;
+        static const AkUniqueID MIDIMITE_PANNING_HIGHKIT = 325574282U;
+        static const AkUniqueID MIDIMITE_PANNING_KICKSNARE = 4034540667U;
+        static const AkUniqueID MIDIMITE_PANNING_LOWCOWBELL = 2261158922U;
+        static const AkUniqueID MIDIMITE_PANNING_LOWKIT = 3163123476U;
+        static const AkUniqueID MIDIMITE_PANNING_TABLA = 1873237942U;
+        static const AkUniqueID MIDIMITE_PANNING_UDU = 1179797174U;
+        static const AkUniqueID NPC_DISTANCE_BASS = 4167638730U;
+        static const AkUniqueID NPC_DISTANCE_BASSOON = 2529230890U;
+        static const AkUniqueID NPC_DISTANCE_CELESTE = 2738122292U;
+        static const AkUniqueID NPC_DISTANCE_CELLO = 2376723374U;
+        static const AkUniqueID NPC_DISTANCE_CLARINET = 1531480149U;
+        static const AkUniqueID NPC_DISTANCE_FLUTE = 2497158567U;
+        static const AkUniqueID NPC_DISTANCE_MARIMBA = 199996588U;
+        static const AkUniqueID NPC_DISTANCE_OBOE = 4081574792U;
+        static const AkUniqueID NPC_DISTANCE_PIANO = 2913963278U;
+        static const AkUniqueID NPC_DISTANCE_VIBRAPHONE = 3774632483U;
+        static const AkUniqueID NPC_DISTANCE_VIOLA = 144715662U;
+        static const AkUniqueID NPC_DISTANCE_VIOLIN = 439013276U;
+        static const AkUniqueID NPC_PANNING_BASS = 212586450U;
+        static const AkUniqueID NPC_PANNING_BASSOON = 3074845842U;
+        static const AkUniqueID NPC_PANNING_CELESTE = 1675879548U;
+        static const AkUniqueID NPC_PANNING_CELLO = 761916086U;
+        static const AkUniqueID NPC_PANNING_CLARINET = 3379599085U;
+        static const AkUniqueID NPC_PANNING_FLUTE = 454719951U;
+        static const AkUniqueID NPC_PANNING_MARIMBA = 1504964084U;
+        static const AkUniqueID NPC_PANNING_OBOE = 3341885200U;
+        static const AkUniqueID NPC_PANNING_PIANO = 490656470U;
+        static const AkUniqueID NPC_PANNING_VIBRAPHONE = 1839766923U;
+        static const AkUniqueID NPC_PANNING_VIOLA = 2965826582U;
+        static const AkUniqueID NPC_PANNING_VIOLIN = 1730523988U;
         static const AkUniqueID RTPC_GLOBAL_PLAYBACKSPEED = 50307539U;
     } // namespace GAME_PARAMETERS
 
@@ -237,16 +285,32 @@ namespace AK
 
     namespace BUSSES
     {
-        static const AkUniqueID _1_NPC_BUS_CELESTE = 43418073U;
-        static const AkUniqueID CELESTE_TEST = 571675678U;
+        static const AkUniqueID _1_CELESTE_BUS = 352808577U;
+        static const AkUniqueID _2_VIBRAPHONE_BUS = 3946816007U;
+        static const AkUniqueID _3_MARIMBA_BUS = 2846183311U;
+        static const AkUniqueID _4_PIANO_BUS = 340962702U;
+        static const AkUniqueID _5_FLUTE_BUS = 696295018U;
+        static const AkUniqueID _6_OBOE_BUS = 4190585176U;
+        static const AkUniqueID _7_CLARINET_BUS = 2254362702U;
+        static const AkUniqueID _8_BASSOON_BUS = 3468401410U;
+        static const AkUniqueID _9_VIOLIN_BUS = 1626669593U;
+        static const AkUniqueID _10_VIOLA_BUS = 1510118747U;
+        static const AkUniqueID _11_CELLO_BUS = 286980346U;
+        static const AkUniqueID _12_BASS_BUS = 597408597U;
+        static const AkUniqueID _13_HIGHKIT_BUS = 3022163943U;
+        static const AkUniqueID _14_CYMBAL_BUS = 1837151996U;
+        static const AkUniqueID _15_LOWKIT_BUS = 773301083U;
+        static const AkUniqueID _16_KICKSNARE_BUS = 1919791919U;
+        static const AkUniqueID _17_HIGHCOWBELL_BUS = 379072645U;
+        static const AkUniqueID _18_ANVIL_BUS = 3734045458U;
+        static const AkUniqueID _19_LOWCOWBELL_BUS = 2616391121U;
+        static const AkUniqueID _20_UDU_BUS = 4091838673U;
+        static const AkUniqueID _21_BAMBOO_BUS = 2422729062U;
+        static const AkUniqueID _22_TABLA_BUS = 3721509603U;
+        static const AkUniqueID _23_CONGA_BUS = 1089313318U;
+        static const AkUniqueID _24_DARABUKA_BUS = 3456549632U;
         static const AkUniqueID MAIN_AUDIO_BUS = 2246998526U;
-        static const AkUniqueID NEW_AUDIO_BUS_01 = 2799548653U;
     } // namespace BUSSES
-
-    namespace AUX_BUSSES
-    {
-        static const AkUniqueID NEW_AUXILIARY_BUS = 373392551U;
-    } // namespace AUX_BUSSES
 
     namespace AUDIO_DEVICES
     {

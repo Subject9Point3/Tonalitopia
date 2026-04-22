@@ -63,19 +63,85 @@ State	ID	Name	State Group			Notes
 	2873691804	NPC_Bass	BassDarabuka			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
+	212586450	NPC_Panning_Bass			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Bass	
+	325574282	Midimite_Panning_HighKit			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_HighKit	
+	454719951	NPC_Panning_Flute			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Flute	
+	490656470	NPC_Panning_Piano			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Piano	
+	576587594	Midimite_Panning_Bamboo			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Bamboo	
+	761916086	NPC_Panning_Cello			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Cello	
+	1179797174	Midimite_Panning_Udu			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Udu	
+	1504964084	NPC_Panning_Marimba			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Marimba	
+	1675879548	NPC_Panning_Celeste			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Celeste	
+	1696939484	Midimite_Panning_Cymbal			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Cymbal	
+	1730523988	NPC_Panning_Violin			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Violin	
+	1839766923	NPC_Panning_Vibraphone			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Vibraphone	
+	1873237942	Midimite_Panning_Tabla			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Tabla	
+	1893100756	Midimite_Panning_HighCowbell			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_HighCowbell	
+	1920498140	Midimite_Panning_Anvil			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Anvil	
+	2261158922	Midimite_Panning_LowCowbell			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_LowCowbell	
+	2721143815	Midimite_Panning_Darabuka			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Darabuka	
+	2965826582	NPC_Panning_Viola			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Viola	
+	3074845842	NPC_Panning_Bassoon			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Bassoon	
+	3163123476	Midimite_Panning_LowKit			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_LowKit	
+	3341885200	NPC_Panning_Oboe			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Oboe	
+	3379599085	NPC_Panning_Clarinet			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Clarinet	
+	3535064650	Midimite_Panning_Conga			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Conga	
+	4034540667	Midimite_Panning_KickSnare			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_KickSnare	
 	4237034167	BitcrushAmount			\Default Work Unit\BitcrushAmount	
 
 Audio Bus	ID	Name			Wwise Object Path	Notes
-	43418073	1_NPC_Bus_Celeste			\Default Work Unit\Main Audio Bus\1_NPC_Bus_Celeste	
-	571675678	celeste test			\Default Work Unit\Main Audio Bus\celeste test	
+	286980346	11_Cello_Bus			\Default Work Unit\Main Audio Bus\11_Cello_Bus	
+	340962702	4_Piano_Bus			\Default Work Unit\Main Audio Bus\4_Piano_Bus	
+	352808577	1_Celeste_Bus			\Default Work Unit\Main Audio Bus\1_Celeste_Bus	
+	379072645	17_HighCowbell_Bus			\Default Work Unit\Main Audio Bus\17_HighCowbell_Bus	
+	597408597	12_Bass_Bus			\Default Work Unit\Main Audio Bus\12_Bass_Bus	
+	696295018	5_Flute_Bus			\Default Work Unit\Main Audio Bus\5_Flute_Bus	
+	773301083	15_LowKit_Bus			\Default Work Unit\Main Audio Bus\15_LowKit_Bus	
+	1089313318	23_Conga_Bus			\Default Work Unit\Main Audio Bus\23_Conga_Bus	
+	1510118747	10_Viola_Bus			\Default Work Unit\Main Audio Bus\10_Viola_Bus	
+	1626669593	9_Violin_Bus			\Default Work Unit\Main Audio Bus\9_Violin_Bus	
+	1837151996	14_Cymbal_Bus			\Default Work Unit\Main Audio Bus\14_Cymbal_Bus	
+	1919791919	16_KickSnare_Bus			\Default Work Unit\Main Audio Bus\16_KickSnare_Bus	
 	2246998526	Main Audio Bus			\Default Work Unit\Main Audio Bus	
-	2799548653	New Audio Bus_01			\Default Work Unit\Main Audio Bus\New Audio Bus_01	
-
-Auxiliary Bus	ID	Name			Wwise Object Path	Notes
-	373392551	New_Auxiliary_Bus			\Default Work Unit\Main Audio Bus\New_Auxiliary_Bus	
+	2254362702	7_Clarinet_Bus			\Default Work Unit\Main Audio Bus\7_Clarinet_Bus	
+	2422729062	21_Bamboo_Bus			\Default Work Unit\Main Audio Bus\21_Bamboo_Bus	
+	2616391121	19_LowCowbell_Bus			\Default Work Unit\Main Audio Bus\19_LowCowbell_Bus	
+	2846183311	3_Marimba_Bus			\Default Work Unit\Main Audio Bus\3_Marimba_Bus	
+	3022163943	13_HighKit_Bus			\Default Work Unit\Main Audio Bus\13_HighKit_Bus	
+	3456549632	24_Darabuka_Bus			\Default Work Unit\Main Audio Bus\24_Darabuka_Bus	
+	3468401410	8_Bassoon_Bus			\Default Work Unit\Main Audio Bus\8_Bassoon_Bus	
+	3721509603	22_Tabla_Bus			\Default Work Unit\Main Audio Bus\22_Tabla_Bus	
+	3734045458	18_Anvil_Bus			\Default Work Unit\Main Audio Bus\18_Anvil_Bus	
+	3946816007	2_Vibraphone_Bus			\Default Work Unit\Main Audio Bus\2_Vibraphone_Bus	
+	4091838673	20_Udu_Bus			\Default Work Unit\Main Audio Bus\20_Udu_Bus	
+	4190585176	6_Oboe_Bus			\Default Work Unit\Main Audio Bus\6_Oboe_Bus	
 
 Effect plug-ins	ID	Name	Type				Notes
+	25870510	AkPanner (Custom)	AkPanner			
+	84043093	AkPanner (Custom)	AkPanner			
+	92450607	AkPanner (Custom)	AkPanner			
+	119683697	AkPanner (Custom)	AkPanner			
+	156269138	AkPanner (Custom)	AkPanner			
+	159009130	AkPanner (Custom)	AkPanner			
+	228646736	AkPanner (Custom)	AkPanner			
+	260530254	AkPanner (Custom)	AkPanner			
+	304821432	AkPanner (Custom)	AkPanner			
+	307596371	AkPanner (Custom)	AkPanner			
+	319254333	AkPanner (Custom)	AkPanner			
+	332429510	AkPanner (Custom)	AkPanner			
 	505060943	Limiter	Wwise Compressor			
+	609494422	AkPanner (Custom)	AkPanner			
+	621305949	AkPanner (Custom)	AkPanner			
+	658178683	AkPanner (Custom)	AkPanner			
+	663811596	AkPanner (Custom)	AkPanner			
+	819036592	AkPanner (Custom)	AkPanner			
+	821505040	AkPanner (Custom)	AkPanner			
+	934122047	AkPanner (Custom)	AkPanner			
+	974744559	AkPanner (Custom)	AkPanner			
+	1000448658	AkPanner (Custom)	AkPanner			
+	1027655012	AkPanner (Custom)	AkPanner			
+	1035156516	AkPanner (Custom)	AkPanner			
+	1054657199	AkPanner (Custom)	AkPanner			
 	3825041543	New_AkBitcrusher	AkBitcrusher			
 
 Audio Devices	ID	Name	Type				Notes

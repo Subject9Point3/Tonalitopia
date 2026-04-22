@@ -26,8 +26,15 @@
     "Type": "Effect",
     "DLL": "AkBitcrusher",
     "StaticLib": "AkBitcrusherFX"
+   },
+   {
+    "LibName": "AkPanner",
+    "LibId": "13239299",
+    "Type": "Effect",
+    "DLL": "AkPanner",
+    "StaticLib": "AkPannerFX"
    }
   ],
-  "FileHash": "{5DDF2E7C-1572-7EA4-B4C7-EAF90BF446AE}"
+  "FileHash": "{45C941EE-ADDD-F8D7-FF18-1F1E7FFA162C}"
  }
 }

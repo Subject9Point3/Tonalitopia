@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b29b1a822677e4de58c546c937ef1aba, type: 3}
+  m_Name: 31FF7F0F-8E58-4A38-AB39-DF8FAA2C0A20
+  m_EditorClassIdentifier: AK.Wwise.Unity.API.WwiseTypes::WwiseAuxBusReference
+  objectName: NPC_Cello_Aux
+  id: 722125339
+  guid: 31FF7F0F-8E58-4A38-AB39-DF8FAA2C0A20

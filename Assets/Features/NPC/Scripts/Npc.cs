@@ -8,20 +8,26 @@ using Random = UnityEngine.Random;
 [RequireComponent(typeof(NavMeshAgent))]
 public class Npc : MonoBehaviour, INpc
 {
+    // NEW: Instrument name for music spatialization
+    [SerializeField] private string instrumentName;
+    public string InstrumentName => instrumentName;
+    public void SetInstrumentName(string name) => instrumentName = name;
+    // END NEW
+
     [SerializeField] private NPCState state = NPCState.Idle;
     [SerializeField] private NavMeshAgent agent;
     private bool wasAtDestination;
     private float lastUpdateTime;
-    
+
     [SerializeField] private float minWaitTime = 5f;
     [SerializeField] private float maxWaitTime = 15f;
     private CountdownTimer requestNextDestinationTimer = new(0);
-    
+
     private bool hasReachedDestination;
-    
+
     public Vector3 GetPosition() => transform.position;
     public void RequestDestination() => NpcManager.Instance.RequestDestination(this);
-    
+
     private void Awake()
     {
         agent = GetComponent<NavMeshAgent>();
@@ -53,7 +59,7 @@ public class Npc : MonoBehaviour, INpc
     public void NpcUpdate()
     {
         var deltaTime = Time.time - lastUpdateTime;
-        
+
         switch (state)
         {
             case NPCState.Idle:
@@ -63,7 +69,7 @@ public class Npc : MonoBehaviour, INpc
                 WalkStateUpdate(deltaTime);
                 break;
         }
-        
+
         lastUpdateTime = Time.time;
     }
 
@@ -76,7 +82,7 @@ public class Npc : MonoBehaviour, INpc
     private void WalkStateUpdate(float deltaTime)
     {
         hasReachedDestination = HasReachedDestination();
-        
+
         if (hasReachedDestination)
             OnDestinationReached();
     }
@@ -88,20 +94,20 @@ public class Npc : MonoBehaviour, INpc
         requestNextDestinationTimer.Reset(timeBeforeRequest);
         requestNextDestinationTimer.Start();
     }
-    
+
     private bool HasReachedDestination()
     {
         if (agent.pathPending) return false;
         if (agent.remainingDistance > agent.stoppingDistance) return false;
         if (agent.velocity.sqrMagnitude > 0.01f) return false;
-    
+
         return true;
     }
 
     private void OnDrawGizmos()
     {
-        var position = transform.position + (3 * Vector3.up); 
-        
+        var position = transform.position + (3 * Vector3.up);
+
         switch (state)
         {
             case NPCState.Idle:
@@ -111,12 +117,12 @@ public class Npc : MonoBehaviour, INpc
                 Gizmos.color = Color.green;
                 break;
         }
-        
+
         Gizmos.DrawSphere(position, 0.25f);
 
         if (!Application.isPlaying) return;
-        
-        var offset = Vector3.right * (1f/3f);
+
+        var offset = Vector3.right * (1f / 3f);
         var boolChecks = new List<bool>
         {
             agent.pathPending,

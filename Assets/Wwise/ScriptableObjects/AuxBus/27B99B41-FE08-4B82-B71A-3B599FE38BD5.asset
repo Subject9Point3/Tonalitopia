@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b29b1a822677e4de58c546c937ef1aba, type: 3}
+  m_Name: 27B99B41-FE08-4B82-B71A-3B599FE38BD5
+  m_EditorClassIdentifier: AK.Wwise.Unity.API.WwiseTypes::WwiseAuxBusReference
+  objectName: Midimite_HighKit_Aux
+  id: 1899507839
+  guid: 27B99B41-FE08-4B82-B71A-3B599FE38BD5
