@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{D8D3F7AC-8ECC-47DC-BC7E-E64C75702A11}",
     "Language": "SFX",
-    "Hash": "{DCFCD39A-3FB5-E2DE-17F5-B29210659471}",
+    "Hash": "{9E955772-9743-BE2C-F016-9678D98827F2}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Gameplay",
     "ShortName": "Gameplay",
     "Path": "Gameplay.bnk",
@@ -62,6 +62,14 @@
       "Location": "Memory",
       "ShortName": "Celeste 2 F#5.wav",
       "CachePath": "57/{57C9A61C-DFE4-C34B-12B5-889DD3EDA1D9}.wem"
+     },
+     {
+      "Id": "16756287",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe A#2.wav",
+      "CachePath": "10/{1014139B-80E7-F1CE-537B-FB5E87AB5B61}.wem"
      },
      {
       "Id": "17702575",
@@ -752,6 +760,14 @@
       "CachePath": "C9/{C9C4DD67-4F31-060C-6D5F-AE3637FE12D8}.wem"
      },
      {
+      "Id": "261408932",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe  D2.wav",
+      "CachePath": "B8/{B8D5F46E-FC22-5FA4-E0A6-82982BD49888}.wem"
+     },
+     {
       "Id": "263625493",
       "Language": "SFX",
       "Streaming": "false",
@@ -872,6 +888,14 @@
       "CachePath": "EF/{EFB82D98-AC32-277B-0117-57A09358CE6C}.wem"
      },
      {
+      "Id": "289783468",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe A#3.wav",
+      "CachePath": "69/{6945BABA-B6C3-F908-6B25-F5522DDBC7A0}.wem"
+     },
+     {
       "Id": "291231289",
       "Language": "SFX",
       "Streaming": "false",
@@ -952,6 +976,14 @@
       "CachePath": "60/{607E7C7E-F5C3-06E6-D2D5-1AAB2F058B36}.wem"
      },
      {
+      "Id": "314265877",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 C#6.wav",
+      "CachePath": "2E/{2E8F64DE-F2D1-F1D6-951A-C3B384EB4707}.wem"
+     },
+     {
       "Id": "321890565",
       "Language": "SFX",
       "Streaming": "false",
@@ -997,7 +1029,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Oboe F#2.wav",
-      "CachePath": "C6/{C69B0111-3A49-564B-867D-D4700597B855}.wem"
+      "CachePath": "AA/{AA787986-5614-08E6-23F7-D82F5A4C34B3}.wem"
      },
      {
       "Id": "350926906",
@@ -1189,7 +1221,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Oboe A#3.wav",
-      "CachePath": "6B/{6B06D5C8-C82A-BED5-8CBB-D685B440B4E5}.wem"
+      "CachePath": "81/{8183ABF6-748E-5459-B43F-EFF16D71B427}.wem"
      },
      {
       "Id": "440542341",
@@ -1624,6 +1656,14 @@
       "CachePath": "7B/{7B43348D-F3C9-7EF7-7360-84E3C7098FA1}.wem"
      },
      {
+      "Id": "565708093",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 B4.wav",
+      "CachePath": "9C/{9CA742FB-F4E1-30C7-9099-EF0C75F10F99}.wem"
+     },
+     {
       "Id": "570812423",
       "Language": "SFX",
       "Streaming": "false",
@@ -1686,6 +1726,14 @@
       "Location": "Memory",
       "ShortName": "Viola Pattern 1 Variation 3.mid",
       "CachePath": "4F/{4F2AEABB-50A0-BAFF-AB0D-01E35F93ADF0}.wem"
+     },
+     {
+      "Id": "587142006",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe F#2.wav",
+      "CachePath": "AD/{AD52751F-176D-0843-256A-010BE901F88D}.wem"
      },
      {
       "Id": "587834434",
@@ -1944,6 +1992,14 @@
       "CachePath": "54/{54729445-BB72-71B2-6189-3928C3308598}.wem"
      },
      {
+      "Id": "683912388",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe F#3.wav",
+      "CachePath": "7B/{7B0D440C-4DBD-01CB-4943-7050BC876284}.wem"
+     },
+     {
       "Id": "687999286",
       "Language": "SFX",
       "Streaming": "false",
@@ -2069,7 +2125,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Oboe  D2.wav",
-      "CachePath": "0E/{0E9D6512-E21C-DF96-C073-26D51A8E5F5D}.wem"
+      "CachePath": "72/{721817F9-6FEF-E1DA-8765-7E24441D1010}.wem"
      },
      {
       "Id": "743127439",
@@ -2094,6 +2150,14 @@
       "Location": "Memory",
       "ShortName": "Bongo Open Med 3 1.wav",
       "CachePath": "E7/{E7377AAB-F044-0BE5-DAB3-8AB4C2F2F029}.wem"
+     },
+     {
+      "Id": "749849405",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe D3.wav",
+      "CachePath": "A0/{A09F2DA6-45E0-5912-D7BC-54CDEBC75F63}.wem"
      },
      {
       "Id": "751601444",
@@ -2232,14 +2296,6 @@
       "CachePath": "37/{37427B3B-5FF9-837C-CD48-EC57F636E9F3}.wem"
      },
      {
-      "Id": "800634307",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "Celeste 2 B4.wav",
-      "CachePath": "9C/{9CA742FB-F4E1-30C7-9099-EF0C75F10F99}.wem"
-     },
-     {
       "Id": "803168021",
       "Language": "SFX",
       "Streaming": "false",
@@ -2278,14 +2334,6 @@
       "Location": "Memory",
       "ShortName": "Modalman Violin Pattern 1 Variation 1.mid",
       "CachePath": "FB/{FB139B21-DF26-A1CE-778E-A51AD6D4766F}.wem"
-     },
-     {
-      "Id": "815225631",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "Celeste 2 C#6.wav",
-      "CachePath": "2E/{2E8F64DE-F2D1-F1D6-951A-C3B384EB4707}.wem"
      },
      {
       "Id": "816787651",
@@ -2405,7 +2453,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Oboe A#2.wav",
-      "CachePath": "E7/{E7985F7E-8753-5823-7EA3-48EF9F770DF0}.wem"
+      "CachePath": "0B/{0BA305BB-D452-9568-4CD8-F43BC95B073D}.wem"
      },
      {
       "Id": "864655323",
@@ -2438,6 +2486,14 @@
       "Location": "Memory",
       "ShortName": "Udu Slap Lo 2.wav",
       "CachePath": "D6/{D6181D62-50CF-97FC-E27D-84BDDE06A1EF}.wem"
+     },
+     {
+      "Id": "878636830",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe E4.wav",
+      "CachePath": "FD/{FD90746D-7307-9D1B-3E55-6A3031AEBABE}.wem"
      },
      {
       "Id": "878721896",
@@ -2616,6 +2672,14 @@
       "CachePath": "13/{133B48FC-AD12-59BD-A187-0698235CDB22}.wem"
      },
      {
+      "Id": "922372359",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste 2 D3.wav",
+      "CachePath": "30/{3037D00A-963A-847F-8C60-FB954842F8A5}.wem"
+     },
+     {
       "Id": "926910193",
       "Language": "SFX",
       "Streaming": "false",
@@ -2662,14 +2726,6 @@
       "Location": "Memory",
       "ShortName": "Piano E0.wav",
       "CachePath": "93/{9384D273-0CB4-BD7F-C5CA-35DDA88F00EE}.wem"
-     },
-     {
-      "Id": "946480905",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "Celeste 2 D3.wav",
-      "CachePath": "30/{3037D00A-963A-847F-8C60-FB954842F8A5}.wem"
      },
      {
       "Id": "949298774",
@@ -2941,7 +2997,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Oboe D3.wav",
-      "CachePath": "25/{2526299E-1F48-1E5D-9297-CA299C22AC2C}.wem"
+      "CachePath": "AE/{AEF753AF-C1E7-D5DA-3702-EEB93F790325}.wem"
      },
      {
       "Id": "1026236251",
@@ -2965,7 +3021,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Oboe F#3.wav",
-      "CachePath": "DD/{DD39F890-A8BD-113D-2741-42AF42D164D6}.wem"
+      "CachePath": "03/{031AD9E3-3BE1-F1B5-2674-0122AEABD57E}.wem"
      },
      {
       "Id": "1038268121",
@@ -3029,7 +3085,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Oboe E4.wav",
-      "CachePath": "E9/{E9BB0816-C5DC-98AD-AC23-65B2D8DFD8B8}.wem"
+      "CachePath": "AE/{AE31F595-D956-B510-1890-4322500A2ECA}.wem"
      },
      {
       "Id": "1058326709",
@@ -4352,51 +4408,6 @@
       ]
      },
      {
-      "Id": "1254911147",
-      "Name": "Music_NPC_Postion_Test_Play",
-      "ObjectPath": "\\Events\\Default Work Unit\\Test_Events\\Music_NPC_Postion_Test_Play",
-      "GUID": "{0EC852A1-373F-4A98-9C75-13B8A252F348}",
-      "DurationType": "Infinite",
-      "MediaRefs": [
-       {
-        "Id": "15255499"
-       },
-       {
-        "Id": "75547722"
-       },
-       {
-        "Id": "91783057"
-       },
-       {
-        "Id": "197945168"
-       },
-       {
-        "Id": "381950430"
-       },
-       {
-        "Id": "403439396"
-       },
-       {
-        "Id": "754737171"
-       },
-       {
-        "Id": "800634307"
-       },
-       {
-        "Id": "815225631"
-       },
-       {
-        "Id": "833168132"
-       },
-       {
-        "Id": "946480905"
-       },
-       {
-        "Id": "1012886531"
-       }
-      ]
-     },
-     {
       "Id": "1256202815",
       "Name": "Play",
       "ObjectPath": "\\Events\\Default Work Unit\\Global_Events\\Play",
@@ -4422,6 +4433,9 @@
         "Id": "15255499"
        },
        {
+        "Id": "16756287"
+       },
+       {
         "Id": "17702575"
        },
        {
@@ -4680,6 +4694,9 @@
         "Id": "261265794"
        },
        {
+        "Id": "261408932"
+       },
+       {
         "Id": "263625493"
        },
        {
@@ -4725,6 +4742,9 @@
         "Id": "287469539"
        },
        {
+        "Id": "289783468"
+       },
+       {
         "Id": "291231289"
        },
        {
@@ -4753,6 +4773,9 @@
        },
        {
         "Id": "312165925"
+       },
+       {
+        "Id": "314265877"
        },
        {
         "Id": "321890565"
@@ -5007,6 +5030,9 @@
         "Id": "563860182"
        },
        {
+        "Id": "565708093"
+       },
+       {
         "Id": "570812423"
        },
        {
@@ -5029,6 +5055,9 @@
        },
        {
         "Id": "585206133"
+       },
+       {
+        "Id": "587142006"
        },
        {
         "Id": "587834434"
@@ -5127,6 +5156,9 @@
         "Id": "682491578"
        },
        {
+        "Id": "683912388"
+       },
+       {
         "Id": "687999286"
        },
        {
@@ -5184,6 +5216,9 @@
         "Id": "747501468"
        },
        {
+        "Id": "749849405"
+       },
+       {
         "Id": "751601444"
        },
        {
@@ -5235,9 +5270,6 @@
         "Id": "796397920"
        },
        {
-        "Id": "800634307"
-       },
-       {
         "Id": "803168021"
        },
        {
@@ -5251,9 +5283,6 @@
        },
        {
         "Id": "813643200"
-       },
-       {
-        "Id": "815225631"
        },
        {
         "Id": "816787651"
@@ -5311,6 +5340,9 @@
        },
        {
         "Id": "876349647"
+       },
+       {
+        "Id": "878636830"
        },
        {
         "Id": "878721896"
@@ -5379,6 +5411,9 @@
         "Id": "921177141"
        },
        {
+        "Id": "922372359"
+       },
+       {
         "Id": "926910193"
        },
        {
@@ -5395,9 +5430,6 @@
        },
        {
         "Id": "939922972"
-       },
-       {
-        "Id": "946480905"
        },
        {
         "Id": "949298774"
@@ -5546,7 +5578,115 @@
        {
         "Id": "1072207344"
        }
+      ],
+      "ActionSetState": [
+       {
+        "GroupId": "2694696584",
+        "Id": "608418222",
+        "Name": "NPC_Marimba",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\NPC_Marimba",
+        "GUID": "{C54D15C8-DFCC-4F19-86BF-ACE686B5398D}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "1301975716",
+        "Id": "632282368",
+        "Name": "NPC_Viola",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\NPC_Viola",
+        "GUID": "{C09721E9-1ADE-4710-85B0-F3DB97E2F8B2}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "1705315364",
+        "Id": "1274921330",
+        "Name": "NPC_Oboe",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\NPC_Oboe",
+        "GUID": "{DF422829-51B1-4293-BD21-D48CFBD969C0}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "3464414902",
+        "Id": "1540944886",
+        "Name": "NPC_Violin",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\NPC_Violin",
+        "GUID": "{78444450-1D6A-42FC-9258-5787C2DE175A}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "2608626964",
+        "Id": "1781666048",
+        "Name": "NPC_Cello",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\NPC_Cello",
+        "GUID": "{A9C22207-9B25-4EE0-A166-16945210CB81}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "1413498124",
+        "Id": "2747654820",
+        "Name": "NPC_Bassoon",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\NPC_Bassoon",
+        "GUID": "{D2EF3D91-3836-4A2B-B30C-960E86267302}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "4165357381",
+        "Id": "2873691804",
+        "Name": "NPC_Bass",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\NPC_Bass",
+        "GUID": "{C1351B67-A8BD-44F3-8455-64DF51DA70D8}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "2357403405",
+        "Id": "3805777016",
+        "Name": "NPC_Piano",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\NPC_Piano",
+        "GUID": "{88490592-22F3-4DF9-ADEC-4AE782C5E6B2}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "73183939",
+        "Id": "4047794399",
+        "Name": "NPC_Clarinet",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\NPC_Clarinet",
+        "GUID": "{D6E4F502-53E4-4F95-A2C9-F6DDBB44463E}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "474846413",
+        "Id": "4050165685",
+        "Name": "NPC_Flute",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\NPC_Flute",
+        "GUID": "{067606F5-5D0F-4B21-9DD3-ABEC4E7B2C75}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "2303000183",
+        "Id": "4239875109",
+        "Name": "NPC_Vibraphone",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\NPC_Vibraphone",
+        "GUID": "{FEB58FB5-A216-4A9D-8174-7195E33063E2}",
+        "Color": "4"
+       },
+       {
+        "GroupId": "3482004262",
+        "Id": "4244078214",
+        "Name": "NPC_Celeste",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\NPC_Celeste",
+        "GUID": "{2C8A1017-19C2-4B57-B11C-0720412E1AE1}",
+        "Color": "4"
+       }
       ]
+     },
+     {
+      "Id": "2806945659",
+      "Name": "Randomize_RTPC_Amount",
+      "ObjectPath": "\\Events\\Default Work Unit\\Global_Events\\Randomize_RTPC_Amount",
+      "GUID": "{2B398436-BBC4-4046-B8D8-894F5532C109}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
      },
      {
       "Id": "1449827180",
@@ -5568,1156 +5708,14 @@
       ]
      },
      {
-      "Id": "3157003241",
-      "Name": "test",
-      "ObjectPath": "\\Events\\Default Work Unit\\Test_Events\\test",
-      "GUID": "{C4C79271-AD73-462A-8C15-B2B168806C5F}",
-      "DurationType": "Infinite",
-      "MediaRefs": [
-       {
-        "Id": "689272"
-       },
-       {
-        "Id": "3353201"
-       },
-       {
-        "Id": "4669765"
-       },
-       {
-        "Id": "12921684"
-       },
-       {
-        "Id": "14839378"
-       },
-       {
-        "Id": "15255499"
-       },
-       {
-        "Id": "17702575"
-       },
-       {
-        "Id": "20417624"
-       },
-       {
-        "Id": "21415402"
-       },
-       {
-        "Id": "21784592"
-       },
-       {
-        "Id": "23271907"
-       },
-       {
-        "Id": "27830178"
-       },
-       {
-        "Id": "27957574"
-       },
-       {
-        "Id": "31185591"
-       },
-       {
-        "Id": "32398722"
-       },
-       {
-        "Id": "38741245"
-       },
-       {
-        "Id": "40056596"
-       },
-       {
-        "Id": "42259494"
-       },
-       {
-        "Id": "44581923"
-       },
-       {
-        "Id": "60482078"
-       },
-       {
-        "Id": "61253708"
-       },
-       {
-        "Id": "68673862"
-       },
-       {
-        "Id": "71854843"
-       },
-       {
-        "Id": "75547722"
-       },
-       {
-        "Id": "75885555"
-       },
-       {
-        "Id": "76130517"
-       },
-       {
-        "Id": "83208944"
-       },
-       {
-        "Id": "83455997"
-       },
-       {
-        "Id": "84233198"
-       },
-       {
-        "Id": "85865070"
-       },
-       {
-        "Id": "87032757"
-       },
-       {
-        "Id": "91783057"
-       },
-       {
-        "Id": "92173294"
-       },
-       {
-        "Id": "92768601"
-       },
-       {
-        "Id": "95108799"
-       },
-       {
-        "Id": "96069176"
-       },
-       {
-        "Id": "97555033"
-       },
-       {
-        "Id": "102221632"
-       },
-       {
-        "Id": "102267127"
-       },
-       {
-        "Id": "102590234"
-       },
-       {
-        "Id": "107130729"
-       },
-       {
-        "Id": "108327184"
-       },
-       {
-        "Id": "110144224"
-       },
-       {
-        "Id": "110955213"
-       },
-       {
-        "Id": "113968636"
-       },
-       {
-        "Id": "115155849"
-       },
-       {
-        "Id": "116126986"
-       },
-       {
-        "Id": "117872015"
-       },
-       {
-        "Id": "124166167"
-       },
-       {
-        "Id": "124954580"
-       },
-       {
-        "Id": "128453004"
-       },
-       {
-        "Id": "129402466"
-       },
-       {
-        "Id": "130700704"
-       },
-       {
-        "Id": "137145340"
-       },
-       {
-        "Id": "147538421"
-       },
-       {
-        "Id": "148178644"
-       },
-       {
-        "Id": "163231996"
-       },
-       {
-        "Id": "163858747"
-       },
-       {
-        "Id": "165124588"
-       },
-       {
-        "Id": "166547667"
-       },
-       {
-        "Id": "169269049"
-       },
-       {
-        "Id": "172709377"
-       },
-       {
-        "Id": "177100185"
-       },
-       {
-        "Id": "186209506"
-       },
-       {
-        "Id": "192633058"
-       },
-       {
-        "Id": "197945168"
-       },
-       {
-        "Id": "199368353"
-       },
-       {
-        "Id": "200239377"
-       },
-       {
-        "Id": "201212973"
-       },
-       {
-        "Id": "205789152"
-       },
-       {
-        "Id": "207503840"
-       },
-       {
-        "Id": "207776403"
-       },
-       {
-        "Id": "209649507"
-       },
-       {
-        "Id": "211957193"
-       },
-       {
-        "Id": "212579209"
-       },
-       {
-        "Id": "213736176"
-       },
-       {
-        "Id": "213884473"
-       },
-       {
-        "Id": "214187809"
-       },
-       {
-        "Id": "222677479"
-       },
-       {
-        "Id": "232362962"
-       },
-       {
-        "Id": "232547070"
-       },
-       {
-        "Id": "233934279"
-       },
-       {
-        "Id": "236301090"
-       },
-       {
-        "Id": "237844074"
-       },
-       {
-        "Id": "239149171"
-       },
-       {
-        "Id": "247429081"
-       },
-       {
-        "Id": "250345606"
-       },
-       {
-        "Id": "251379201"
-       },
-       {
-        "Id": "253826488"
-       },
-       {
-        "Id": "255514248"
-       },
-       {
-        "Id": "260625366"
-       },
-       {
-        "Id": "261265794"
-       },
-       {
-        "Id": "263625493"
-       },
-       {
-        "Id": "264546312"
-       },
-       {
-        "Id": "265400033"
-       },
-       {
-        "Id": "265695773"
-       },
-       {
-        "Id": "267832212"
-       },
-       {
-        "Id": "267938365"
-       },
-       {
-        "Id": "269181606"
-       },
-       {
-        "Id": "270987751"
-       },
-       {
-        "Id": "272155081"
-       },
-       {
-        "Id": "273935497"
-       },
-       {
-        "Id": "275428034"
-       },
-       {
-        "Id": "280912481"
-       },
-       {
-        "Id": "281631531"
-       },
-       {
-        "Id": "282832448"
-       },
-       {
-        "Id": "287469539"
-       },
-       {
-        "Id": "291231289"
-       },
-       {
-        "Id": "293949217"
-       },
-       {
-        "Id": "299184655"
-       },
-       {
-        "Id": "300376831"
-       },
-       {
-        "Id": "303581462"
-       },
-       {
-        "Id": "304690743"
-       },
-       {
-        "Id": "306393088"
-       },
-       {
-        "Id": "307087347"
-       },
-       {
-        "Id": "308004264"
-       },
-       {
-        "Id": "312165925"
-       },
-       {
-        "Id": "321890565"
-       },
-       {
-        "Id": "333265941"
-       },
-       {
-        "Id": "333638848"
-       },
-       {
-        "Id": "335863411"
-       },
-       {
-        "Id": "336272938"
-       },
-       {
-        "Id": "348624598"
-       },
-       {
-        "Id": "350926906"
-       },
-       {
-        "Id": "366395370"
-       },
-       {
-        "Id": "366401855"
-       },
-       {
-        "Id": "375913495"
-       },
-       {
-        "Id": "378688346"
-       },
-       {
-        "Id": "378743144"
-       },
-       {
-        "Id": "380309901"
-       },
-       {
-        "Id": "381268898"
-       },
-       {
-        "Id": "381950430"
-       },
-       {
-        "Id": "391242189"
-       },
-       {
-        "Id": "393957052"
-       },
-       {
-        "Id": "394854655"
-       },
-       {
-        "Id": "402810176"
-       },
-       {
-        "Id": "403261595"
-       },
-       {
-        "Id": "403439396"
-       },
-       {
-        "Id": "408879825"
-       },
-       {
-        "Id": "413570812"
-       },
-       {
-        "Id": "413602454"
-       },
-       {
-        "Id": "424883239"
-       },
-       {
-        "Id": "425227757"
-       },
-       {
-        "Id": "427215420"
-       },
-       {
-        "Id": "428029986"
-       },
-       {
-        "Id": "428278711"
-       },
-       {
-        "Id": "436292517"
-       },
-       {
-        "Id": "440542341"
-       },
-       {
-        "Id": "442298474"
-       },
-       {
-        "Id": "445177836"
-       },
-       {
-        "Id": "445328684"
-       },
-       {
-        "Id": "450879635"
-       },
-       {
-        "Id": "451541361"
-       },
-       {
-        "Id": "452240670"
-       },
-       {
-        "Id": "457870168"
-       },
-       {
-        "Id": "458037523"
-       },
-       {
-        "Id": "459267277"
-       },
-       {
-        "Id": "459535189"
-       },
-       {
-        "Id": "462007144"
-       },
-       {
-        "Id": "468073868"
-       },
-       {
-        "Id": "468967625"
-       },
-       {
-        "Id": "469185088"
-       },
-       {
-        "Id": "470909278"
-       },
-       {
-        "Id": "471383976"
-       },
-       {
-        "Id": "473532142"
-       },
-       {
-        "Id": "475756439"
-       },
-       {
-        "Id": "475882251"
-       },
-       {
-        "Id": "485139616"
-       },
-       {
-        "Id": "490951067"
-       },
-       {
-        "Id": "491014133"
-       },
-       {
-        "Id": "499507119"
-       },
-       {
-        "Id": "500829512"
-       },
-       {
-        "Id": "503636846"
-       },
-       {
-        "Id": "508571168"
-       },
-       {
-        "Id": "509678705"
-       },
-       {
-        "Id": "510328836"
-       },
-       {
-        "Id": "512711140"
-       },
-       {
-        "Id": "514274139"
-       },
-       {
-        "Id": "517002295"
-       },
-       {
-        "Id": "517640608"
-       },
-       {
-        "Id": "523829047"
-       },
-       {
-        "Id": "525766946"
-       },
-       {
-        "Id": "525850813"
-       },
-       {
-        "Id": "528821726"
-       },
-       {
-        "Id": "530546492"
-       },
-       {
-        "Id": "531520737"
-       },
-       {
-        "Id": "535540288"
-       },
-       {
-        "Id": "539563178"
-       },
-       {
-        "Id": "540614330"
-       },
-       {
-        "Id": "543432925"
-       },
-       {
-        "Id": "544486939"
-       },
-       {
-        "Id": "545046596"
-       },
-       {
-        "Id": "545651443"
-       },
-       {
-        "Id": "546822540"
-       },
-       {
-        "Id": "549572716"
-       },
-       {
-        "Id": "550031233"
-       },
-       {
-        "Id": "551747623"
-       },
-       {
-        "Id": "554932157"
-       },
-       {
-        "Id": "558643149"
-       },
-       {
-        "Id": "559246894"
-       },
-       {
-        "Id": "563860182"
-       },
-       {
-        "Id": "570812423"
-       },
-       {
-        "Id": "574001564"
-       },
-       {
-        "Id": "575575716"
-       },
-       {
-        "Id": "576431499"
-       },
-       {
-        "Id": "577692163"
-       },
-       {
-        "Id": "577782490"
-       },
-       {
-        "Id": "579929523"
-       },
-       {
-        "Id": "585206133"
-       },
-       {
-        "Id": "587834434"
-       },
-       {
-        "Id": "592576006"
-       },
-       {
-        "Id": "593042180"
-       },
-       {
-        "Id": "599423762"
-       },
-       {
-        "Id": "601321482"
-       },
-       {
-        "Id": "604222247"
-       },
-       {
-        "Id": "606188244"
-       },
-       {
-        "Id": "609654576"
-       },
-       {
-        "Id": "610250922"
-       },
-       {
-        "Id": "614247710"
-       },
-       {
-        "Id": "616205867"
-       },
-       {
-        "Id": "616572257"
-       },
-       {
-        "Id": "623086102"
-       },
-       {
-        "Id": "626621871"
-       },
-       {
-        "Id": "627723819"
-       },
-       {
-        "Id": "630324862"
-       },
-       {
-        "Id": "632674512"
-       },
-       {
-        "Id": "633192126"
-       },
-       {
-        "Id": "634523006"
-       },
-       {
-        "Id": "635492298"
-       },
-       {
-        "Id": "639175187"
-       },
-       {
-        "Id": "652395845"
-       },
-       {
-        "Id": "652998035"
-       },
-       {
-        "Id": "661415140"
-       },
-       {
-        "Id": "661576523"
-       },
-       {
-        "Id": "663497079"
-       },
-       {
-        "Id": "663702620"
-       },
-       {
-        "Id": "664205855"
-       },
-       {
-        "Id": "665897494"
-       },
-       {
-        "Id": "671057283"
-       },
-       {
-        "Id": "675492892"
-       },
-       {
-        "Id": "682491578"
-       },
-       {
-        "Id": "687999286"
-       },
-       {
-        "Id": "697906610"
-       },
-       {
-        "Id": "701459979"
-       },
-       {
-        "Id": "701571295"
-       },
-       {
-        "Id": "702931137"
-       },
-       {
-        "Id": "703785980"
-       },
-       {
-        "Id": "704253390"
-       },
-       {
-        "Id": "705335531"
-       },
-       {
-        "Id": "726667027"
-       },
-       {
-        "Id": "728973493"
-       },
-       {
-        "Id": "730158390"
-       },
-       {
-        "Id": "731195047"
-       },
-       {
-        "Id": "732358395"
-       },
-       {
-        "Id": "732451914"
-       },
-       {
-        "Id": "734674654"
-       },
-       {
-        "Id": "737113384"
-       },
-       {
-        "Id": "743127439"
-       },
-       {
-        "Id": "746380247"
-       },
-       {
-        "Id": "747501468"
-       },
-       {
-        "Id": "751601444"
-       },
-       {
-        "Id": "753364354"
-       },
-       {
-        "Id": "754737171"
-       },
-       {
-        "Id": "756950181"
-       },
-       {
-        "Id": "765296256"
-       },
-       {
-        "Id": "769275126"
-       },
-       {
-        "Id": "769586167"
-       },
-       {
-        "Id": "773182663"
-       },
-       {
-        "Id": "775046600"
-       },
-       {
-        "Id": "776451998"
-       },
-       {
-        "Id": "779460630"
-       },
-       {
-        "Id": "783217746"
-       },
-       {
-        "Id": "790603763"
-       },
-       {
-        "Id": "792970752"
-       },
-       {
-        "Id": "793729772"
-       },
-       {
-        "Id": "794825017"
-       },
-       {
-        "Id": "796397920"
-       },
-       {
-        "Id": "800634307"
-       },
-       {
-        "Id": "803168021"
-       },
-       {
-        "Id": "805368003"
-       },
-       {
-        "Id": "811541862"
-       },
-       {
-        "Id": "813353166"
-       },
-       {
-        "Id": "813643200"
-       },
-       {
-        "Id": "815225631"
-       },
-       {
-        "Id": "816787651"
-       },
-       {
-        "Id": "818008264"
-       },
-       {
-        "Id": "826589817"
-       },
-       {
-        "Id": "829699739"
-       },
-       {
-        "Id": "830492792"
-       },
-       {
-        "Id": "831035867"
-       },
-       {
-        "Id": "833168132"
-       },
-       {
-        "Id": "835534349"
-       },
-       {
-        "Id": "836394672"
-       },
-       {
-        "Id": "840167568"
-       },
-       {
-        "Id": "847484891"
-       },
-       {
-        "Id": "854523287"
-       },
-       {
-        "Id": "855724205"
-       },
-       {
-        "Id": "855876426"
-       },
-       {
-        "Id": "863206823"
-       },
-       {
-        "Id": "864655323"
-       },
-       {
-        "Id": "869359312"
-       },
-       {
-        "Id": "876340311"
-       },
-       {
-        "Id": "876349647"
-       },
-       {
-        "Id": "878721896"
-       },
-       {
-        "Id": "879381182"
-       },
-       {
-        "Id": "880159901"
-       },
-       {
-        "Id": "881136023"
-       },
-       {
-        "Id": "883862847"
-       },
-       {
-        "Id": "886699710"
-       },
-       {
-        "Id": "888969336"
-       },
-       {
-        "Id": "889816203"
-       },
-       {
-        "Id": "891933742"
-       },
-       {
-        "Id": "892621121"
-       },
-       {
-        "Id": "898230005"
-       },
-       {
-        "Id": "905501705"
-       },
-       {
-        "Id": "908835970"
-       },
-       {
-        "Id": "909887747"
-       },
-       {
-        "Id": "911111294"
-       },
-       {
-        "Id": "915063569"
-       },
-       {
-        "Id": "916583028"
-       },
-       {
-        "Id": "917593734"
-       },
-       {
-        "Id": "918481730"
-       },
-       {
-        "Id": "918765828"
-       },
-       {
-        "Id": "920490563"
-       },
-       {
-        "Id": "921177141"
-       },
-       {
-        "Id": "926910193"
-       },
-       {
-        "Id": "927025447"
-       },
-       {
-        "Id": "927436136"
-       },
-       {
-        "Id": "930926261"
-       },
-       {
-        "Id": "934644856"
-       },
-       {
-        "Id": "939922972"
-       },
-       {
-        "Id": "946480905"
-       },
-       {
-        "Id": "949298774"
-       },
-       {
-        "Id": "949762831"
-       },
-       {
-        "Id": "951287413"
-       },
-       {
-        "Id": "953559841"
-       },
-       {
-        "Id": "958929737"
-       },
-       {
-        "Id": "963947200"
-       },
-       {
-        "Id": "965335731"
-       },
-       {
-        "Id": "967871766"
-       },
-       {
-        "Id": "971985938"
-       },
-       {
-        "Id": "972963235"
-       },
-       {
-        "Id": "973695398"
-       },
-       {
-        "Id": "973974619"
-       },
-       {
-        "Id": "974006803"
-       },
-       {
-        "Id": "974046727"
-       },
-       {
-        "Id": "975827321"
-       },
-       {
-        "Id": "975916691"
-       },
-       {
-        "Id": "976683412"
-       },
-       {
-        "Id": "983330696"
-       },
-       {
-        "Id": "989158920"
-       },
-       {
-        "Id": "989598401"
-       },
-       {
-        "Id": "990657672"
-       },
-       {
-        "Id": "992913321"
-       },
-       {
-        "Id": "995464744"
-       },
-       {
-        "Id": "998328220"
-       },
-       {
-        "Id": "1003668973"
-       },
-       {
-        "Id": "1003757347"
-       },
-       {
-        "Id": "1005171565"
-       },
-       {
-        "Id": "1006573459"
-       },
-       {
-        "Id": "1008115885"
-       },
-       {
-        "Id": "1010652535"
-       },
-       {
-        "Id": "1011428257"
-       },
-       {
-        "Id": "1012886531"
-       },
-       {
-        "Id": "1014005610"
-       },
-       {
-        "Id": "1020875682"
-       },
-       {
-        "Id": "1026236251"
-       },
-       {
-        "Id": "1028248302"
-       },
-       {
-        "Id": "1030705377"
-       },
-       {
-        "Id": "1038268121"
-       },
-       {
-        "Id": "1042797889"
-       },
-       {
-        "Id": "1047757846"
-       },
-       {
-        "Id": "1048995393"
-       },
-       {
-        "Id": "1054453262"
-       },
-       {
-        "Id": "1055495477"
-       },
-       {
-        "Id": "1056133703"
-       },
-       {
-        "Id": "1058288609"
-       },
-       {
-        "Id": "1058326709"
-       },
-       {
-        "Id": "1062956687"
-       },
-       {
-        "Id": "1063082767"
-       },
-       {
-        "Id": "1072207344"
-       }
-      ]
+      "Id": "4040405583",
+      "Name": "Reset_RTPC_Amount",
+      "ObjectPath": "\\Events\\Default Work Unit\\Global_Events\\Reset_RTPC_Amount",
+      "GUID": "{BB88897A-7F62-4D0B-871A-584399B2508F}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
      }
     ],
     "GameParameters": [
@@ -6726,6 +5724,174 @@
       "Name": "RTPC_Global_PlaybackSpeed",
       "ObjectPath": "\\Game Parameters\\Default Work Unit\\RTPC_Global_PlaybackSpeed",
       "GUID": "{CBDD31D1-936B-4C13-B196-95D4B8073B07}"
+     },
+     {
+      "Id": "144715662",
+      "Name": "NPC_Distance_Viola",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Viola",
+      "GUID": "{A8E78431-0504-4C1E-80F9-A37C02950E5D}",
+      "Color": "4"
+     },
+     {
+      "Id": "199996588",
+      "Name": "NPC_Distance_Marimba",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Marimba",
+      "GUID": "{3E1FD867-0838-4A2F-BD6F-05766CE7E1B1}",
+      "Color": "4"
+     },
+     {
+      "Id": "334945398",
+      "Name": "Midimite_Distance_HighCowbell",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_HighCowbell",
+      "GUID": "{2DB61598-BAC9-44AA-A18F-9F90BF68C19B}",
+      "Color": "10"
+     },
+     {
+      "Id": "439013276",
+      "Name": "NPC_Distance_Violin",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Violin",
+      "GUID": "{86ADD9C1-07D7-4728-B78F-058F3DDA36D7}",
+      "Color": "4"
+     },
+     {
+      "Id": "522080476",
+      "Name": "Midimite_Distance_Bamboo",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Bamboo",
+      "GUID": "{1306126D-E596-4F3F-9743-5E59FBB388B7}",
+      "Color": "10"
+     },
+     {
+      "Id": "677520706",
+      "Name": "Midimite_Distance_LowKit",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_LowKit",
+      "GUID": "{31B401F8-4704-41BF-BD33-F7F6F6F61FB3}",
+      "Color": "10"
+     },
+     {
+      "Id": "1334567154",
+      "Name": "Midimite_Distance_Anvil",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Anvil",
+      "GUID": "{07660342-56CE-4A61-B8EF-9708040FE7CD}",
+      "Color": "10"
+     },
+     {
+      "Id": "1531480149",
+      "Name": "NPC_Distance_Clarinet",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Clarinet",
+      "GUID": "{3AFBE585-56B7-448A-A165-5F94CDEADEF2}",
+      "Color": "4"
+     },
+     {
+      "Id": "2376723374",
+      "Name": "NPC_Distance_Cello",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Cello",
+      "GUID": "{7E72AF0F-18C9-4193-A08F-3C6CD8E94C2C}",
+      "Color": "4"
+     },
+     {
+      "Id": "2497158567",
+      "Name": "NPC_Distance_Flute",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Flute",
+      "GUID": "{BAFF7A94-0DC4-4CD2-90C9-2D87AFF6B342}",
+      "Color": "4"
+     },
+     {
+      "Id": "2529230890",
+      "Name": "NPC_Distance_Bassoon",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Bassoon",
+      "GUID": "{7CAD8B40-9FBA-4408-B088-B3DEEBCE3874}",
+      "Color": "4"
+     },
+     {
+      "Id": "2689207365",
+      "Name": "Midimite_Distance_Darabuka",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Darabuka",
+      "GUID": "{230579A4-D73F-4E32-8010-469C145E0233}",
+      "Color": "10"
+     },
+     {
+      "Id": "2738122292",
+      "Name": "NPC_Distance_Celeste",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Celeste",
+      "GUID": "{7C736D7B-EE74-489F-B1E3-4780033875A2}",
+      "Color": "4"
+     },
+     {
+      "Id": "2825161798",
+      "Name": "Midimite_Distance_Cymbal",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Cymbal",
+      "GUID": "{FE96FEAA-44A2-48A2-B724-A49E49E7255B}",
+      "Color": "10"
+     },
+     {
+      "Id": "2883991624",
+      "Name": "Midimite_Distance_Tabla",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Tabla",
+      "GUID": "{23CACBD4-1669-475E-A278-89B516C54C7D}",
+      "Color": "10"
+     },
+     {
+      "Id": "2913963278",
+      "Name": "NPC_Distance_Piano",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Piano",
+      "GUID": "{407036EF-7EFB-45FD-8496-60989E09339A}",
+      "Color": "4"
+     },
+     {
+      "Id": "3151135617",
+      "Name": "Midimite_Distance_KickSnare",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_KickSnare",
+      "GUID": "{05E542F6-8E40-43C0-B84C-3F06034E7EFE}",
+      "Color": "10"
+     },
+     {
+      "Id": "3271029776",
+      "Name": "Midimite_Distance_HighKit",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_HighKit",
+      "GUID": "{439561C9-0652-441F-83D1-B25915174F47}",
+      "Color": "10"
+     },
+     {
+      "Id": "3295000348",
+      "Name": "Midimite_Distance_LowCowbell",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_LowCowbell",
+      "GUID": "{1DD5BBD7-B19A-410F-96E7-7AE78BD554E9}",
+      "Color": "10"
+     },
+     {
+      "Id": "3447802340",
+      "Name": "Midimite_Distance_Udu",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Udu",
+      "GUID": "{9646412B-57D2-4D44-940B-B5C7BF99C203}",
+      "Color": "10"
+     },
+     {
+      "Id": "3774632483",
+      "Name": "NPC_Distance_Vibraphone",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Vibraphone",
+      "GUID": "{D12857F9-966C-4240-8D78-C56D482F3965}",
+      "Color": "4"
+     },
+     {
+      "Id": "4081574792",
+      "Name": "NPC_Distance_Oboe",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Oboe",
+      "GUID": "{38612FF0-8FD6-4C1A-947B-8F05AEAF6BB6}",
+      "Color": "4"
+     },
+     {
+      "Id": "4167638730",
+      "Name": "NPC_Distance_Bass",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Bass",
+      "GUID": "{16E452CC-29C0-4D88-99F5-3D0A0CE1D8D3}",
+      "Color": "4"
+     },
+     {
+      "Id": "4267506872",
+      "Name": "Midimite_Distance_Conga",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Conga",
+      "GUID": "{E002DA37-40B8-41DE-9CED-D53CB0E61D7E}",
+      "Color": "10"
      }
     ],
     "StateGroups": [
@@ -7152,6 +6318,6 @@
     ]
    }
   ],
-  "FileHash": "{29B829A1-1363-468D-0A5E-09047332760E}"
+  "FileHash": "{7B3FEB0E-A1A7-51A8-8D04-2B791B6837E2}"
  }
 }
