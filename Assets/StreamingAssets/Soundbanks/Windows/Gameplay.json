@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{D8D3F7AC-8ECC-47DC-BC7E-E64C75702A11}",
     "Language": "SFX",
-    "Hash": "{9E955772-9743-BE2C-F016-9678D98827F2}",
+    "Hash": "{6D6C4CBA-4913-C006-291F-DE521B4C0341}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Gameplay",
     "ShortName": "Gameplay",
     "Path": "Gameplay.bnk",
@@ -272,6 +272,14 @@
       "CachePath": "3F/{3FE74E87-C65C-853F-5088-B0B232F3CF35}.wem"
      },
      {
+      "Id": "90120799",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Oboe Pattern 2.mid",
+      "CachePath": "68/{689B7CCF-7E4A-8AA1-7E51-E872832F9F65}.wem"
+     },
+     {
       "Id": "91783057",
       "Language": "SFX",
       "Streaming": "false",
@@ -406,6 +414,14 @@
       "Location": "Memory",
       "ShortName": "Arco Cello A#3.wav",
       "CachePath": "AC/{ACF6AE80-02EA-5E44-2EB0-7AF6A622247C}.wem"
+     },
+     {
+      "Id": "120345041",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cello Pattern 2.mid",
+      "CachePath": "6E/{6ED2B490-5DAF-74EA-1E18-682AAB58671B}.wem"
      },
      {
       "Id": "124166167",
@@ -832,6 +848,14 @@
       "CachePath": "B6/{B6B2086B-B580-954D-442A-A4C93D478FEF}.wem"
      },
      {
+      "Id": "270988081",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Vibraphone Pattern 2.mid",
+      "CachePath": "9C/{9C1D8AF9-50D3-C7EE-9EE5-85EDEFE3A784}.wem"
+     },
+     {
       "Id": "272155081",
       "Language": "SFX",
       "Streaming": "false",
@@ -870,6 +894,14 @@
       "Location": "Memory",
       "ShortName": "Walk Drum Mffl 1.wav",
       "CachePath": "58/{58E0435C-3C4E-0AC3-95E6-7BF06EDA814C}.wem"
+     },
+     {
+      "Id": "281908218",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Clarinet Pattern 2.mid",
+      "CachePath": "2F/{2F4355BD-56BA-F31B-523C-DBED1A9CDF03}.wem"
      },
      {
       "Id": "282832448",
@@ -926,6 +958,14 @@
       "Location": "Memory",
       "ShortName": "Anvil Pattern 1 Variation 2.mid",
       "CachePath": "CE/{CE2A2919-06D6-B82D-7166-FD9359337D23}.wem"
+     },
+     {
+      "Id": "301799423",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon E1.wav",
+      "CachePath": "E0/{E0DC529E-F2B1-77B2-8A4D-A50A4BE93283}.wem"
      },
      {
       "Id": "303581462",
@@ -1110,6 +1150,14 @@
       "Location": "Memory",
       "ShortName": "Cowbell11-2.wav",
       "CachePath": "E0/{E095750F-2DF6-C9FE-A1C0-23B7A61BBDC9}.wem"
+     },
+     {
+      "Id": "391829110",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Viola Pattern 2.mid",
+      "CachePath": "C2/{C2301C93-4C29-6F85-DD31-221797CF7797}.wem"
      },
      {
       "Id": "393957052",
@@ -1368,6 +1416,14 @@
       "CachePath": "79/{79C887FE-CED9-8040-9E7A-22DDEB036707}.wem"
      },
      {
+      "Id": "474077924",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Flute Pattern 2.mid",
+      "CachePath": "C3/{C3EEB256-D039-1700-8C3F-19E9672AC7CB}.wem"
+     },
+     {
       "Id": "475756439",
       "Language": "SFX",
       "Streaming": "false",
@@ -1390,6 +1446,14 @@
       "Location": "Memory",
       "ShortName": "Kim Kim Rels 1b.wav",
       "CachePath": "85/{85FE05A1-2BFA-5C1E-E4E9-4112958E8ADD}.wem"
+     },
+     {
+      "Id": "490740353",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Piano Pattern 2.mid",
+      "CachePath": "76/{76912475-D21C-1CE2-4148-3A2007AAEDC0}.wem"
      },
      {
       "Id": "490951067",
@@ -1720,6 +1784,14 @@
       "CachePath": "CB/{CBA71587-7A32-86D6-30DE-77468789D4F1}.wem"
      },
      {
+      "Id": "582475670",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bass Pattern 2.mid",
+      "CachePath": "58/{586A2372-1FAB-37D5-A20C-5816A9EB0C9D}.wem"
+     },
+     {
       "Id": "585206133",
       "Language": "SFX",
       "Streaming": "false",
@@ -1902,6 +1974,14 @@
       "Location": "Memory",
       "ShortName": "Bassoon C4.wav",
       "CachePath": "65/{65B87AE3-3C09-929D-402F-691BE3CBD252}.wem"
+     },
+     {
+      "Id": "649486686",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Celeste Pattern 2.mid",
+      "CachePath": "F9/{F9DD9D47-4B7A-FDE8-2F2F-059E540D6F2F}.wem"
      },
      {
       "Id": "652395845",
@@ -2352,6 +2432,14 @@
       "CachePath": "FC/{FC40C7B3-8540-2441-C26C-A6361D627CBB}.wem"
      },
      {
+      "Id": "823677179",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Violin Pattern 2.mid",
+      "CachePath": "07/{071529C0-8E9A-7667-982C-4C91B0AA6367}.wem"
+     },
+     {
       "Id": "826589817",
       "Language": "SFX",
       "Streaming": "false",
@@ -2382,6 +2470,14 @@
       "Location": "Memory",
       "ShortName": "Breathy Flute C2.wav",
       "CachePath": "B4/{B42A41DF-77EB-E0A4-270B-E2C97B5A6E66}.wem"
+     },
+     {
+      "Id": "832506825",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Marimba Pattern 2.mid",
+      "CachePath": "FC/{FCD69DE1-DC30-EADE-D6B0-1C4B358660D1}.wem"
      },
      {
       "Id": "833168132",
@@ -2550,6 +2646,14 @@
       "Location": "Memory",
       "ShortName": "Breathy FluteA#2.wav",
       "CachePath": "DE/{DE759D76-B198-E316-3A95-43B80DA069A1}.wem"
+     },
+     {
+      "Id": "889073751",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bassoon Pattern 2.mid",
+      "CachePath": "F2/{F20A7B36-EA00-A513-971B-9DECDA5FFDF1}.wem"
      },
      {
       "Id": "889816203",
@@ -4408,6 +4512,16 @@
       ]
      },
      {
+      "Id": "3050945240",
+      "Name": "New_Event",
+      "ObjectPath": "\\Events\\Default Work Unit\\Global_Events\\New_Event",
+      "GUID": "{8C682CDB-AC29-4BE6-B23D-6369D6F39F6E}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
       "Id": "1256202815",
       "Name": "Play",
       "ObjectPath": "\\Events\\Default Work Unit\\Global_Events\\Play",
@@ -4511,6 +4625,9 @@
         "Id": "87032757"
        },
        {
+        "Id": "90120799"
+       },
+       {
         "Id": "91783057"
        },
        {
@@ -4560,6 +4677,9 @@
        },
        {
         "Id": "117872015"
+       },
+       {
+        "Id": "120345041"
        },
        {
         "Id": "124166167"
@@ -4721,6 +4841,9 @@
         "Id": "270987751"
        },
        {
+        "Id": "270988081"
+       },
+       {
         "Id": "272155081"
        },
        {
@@ -4734,6 +4857,9 @@
        },
        {
         "Id": "281631531"
+       },
+       {
+        "Id": "281908218"
        },
        {
         "Id": "282832448"
@@ -4755,6 +4881,9 @@
        },
        {
         "Id": "300376831"
+       },
+       {
+        "Id": "301799423"
        },
        {
         "Id": "303581462"
@@ -4824,6 +4953,9 @@
        },
        {
         "Id": "391242189"
+       },
+       {
+        "Id": "391829110"
        },
        {
         "Id": "393957052"
@@ -4922,6 +5054,9 @@
         "Id": "473532142"
        },
        {
+        "Id": "474077924"
+       },
+       {
         "Id": "475756439"
        },
        {
@@ -4929,6 +5064,9 @@
        },
        {
         "Id": "485139616"
+       },
+       {
+        "Id": "490740353"
        },
        {
         "Id": "490951067"
@@ -5054,6 +5192,9 @@
         "Id": "579929523"
        },
        {
+        "Id": "582475670"
+       },
+       {
         "Id": "585206133"
        },
        {
@@ -5121,6 +5262,9 @@
        },
        {
         "Id": "639175187"
+       },
+       {
+        "Id": "649486686"
        },
        {
         "Id": "652395845"
@@ -5291,6 +5435,9 @@
         "Id": "818008264"
        },
        {
+        "Id": "823677179"
+       },
+       {
         "Id": "826589817"
        },
        {
@@ -5301,6 +5448,9 @@
        },
        {
         "Id": "831035867"
+       },
+       {
+        "Id": "832506825"
        },
        {
         "Id": "833168132"
@@ -5364,6 +5514,9 @@
        },
        {
         "Id": "888969336"
+       },
+       {
+        "Id": "889073751"
        },
        {
         "Id": "889816203"
@@ -6318,6 +6471,6 @@
     ]
    }
   ],
-  "FileHash": "{7B3FEB0E-A1A7-51A8-8D04-2B791B6837E2}"
+  "FileHash": "{F0F2C94C-76C4-F384-AE7F-4E38B0B1FE19}"
  }
 }

@@ -33,6 +33,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	2954020507	MUS_Select_Modalman_Marimba_SetState			\Default Work Unit\Modalman_Events\Modalman_Instruments\MUS_Select_Modalman_Marimba_SetState	
 	2976741093	MUS_Select_NPC_Keyboard_SetState			\Default Work Unit\NPC_Events\NPC_Instrument_Subgroups\MUS_Select_NPC_Keyboard_SetState	
 	2989708487	MUS_Select_Midimite_HighKit_SetState			\Default Work Unit\Midimite_Events\Midimite_Instruments\MUS_Select_Midimite_HighKit_SetState	
+	3050945240	New_Event			\Default Work Unit\Global_Events\New_Event	
 	3084040373	MUS_Select_NPC_Piano_SetState			\Default Work Unit\NPC_Events\NPC_Instruments\MUS_Select_NPC_Piano_SetState	
 	3118841357	MUS_Select_Modalman_Cello_SetState			\Default Work Unit\Modalman_Events\Modalman_Instruments\MUS_Select_Modalman_Cello_SetState	
 	3186375448	MUS_Select_Midimite_Metalic_SetState			\Default Work Unit\Midimite_Events\Midimite_Instrument_Subgroups\MUS_Select_Midimite_Metalic_SetState	
@@ -170,10 +171,10 @@ Modulator Envelope	ID	Name			Wwise Object Path	Notes
 	1072165278	Modulator Envelope (Custom)				
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	689272	17_PhaseOne_A_HighCowbell	.cache\92\{92A4F6C0-7340-85B1-5EA7-ADA0249F317E}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\17_PhaseOne_A_HighCowbell		138
+	689272	17_PhaseOne_A_HighCowbell	.cache\92\{92A4F6C0-7340-85B1-5EA7-ADA0249F317E}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\17_PhaseOne_A_HighCowbell		138
 	3353201	Wood Block	.cache\E4\{E438C7B7-F083-23CB-963E-E187B4A3AB20}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\14_Cymbal\Wood Block		3344
 	4669765	Tamb Single Hit 2 Fast Atack 1	.cache\76\{76165D1E-EAC9-0CD7-0AD3-88D8A085C871}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\16_KickSnare\Tamb Single Hit 2 Fast Atack 1		32254
-	12921684	6_PhaseOne_A_Oboe	.cache\CE\{CE561C2B-C8D7-0F5D-A040-58CF5CA538A5}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\6_PhaseOne_A_Oboe		116
+	12921684	6_PhaseOne_A_Oboe	.cache\CE\{CE561C2B-C8D7-0F5D-A040-58CF5CA538A5}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\6_PhaseOne_A_Oboe		116
 	14839378	E3	.cache\C3\{C3106497-A279-5532-FAC0-49E982D68C5A}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\10_Viola\E3		178532
 	15255499	Celeste 2 F#5	.cache\57\{57C9A61C-DFE4-C34B-12B5-889DD3EDA1D9}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\25_Modalman_Celeste\Celeste 2 F#5		133178
 	16756287	Oboe A#2	.cache\10\{1014139B-80E7-F1CE-537B-FB5E87AB5B61}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\6_Oboe\Oboe A#2		210078
@@ -190,41 +191,43 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	40056596	Don-Don Mute 1	.cache\DB\{DBFE0F6F-0940-152A-D59F-3C9BB0D90BD8}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Don-Don Mute 1		66114
 	42259494	Conga Lo 1	.cache\3E\{3E9CF47C-541D-0070-E70E-44A1073D7C30}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Conga Lo 1		96768
 	44581923	Arco Violin A#4	.cache\18\{18F190BB-55A5-8E3A-091E-A0914DDA4D4D}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\9_Violin\Arco Violin A#4		167986
-	60482078	15_PhaseOne_A_LowKit	.cache\3A\{3A97E499-F890-086C-5C54-BAE45D1C66C3}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\15_PhaseOne_A_LowKit		98
+	60482078	15_PhaseOne_A_LowKit	.cache\3A\{3A97E499-F890-086C-5C54-BAE45D1C66C3}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\15_PhaseOne_A_LowKit		98
 	61253708	Breathy Flute G1	.cache\A3\{A30E41EE-BFFB-2635-085D-FF4EEDB3BAD2}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\29_Modalman_Flute\Breathy Flute G1		50056
-	68673862	13_PhaseOne_A_HighKit	.cache\C4\{C4F2D990-CB5E-BC6C-981B-9B7AD6169145}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\13_PhaseOne_A_HighKit		192
+	68673862	13_PhaseOne_A_HighKit	.cache\C4\{C4F2D990-CB5E-BC6C-981B-9B7AD6169145}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\13_PhaseOne_A_HighKit		192
 	71854843	Pearl Tom Dry Hi Mid 1	.cache\A6\{A63E67C2-7554-8EDF-E494-86D1DAFAEDDC}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\14_Cymbal\Pearl Tom Dry Hi Mid 1		192544
-	75547722	1_PhaseOne_A_Celeste	.cache\D8\{D8DC5A5E-472A-80F6-6303-70F3AEA1CC1C}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\1_PhaseOne_A_Celeste		240
-	75885555	6_PhaseOne_A_Oboe	.cache\57\{57488119-F2F3-39C3-BF09-5743BD0F045B}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\6_PhaseOne_A_Oboe		116
+	75547722	1_PhaseOne_A_Celeste	.cache\D8\{D8DC5A5E-472A-80F6-6303-70F3AEA1CC1C}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\1_PhaseOne_A_Celeste		240
+	75885555	6_PhaseOne_A_Oboe	.cache\57\{57488119-F2F3-39C3-BF09-5743BD0F045B}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\6_PhaseOne_A_Oboe		116
 	76130517	Bassoon E2	.cache\1A\{1A77D09B-EE50-DE98-AEA2-1DF627CB81EE}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\8_Bassoon\Bassoon E2		11722
-	83208944	20_PhaseOne_A_Udu	.cache\F8\{F8CEC4D3-815F-1956-ED93-B860ADAB20AB}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\20_PhaseOne_A_Udu		106
+	83208944	20_PhaseOne_A_Udu	.cache\F8\{F8CEC4D3-815F-1956-ED93-B860ADAB20AB}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\20_PhaseOne_A_Udu		106
 	83455997	Udu SlapRel Lo 1	.cache\61\{619A4A5F-471D-7CF6-C834-7764841651FA}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu SlapRel Lo 1		39452
 	84233198	Udu Tone Lo 2	.cache\15\{1558453E-DB8E-9ABF-838A-5EC0714F8215}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Tone Lo 2		88210
 	85865070	Bass F#3	.cache\9C\{9C887E57-833F-1201-36C0-33213CEB4EB0}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\12_Bass\Bass F#3		71944
 	87032757	Piano F#4	.cache\3F\{3FE74E87-C65C-853F-5088-B0B232F3CF35}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\4_Piano\Piano F#4		42912
+	90120799	6_PhaseOne_B_Oboe	.cache\68\{689B7CCF-7E4A-8AA1-7E51-E872832F9F65}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_8Bars\6_PhaseOne_B_Oboe		738
 	91783057	Celeste 2 G6	.cache\EF\{EF22DD82-9679-82C9-0BAC-9046E7953F33}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\1_Celeste\Celeste 2 G6		103652
 	92173294	11_PhaseOne_A_Cello	.cache\5F\{5F0F7013-9661-BA8E-158A-6970EDCD0B3B}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\11_PhaseOne_A_Cello		116
-	92768601	5_PhaseOne_A_Flute	.cache\DC\{DC7B624B-E282-437F-C183-A4BB02F00831}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\5_PhaseOne_A_Flute		98
-	95108799	2_PhaseOne_A_Vibraphone	.cache\51\{51726151-9B40-7B7F-CFD2-F5D21CC764A1}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\2_PhaseOne_A_Vibraphone		178
+	92768601	5_PhaseOne_A_Flute	.cache\DC\{DC7B624B-E282-437F-C183-A4BB02F00831}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\5_PhaseOne_A_Flute		98
+	95108799	2_PhaseOne_A_Vibraphone	.cache\51\{51726151-9B40-7B7F-CFD2-F5D21CC764A1}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\2_PhaseOne_A_Vibraphone		178
 	96069176	9_PhaseOne_A_Violin	.cache\AC\{ACF34458-0BDB-696E-A0DD-FD429351F1B6}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\9_PhaseOne_A_Violin		138
 	97555033	Rap 606 Snare 1	.cache\2D\{2DAE1D87-B8DF-93CA-E8CD-91DD16A47FD5}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\16_KickSnare\Rap 606 Snare 1		23920
 	102221632	Walk Drum Tone 1	.cache\2F\{2FA54D18-E4E1-F0B8-CD68-C93146CF7A55}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Walk Drum Tone 1		48948
 	102267127	Congas11-5_09	.cache\7C\{7C7CA0A6-378D-9C66-C797-FE85FEE29B2D}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\23_Conga\Congas11-5_09		57488
 	102590234	7_PhaseOne_A_Clarinet	.cache\10\{108D1A83-3A75-A3A8-1D05-9FA1059C60F6}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\7_PhaseOne_A_Clarinet		116
-	107130729	22_PhaseOne_A_Tabla	.cache\A3\{A3E06D4C-2F3F-F29E-CE9F-42AA4E67E448}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\22_PhaseOne_A_Tabla		114
+	107130729	22_PhaseOne_A_Tabla	.cache\A3\{A3E06D4C-2F3F-F29E-CE9F-42AA4E67E448}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\22_PhaseOne_A_Tabla		114
 	108327184	Bass D3	.cache\34\{345596CD-7369-0247-FA8F-B67770B628DE}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\36_Modalman_Bass\Bass D3		71962
 	110144224	Shinachiku-E3	.cache\E7\{E733BA3E-B1C5-0522-AC3B-9FEEFB16563F}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\21_Bamboo\Shinachiku-E3		37008
 	110955213	24_PhaseOne_A_Darabuka	.cache\61\{6156ADB1-C318-CB8C-3DF0-1038D504EE9B}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\24_PhaseOne_A_Darabuka		106
 	113968636	Walk Drum Stik 2	.cache\48\{48C5C892-0CD5-9453-8132-8535A22D9959}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Walk Drum Stik 2		52838
 	115155849	Tam Tam Open 2	.cache\7E\{7E6E8399-4370-45C9-6DC0-6F5C5275DBB6}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Tam Tam Open 2		62498
-	116126986	3_PhaseOne_A_Marimba	.cache\6F\{6F762F79-9E39-D95E-3102-41FD87529460}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\3_PhaseOne_A_Marimba		246
+	116126986	3_PhaseOne_A_Marimba	.cache\6F\{6F762F79-9E39-D95E-3102-41FD87529460}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\3_PhaseOne_A_Marimba		246
 	117872015	Arco Cello A#3	.cache\AC\{ACF6AE80-02EA-5E44-2EB0-7AF6A622247C}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\11_Cello\Arco Cello A#3		78184
+	120345041	11_PhaseOne_B_Cello	.cache\6E\{6ED2B490-5DAF-74EA-1E18-682AAB58671B}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_8Bars\11_PhaseOne_B_Cello		950
 	124166167	Tam Tam SltTens2	.cache\0A\{0ABCADA3-E136-83C9-6FBF-64B558ADFBE5}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Tam Tam SltTens2		66816
 	124954580	Darabuka11-3_01	.cache\54\{5436CD8B-42C5-213E-4EBC-42C3018ECB61}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\24_Darabuka\Darabuka11-3_01		52368
 	128453004	Piano C#3	.cache\F5\{F5ABBB44-D785-D1EB-D040-88E9E4B60794}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\4_Piano\Piano C#3		76948
-	129402466	6_PhaseOne_A_Oboe	.cache\6F\{6F0D271A-6C25-233F-FFD8-18303700D7AE}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\6_PhaseOne_A_Oboe		116
+	129402466	6_PhaseOne_A_Oboe	.cache\6F\{6F0D271A-6C25-233F-FFD8-18303700D7AE}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\6_PhaseOne_A_Oboe		116
 	130700704	G4	.cache\EB\{EB80DFC5-6897-EE46-CE18-5D0442F6E1AA}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\34_Modalman_Viola\G4		143820
-	137145340	27_PhaseOne_A_Modalman_Marimba	.cache\7C\{7C8B2873-6391-BC46-EE7C-E4611F86715A}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\27_PhaseOne_A_Modalman_Marimba		382
+	137145340	27_PhaseOne_A_Modalman_Marimba	.cache\7C\{7C8B2873-6391-BC46-EE7C-E4611F86715A}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\27_PhaseOne_A_Modalman_Marimba		382
 	147538421	Arco Cello A#2	.cache\8E\{8E03FA76-F0B3-734C-3BBE-385FA3DFB8AB}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\35_Modalman_Cello\Arco Cello A#2		61942
 	148178644	Ride Med 22 RIM ROCK 1	.cache\42\{4229D740-2C28-95BD-A594-BA1AED2851BD}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\16_KickSnare\Ride Med 22 RIM ROCK 1		530004
 	163231996	Bassoon C3	.cache\C4\{C4F2CE6D-70B1-6F1C-3381-F0EF44E985C5}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\8_Bassoon\Bassoon C3		13688
@@ -233,7 +236,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	166547667	Tam Tam Hi Lo 2	.cache\FC\{FCA0BB9A-92F8-3393-8B2E-A04B456558B0}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Tam Tam Hi Lo 2		43820
 	169269049	Whistle Long 1	.cache\49\{496236F0-15E0-D939-1591-466FB3CEEEE1}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Whistle Long 1		35448
 	172709377	12_PhaseOne_A_Bass	.cache\4C\{4CA0700F-E9E1-2920-ECA0-C1F1EB078B96}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\12_PhaseOne_A_Bass		106
-	177100185	13_PhaseOne_A_HighKit	.cache\11\{112AB14E-9527-3E6E-9EBE-F2102DC5813C}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\13_PhaseOne_A_HighKit		192
+	177100185	13_PhaseOne_A_HighKit	.cache\11\{112AB14E-9527-3E6E-9EBE-F2102DC5813C}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\13_PhaseOne_A_HighKit		192
 	186209506	Vibes    A4	.cache\B2\{B203EAFF-CA7A-CA21-169D-E0605DBC9F4F}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\2_Vibraphone\Vibes    A4		55956
 	192633058	A#1 2	.cache\98\{98512EE6-BE68-1206-0B23-B3319F410E4C}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\7_Clarinet\A#1 2		69476
 	197945168	Celeste 2 E4	.cache\BA\{BA2A5EE9-9785-F141-DAFB-E552E26883FE}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\1_Celeste\Celeste 2 E4		183952
@@ -241,24 +244,24 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	200239377	Hat 15 Tip Closed 3 1	.cache\45\{45DA47C7-565D-2E1D-919B-93F5CD8A6298}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Hat 15 Tip Closed 3 1		14370
 	201212973	Udu Release Hi 2	.cache\3A\{3AA935C2-99A7-FAFD-4E7C-E4B7820E48EE}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Release Hi 2		33752
 	205789152	Hand Claps 1	.cache\13\{13F20DD1-CE1D-EE67-9356-F745681B6B02}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\16_KickSnare\Hand Claps 1		17064
-	207503840	2_PhaseOne_A_Vibraphone	.cache\E8\{E8384DE3-0A64-D08F-A21D-A4BDB7FB1D4F}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\2_PhaseOne_A_Vibraphone		178
+	207503840	2_PhaseOne_A_Vibraphone	.cache\E8\{E8384DE3-0A64-D08F-A21D-A4BDB7FB1D4F}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\2_PhaseOne_A_Vibraphone		178
 	207776403	25_PhaseOne_A_Modalman_Celeste	.cache\9B\{9B72B501-CA18-2C03-15B1-E9E8D5A0BEFD}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\25_PhaseOne_A_Modalman_Celeste		382
 	209649507	18_PhaseOne_A_Anvil	.cache\05\{052EFB2A-3FC3-94FB-E653-D9A4B4C907A1}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\18_PhaseOne_A_Anvil		116
 	211957193	Arco Violin E4	.cache\2B\{2B756FDE-4741-7382-93C5-4544FDA45C0A}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\33_Modalman_Violin\Arco Violin E4		102106
-	212579209	14_PhaseOne_A_Cymbal	.cache\28\{28440FD8-E532-E96E-8804-5C24C9E16F16}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\14_PhaseOne_A_Cymbal		130
+	212579209	14_PhaseOne_A_Cymbal	.cache\28\{28440FD8-E532-E96E-8804-5C24C9E16F16}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\14_PhaseOne_A_Cymbal		130
 	213736176	Cowbell 1	.cache\B4\{B47A59DD-9C14-07AD-24DB-8E7471F3E969}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Cowbell 1		7416
 	213884473	Arco Cello D3	.cache\A0\{A0F1D77D-CD76-507A-4F33-136A6B362C32}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\35_Modalman_Cello\Arco Cello D3		60690
 	214187809	Congas11-3_02	.cache\1A\{1A498106-FA30-4674-A437-A54840A01964}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\23_Conga\Congas11-3_02		47248
-	222677479	19_PhaseOne_A_LowCowbell	.cache\1B\{1B706553-0EB7-A65D-77E1-2F945CFE8193}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\19_PhaseOne_A_LowCowbell		116
+	222677479	19_PhaseOne_A_LowCowbell	.cache\1B\{1B706553-0EB7-A65D-77E1-2F945CFE8193}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\19_PhaseOne_A_LowCowbell		116
 	232362962	Breathy FluteG#3	.cache\81\{8159A1B2-90CB-A500-6064-B3623198E252}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\29_Modalman_Flute\Breathy FluteG#3		50146
 	232547070	Ride Hard 22 MID ROCK 1	.cache\AA\{AACB0BCA-A9A8-5E5E-9D12-762FC17D333E}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Ride Hard 22 MID ROCK 1		536050
 	233934279	Tam Tam HndTens2	.cache\C4\{C401D31A-DC71-10B2-0B00-5645F0B827BF}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Tam Tam HndTens2		39460
 	236301090	Rosewood Harm 2	.cache\DD\{DD86F734-C9D2-799B-5606-964D0E1546DD}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Rosewood Harm 2		44568
 	237844074	Breathy Flute D1	.cache\FA\{FA40C380-9B80-7A36-7F36-C2A00677611D}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\29_Modalman_Flute\Breathy Flute D1		49866
 	239149171	3_PhaseOne_A_Marimba	.cache\75\{7518595F-3CF7-2124-E34A-78E7496706DB}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\3_PhaseOne_A_Marimba		246
-	247429081	20_PhaseOne_A_Udu	.cache\65\{65B15AC5-03E0-4498-8EFA-1603E3BCDAB0}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\20_PhaseOne_A_Udu		106
-	250345606	6_PhaseOne_A_Oboe	.cache\F4\{F462F0C1-BE16-5B9E-A033-5AFE244677C5}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\6_PhaseOne_A_Oboe		116
-	251379201	6_PhaseOne_A_Oboe	.cache\2D\{2D607C9C-1996-2E72-851B-B7C5A0E72691}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\6_PhaseOne_A_Oboe		88
+	247429081	20_PhaseOne_A_Udu	.cache\65\{65B15AC5-03E0-4498-8EFA-1603E3BCDAB0}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\20_PhaseOne_A_Udu		106
+	250345606	6_PhaseOne_A_Oboe	.cache\F4\{F462F0C1-BE16-5B9E-A033-5AFE244677C5}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\6_PhaseOne_A_Oboe		116
+	251379201	6_PhaseOne_A_Oboe	.cache\2D\{2D607C9C-1996-2E72-851B-B7C5A0E72691}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\6_PhaseOne_A_Oboe		88
 	253826488	Marimba Hard F3 1	.cache\3C\{3CD5AF20-7161-27ED-4291-3865D4812227}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\3_Marimba\Marimba Hard F3 1		62032
 	255514248	18_PhaseOne_A_Anvil	.cache\07\{0740F544-4322-FD06-D0E5-BB59412C5002}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\18_PhaseOne_A_Anvil		116
 	260625366	D3	.cache\04\{04D33A7A-767E-C253-45D0-5ACC7BCD9C9A}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\7_Clarinet\D3		71690
@@ -272,24 +275,27 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	267938365	Timbale High 1	.cache\37\{37E00EF6-D410-7135-3CF3-14AAE0C2E530}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\14_Cymbal\Timbale High 1		25510
 	269181606	4_PhaseOne_A_Piano	.cache\2D\{2D96B194-E948-D54F-4486-C21FD38D71CD}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\4_PhaseOne_A_Piano		122
 	270987751	Tam Tam HndStrk1	.cache\B6\{B6B2086B-B580-954D-442A-A4C93D478FEF}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Tam Tam HndStrk1		52874
+	270988081	2_PhaseOne_B_Vibraphone	.cache\9C\{9C1D8AF9-50D3-C7EE-9EE5-85EDEFE3A784}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_8Bars\2_PhaseOne_B_Vibraphone		838
 	272155081	Tam Tam HandMut2	.cache\BD\{BD345DAF-A9A5-0593-5E45-11C7C1A47A34}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Tam Tam HandMut2		34024
 	273935497	Tri Single Stroke 4 1	.cache\DB\{DB10BA2E-5520-BBAA-C670-80314FC2D49B}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\16_KickSnare\Tri Single Stroke 4 1		545760
 	275428034	35_PhaseOne_A_Modalman_Cello	.cache\44\{44282337-65F5-9C3D-A0B6-F55CC68A0DD1}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\35_PhaseOne_A_Modalman_Cello		178
 	280912481	Don-Don Flat 1a	.cache\66\{66096210-D964-15FD-3485-C29D8753635B}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Don-Don Flat 1a		61984
 	281631531	Walk Drum Mffl 1	.cache\58\{58E0435C-3C4E-0AC3-95E6-7BF06EDA814C}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Walk Drum Mffl 1		48754
+	281908218	7_PhaseOne_B_Clarinet	.cache\2F\{2F4355BD-56BA-F31B-523C-DBED1A9CDF03}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_8Bars\7_PhaseOne_B_Clarinet		766
 	282832448	Udu Finger Hi 2	.cache\E9\{E988154D-C2C8-9CF6-BBC9-6268B418DE23}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Finger Hi 2		71106
-	287469539	21_PhaseOne_A_Bamboo	.cache\EF\{EFB82D98-AC32-277B-0117-57A09358CE6C}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\21_PhaseOne_A_Bamboo		138
+	287469539	21_PhaseOne_A_Bamboo	.cache\EF\{EFB82D98-AC32-277B-0117-57A09358CE6C}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\21_PhaseOne_A_Bamboo		138
 	289783468	Oboe A#3	.cache\69\{6945BABA-B6C3-F908-6B25-F5522DDBC7A0}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\6_Oboe\Oboe A#3		195976
 	291231289	Pearl Tom Dry Lo Mid	.cache\E2\{E275F876-75F2-AA55-CB68-4FFFD170784F}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Pearl Tom Dry Lo Mid		206662
 	293949217	Vibes    E2	.cache\28\{284D4FA9-42CB-2D65-E8EE-71B3B45DBF4E}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\2_Vibraphone\Vibes    E2		87380
 	299184655	A#4	.cache\E1\{E1BA4885-B3CE-7CBA-42B1-C28EF490A735}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\31_Modalman_Clarinet\A#4		72324
-	300376831	18_PhaseOne_A_Anvil	.cache\CE\{CE2A2919-06D6-B82D-7166-FD9359337D23}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\18_PhaseOne_A_Anvil		116
+	300376831	18_PhaseOne_A_Anvil	.cache\CE\{CE2A2919-06D6-B82D-7166-FD9359337D23}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\18_PhaseOne_A_Anvil		116
+	301799423	Bassoon E1	.cache\E0\{E0DC529E-F2B1-77B2-8A4D-A50A4BE93283}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\8_Bassoon\Bassoon E1		14982
 	303581462	RX 5 Stereo Rim2 L 1	.cache\31\{31F4C4F3-01C7-0F35-466E-BB353C66B849}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\16_KickSnare\RX 5 Stereo Rim2 L 1		49402
 	304690743	Rosewood Flam	.cache\6A\{6A51DBDD-5522-3149-7E2D-85537AA5D969}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Rosewood Flam		36320
-	306393088	17_PhaseOne_A_HighCowbell	.cache\9E\{9E847CAA-C0D0-A42D-0767-BD66B9650DF2}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\17_PhaseOne_A_HighCowbell		138
+	306393088	17_PhaseOne_A_HighCowbell	.cache\9E\{9E847CAA-C0D0-A42D-0767-BD66B9650DF2}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\17_PhaseOne_A_HighCowbell		138
 	307087347	Udu Finger Hi 1	.cache\E0\{E0FC5AC6-AB2F-B595-71DD-011E56087858}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Finger Hi 1		79454
 	308004264	Wood Block 1	.cache\E4\{E438C7B7-F083-23CB-963E-E187B4A3AB20}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\14_Cymbal\Wood Block 1		3344
-	312165925	29_PhaseOne_A_Modalman_Flute	.cache\60\{607E7C7E-F5C3-06E6-D2D5-1AAB2F058B36}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\29_PhaseOne_A_Modalman_Flute		318
+	312165925	29_PhaseOne_A_Modalman_Flute	.cache\60\{607E7C7E-F5C3-06E6-D2D5-1AAB2F058B36}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\29_PhaseOne_A_Modalman_Flute		318
 	314265877	Celeste 2 C#6	.cache\2E\{2E8F64DE-F2D1-F1D6-951A-C3B384EB4707}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\1_Celeste\Celeste 2 C#6		131770
 	321890565	Kim Kim Tone 1b	.cache\A3\{A33F20E2-6B4A-9BA2-24A1-6350C11F3A50}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Kim Kim Tone 1b		52926
 	333265941	Tama 24_ BD (T) SHT AMB 1	.cache\DC\{DC8D3F2F-7567-D738-51F0-5EE288DA19B1}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Tama 24_ BD (T) SHT AMB 1		147688
@@ -297,19 +303,20 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	335863411	Vibraslap 2 1	.cache\B7\{B75597B7-B9B5-21B4-BA5C-242E0BA35403}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Vibraslap 2 1		79224
 	336272938	Vibes    E5	.cache\D6\{D6AD8FAE-C1D7-98F4-1C2A-F4732178234A}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\26_Modalman_Vibraphone\Vibes    E5		57956
 	348624598	Oboe F#2	.cache\AA\{AA787986-5614-08E6-23F7-D82F5A4C34B3}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\30_Modalman_Oboe\Oboe F#2		430096
-	350926906	10_PhaseOne_A_Viola	.cache\F8\{F89A3A15-BFA1-7CD7-F3B2-51FC3E3D7E16}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\10_PhaseOne_A_Viola		116
+	350926906	10_PhaseOne_A_Viola	.cache\F8\{F89A3A15-BFA1-7CD7-F3B2-51FC3E3D7E16}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\10_PhaseOne_A_Viola		116
 	366395370	Udu Tone Lo 1	.cache\E1\{E1176DC1-98B8-471C-28E3-C81B808900C5}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Tone Lo 1		71022
 	366401855	Shinachiku-B2	.cache\AE\{AEB29002-D832-9322-3D82-AD2E42D80FB9}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\21_Bamboo\Shinachiku-B2		40080
 	375913495	E2	.cache\A0\{A01CB7E4-25BB-0798-EA55-8E00B6906EA2}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\10_Viola\E2		114994
-	378688346	11_PhaseOne_A_Cello	.cache\45\{450CAAFD-C4A1-0CFB-383D-0673E15BEB2E}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\11_PhaseOne_A_Cello		116
+	378688346	11_PhaseOne_A_Cello	.cache\45\{450CAAFD-C4A1-0CFB-383D-0673E15BEB2E}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\11_PhaseOne_A_Cello		116
 	378743144	24_PhaseOne_A_Darabuka	.cache\CF\{CF989DCC-59B2-3FAB-ADC7-118BC3E4A638}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\24_PhaseOne_A_Darabuka		106
-	380309901	16_PhaseOne_A_KickSnare	.cache\C3\{C3F78A20-2B53-DCE1-93F2-7469E4B4E56D}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\16_PhaseOne_A_KickSnare		80
+	380309901	16_PhaseOne_A_KickSnare	.cache\C3\{C3F78A20-2B53-DCE1-93F2-7469E4B4E56D}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\16_PhaseOne_A_KickSnare		80
 	381268898	Rosewood Slap 2	.cache\71\{718FFD60-A4D3-BF52-7EB0-C86D45851517}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Rosewood Slap 2		38460
-	381950430	1_PhaseOne_A_Celeste	.cache\0D\{0D8AA7AC-61DF-0A8D-7B13-0CB209E01E75}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\1_PhaseOne_A_Celeste		226
+	381950430	1_PhaseOne_A_Celeste	.cache\0D\{0D8AA7AC-61DF-0A8D-7B13-0CB209E01E75}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\1_PhaseOne_A_Celeste		226
 	391242189	Cowbell11-2	.cache\E0\{E095750F-2DF6-C9FE-A1C0-23B7A61BBDC9}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\19_LowCowbell\Cowbell11-2		30864
+	391829110	10_PhaseOne_B_Viola	.cache\C2\{C2301C93-4C29-6F85-DD31-221797CF7797}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_8Bars\10_PhaseOne_B_Viola		1170
 	393957052	Kim Kim Tone 1a	.cache\91\{91B10F29-BDB0-88D6-7193-CA9C5152C144}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Kim Kim Tone 1a		53606
 	394854655	20_PhaseOne_A_Udu	.cache\B2\{B2B96513-496C-106B-C059-869A9F889ED6}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\20_PhaseOne_A_Udu		106
-	402810176	17_PhaseOne_A_HighCowbell	.cache\52\{52F00B5B-87F5-B3BF-87ED-43378E766BFC}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\17_PhaseOne_A_HighCowbell		138
+	402810176	17_PhaseOne_A_HighCowbell	.cache\52\{52F00B5B-87F5-B3BF-87ED-43378E766BFC}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\17_PhaseOne_A_HighCowbell		138
 	403261595	Vibes    A3	.cache\A9\{A9593268-E4FF-967A-C7AB-40FAE42CAB3D}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\2_Vibraphone\Vibes    A3		48884
 	403439396	Celeste 2 A3	.cache\55\{55D1B4E8-6156-E753-4B9B-6A83BEB91D67}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\25_Modalman_Celeste\Celeste 2 A3		159614
 	408879825	22_PhaseOne_A_Tabla	.cache\3D\{3D83CD82-1990-E42C-5649-07E356AC5707}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\22_PhaseOne_A_Tabla		88
@@ -323,27 +330,29 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	436292517	Oboe A#3	.cache\81\{8183ABF6-748E-5459-B43F-EFF16D71B427}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\30_Modalman_Oboe\Oboe A#3		391744
 	440542341	Crash 16 Hrd 1	.cache\79\{792E5A10-D0AF-7540-C036-2B5121227CAC}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Crash 16 Hrd 1		385410
 	442298474	G#2	.cache\25\{25DA0043-9A90-5174-14DB-52FE5A2A4D79}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\34_Modalman_Viola\G#2		137804
-	445177836	34_PhaseOne_A_Modalman_Viola	.cache\6F\{6F91ACA4-639A-680E-6355-C61A9E154C7F}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\34_PhaseOne_A_Modalman_Viola		248
-	445328684	13_PhaseOne_A_HighKit	.cache\F1\{F138ABBF-0859-E518-C7C9-EC6CFA5012A8}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\13_PhaseOne_A_HighKit		130
+	445177836	34_PhaseOne_A_Modalman_Viola	.cache\6F\{6F91ACA4-639A-680E-6355-C61A9E154C7F}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\34_PhaseOne_A_Modalman_Viola		248
+	445328684	13_PhaseOne_A_HighKit	.cache\F1\{F138ABBF-0859-E518-C7C9-EC6CFA5012A8}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\13_PhaseOne_A_HighKit		130
 	450879635	Whistle Short 1	.cache\6B\{6B80AE64-B6C6-76AF-1227-DC14938C570F}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\14_Cymbal\Whistle Short 1		29114
-	451541361	5_PhaseOne_A_Flute	.cache\F5\{F5E7F961-C428-1E98-1F8D-DCE4B63ACDD1}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\5_PhaseOne_A_Flute		138
+	451541361	5_PhaseOne_A_Flute	.cache\F5\{F5E7F961-C428-1E98-1F8D-DCE4B63ACDD1}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\5_PhaseOne_A_Flute		138
 	452240670	E1	.cache\56\{564690E3-DDF6-4A1D-3293-E77995AB1F1C}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\34_Modalman_Viola\E1		133152
 	457870168	F#4	.cache\D2\{D26D6707-C039-250B-FDC1-824D6998A02F}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\7_Clarinet\F#4		73794
 	458037523	Arco Violin C4	.cache\B4\{B4B34DDE-21D2-041B-718A-8E1CDA52073B}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\33_Modalman_Violin\Arco Violin C4		94976
-	459267277	23_PhaseOne_A_Conga	.cache\95\{957BF643-CA29-372F-F6DE-F4F18DCB4D86}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\23_PhaseOne_A_Conga		88
+	459267277	23_PhaseOne_A_Conga	.cache\95\{957BF643-CA29-372F-F6DE-F4F18DCB4D86}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\23_PhaseOne_A_Conga		88
 	459535189	Bass F#1	.cache\A4\{A4D42995-2239-98BB-441E-58CD3DE968BF}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\12_Bass\Bass F#1		80012
-	462007144	22_PhaseOne_A_Tabla	.cache\D9\{D9A52BC5-A944-6500-3BFD-8495FF44FE8C}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\22_PhaseOne_A_Tabla		116
+	462007144	22_PhaseOne_A_Tabla	.cache\D9\{D9A52BC5-A944-6500-3BFD-8495FF44FE8C}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\22_PhaseOne_A_Tabla		116
 	468073868	Arco Cello F#1	.cache\DC\{DCB8E472-701E-835B-3CA2-296E76FFA5B6}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\35_Modalman_Cello\Arco Cello F#1		51516
 	468967625	19_PhaseOne_A_LowCowbell	.cache\82\{821C37E1-4423-4462-2E61-89F5983B3539}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\19_PhaseOne_A_LowCowbell		116
 	469185088	3_PhaseOne_A_Marimba	.cache\1A\{1A64E61A-A478-8944-A774-79FC44E98079}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\3_PhaseOne_A_Marimba		146
 	470909278	22_PhaseOne_A_Tabla	.cache\0F\{0FB0B690-4B14-6068-31D4-C4A5F38B4DE8}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\22_PhaseOne_A_Tabla		116
 	471383976	Udu Finger Lo 1	.cache\9C\{9C9F8509-CFE7-F34D-F22E-983F7B4E8B9A}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Finger Lo 1		88210
-	473532142	14_PhaseOne_A_Cymbal	.cache\79\{79C887FE-CED9-8040-9E7A-22DDEB036707}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\14_PhaseOne_A_Cymbal		130
+	473532142	14_PhaseOne_A_Cymbal	.cache\79\{79C887FE-CED9-8040-9E7A-22DDEB036707}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\14_PhaseOne_A_Cymbal		130
+	474077924	5_PhaseOne_B_Flute	.cache\C3\{C3EEB256-D039-1700-8C3F-19E9672AC7CB}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_8Bars\5_PhaseOne_B_Flute		754
 	475756439	Crash 14 Vry Hrd	.cache\6C\{6CA3F473-895A-097B-4C6D-0EE5D9239769}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Crash 14 Vry Hrd		516644
 	475882251	Udu Tone Hi 2	.cache\06\{06A9183F-69B9-4F44-56C6-99A76B60EA6D}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Tone Hi 2		83582
 	485139616	Kim Kim Rels 1b	.cache\85\{85FE05A1-2BFA-5C1E-E4E9-4112958E8ADD}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Kim Kim Rels 1b		22526
+	490740353	4_PhaseOne_B_Piano	.cache\76\{76912475-D21C-1CE2-4148-3A2007AAEDC0}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_8Bars\4_PhaseOne_B_Piano		638
 	490951067	Piano G#3	.cache\95\{95830B81-7375-E723-D5DA-2BB53C567B5E}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\28_Modalman_Piano\Piano G#3		69706
-	491014133	19_PhaseOne_A_LowCowbell	.cache\CF\{CF41501C-2054-64EA-FD23-DE3A0179DF33}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\19_PhaseOne_A_LowCowbell		116
+	491014133	19_PhaseOne_A_LowCowbell	.cache\CF\{CF41501C-2054-64EA-FD23-DE3A0179DF33}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\19_PhaseOne_A_LowCowbell		116
 	499507119	23_PhaseOne_A_Conga	.cache\60\{6077B306-B139-F491-A8D7-4D7198E27EB8}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\23_PhaseOne_A_Conga		116
 	500829512	C4	.cache\D3\{D3F47100-3548-1655-25BE-19AD4CEA5E4A}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\34_Modalman_Viola\C4		130566
 	503636846	CowBellRvb12-2	.cache\05\{05914EBC-D891-1D31-E72E-483A7B73FC34}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\17_HighCowbell\CowBellRvb12-2		114832
@@ -351,39 +360,40 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	509678705	Cowbell11-5	.cache\67\{67C92022-01FC-CE2D-A2F3-689A6275D9AB}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\19_LowCowbell\Cowbell11-5		31888
 	510328836	Don-Don LftMute2	.cache\CD\{CDE6923E-7EF7-DF35-BD74-2DD6E93C2823}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Don-Don LftMute2		67250
 	512711140	Darabuka11-1_03	.cache\18\{1845D7D9-B2F8-611F-CB2B-FC530EB968CE}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\24_Darabuka\Darabuka11-1_03		138384
-	514274139	16_PhaseOne_A_KickSnare	.cache\F4\{F4FFDE5F-DF04-B6EB-8703-E5EDBFAAABF7}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\16_PhaseOne_A_KickSnare		98
-	517002295	14_PhaseOne_A_Cymbal	.cache\2A\{2A22E320-2199-2386-B52B-5CCF68B84D17}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\14_PhaseOne_A_Cymbal		98
-	517640608	21_PhaseOne_A_Bamboo	.cache\6A\{6A644B21-F31A-8195-29BB-22C5E0EBB7B3}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\21_PhaseOne_A_Bamboo		96
+	514274139	16_PhaseOne_A_KickSnare	.cache\F4\{F4FFDE5F-DF04-B6EB-8703-E5EDBFAAABF7}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\16_PhaseOne_A_KickSnare		98
+	517002295	14_PhaseOne_A_Cymbal	.cache\2A\{2A22E320-2199-2386-B52B-5CCF68B84D17}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\14_PhaseOne_A_Cymbal		98
+	517640608	21_PhaseOne_A_Bamboo	.cache\6A\{6A644B21-F31A-8195-29BB-22C5E0EBB7B3}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\21_PhaseOne_A_Bamboo		96
 	523829047	Walk Drum Tuch 2	.cache\E7\{E79CF2E5-4FEF-FA71-0DB6-CF90BFB0E08C}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Walk Drum Tuch 2		40492
 	525766946	MARIMBA HARD A4 1	.cache\C2\{C2EA6F57-DB5D-BC68-4283-6C084D15A318}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\3_Marimba\MARIMBA HARD A4 1		51094
 	525850813	Bassoon E3	.cache\7D\{7D13BE87-B75F-F0BD-F7C5-6EEB6D63D85C}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\8_Bassoon\Bassoon E3		7632
 	528821726	Arco Violin G#4	.cache\BB\{BBFEAD7D-C11A-2F6F-F578-F1F1EF114E8E}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\33_Modalman_Violin\Arco Violin G#4		85900
 	530546492	Breathy FluteD#3	.cache\BB\{BB779D20-46FE-D609-8AFA-A54B19AD6E92}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\29_Modalman_Flute\Breathy FluteD#3		50878
 	531520737	Piano G#5	.cache\A1\{A171FB09-5061-21D4-2E25-39A8E4DD27EA}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\4_Piano\Piano G#5		57764
-	535540288	7_PhaseOne_A_Clarinet	.cache\40\{40A7E7F8-006B-8C6D-9396-EF2584499069}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\7_PhaseOne_A_Clarinet		90
+	535540288	7_PhaseOne_A_Clarinet	.cache\40\{40A7E7F8-006B-8C6D-9396-EF2584499069}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\7_PhaseOne_A_Clarinet		90
 	539563178	G#3	.cache\34\{34611E83-C18A-8050-9041-6BEC5032C278}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\10_Viola\G#3		168960
 	540614330	Don-DonLo HiFst2	.cache\7A\{7AA0F9D8-5948-B3FA-7A9B-652E1608E77E}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Don-DonLo HiFst2		132674
-	543432925	11_PhaseOne_A_Cello	.cache\46\{46FB9B35-3397-F1A1-FE0E-6731F45EE22D}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\11_PhaseOne_A_Cello		116
+	543432925	11_PhaseOne_A_Cello	.cache\46\{46FB9B35-3397-F1A1-FE0E-6731F45EE22D}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\11_PhaseOne_A_Cello		116
 	544486939	MARIMBA HARD C#4 1	.cache\AA\{AAEB5022-C42A-C12C-792A-0ED25A3A39A3}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\27_Modalman_Marimba\MARIMBA HARD C#4 1		49536
 	545046596	16_PhaseOne_A_KickSnare	.cache\73\{7339CD30-AADC-15FC-7F84-A5F60C88A3A6}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\16_PhaseOne_A_KickSnare		114
 	545651443	Arco Violin G#1	.cache\62\{62E71F3E-F58A-B7EE-7B2E-9676C59DAB72}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\9_Violin\Arco Violin G#1		64990
-	546822540	24_PhaseOne_A_Darabuka	.cache\B7\{B760133F-8DF4-2494-8907-D8B7072A8D94}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\24_PhaseOne_A_Darabuka		90
-	549572716	8_PhaseOne_A_Bassoon	.cache\4C\{4C96DD45-28BB-B9CD-7182-ED8FBDA96E7C}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\8_PhaseOne_A_Bassoon		106
+	546822540	24_PhaseOne_A_Darabuka	.cache\B7\{B760133F-8DF4-2494-8907-D8B7072A8D94}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\24_PhaseOne_A_Darabuka		90
+	549572716	8_PhaseOne_A_Bassoon	.cache\4C\{4C96DD45-28BB-B9CD-7182-ED8FBDA96E7C}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\8_PhaseOne_A_Bassoon		106
 	550031233	D2 1	.cache\18\{18149056-B96E-B070-F1A5-C5CE46432CD1}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\31_Modalman_Clarinet\D2 1		76588
-	551747623	20_PhaseOne_A_Udu	.cache\0A\{0A79677B-4198-DC93-979E-D258D9C44838}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\20_PhaseOne_A_Udu		88
+	551747623	20_PhaseOne_A_Udu	.cache\0A\{0A79677B-4198-DC93-979E-D258D9C44838}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\20_PhaseOne_A_Udu		88
 	554932157	23_PhaseOne_A_Conga	.cache\88\{8843A5CA-8FD0-FCF5-55E3-50FA3219B900}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\23_PhaseOne_A_Conga		116
 	558643149	Don-Don LftHnd 2	.cache\67\{67A42519-4A6C-C400-D9D7-4023EAEE1BFC}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Don-Don LftHnd 2		132660
 	559246894	21_PhaseOne_A_Bamboo	.cache\8C\{8C891186-96A1-DE53-3AA4-2BB7BE69FE38}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\21_PhaseOne_A_Bamboo		138
 	563860182	16_PhaseOne_A_KickSnare	.cache\7B\{7B43348D-F3C9-7EF7-7360-84E3C7098FA1}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\16_PhaseOne_A_KickSnare		98
 	565708093	Celeste 2 B4	.cache\9C\{9CA742FB-F4E1-30C7-9099-EF0C75F10F99}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\1_Celeste\Celeste 2 B4		169710
-	570812423	8_PhaseOne_A_Bassoon	.cache\22\{22A79C57-521F-52AE-7EF3-10C1763C13DF}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\8_PhaseOne_A_Bassoon		106
+	570812423	8_PhaseOne_A_Bassoon	.cache\22\{22A79C57-521F-52AE-7EF3-10C1763C13DF}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\8_PhaseOne_A_Bassoon		106
 	574001564	9_PhaseOne_A_Violin	.cache\C1\{C149EA24-B44F-CB16-6E4A-7A4938E1B99F}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\9_PhaseOne_A_Violin		138
 	575575716	Cowbell11-6	.cache\E6\{E6BCCDE1-D94D-83ED-8237-BD8C073EA9AB}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\19_LowCowbell\Cowbell11-6		43152
 	576431499	Piano G#2	.cache\4E\{4E6B502F-51EA-874D-508B-F29FE1FD7F0B}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\4_Piano\Piano G#2		77158
 	577692163	Ride Med 22 BELL ROCK 1	.cache\E8\{E847D8BC-7928-16A3-F145-1F94DC5DFB67}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\14_Cymbal\Ride Med 22 BELL ROCK 1		378920
-	577782490	21_PhaseOne_A_Bamboo	.cache\79\{79B628CD-7095-8635-AA76-9E5054E2BB87}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\21_PhaseOne_A_Bamboo		138
+	577782490	21_PhaseOne_A_Bamboo	.cache\79\{79B628CD-7095-8635-AA76-9E5054E2BB87}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\21_PhaseOne_A_Bamboo		138
 	579929523	Arco Violin C2	.cache\CB\{CBA71587-7A32-86D6-30DE-77468789D4F1}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\9_Violin\Arco Violin C2		117172
-	585206133	10_PhaseOne_A_Viola	.cache\4F\{4F2AEABB-50A0-BAFF-AB0D-01E35F93ADF0}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\10_PhaseOne_A_Viola		114
+	582475670	12_PhaseOne_B_Bass	.cache\58\{586A2372-1FAB-37D5-A20C-5816A9EB0C9D}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_8Bars\12_PhaseOne_B_Bass		950
+	585206133	10_PhaseOne_A_Viola	.cache\4F\{4F2AEABB-50A0-BAFF-AB0D-01E35F93ADF0}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\10_PhaseOne_A_Viola		114
 	587142006	Oboe F#2	.cache\AD\{AD52751F-176D-0843-256A-010BE901F88D}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\6_Oboe\Oboe F#2		215152
 	587834434	Vibes    A1	.cache\84\{8413F1F4-8562-7F35-9D03-2AE531BE948F}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\26_Modalman_Vibraphone\Vibes    A1		113320
 	592576006	Agogo Low 1	.cache\B3\{B3E3F14E-E173-AF04-83DE-21597B9FC3E1}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\14_Cymbal\Agogo Low 1		54674
@@ -394,34 +404,35 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	606188244	Bass A#3	.cache\ED\{ED691B0A-A215-A0EB-3495-9D18A204D013}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\36_Modalman_Bass\Bass A#3		74336
 	609654576	Bass F#2	.cache\C6\{C664B4F9-A921-2B28-B567-F9B6D2310A18}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\36_Modalman_Bass\Bass F#2		86658
 	610250922	21_PhaseOne_A_Bamboo	.cache\81\{813D6E5F-6FE2-83BD-16D1-77CFA4E6B158}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\21_PhaseOne_A_Bamboo		138
-	614247710	9_PhaseOne_A_Violin	.cache\DB\{DB96B144-4382-AA46-8EAF-DEF4E8F80F3F}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\9_PhaseOne_A_Violin		138
-	616205867	9_PhaseOne_A_Violin	.cache\5E\{5E5E8743-27E8-6347-7B69-9BA2EE0D37E8}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\9_PhaseOne_A_Violin		96
+	614247710	9_PhaseOne_A_Violin	.cache\DB\{DB96B144-4382-AA46-8EAF-DEF4E8F80F3F}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\9_PhaseOne_A_Violin		138
+	616205867	9_PhaseOne_A_Violin	.cache\5E\{5E5E8743-27E8-6347-7B69-9BA2EE0D37E8}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\9_PhaseOne_A_Violin		96
 	616572257	Shinachiku-B1	.cache\A0\{A0EAB924-6AB1-F6D1-8569-134928B1B479}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\21_Bamboo\Shinachiku-B1		76944
 	623086102	Piano F#5	.cache\C3\{C31CAC06-21FC-4596-7069-EFDB1A50959C}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\4_Piano\Piano F#5		46444
 	626621871	Pearl Tom Dry Lo Mid 1	.cache\E2\{E275F876-75F2-AA55-CB68-4FFFD170784F}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\15_LowKit\Pearl Tom Dry Lo Mid 1		206662
 	627723819	Bass A#1	.cache\EA\{EAB86384-1188-4E31-DF52-B9438F24B671}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\36_Modalman_Bass\Bass A#1		80290
-	630324862	17_PhaseOne_A_HighCowbell	.cache\7E\{7EEA0749-AE8F-83A4-6592-F687E60E7F91}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\17_PhaseOne_A_HighCowbell		98
+	630324862	17_PhaseOne_A_HighCowbell	.cache\7E\{7EEA0749-AE8F-83A4-6592-F687E60E7F91}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\17_PhaseOne_A_HighCowbell		98
 	632674512	Piano F#1	.cache\70\{70DA6E07-A312-37F8-76DB-CE7CC3EFBA95}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\28_Modalman_Piano\Piano F#1		87850
 	633192126	Darabuka11-6_03	.cache\01\{018E915F-2770-E003-8169-15BBE3FF14A9}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\24_Darabuka\Darabuka11-6_03		64656
-	634523006	18_PhaseOne_A_Anvil	.cache\61\{6166BB15-61B1-50DE-6445-7681AA289B30}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\18_PhaseOne_A_Anvil		88
+	634523006	18_PhaseOne_A_Anvil	.cache\61\{6166BB15-61B1-50DE-6445-7681AA289B30}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\18_PhaseOne_A_Anvil		88
 	635492298	Udu Slap Lo 1	.cache\12\{12E96F24-7AF5-79A4-0EF4-921CB3442097}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Slap Lo 1		88210
 	639175187	Bassoon C4	.cache\65\{65B87AE3-3C09-929D-402F-691BE3CBD252}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\32_Modalman_Bassoon\Bassoon C4		11240
+	649486686	1_PhaseOne_B_Celeste	.cache\F9\{F9DD9D47-4B7A-FDE8-2F2F-059E540D6F2F}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_8Bars\1_PhaseOne_B_Celeste		834
 	652395845	Conga Hi 1	.cache\9A\{9A648ACA-84D3-6972-2E06-5FAA55441CF1}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Conga Hi 1		28678
-	652998035	15_PhaseOne_A_LowKit	.cache\00\{00CCC5A7-DF0C-FD27-322F-1D4B1B0971AB}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\15_PhaseOne_A_LowKit		130
+	652998035	15_PhaseOne_A_LowKit	.cache\00\{00CCC5A7-DF0C-FD27-322F-1D4B1B0971AB}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\15_PhaseOne_A_LowKit		130
 	661415140	RoseWood Bass 1	.cache\95\{958B3877-FF76-3FC0-EF31-ADCD5C48FBB0}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\RoseWood Bass 1		52678
-	661576523	8_PhaseOne_A_Bassoon	.cache\0F\{0F907408-9492-D22C-E707-EE89C3857DDE}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\8_PhaseOne_A_Bassoon		106
+	661576523	8_PhaseOne_A_Bassoon	.cache\0F\{0F907408-9492-D22C-E707-EE89C3857DDE}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\8_PhaseOne_A_Bassoon		106
 	663497079	12_PhaseOne_A_Bass	.cache\36\{36082989-8219-0ACD-E584-1EAF6A1FBBE4}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\12_PhaseOne_A_Bass		106
-	663702620	19_PhaseOne_A_LowCowbell	.cache\F2\{F2701D6F-C853-2D0D-F613-0890242015BA}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\19_PhaseOne_A_LowCowbell		116
+	663702620	19_PhaseOne_A_LowCowbell	.cache\F2\{F2701D6F-C853-2D0D-F613-0890242015BA}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\19_PhaseOne_A_LowCowbell		116
 	664205855	Anvil11-2	.cache\EA\{EA6BAEEE-F143-3A67-1EB2-C98ADF3BB9F0}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\18_Anvil\Anvil11-2		98448
 	665897494	Hat 15 Ped Closed 1	.cache\C8\{C800C50E-EEC1-47D7-FF44-9ACDB62F884F}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Hat 15 Ped Closed 1		10774
 	671057283	Shinachiku-A1	.cache\3A\{3A4975A9-4FB5-F42C-FA4B-098AF755AD01}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\21_Bamboo\Shinachiku-A1		69776
-	675492892	30_PhaseOne_A_Modalman_Oboe	.cache\78\{782E5930-624B-AC52-00E0-C528BA877AA8}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\30_PhaseOne_A_Modalman_Oboe		162
+	675492892	30_PhaseOne_A_Modalman_Oboe	.cache\78\{782E5930-624B-AC52-00E0-C528BA877AA8}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\30_PhaseOne_A_Modalman_Oboe		162
 	682491578	Bassoon G#2	.cache\54\{54729445-BB72-71B2-6189-3928C3308598}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\32_Modalman_Bassoon\Bassoon G#2		11870
 	683912388	Oboe F#3	.cache\7B\{7B0D440C-4DBD-01CB-4943-7050BC876284}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\6_Oboe\Oboe F#3		189842
 	687999286	36_PhaseOne_A_Modalman_Bass	.cache\47\{47AE4A7E-C3C5-3A5F-4F96-8EAECBA93A98}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\36_PhaseOne_A_Modalman_Bass		222
 	697906610	Walk Drum MStik2	.cache\DC\{DC965B17-AB3F-CDD0-BCC7-E8DABC662487}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Walk Drum MStik2		53364
 	701459979	Cowbell11-1	.cache\3B\{3B03E9E6-9D88-F624-A4B1-F4A6DA6BF429}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\19_LowCowbell\Cowbell11-1		11408
-	701571295	17_PhaseOne_A_HighCowbell	.cache\BF\{BF25A5D9-BBFE-8AFB-CC8D-280E01193C47}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\17_PhaseOne_A_HighCowbell		138
+	701571295	17_PhaseOne_A_HighCowbell	.cache\BF\{BF25A5D9-BBFE-8AFB-CC8D-280E01193C47}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\17_PhaseOne_A_HighCowbell		138
 	702931137	Don-Don Hi Lo 2	.cache\D5\{D5A43459-8822-36CA-9B84-C216A8FEC341}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Don-Don Hi Lo 2		100136
 	703785980	11_PhaseOne_A_Cello	.cache\FD\{FD946D15-50DB-FFB2-7327-F70BE9CBB6AC}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\11_PhaseOne_A_Cello		88
 	704253390	Timbale Low 1	.cache\54\{54CC8E47-7E4E-BDFD-6329-300D57BC8487}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Timbale Low 1		36356
@@ -439,19 +450,19 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	747501468	Bongo Open Med 3 1	.cache\E7\{E7377AAB-F044-0BE5-DAB3-8AB4C2F2F029}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\15_LowKit\Bongo Open Med 3 1		27426
 	749849405	Oboe D3	.cache\A0\{A09F2DA6-45E0-5912-D7BC-54CDEBC75F63}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\6_Oboe\Oboe D3		210536
 	751601444	African Hi Shkr 1 1	.cache\CE\{CEB9151D-8250-7808-8BE5-F074C31CB0F8}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\14_Cymbal\African Hi Shkr 1 1		35646
-	753364354	2_PhaseOne_A_Vibraphone	.cache\61\{617EC289-6E42-48C3-C03E-A3F96901884D}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\2_PhaseOne_A_Vibraphone		122
-	754737171	1_PhaseOne_A_Celeste	.cache\2C\{2C722295-1AA9-4C16-6A42-2CD1A038B809}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\1_PhaseOne_A_Celeste		240
+	753364354	2_PhaseOne_A_Vibraphone	.cache\61\{617EC289-6E42-48C3-C03E-A3F96901884D}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\2_PhaseOne_A_Vibraphone		122
+	754737171	1_PhaseOne_A_Celeste	.cache\2C\{2C722295-1AA9-4C16-6A42-2CD1A038B809}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\1_PhaseOne_A_Celeste		240
 	756950181	Congas11-6_07	.cache\69\{693A238A-F4BA-32B4-C08B-0A91DD624AEB}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\23_Conga\Congas11-6_07		50320
-	765296256	24_PhaseOne_A_Darabuka	.cache\45\{45C0F9CD-6599-DD41-A38C-F3AC4FCCC6F6}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\24_PhaseOne_A_Darabuka		106
+	765296256	24_PhaseOne_A_Darabuka	.cache\45\{45C0F9CD-6599-DD41-A38C-F3AC4FCCC6F6}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\24_PhaseOne_A_Darabuka		106
 	769275126	Tam Tam FulTens2 1	.cache\F0\{F0B47D8E-D887-2ECE-C20C-4E2114739CD6}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Tam Tam FulTens2 1		61728
 	769586167	8_PhaseOne_A_Bassoon	.cache\4E\{4E78AAC4-0F7B-03A4-1718-3139797C9B10}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\8_PhaseOne_A_Bassoon		106
 	773182663	Don-DonHi LoFst2	.cache\ED\{EDA67D1A-F373-3A43-F1A4-C1E2444BB8AE}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Don-DonHi LoFst2		81734
 	775046600	13_PhaseOne_A_HighKit	.cache\EC\{EC88F415-FB19-4EC9-AE7E-3E3F3F8E1022}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\13_PhaseOne_A_HighKit		130
-	776451998	16_PhaseOne_A_KickSnare	.cache\2F\{2F08B330-3974-3721-50B1-9668D77C7BD0}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\16_PhaseOne_A_KickSnare		114
+	776451998	16_PhaseOne_A_KickSnare	.cache\2F\{2F08B330-3974-3721-50B1-9668D77C7BD0}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\16_PhaseOne_A_KickSnare		114
 	779460630	Agogo High 1	.cache\A3\{A3A49B68-66C1-BAE2-F54D-F5B4E7FEEA1C}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Agogo High 1		34966
 	783217746	Conga Hi Rim 1	.cache\C3\{C36D661E-0324-26F4-B15A-A656D1729054}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\14_Cymbal\Conga Hi Rim 1		29128
 	790603763	Arco Violin G#3	.cache\12\{12D51D87-E0AE-24D2-18F3-458CB738C64D}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\9_Violin\Arco Violin G#3		110164
-	792970752	5_PhaseOne_A_Flute	.cache\88\{881D1237-B670-83F8-935D-EAD03CDBC1B7}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\5_PhaseOne_A_Flute		138
+	792970752	5_PhaseOne_A_Flute	.cache\88\{881D1237-B670-83F8-935D-EAD03CDBC1B7}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\5_PhaseOne_A_Flute		138
 	793729772	Udu Release Lo 2	.cache\3D\{3D50FC58-625A-FFE6-1C50-B17FBE5A5BFC}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Release Lo 2		60476
 	794825017	12_PhaseOne_A_Bass	.cache\FC\{FC292001-8707-696A-0A96-BAF53C3F42A3}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\12_PhaseOne_A_Bass		106
 	796397920	Udu SlapRel Lo 2	.cache\37\{37427B3B-5FF9-837C-CD48-EC57F636E9F3}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu SlapRel Lo 2		60428
@@ -459,61 +470,64 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	805368003	Udu Slap Hi 2	.cache\64\{6479185D-E0DF-5FC5-D8F3-9ED10D38D2C3}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Slap Hi 2		52808
 	811541862	Don-Don Tens 2Lo	.cache\90\{90A56E3E-461D-5DDF-EFD6-B879529B6138}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Don-Don Tens 2Lo		176300
 	813353166	Vibes    A2	.cache\68\{684F96F6-973D-BEF2-E36E-77C102FBCB33}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\26_Modalman_Vibraphone\Vibes    A2		59516
-	813643200	33_PhaseOne_A_Modalman_Violin	.cache\FB\{FB139B21-DF26-A1CE-778E-A51AD6D4766F}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\33_PhaseOne_A_Modalman_Violin		286
+	813643200	33_PhaseOne_A_Modalman_Violin	.cache\FB\{FB139B21-DF26-A1CE-778E-A51AD6D4766F}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\33_PhaseOne_A_Modalman_Violin		286
 	816787651	G#1	.cache\91\{912EA6A4-3663-DC17-8587-45B5E07BCB4D}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\34_Modalman_Viola\G#1		131392
 	818008264	Tama SN GBRLTR LNG AMB	.cache\FC\{FC40C7B3-8540-2441-C26C-A6361D627CBB}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\15_LowKit\Tama SN GBRLTR LNG AMB		116212
+	823677179	9_PhaseOne_B_Violin	.cache\07\{071529C0-8E9A-7667-982C-4C91B0AA6367}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_8Bars\9_PhaseOne_B_Violin		1186
 	826589817	4_PhaseOne_A_Piano	.cache\92\{92E51A6D-63EF-709D-4859-81B80B9D00EE}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\4_PhaseOne_A_Piano		92
 	829699739	Darabuka11-8_02	.cache\C1\{C17777FF-276F-CA6D-A102-DE3D3789C32F}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\24_Darabuka\Darabuka11-8_02		9360
 	830492792	Tam Tam FulTens1	.cache\AA\{AA259DE3-B977-59F0-A068-5092BFDF4F0E}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Tam Tam FulTens1		57630
 	831035867	Breathy Flute C2	.cache\B4\{B42A41DF-77EB-E0A4-270B-E2C97B5A6E66}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\5_Flute\Breathy Flute C2		49876
+	832506825	3_PhaseOne_B_Marimba	.cache\FC\{FCD69DE1-DC30-EADE-D6B0-1C4B358660D1}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_8Bars\3_PhaseOne_B_Marimba		638
 	833168132	1_PhaseOne_A_Celeste	.cache\ED\{EDF6A50C-E869-CDFD-FC55-75B75734F095}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\1_PhaseOne_A_Celeste		146
-	835534349	28_PhaseOne_A_Modalman_Piano	.cache\D5\{D5E8D82F-34CF-40AB-36EE-87094A1A806B}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\28_PhaseOne_A_Modalman_Piano		124
+	835534349	28_PhaseOne_A_Modalman_Piano	.cache\D5\{D5E8D82F-34CF-40AB-36EE-87094A1A806B}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\28_PhaseOne_A_Modalman_Piano		124
 	836394672	12_PhaseOne_A_Bass	.cache\A8\{A8B05477-4111-B8B2-FB28-91AE4F1593CF}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\12_PhaseOne_A_Bass		90
 	840167568	Piano D1	.cache\A0\{A08535BE-7605-BBCB-A6E9-998F0D55BEEB}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\4_Piano\Piano D1		68414
 	847484891	A#2	.cache\59\{59F25B7D-C9AD-4D76-3742-2C063C423D32}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\31_Modalman_Clarinet\A#2		70274
-	854523287	26_PhaseOne_A_Modalman_Vibraphone	.cache\C2\{C2034420-B105-EE8A-6C5A-9C3EAA52F286}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\26_PhaseOne_A_Modalman_Vibraphone		178
+	854523287	26_PhaseOne_A_Modalman_Vibraphone	.cache\C2\{C2034420-B105-EE8A-6C5A-9C3EAA52F286}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\26_PhaseOne_A_Modalman_Vibraphone		178
 	855724205	Darabuka11-9	.cache\59\{591A01AB-D313-8F29-ABC3-D429854D0E74}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\24_Darabuka\Darabuka11-9		9360
 	855876426	Piano C6	.cache\66\{66660B6C-4705-3290-9243-7811BA48EA79}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\28_Modalman_Piano\Piano C6		44186
 	863206823	Oboe A#2	.cache\0B\{0BA305BB-D452-9568-4CD8-F43BC95B073D}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\30_Modalman_Oboe\Oboe A#2		419948
 	864655323	Vibes    E4	.cache\6A\{6A7B147B-DE07-7829-438F-CFC3DCD16170}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\26_Modalman_Vibraphone\Vibes    E4		40938
-	869359312	15_PhaseOne_A_LowKit	.cache\2F\{2F766ACE-A306-D9B4-B55F-B81710D21776}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\15_PhaseOne_A_LowKit		222
+	869359312	15_PhaseOne_A_LowKit	.cache\2F\{2F766ACE-A306-D9B4-B55F-B81710D21776}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\15_PhaseOne_A_LowKit		222
 	876340311	Walk Drum CSlap1	.cache\40\{408BC39C-6B4B-CF58-F4FF-55B59486CC32}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Walk Drum CSlap1		66820
 	876349647	Udu Slap Lo 2	.cache\D6\{D6181D62-50CF-97FC-E27D-84BDDE06A1EF}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Slap Lo 2		88210
 	878636830	Oboe E4	.cache\FD\{FD90746D-7307-9D1B-3E55-6A3031AEBABE}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\6_Oboe\Oboe E4		212696
 	878721896	Shinachiku-F#2	.cache\2A\{2A651B7D-E8ED-C917-B1C4-44158B44A532}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\21_Bamboo\Shinachiku-F#2		43152
 	879381182	MARIMBA HARD A5 1	.cache\6D\{6DAA0F46-0082-7009-85BA-87CB1BB865BE}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\3_Marimba\MARIMBA HARD A5 1		34436
 	880159901	Shinachiku-E1	.cache\B5\{B5761E62-865F-0B8B-7531-BF4C5335FAF6}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\21_Bamboo\Shinachiku-E1		62608
-	881136023	15_PhaseOne_A_LowKit	.cache\E7\{E771CE59-0CB2-F15B-F4AE-BB6FBFA0A52D}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\15_PhaseOne_A_LowKit		130
+	881136023	15_PhaseOne_A_LowKit	.cache\E7\{E771CE59-0CB2-F15B-F4AE-BB6FBFA0A52D}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\15_PhaseOne_A_LowKit		130
 	883862847	Congas11-2_07	.cache\D3\{D314E3B3-88C0-364F-3DD7-24DDD0C06FB0}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\23_Conga\Congas11-2_07		41104
-	886699710	4_PhaseOne_A_Piano	.cache\59\{59467D2C-60EA-9E8D-3BDD-A9B06D0DE8C8}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\4_PhaseOne_A_Piano		122
+	886699710	4_PhaseOne_A_Piano	.cache\59\{59467D2C-60EA-9E8D-3BDD-A9B06D0DE8C8}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\4_PhaseOne_A_Piano		122
 	888969336	Breathy FluteA#2	.cache\DE\{DE759D76-B198-E316-3A95-43B80DA069A1}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\5_Flute\Breathy FluteA#2		49930
+	889073751	8_PhaseOne_B_Bassoon	.cache\F2\{F20A7B36-EA00-A513-971B-9DECDA5FFDF1}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_8Bars\8_PhaseOne_B_Bassoon		738
 	889816203	Clarinet F#1	.cache\E0\{E02E97E0-0D45-682B-9B7C-65DA5EA646C4}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\31_Modalman_Clarinet\Clarinet F#1		69670
 	891933742	31_PhaseOne_A_Modalman_Clarinet	.cache\A6\{A6947320-C7E2-C46B-65B3-CB90D4CBA817}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\31_PhaseOne_A_Modalman_Clarinet		156
-	892621121	7_PhaseOne_A_Clarinet	.cache\8A\{8A660360-2AF1-56D5-3CDD-C213670A04C3}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\7_PhaseOne_A_Clarinet		116
+	892621121	7_PhaseOne_A_Clarinet	.cache\8A\{8A660360-2AF1-56D5-3CDD-C213670A04C3}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\7_PhaseOne_A_Clarinet		116
 	898230005	Arco Violin G#2	.cache\02\{0208D6CE-12D1-6F73-D7C4-523EF5A77C44}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\33_Modalman_Violin\Arco Violin G#2		78922
 	905501705	Don-Don Flat 2b	.cache\DA\{DA919E2A-4DAE-B460-FF9E-BEE4DE558041}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Don-Don Flat 2b		40836
 	908835970	Pearl Tom Dry Hi Mid	.cache\A6\{A63E67C2-7554-8EDF-E494-86D1DAFAEDDC}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\15_LowKit\Pearl Tom Dry Hi Mid		192544
-	909887747	32_PhaseOne_A_Modalman_Bassoon	.cache\13\{1369E37C-19FC-0D18-065B-6C103378062D}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\32_PhaseOne_A_Modalman_Bassoon		144
-	911111294	14_PhaseOne_A_Cymbal	.cache\90\{908418A8-0125-457C-2D63-C3FD88C62979}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\14_PhaseOne_A_Cymbal		130
+	909887747	32_PhaseOne_A_Modalman_Bassoon	.cache\13\{1369E37C-19FC-0D18-065B-6C103378062D}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\32_PhaseOne_A_Modalman_Bassoon		144
+	911111294	14_PhaseOne_A_Cymbal	.cache\90\{908418A8-0125-457C-2D63-C3FD88C62979}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\14_PhaseOne_A_Cymbal		130
 	915063569	Crash 14 Vry Hrd 1	.cache\6C\{6CA3F473-895A-097B-4C6D-0EE5D9239769}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\14_Cymbal\Crash 14 Vry Hrd 1		516644
-	916583028	19_PhaseOne_A_LowCowbell	.cache\E0\{E039B12E-2202-C8F1-B02C-5C7FE983B1E7}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\19_PhaseOne_A_LowCowbell		90
+	916583028	19_PhaseOne_A_LowCowbell	.cache\E0\{E039B12E-2202-C8F1-B02C-5C7FE983B1E7}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\19_PhaseOne_A_LowCowbell		90
 	917593734	Darabuka11-2_02	.cache\34\{34202D6A-530A-3F1A-C17D-822DB9D12237}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\24_Darabuka\Darabuka11-2_02		64656
 	918481730	Walk Drum Bass 1	.cache\C6\{C6D9350A-BCE6-7D92-8AC3-C1444F676049}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Walk Drum Bass 1		65772
-	918765828	10_PhaseOne_A_Viola	.cache\7E\{7EDCD933-7A45-B8EC-84C6-266DCA2CC755}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\10_PhaseOne_A_Viola		116
-	920490563	11_PhaseOne_A_Cello	.cache\40\{40464D06-6B4E-5846-0A84-EDE3A775A898}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\11_PhaseOne_A_Cello		116
-	921177141	20_PhaseOne_A_Udu	.cache\13\{133B48FC-AD12-59BD-A187-0698235CDB22}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\20_PhaseOne_A_Udu		106
+	918765828	10_PhaseOne_A_Viola	.cache\7E\{7EDCD933-7A45-B8EC-84C6-266DCA2CC755}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\10_PhaseOne_A_Viola		116
+	920490563	11_PhaseOne_A_Cello	.cache\40\{40464D06-6B4E-5846-0A84-EDE3A775A898}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\11_PhaseOne_A_Cello		116
+	921177141	20_PhaseOne_A_Udu	.cache\13\{133B48FC-AD12-59BD-A187-0698235CDB22}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\20_PhaseOne_A_Udu		106
 	922372359	Celeste 2 D3	.cache\30\{3037D00A-963A-847F-8C60-FB954842F8A5}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\1_Celeste\Celeste 2 D3		110310
 	926910193	D4	.cache\C6\{C6B9FEA1-4272-534C-65F9-E2AA523864DA}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\7_Clarinet\D4		74792
 	927025447	Arco Violin C3	.cache\28\{28E5F174-D228-7CC7-D6BF-8C48C6DD0D3C}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\9_Violin\Arco Violin C3		72860
 	927436136	Udu Release Hi 1	.cache\57\{575E0113-64FC-2AFC-C0CC-D7F21B991015}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Release Hi 1		33264
-	930926261	13_PhaseOne_A_HighKit	.cache\D6\{D6F2BEBB-9211-DFD4-10A7-64866048166A}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\13_PhaseOne_A_HighKit		98
+	930926261	13_PhaseOne_A_HighKit	.cache\D6\{D6F2BEBB-9211-DFD4-10A7-64866048166A}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\13_PhaseOne_A_HighKit		98
 	934644856	Bass A#2	.cache\6D\{6D254929-340C-E5CB-3E89-5C8E6EDB12EB}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\36_Modalman_Bass\Bass A#2		82494
 	939922972	Piano E0	.cache\93\{9384D273-0CB4-BD7F-C5CA-35DDA88F00EE}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\4_Piano\Piano E0		73628
 	949298774	Udu Slap Hi 1	.cache\1D\{1DF456D0-5370-9764-5CA9-EF3A12C2F7A4}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Slap Hi 1		52300
 	949762831	5_PhaseOne_A_Flute	.cache\F9\{F9F18AEB-8398-0197-CCB6-1F9BB6A9C214}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\5_PhaseOne_A_Flute		138
-	951287413	5_PhaseOne_A_Flute	.cache\FA\{FA686769-CFD1-41C7-559C-468DFBE0BA20}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\5_PhaseOne_A_Flute		138
+	951287413	5_PhaseOne_A_Flute	.cache\FA\{FA686769-CFD1-41C7-559C-468DFBE0BA20}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\5_PhaseOne_A_Flute		138
 	953559841	Congas11-4_01	.cache\A0\{A0E9A4F5-0B2B-1929-6FA2-8407434D197E}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\23_Conga\Congas11-4_01		48272
-	958929737	8_PhaseOne_A_Bassoon	.cache\B3\{B38A9DB2-E07F-2A00-962E-F3AD0E400CCD}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\8_PhaseOne_A_Bassoon		88
+	958929737	8_PhaseOne_A_Bassoon	.cache\B3\{B38A9DB2-E07F-2A00-962E-F3AD0E400CCD}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\8_PhaseOne_A_Bassoon		88
 	963947200	Cabasa Med 4 1	.cache\34\{34BE1E61-2910-4037-0777-EAABCE83AFEF}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\Cabasa Med 4 1		19786
 	965335731	Vibes    E3	.cache\47\{470A1EA6-0D49-CDA6-C513-9B2CCA5D1A13}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\26_Modalman_Vibraphone\Vibes    E3		58186
 	967871766	4_PhaseOne_A_Piano	.cache\8A\{8A0385C8-8232-4E86-E337-40153314DF09}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\4_PhaseOne_A_Piano		122
@@ -522,29 +536,29 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	973695398	Shinachiku-A2	.cache\78\{78063753-830F-F4ED-5540-4E9D7E37C895}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\21_Bamboo\Shinachiku-A2		61584
 	973974619	10_PhaseOne_A_Viola	.cache\AA\{AA28F007-FAFD-76BF-031D-0A414FB1CD01}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\10_PhaseOne_A_Viola		114
 	974006803	China 18 Edge 1	.cache\D2\{D2D76116-576D-4A9C-E687-9414EB824809}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\13_HighKit\China 18 Edge 1		352086
-	974046727	7_PhaseOne_A_Clarinet	.cache\8F\{8F75C886-0301-EB2C-6823-464FC64D93EB}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\7_PhaseOne_A_Clarinet		116
-	975827321	3_PhaseOne_A_Marimba	.cache\4D\{4DDEBF32-F4C0-24A8-8F95-2AC6ACFBBC43}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\3_PhaseOne_A_Marimba		226
+	974046727	7_PhaseOne_A_Clarinet	.cache\8F\{8F75C886-0301-EB2C-6823-464FC64D93EB}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\7_PhaseOne_A_Clarinet		116
+	975827321	3_PhaseOne_A_Marimba	.cache\4D\{4DDEBF32-F4C0-24A8-8F95-2AC6ACFBBC43}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\3_PhaseOne_A_Marimba		226
 	975916691	Piano A0	.cache\E8\{E8763333-987B-4667-B1F2-F64E88D01CD9}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\4_Piano\Piano A0		78448
-	976683412	10_PhaseOne_A_Viola	.cache\60\{60F71B36-FB9E-8497-A5E5-E6A3D15A750B}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\10_PhaseOne_A_Viola		88
+	976683412	10_PhaseOne_A_Viola	.cache\60\{60F71B36-FB9E-8497-A5E5-E6A3D15A750B}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\10_PhaseOne_A_Viola		88
 	983330696	Tam Tam Hand 2	.cache\41\{41CF70B7-1A50-D245-1AB6-879376C80D48}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Tam Tam Hand 2		44460
-	989158920	24_PhaseOne_A_Darabuka	.cache\C2\{C2B1488F-44D4-A932-0627-A51D364F6870}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\24_PhaseOne_A_Darabuka		106
+	989158920	24_PhaseOne_A_Darabuka	.cache\C2\{C2B1488F-44D4-A932-0627-A51D364F6870}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\24_PhaseOne_A_Darabuka		106
 	989598401	Darabuka11-7_02	.cache\71\{71CE8810-534F-E05A-D7F6-D23A5F135459}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\24_Darabuka\Darabuka11-7_02		18576
 	990657672	Shinachiku-E2	.cache\2D\{2DDBC1FB-725C-02A7-9F07-6F586B697F46}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\21_Bamboo\Shinachiku-E2		40080
 	992913321	22_PhaseOne_A_Tabla	.cache\F7\{F7578726-AE1A-B8F9-73A5-543001B348CC}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\22_PhaseOne_A_Tabla		114
 	995464744	Piano C#2	.cache\A8\{A8AC356E-72AC-F4E5-CF33-2E62BAFBC9E4}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\28_Modalman_Piano\Piano C#2		81310
-	998328220	14_PhaseOne_A_Cymbal	.cache\E5\{E5623A94-6D46-2D12-847C-46353B5CA4A7}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\14_PhaseOne_A_Cymbal		130
+	998328220	14_PhaseOne_A_Cymbal	.cache\E5\{E5623A94-6D46-2D12-847C-46353B5CA4A7}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\14_PhaseOne_A_Cymbal		130
 	1003668973	Rosewood Fingr 2	.cache\58\{5838A3EF-0BE2-F473-E2C5-73281A23DBBA}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\22_Tabla\Rosewood Fingr 2		53100
 	1003757347	MARIMBA HARD C#3 1	.cache\9D\{9DFA00B6-8B2B-0132-A0F2-EB2617E533DA}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\3_Marimba\MARIMBA HARD C#3 1		51294
-	1005171565	7_PhaseOne_A_Clarinet	.cache\B3\{B3B7E1F9-2C97-2C1F-939C-1FA8B35AD109}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\7_PhaseOne_A_Clarinet		116
+	1005171565	7_PhaseOne_A_Clarinet	.cache\B3\{B3B7E1F9-2C97-2C1F-939C-1FA8B35AD109}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\7_PhaseOne_A_Clarinet		116
 	1006573459	Arco Cello F#3	.cache\54\{54DDEE7C-C840-137F-3C75-07CBC39AC4C2}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\35_Modalman_Cello\Arco Cello F#3		75238
 	1008115885	Shinachiku-F#3	.cache\C4\{C4F8AD7A-78E1-D59C-C384-5416F93A8FCE}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\21_Bamboo\Shinachiku-F#3		28816
 	1010652535	Arco Violin E3	.cache\F8\{F89EB7CC-E901-4F40-47C7-647BA3495515}.wem		\Containers\Default Work Unit\Instruments\1_NPC_Instruments\9_Violin\Arco Violin E3		63434
-	1011428257	23_PhaseOne_A_Conga	.cache\E4\{E41DC163-EB17-D10E-39B5-C3F13CB88FB3}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\23_PhaseOne_A_Conga		116
+	1011428257	23_PhaseOne_A_Conga	.cache\E4\{E41DC163-EB17-D10E-39B5-C3F13CB88FB3}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\23_PhaseOne_A_Conga		116
 	1012886531	1_PhaseOne_A_Celeste	.cache\6B\{6B6A3A30-44EC-AA24-DA10-EACAE77279A3}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\1_PhaseOne_A_Celeste		226
 	1014005610	Udu Finger Lo 2	.cache\D9\{D9C352C0-3D27-2A92-128D-F79EE5730326}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Udu Finger Lo 2		88210
 	1020875682	Oboe D3	.cache\AE\{AEF753AF-C1E7-D5DA-3702-EEB93F790325}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\30_Modalman_Oboe\Oboe D3		420864
 	1026236251	Bassoon E1	.cache\88\{88C6BA12-1881-FFA7-55CE-7345276B26CF}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\32_Modalman_Bassoon\Bassoon E1		14982
-	1028248302	12_PhaseOne_A_Bass	.cache\1C\{1CC1799C-F085-2780-DFD6-C11FB396C171}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\12_PhaseOne_A_Bass		106
+	1028248302	12_PhaseOne_A_Bass	.cache\1C\{1CC1799C-F085-2780-DFD6-C11FB396C171}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\12_PhaseOne_A_Bass		106
 	1030705377	Oboe F#3	.cache\03\{031AD9E3-3BE1-F1B5-2674-0122AEABD57E}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\30_Modalman_Oboe\Oboe F#3		379476
 	1038268121	Tonkotsu-A5	.cache\22\{2254A25D-BB81-2BC4-272A-B816E6115EC1}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\21_Bamboo\Tonkotsu-A5		186512
 	1042797889	4_PhaseOne_A_Piano	.cache\98\{98A3C73B-2819-822E-13AE-0129A454FD7E}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\4_PhaseOne_A_Piano		122
@@ -555,7 +569,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	1056133703	Kim Kim Rels 1a	.cache\0D\{0D8D28E9-AD1A-85BA-62DF-0888A0A2B8C2}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Kim Kim Rels 1a		21896
 	1058288609	Oboe E4	.cache\AE\{AE31F595-D956-B510-1890-4322500A2ECA}.wem		\Containers\Default Work Unit\Instruments\3_Modalman_Instruments\30_Modalman_Oboe\Oboe E4		425184
 	1058326709	Kim Kim Rels 2a	.cache\E5\{E56BD15F-EED3-B4F4-A0BD-032E9241B1AD}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\20_Udu\Kim Kim Rels 2a		88210
-	1062956687	9_PhaseOne_A_Violin	.cache\96\{967EF9AE-433B-7146-7640-3F7A301626EA}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_C_1b_2Bars\9_PhaseOne_A_Violin		138
+	1062956687	9_PhaseOne_A_Violin	.cache\96\{967EF9AE-433B-7146-7640-3F7A301626EA}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\9_PhaseOne_A_Violin		138
 	1063082767	Tonkotsu-E6	.cache\A1\{A1831487-3925-1CEA-012C-561394F5C456}.wem		\Containers\Default Work Unit\Instruments\2_Midimite_Instruments\21_Bamboo\Tonkotsu-E6		184464
-	1072207344	15_PhaseOne_A_LowKit	.cache\D6\{D62C0AC5-D3B7-EFFA-C336-9579551FEB27}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_B_1b_2Bars\15_PhaseOne_A_LowKit		210
+	1072207344	15_PhaseOne_A_LowKit	.cache\D6\{D62C0AC5-D3B7-EFFA-C336-9579551FEB27}.wem		\Containers\Default Work Unit\MusicState\PhaseOne\PhaseOne_A_1b_2Bars\15_PhaseOne_A_LowKit		210
 

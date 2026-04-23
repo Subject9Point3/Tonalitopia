@@ -57,6 +57,7 @@ namespace AK
         static const AkUniqueID MUS_SELECT_NPC_VIOLA_SETSTATE = 2675173529U;
         static const AkUniqueID MUS_SELECT_NPC_VIOLIN_SETSTATE = 1330530653U;
         static const AkUniqueID MUS_SELECT_NPC_WOODWIND_SETSTATE = 2929296915U;
+        static const AkUniqueID NEW_EVENT = 3050945240U;
         static const AkUniqueID PLAY = 1256202815U;
         static const AkUniqueID RANDOMIZE_RTPC_AMOUNT = 2806945659U;
         static const AkUniqueID RESET_INSTRUMENT_STATE = 1449827180U;

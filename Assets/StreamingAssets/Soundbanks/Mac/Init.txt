@@ -142,6 +142,7 @@ Effect plug-ins	ID	Name	Type				Notes
 	1027655012	AkPanner (Custom)	AkPanner			
 	1035156516	AkPanner (Custom)	AkPanner			
 	1054657199	AkPanner (Custom)	AkPanner			
+	3326056456	New_AkBitcrusher_02	AkBitcrusher			
 	3825041543	New_AkBitcrusher	AkBitcrusher			
 
 Audio Devices	ID	Name	Type				Notes
