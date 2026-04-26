@@ -20,7 +20,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a7b53f58aa9154842b314ea8c0707906, type: 2}
   InvalidReferencePlatforms: []
   UserSettings:
-    m_BasePath: Audio/GeneratedSoundBanks
+    m_BasePath: Soundbanks
     m_StartupLanguage: English(US)
     m_EngineLogging: 1
     m_IsDecodedBankEnabled: 0
@@ -32,7 +32,7 @@ MonoBehaviour:
     m_MainOutputSettings:
       m_AudioDeviceShareset: 
       m_DeviceID: 0
-      m_PanningRule: 0
+      m_PanningRule: 1
       m_ChannelConfig:
         m_ChannelConfigType: 0
         m_ChannelMask: 0
@@ -73,8 +73,8 @@ MonoBehaviour:
     m_MaximumHardwareTimeoutMs: 1000
     m_DebugOutOfRangeCheckEnabled: 0
     m_DebugOutOfRangeLimit: 16
-    m_SuspendAudioDuringFocusLoss: 1
-    m_RenderDuringFocusLoss: 0
+    m_SuspendAudioDuringFocusLoss: 0
+    m_RenderDuringFocusLoss: 1
     m_SoundBankPersistentDataPath: 
     m_UseSubFoldersForGeneratedFiles: 0
     m_MemoryPrimarySbaInitSize: 2097152

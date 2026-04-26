@@ -14,7 +14,7 @@ public class Npc : MonoBehaviour, INpc
     public void SetInstrumentName(string name) => instrumentName = name;
     // END NEW
 
-    [SerializeField] private NPCState state = NPCState.Idle;
+    [SerializeField] private ENpcState state = ENpcState.Idle;
     [SerializeField] private NavMeshAgent agent;
     private bool wasAtDestination;
     private float lastUpdateTime;
@@ -52,7 +52,7 @@ public class Npc : MonoBehaviour, INpc
 
     public void SetDestination(Vector3 destination)
     {
-        state = NPCState.Walking;
+        state = ENpcState.Walking;
         agent.SetDestination(destination);
     }
 
@@ -62,10 +62,10 @@ public class Npc : MonoBehaviour, INpc
 
         switch (state)
         {
-            case NPCState.Idle:
+            case ENpcState.Idle:
                 IdleStateUpdate(deltaTime);
                 break;
-            case NPCState.Walking:
+            case ENpcState.Walking:
                 WalkStateUpdate(deltaTime);
                 break;
         }
@@ -89,7 +89,7 @@ public class Npc : MonoBehaviour, INpc
 
     private void OnDestinationReached()
     {
-        state = NPCState.Idle;
+        state = ENpcState.Idle;
         var timeBeforeRequest = Random.Range(minWaitTime, maxWaitTime);
         requestNextDestinationTimer.Reset(timeBeforeRequest);
         requestNextDestinationTimer.Start();
@@ -110,10 +110,10 @@ public class Npc : MonoBehaviour, INpc
 
         switch (state)
         {
-            case NPCState.Idle:
+            case ENpcState.Idle:
                 Gizmos.color = Color.red;
                 break;
-            case NPCState.Walking:
+            case ENpcState.Walking:
                 Gizmos.color = Color.green;
                 break;
         }
@@ -137,10 +137,4 @@ public class Npc : MonoBehaviour, INpc
             Gizmos.DrawSphere(position + (multiplier * offset), 0.125f);
         }
     }
-}
-
-public enum NPCState
-{
-    Idle,
-    Walking,
 }

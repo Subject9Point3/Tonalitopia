@@ -1,8 +1,11 @@
+using System.Collections;
 using UnityEngine;
 using System.Collections.Generic;
 
 public class MusicSpatialManager : MonoBehaviour
 {
+    private Camera cam;
+    
     [Header("Wwise Event")]
     public AK.Wwise.Event masterMusicEvent;
 
@@ -22,10 +25,11 @@ public class MusicSpatialManager : MonoBehaviour
 
     void Start()
     {
+        cam = Camera.main;
         StartCoroutine(Setup());
     }
 
-    System.Collections.IEnumerator Setup()
+    IEnumerator Setup()
     {
         yield return new WaitForSeconds(0.5f);
 
@@ -82,10 +86,6 @@ public class MusicSpatialManager : MonoBehaviour
 
     float CalculatePanAngle(Vector3 npcPosition, string instrumentName)
     {
-        // Get the main camera
-        Camera cam = Camera.main;
-        if (cam == null) return 0f;
-
         // Get direction from camera to NPC
         Vector3 directionToNpc = npcPosition - cam.transform.position;
         directionToNpc.y = 0;
