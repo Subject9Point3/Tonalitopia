@@ -1172,6 +1172,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InstrumentHolder
   instrument: {fileID: 11400000, guid: f37f17cded0a52548928ed7c4a728cd7, type: 2}
+  requiredInstrument: {fileID: 0}
   canBeGivenTo: 1
   OnInstrumentSet:
     m_PersistentCalls:
@@ -1373,6 +1374,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InstrumentHolder
   instrument: {fileID: 11400000, guid: f37f17cded0a52548928ed7c4a728cd7, type: 2}
+  requiredInstrument: {fileID: 0}
   canBeGivenTo: 1
   OnInstrumentSet:
     m_PersistentCalls:
@@ -3048,6 +3050,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InstrumentHolder
   instrument: {fileID: 0}
+  requiredInstrument: {fileID: 0}
   canBeGivenTo: 1
   OnInstrumentSet:
     m_PersistentCalls:
@@ -3428,6 +3431,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InstrumentHolder
   instrument: {fileID: 11400000, guid: f37f17cded0a52548928ed7c4a728cd7, type: 2}
+  requiredInstrument: {fileID: 0}
   canBeGivenTo: 1
   OnInstrumentSet:
     m_PersistentCalls:

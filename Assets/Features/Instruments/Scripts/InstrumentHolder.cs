@@ -3,7 +3,9 @@ using UnityEngine.Events;
 
 public class InstrumentHolder : MonoBehaviour
 {
+    [SerializeField] private EInstrumentHolderType holderType;
     [SerializeField] private InstrumentObjectSO instrument;
+    [SerializeField] private InstrumentObjectSO requiredInstrument;
     [SerializeField] private bool canBeGivenTo = true;
 
     public UnityEvent<InstrumentObjectSO> OnInstrumentSet;
@@ -18,7 +20,9 @@ public class InstrumentHolder : MonoBehaviour
     }
 
     public bool HasInstrument => instrument != null;
+    public EInstrumentHolderType GetHolderType() => holderType;
     public InstrumentObjectSO GetInstrument() => instrument;
+    public InstrumentObjectSO GetRequiredInstrument() => requiredInstrument;
     
     private void SetInstrument(InstrumentObjectSO newInstrument)
     {
@@ -40,6 +44,7 @@ public class InstrumentHolder : MonoBehaviour
     {
         if (instrumentHolder.GetInstrument() != null) return;
         if (!instrumentHolder.CanBeGivenTo) return;
+        if (instrumentHolder.GetRequiredInstrument() != null && instrumentHolder.GetRequiredInstrument() != instrument) return;
         
         instrumentHolder.SetInstrument(instrument);
         ClearInstrument();
@@ -64,6 +69,6 @@ public class InstrumentHolder : MonoBehaviour
 
     private void PlayInstrument()
     {
-        instrument?.Play();
+        instrument?.Play(holderType, gameObject);
     }
 }

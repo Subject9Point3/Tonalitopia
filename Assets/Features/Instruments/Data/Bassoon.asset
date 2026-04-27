@@ -10,7 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ca84bd8719fee05448e39f8b41c1b196, type: 3}
-  m_Name: TestInstrument
+  m_Name: Bassoon
   m_EditorClassIdentifier: Assembly-CSharp::InstrumentObjectSO
-  <Name>k__BackingField: Test Instrument
+  <Name>k__BackingField: Bassoon
   <Prefab>k__BackingField: {fileID: 2148446878372373274, guid: 5d52cac4a14a4164ba1cf9e349cea60e, type: 3}
+  npcEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 8421566cfd7f34a47a3789d360fe6bb2, type: 2}
+  miteEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 0948e80dab2807d49840f3c6b286ff76, type: 2}
+  modalManEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 461549b09e245cf43b429ced73e54037, type: 2}
