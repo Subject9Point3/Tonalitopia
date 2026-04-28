@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c0c8d47a6477421ea7bc56e2975fabe, type: 3}
+  m_Name: C08BC0FC-8C30-4B47-B6EA-2C1CA517FF56
+  m_EditorClassIdentifier: AK.Wwise.Unity.API.WwiseTypes::WwiseEventReference
+  objectName: MUS_Select_Midimite_Cymbal_SetState
+  id: 170029303
+  guid: C08BC0FC-8C30-4B47-B6EA-2C1CA517FF56
+  IsInUserDefinedSoundBank: 1

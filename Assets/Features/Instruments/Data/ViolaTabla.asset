@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca84bd8719fee05448e39f8b41c1b196, type: 3}
+  m_Name: ViolaTabla
+  m_EditorClassIdentifier: Assembly-CSharp::InstrumentObjectSO
+  <Name>k__BackingField: ViolaTabla
+  <Prefab>k__BackingField: {fileID: 0}
+  npcEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 02636c944f6e7417d9096c9313d1cbb5, type: 2}
+  miteEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 47c3c64befcf04b26b3fe9b99ba1e742, type: 2}
+  playerEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 99185caf7605545c5916a53ff81f649a, type: 2}
+  droppedEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 0}

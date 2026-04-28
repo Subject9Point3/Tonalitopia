@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{A7C39DD5-9EE8-972C-8059-4CA08984A67C}",
+    "Hash": "{A3D5E9C7-8473-60FB-AD6F-3081F1F3C61B}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -219,14 +219,6 @@
        "LibId": "7077891"
       },
       {
-       "Id": "3326056456",
-       "Name": "New_AkBitcrusher_02",
-       "ObjectPath": "\\Effects\\Default Work Unit\\New_AkBitcrusher_02",
-       "GUID": "{794E7DFD-E75D-4806-8F8D-BDA1B8413ABC}",
-       "LibName": "AkBitcrusher",
-       "LibId": "13173763"
-      },
-      {
        "Id": "3825041543",
        "Name": "New_AkBitcrusher",
        "ObjectPath": "\\Effects\\Default Work Unit\\New_AkBitcrusher",
@@ -293,11 +285,6 @@
        "Custom": [
         {
          "Id": "1054657199"
-        }
-       ],
-       "ShareSets": [
-        {
-         "Id": "3326056456"
         }
        ]
       }
@@ -1387,6 +1374,6 @@
     ]
    }
   ],
-  "FileHash": "{B03A7E12-86E9-4FF7-714F-FD5DA9C1A49E}"
+  "FileHash": "{B49F5113-2607-4905-7BEF-038CD3F4D4B4}"
  }
 }

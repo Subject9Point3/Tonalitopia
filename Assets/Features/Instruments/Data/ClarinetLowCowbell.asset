@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca84bd8719fee05448e39f8b41c1b196, type: 3}
+  m_Name: ClarinetLowCowbell
+  m_EditorClassIdentifier: Assembly-CSharp::InstrumentObjectSO
+  <Name>k__BackingField: ClarinetLowCowbell
+  <Prefab>k__BackingField: {fileID: 0}
+  npcEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: e93b6e619792e4a4b8218cd9811fdfc8, type: 2}
+  miteEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 14129c6f1449b42a383c84c290771518, type: 2}
+  playerEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: be651b21d1d10482da40895c513cacf6, type: 2}
+  droppedEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 0}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca84bd8719fee05448e39f8b41c1b196, type: 3}
+  m_Name: BassDarabuka
+  m_EditorClassIdentifier: Assembly-CSharp::InstrumentObjectSO
+  <Name>k__BackingField: BassDarabuka
+  <Prefab>k__BackingField: {fileID: 0}
+  npcEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 21100f2b189c1b343a5bb993d61552a0, type: 2}
+  miteEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 5f559ff0faa951a49b8d273ffecccd6c, type: 2}
+  playerEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 50752e70d90152d40905a877850ca8df, type: 2}
+  droppedEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 0}

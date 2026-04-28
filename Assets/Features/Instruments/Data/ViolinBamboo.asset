@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca84bd8719fee05448e39f8b41c1b196, type: 3}
+  m_Name: ViolinBamboo
+  m_EditorClassIdentifier: Assembly-CSharp::InstrumentObjectSO
+  <Name>k__BackingField: ViolinBamboo
+  <Prefab>k__BackingField: {fileID: 0}
+  npcEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: c2a0a8dc4f6884db0aa4cc3eba30f541, type: 2}
+  miteEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: b1abb2bb3e2f348629bb064576f8528d, type: 2}
+  playerEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 5c01f2e4dbe284ab7a2366fe2826304b, type: 2}
+  droppedEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 0}

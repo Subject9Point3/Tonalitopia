@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c0c8d47a6477421ea7bc56e2975fabe, type: 3}
+  m_Name: 9F98E3A2-8A17-4341-ADB6-C787964CD814
+  m_EditorClassIdentifier: AK.Wwise.Unity.API.WwiseTypes::WwiseEventReference
+  objectName: MUS_Select_NPC_Marimba_SetState
+  id: 2553536095
+  guid: 9F98E3A2-8A17-4341-ADB6-C787964CD814
+  IsInUserDefinedSoundBank: 1

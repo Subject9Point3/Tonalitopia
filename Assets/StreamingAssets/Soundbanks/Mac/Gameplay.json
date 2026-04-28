@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{D8D3F7AC-8ECC-47DC-BC7E-E64C75702A11}",
     "Language": "SFX",
-    "Hash": "{6D6C4CBA-4913-C006-291F-DE521B4C0341}",
+    "Hash": "{3D8B153D-5214-1FED-21A7-598EB686EE71}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Gameplay",
     "ShortName": "Gameplay",
     "Path": "Gameplay.bnk",
@@ -176,6 +176,14 @@
       "CachePath": "18/{18F190BB-55A5-8E3A-091E-A0914DDA4D4D}.wem"
      },
      {
+      "Id": "56464040",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "LowCowbell Pattern 2.mid",
+      "CachePath": "72/{724892EC-1127-48BC-0B8E-FA8BDA340EA2}.wem"
+     },
+     {
       "Id": "60482078",
       "Language": "SFX",
       "Streaming": "false",
@@ -198,6 +206,14 @@
       "Location": "Memory",
       "ShortName": "High Kit Pattern 1 Variation 3.mid",
       "CachePath": "C4/{C4F2D990-CB5E-BC6C-981B-9B7AD6169145}.wem"
+     },
+     {
+      "Id": "71677529",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "HighCowbell Pattern 2.mid",
+      "CachePath": "7B/{7B838F77-0EF3-4676-C17A-F61536386B4A}.wem"
      },
      {
       "Id": "71854843",
@@ -286,6 +302,14 @@
       "Location": "Memory",
       "ShortName": "Celeste 2 G6.wav",
       "CachePath": "EF/{EF22DD82-9679-82C9-0BAC-9046E7953F33}.wem"
+     },
+     {
+      "Id": "91887539",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bamboo Pattern 2.mid",
+      "CachePath": "67/{6705F134-E1CD-252F-7466-67786BDC1F58}.wem"
      },
      {
       "Id": "92173294",
@@ -526,6 +550,14 @@
       "Location": "Memory",
       "ShortName": "Whistle Long 1.wav",
       "CachePath": "49/{496236F0-15E0-D939-1591-466FB3CEEEE1}.wem"
+     },
+     {
+      "Id": "170012542",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Pattern 2.mid",
+      "CachePath": "6D/{6D68A658-9D5B-9CF4-4617-38046F98BD91}.wem"
      },
      {
       "Id": "172709377",
@@ -1448,6 +1480,14 @@
       "CachePath": "85/{85FE05A1-2BFA-5C1E-E4E9-4112958E8ADD}.wem"
      },
      {
+      "Id": "487836446",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cymbal Pattern 2.mid",
+      "CachePath": "24/{24C30CF4-4FE1-56AC-DE65-7991A0834D5F}.wem"
+     },
+     {
       "Id": "490740353",
       "Language": "SFX",
       "Streaming": "false",
@@ -1534,6 +1574,14 @@
       "Location": "Memory",
       "ShortName": "Kick Snare Pattern 1 Variation 3.mid",
       "CachePath": "F4/{F4FFDE5F-DF04-B6EB-8703-E5EDBFAAABF7}.wem"
+     },
+     {
+      "Id": "515600191",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka Pattern 2.mid",
+      "CachePath": "17/{17F8B060-A2B2-DBCD-2B8A-0458F5DB4A40}.wem"
      },
      {
       "Id": "517002295",
@@ -2552,6 +2600,14 @@
       "CachePath": "0B/{0BA305BB-D452-9568-4CD8-F43BC95B073D}.wem"
      },
      {
+      "Id": "863631207",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tabla Pattern 2.mid",
+      "CachePath": "5B/{5B8773C3-62C0-D19B-D837-07EF99BAB71A}.wem"
+     },
+     {
       "Id": "864655323",
       "Language": "SFX",
       "Streaming": "false",
@@ -2632,6 +2688,14 @@
       "CachePath": "D3/{D314E3B3-88C0-364F-3DD7-24DDD0C06FB0}.wem"
      },
      {
+      "Id": "885695844",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Conga Pattern 2.mid",
+      "CachePath": "44/{441CE4E5-A7C0-82B8-6B8A-F86C5D5D98CA}.wem"
+     },
+     {
       "Id": "886699710",
       "Language": "SFX",
       "Streaming": "false",
@@ -2680,6 +2744,14 @@
       "CachePath": "8A/{8A660360-2AF1-56D5-3CDD-C213670A04C3}.wem"
      },
      {
+      "Id": "896072974",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "LowKit Pattern 2.mid",
+      "CachePath": "17/{179084F1-537A-EDE0-D7E5-7057D2EA76FC}.wem"
+     },
+     {
       "Id": "898230005",
       "Language": "SFX",
       "Streaming": "false",
@@ -2694,6 +2766,14 @@
       "Location": "Memory",
       "ShortName": "Don-Don Flat 2b.wav",
       "CachePath": "DA/{DA919E2A-4DAE-B460-FF9E-BEE4DE558041}.wem"
+     },
+     {
+      "Id": "905822695",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "KickSnare Pattern 2.mid",
+      "CachePath": "F6/{F6715593-47D8-6017-7283-916ADA9A03C9}.wem"
      },
      {
       "Id": "908835970",
@@ -2742,6 +2822,14 @@
       "Location": "Memory",
       "ShortName": "Darabuka11-2.wav",
       "CachePath": "34/{34202D6A-530A-3F1A-C17D-822DB9D12237}.wem"
+     },
+     {
+      "Id": "918151162",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Anvil Pattern 2.mid",
+      "CachePath": "23/{23825519-0E09-9D20-017C-F596A47F4E67}.wem"
      },
      {
       "Id": "918481730",
@@ -3214,6 +3302,14 @@
       "Location": "Memory",
       "ShortName": "Tonkotsu-E6.wav",
       "CachePath": "A1/{A1831487-3925-1CEA-012C-561394F5C456}.wem"
+     },
+     {
+      "Id": "1071788646",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "HighKit Pattern 2.mid",
+      "CachePath": "B7/{B7965C9D-C29F-698D-D5E1-56E832B4C74F}.wem"
      },
      {
       "Id": "1072207344",
@@ -3995,6 +4091,234 @@
       ]
      },
      {
+      "Id": "463690339",
+      "Name": "MUS_Select_None_BassDarabuka_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\None\\MUS_Select_None_BassDarabuka_SetState",
+      "GUID": "{B3733A8B-9F16-4567-8F53-309AC70350D2}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "4165357381",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\None",
+        "GUID": "{20C33161-1025-4351-9781-66DFF2DF7952}"
+       }
+      ]
+     },
+     {
+      "Id": "276359380",
+      "Name": "MUS_Select_None_BassoonUdu_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\None\\MUS_Select_None_BassoonUdu_SetState",
+      "GUID": "{4DD96236-B65C-4BAB-8D14-95B440A077DB}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1413498124",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\None",
+        "GUID": "{E8159135-D8A8-4DF1-A70E-BE4CD0C6285C}"
+       }
+      ]
+     },
+     {
+      "Id": "2428019006",
+      "Name": "MUS_Select_None_CelesteHighKit_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\None\\MUS_Select_None_CelesteHighKit_SetState",
+      "GUID": "{192AC500-F0B1-4953-9AA9-344FE920BC6E}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "3482004262",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\None",
+        "GUID": "{4192EC8C-2BDC-48C4-B4E2-1BB69044F3D5}"
+       }
+      ]
+     },
+     {
+      "Id": "751327700",
+      "Name": "MUS_Select_None_CelloConga_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\None\\MUS_Select_None_CelloConga_SetState",
+      "GUID": "{AA88F03C-FEBD-44FF-91F5-8E77A09820BD}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2608626964",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\None",
+        "GUID": "{15F55C78-4CA3-4363-A799-B2487B08549F}"
+       }
+      ]
+     },
+     {
+      "Id": "2610893769",
+      "Name": "MUS_Select_None_ClarinetLowCowbell_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\None\\MUS_Select_None_ClarinetLowCowbell_SetState",
+      "GUID": "{F6FF37E9-4BC2-48DB-BAFB-C0FB8C33E8C6}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "73183939",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\None",
+        "GUID": "{8C524E1A-C30A-4C93-9933-8E28017EE769}"
+       }
+      ]
+     },
+     {
+      "Id": "3407494051",
+      "Name": "MUS_Select_None_FluteHighCowbell_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\None\\MUS_Select_None_FluteHighCowbell_SetState",
+      "GUID": "{BA238711-4B66-4D9D-A599-8D0CD06F7D4E}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "474846413",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\None",
+        "GUID": "{6EBD3726-831A-43D8-821A-B8DBBE6603A4}"
+       }
+      ]
+     },
+     {
+      "Id": "1744280368",
+      "Name": "MUS_Select_None_MarimbaLowKit_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\None\\MUS_Select_None_MarimbaLowKit_SetState",
+      "GUID": "{ED50A4CC-CBC0-4AD3-9C3D-007C3BFAAD21}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2694696584",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\None",
+        "GUID": "{E7F03BD0-DF8C-4B93-BD0C-73B417AC683A}"
+       }
+      ]
+     },
+     {
+      "Id": "1763847044",
+      "Name": "MUS_Select_None_OboeAnvil_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\None\\MUS_Select_None_OboeAnvil_SetState",
+      "GUID": "{335A2953-1A90-4943-AA9D-7D3D28FD44AF}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1705315364",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\None",
+        "GUID": "{C12E06F8-4D52-4DBD-9F79-F90B0AD4DCB6}"
+       }
+      ]
+     },
+     {
+      "Id": "1062557627",
+      "Name": "MUS_Select_None_PianoKickSnare_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\None\\MUS_Select_None_PianoKickSnare_SetState",
+      "GUID": "{B6FCDD91-DCE8-470F-8E89-156D52F3CAA4}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2357403405",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\None",
+        "GUID": "{11DB9CC3-A90B-45E7-9A5E-D5924F1649D2}"
+       }
+      ]
+     },
+     {
+      "Id": "3037724565",
+      "Name": "MUS_Select_None_VibraphoneCymbal_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\None\\MUS_Select_None_VibraphoneCymbal_SetState",
+      "GUID": "{E2C3E42E-9921-4F50-A182-710E369EC4FB}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "2303000183",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\None",
+        "GUID": "{68B41C1C-77B9-439D-B4A3-0CA15E6C8386}"
+       }
+      ]
+     },
+     {
+      "Id": "2169174548",
+      "Name": "MUS_Select_None_ViolaTabla_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\None\\MUS_Select_None_ViolaTabla_SetState",
+      "GUID": "{35C2199B-6160-41DD-BA0A-8B6D726E1F45}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1301975716",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\None",
+        "GUID": "{31133AD6-5F78-48D2-859A-008C05A6DE5C}"
+       }
+      ]
+     },
+     {
+      "Id": "1459499598",
+      "Name": "MUS_Select_None_ViolinBamboo_SetState",
+      "ObjectPath": "\\Events\\Default Work Unit\\None\\MUS_Select_None_ViolinBamboo_SetState",
+      "GUID": "{2EA3C5C0-AD81-43F4-8A5F-44B76EB64F93}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "3464414902",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\None",
+        "GUID": "{870AE249-CA46-4710-BD85-C5ACAD56F5F3}"
+       }
+      ]
+     },
+     {
       "Id": "4021057327",
       "Name": "MUS_Select_NPC_All_SetState",
       "ObjectPath": "\\Events\\Default Work Unit\\NPC_Events\\MUS_Select_NPC_All_SetState",
@@ -4512,20 +4836,10 @@
       ]
      },
      {
-      "Id": "3050945240",
-      "Name": "New_Event",
-      "ObjectPath": "\\Events\\Default Work Unit\\Global_Events\\New_Event",
-      "GUID": "{8C682CDB-AC29-4BE6-B23D-6369D6F39F6E}",
-      "MaxAttenuation": "0",
-      "DurationType": "OneShot",
-      "DurationMin": "0",
-      "DurationMax": "0"
-     },
-     {
-      "Id": "1256202815",
-      "Name": "Play",
-      "ObjectPath": "\\Events\\Default Work Unit\\Global_Events\\Play",
-      "GUID": "{41FA280C-BAD7-4AE5-99B4-69A8E50A9655}",
+      "Id": "4150919988",
+      "Name": "Play_SetState_All_Midimite",
+      "ObjectPath": "\\Events\\Default Work Unit\\Global_Events\\Play_SetState_All_Midimite",
+      "GUID": "{1070C9E2-FAD5-4278-BE24-415388B3CE4C}",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -4589,6 +4903,9 @@
         "Id": "44581923"
        },
        {
+        "Id": "56464040"
+       },
+       {
         "Id": "60482078"
        },
        {
@@ -4596,6 +4913,9 @@
        },
        {
         "Id": "68673862"
+       },
+       {
+        "Id": "71677529"
        },
        {
         "Id": "71854843"
@@ -4629,6 +4949,9 @@
        },
        {
         "Id": "91783057"
+       },
+       {
+        "Id": "91887539"
        },
        {
         "Id": "92173294"
@@ -4719,6 +5042,9 @@
        },
        {
         "Id": "169269049"
+       },
+       {
+        "Id": "170012542"
        },
        {
         "Id": "172709377"
@@ -5066,6 +5392,9 @@
         "Id": "485139616"
        },
        {
+        "Id": "487836446"
+       },
+       {
         "Id": "490740353"
        },
        {
@@ -5097,6 +5426,9 @@
        },
        {
         "Id": "514274139"
+       },
+       {
+        "Id": "515600191"
        },
        {
         "Id": "517002295"
@@ -5480,6 +5812,9 @@
         "Id": "863206823"
        },
        {
+        "Id": "863631207"
+       },
+       {
         "Id": "864655323"
        },
        {
@@ -5510,6 +5845,9 @@
         "Id": "883862847"
        },
        {
+        "Id": "885695844"
+       },
+       {
         "Id": "886699710"
        },
        {
@@ -5528,10 +5866,16 @@
         "Id": "892621121"
        },
        {
+        "Id": "896072974"
+       },
+       {
         "Id": "898230005"
        },
        {
         "Id": "905501705"
+       },
+       {
+        "Id": "905822695"
        },
        {
         "Id": "908835970"
@@ -5550,6 +5894,9 @@
        },
        {
         "Id": "917593734"
+       },
+       {
+        "Id": "918151162"
        },
        {
         "Id": "918481730"
@@ -5727,6 +6074,2612 @@
        },
        {
         "Id": "1063082767"
+       },
+       {
+        "Id": "1071788646"
+       },
+       {
+        "Id": "1072207344"
+       }
+      ],
+      "ActionSetState": [
+       {
+        "GroupId": "474846413",
+        "Id": "648049514",
+        "Name": "Midimite_HighCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\Midimite_HighCowbell",
+        "GUID": "{5072FA08-0A7D-4E86-BE66-43FDD0A6ECD0}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "2303000183",
+        "Id": "911569586",
+        "Name": "Midimite_Cymbal",
+        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\Midimite_Cymbal",
+        "GUID": "{E31E6E22-7B25-463A-AF33-673C8AB71085}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "4165357381",
+        "Id": "1517246961",
+        "Name": "Midimite_Darabuka",
+        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\Midimite_Darabuka",
+        "GUID": "{BE00C6F0-8A3E-4D21-90B7-A982473FC9D7}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "1301975716",
+        "Id": "1702411004",
+        "Name": "Midimite_Tabla",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\Midimite_Tabla",
+        "GUID": "{7E0FD7EA-EDAE-4525-8E14-0FC09C2BB959}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "1705315364",
+        "Id": "1819772878",
+        "Name": "Midimite_Anvil",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\Midimite_Anvil",
+        "GUID": "{378D5D8F-E24A-4A80-91E6-80F0C09045F3}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "3482004262",
+        "Id": "1937297268",
+        "Name": "Midimite_HighKit",
+        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\Midimite_HighKit",
+        "GUID": "{D2CBDC70-EA96-4016-B48B-42A473E2ABE1}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "2608626964",
+        "Id": "1962323748",
+        "Name": "Midimite_Conga",
+        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\Midimite_Conga",
+        "GUID": "{C8A259D9-63A5-46F7-A435-BD243C1C9433}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "73183939",
+        "Id": "2032637112",
+        "Name": "Midimite_LowCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\Midimite_LowCowbell",
+        "GUID": "{037AD994-F038-4CB7-AB45-05C624F7BCB5}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "2694696584",
+        "Id": "2514397822",
+        "Name": "Midimite_LowKit",
+        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\Midimite_LowKit",
+        "GUID": "{1B514A97-249E-4879-ABF2-FD4D22D415D6}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "1413498124",
+        "Id": "2582786496",
+        "Name": "Midimite_Udu",
+        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\Midimite_Udu",
+        "GUID": "{25BC8CF3-CDD7-476E-9561-780E4AEF0FF9}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "3464414902",
+        "Id": "3172327104",
+        "Name": "Midimite_Bamboo",
+        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\Midimite_Bamboo",
+        "GUID": "{76FDCB66-89D7-4C9D-8093-FDAD0F3EC878}",
+        "Color": "10"
+       },
+       {
+        "GroupId": "2357403405",
+        "Id": "3369293493",
+        "Name": "Midimite_KickSnare",
+        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\Midimite_KickSnare",
+        "GUID": "{687871FD-15D2-4A84-B077-BE88FAF68382}",
+        "Color": "10"
+       }
+      ]
+     },
+     {
+      "Id": "4036942310",
+      "Name": "Play_SetState_All_None",
+      "ObjectPath": "\\Events\\Default Work Unit\\Global_Events\\Play_SetState_All_None",
+      "GUID": "{41FA280C-BAD7-4AE5-99B4-69A8E50A9655}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "689272"
+       },
+       {
+        "Id": "3353201"
+       },
+       {
+        "Id": "4669765"
+       },
+       {
+        "Id": "12921684"
+       },
+       {
+        "Id": "14839378"
+       },
+       {
+        "Id": "15255499"
+       },
+       {
+        "Id": "16756287"
+       },
+       {
+        "Id": "17702575"
+       },
+       {
+        "Id": "20417624"
+       },
+       {
+        "Id": "21415402"
+       },
+       {
+        "Id": "21784592"
+       },
+       {
+        "Id": "23271907"
+       },
+       {
+        "Id": "27830178"
+       },
+       {
+        "Id": "27957574"
+       },
+       {
+        "Id": "31185591"
+       },
+       {
+        "Id": "32398722"
+       },
+       {
+        "Id": "38741245"
+       },
+       {
+        "Id": "40056596"
+       },
+       {
+        "Id": "42259494"
+       },
+       {
+        "Id": "44581923"
+       },
+       {
+        "Id": "56464040"
+       },
+       {
+        "Id": "60482078"
+       },
+       {
+        "Id": "61253708"
+       },
+       {
+        "Id": "68673862"
+       },
+       {
+        "Id": "71677529"
+       },
+       {
+        "Id": "71854843"
+       },
+       {
+        "Id": "75547722"
+       },
+       {
+        "Id": "75885555"
+       },
+       {
+        "Id": "76130517"
+       },
+       {
+        "Id": "83208944"
+       },
+       {
+        "Id": "83455997"
+       },
+       {
+        "Id": "84233198"
+       },
+       {
+        "Id": "85865070"
+       },
+       {
+        "Id": "87032757"
+       },
+       {
+        "Id": "90120799"
+       },
+       {
+        "Id": "91783057"
+       },
+       {
+        "Id": "91887539"
+       },
+       {
+        "Id": "92173294"
+       },
+       {
+        "Id": "92768601"
+       },
+       {
+        "Id": "95108799"
+       },
+       {
+        "Id": "96069176"
+       },
+       {
+        "Id": "97555033"
+       },
+       {
+        "Id": "102221632"
+       },
+       {
+        "Id": "102267127"
+       },
+       {
+        "Id": "102590234"
+       },
+       {
+        "Id": "107130729"
+       },
+       {
+        "Id": "108327184"
+       },
+       {
+        "Id": "110144224"
+       },
+       {
+        "Id": "110955213"
+       },
+       {
+        "Id": "113968636"
+       },
+       {
+        "Id": "115155849"
+       },
+       {
+        "Id": "116126986"
+       },
+       {
+        "Id": "117872015"
+       },
+       {
+        "Id": "120345041"
+       },
+       {
+        "Id": "124166167"
+       },
+       {
+        "Id": "124954580"
+       },
+       {
+        "Id": "128453004"
+       },
+       {
+        "Id": "129402466"
+       },
+       {
+        "Id": "130700704"
+       },
+       {
+        "Id": "137145340"
+       },
+       {
+        "Id": "147538421"
+       },
+       {
+        "Id": "148178644"
+       },
+       {
+        "Id": "163231996"
+       },
+       {
+        "Id": "163858747"
+       },
+       {
+        "Id": "165124588"
+       },
+       {
+        "Id": "166547667"
+       },
+       {
+        "Id": "169269049"
+       },
+       {
+        "Id": "170012542"
+       },
+       {
+        "Id": "172709377"
+       },
+       {
+        "Id": "177100185"
+       },
+       {
+        "Id": "186209506"
+       },
+       {
+        "Id": "192633058"
+       },
+       {
+        "Id": "197945168"
+       },
+       {
+        "Id": "199368353"
+       },
+       {
+        "Id": "200239377"
+       },
+       {
+        "Id": "201212973"
+       },
+       {
+        "Id": "205789152"
+       },
+       {
+        "Id": "207503840"
+       },
+       {
+        "Id": "207776403"
+       },
+       {
+        "Id": "209649507"
+       },
+       {
+        "Id": "211957193"
+       },
+       {
+        "Id": "212579209"
+       },
+       {
+        "Id": "213736176"
+       },
+       {
+        "Id": "213884473"
+       },
+       {
+        "Id": "214187809"
+       },
+       {
+        "Id": "222677479"
+       },
+       {
+        "Id": "232362962"
+       },
+       {
+        "Id": "232547070"
+       },
+       {
+        "Id": "233934279"
+       },
+       {
+        "Id": "236301090"
+       },
+       {
+        "Id": "237844074"
+       },
+       {
+        "Id": "239149171"
+       },
+       {
+        "Id": "247429081"
+       },
+       {
+        "Id": "250345606"
+       },
+       {
+        "Id": "251379201"
+       },
+       {
+        "Id": "253826488"
+       },
+       {
+        "Id": "255514248"
+       },
+       {
+        "Id": "260625366"
+       },
+       {
+        "Id": "261265794"
+       },
+       {
+        "Id": "261408932"
+       },
+       {
+        "Id": "263625493"
+       },
+       {
+        "Id": "264546312"
+       },
+       {
+        "Id": "265400033"
+       },
+       {
+        "Id": "265695773"
+       },
+       {
+        "Id": "267832212"
+       },
+       {
+        "Id": "267938365"
+       },
+       {
+        "Id": "269181606"
+       },
+       {
+        "Id": "270987751"
+       },
+       {
+        "Id": "270988081"
+       },
+       {
+        "Id": "272155081"
+       },
+       {
+        "Id": "273935497"
+       },
+       {
+        "Id": "275428034"
+       },
+       {
+        "Id": "280912481"
+       },
+       {
+        "Id": "281631531"
+       },
+       {
+        "Id": "281908218"
+       },
+       {
+        "Id": "282832448"
+       },
+       {
+        "Id": "287469539"
+       },
+       {
+        "Id": "289783468"
+       },
+       {
+        "Id": "291231289"
+       },
+       {
+        "Id": "293949217"
+       },
+       {
+        "Id": "299184655"
+       },
+       {
+        "Id": "300376831"
+       },
+       {
+        "Id": "301799423"
+       },
+       {
+        "Id": "303581462"
+       },
+       {
+        "Id": "304690743"
+       },
+       {
+        "Id": "306393088"
+       },
+       {
+        "Id": "307087347"
+       },
+       {
+        "Id": "308004264"
+       },
+       {
+        "Id": "312165925"
+       },
+       {
+        "Id": "314265877"
+       },
+       {
+        "Id": "321890565"
+       },
+       {
+        "Id": "333265941"
+       },
+       {
+        "Id": "333638848"
+       },
+       {
+        "Id": "335863411"
+       },
+       {
+        "Id": "336272938"
+       },
+       {
+        "Id": "348624598"
+       },
+       {
+        "Id": "350926906"
+       },
+       {
+        "Id": "366395370"
+       },
+       {
+        "Id": "366401855"
+       },
+       {
+        "Id": "375913495"
+       },
+       {
+        "Id": "378688346"
+       },
+       {
+        "Id": "378743144"
+       },
+       {
+        "Id": "380309901"
+       },
+       {
+        "Id": "381268898"
+       },
+       {
+        "Id": "381950430"
+       },
+       {
+        "Id": "391242189"
+       },
+       {
+        "Id": "391829110"
+       },
+       {
+        "Id": "393957052"
+       },
+       {
+        "Id": "394854655"
+       },
+       {
+        "Id": "402810176"
+       },
+       {
+        "Id": "403261595"
+       },
+       {
+        "Id": "403439396"
+       },
+       {
+        "Id": "408879825"
+       },
+       {
+        "Id": "413570812"
+       },
+       {
+        "Id": "413602454"
+       },
+       {
+        "Id": "424883239"
+       },
+       {
+        "Id": "425227757"
+       },
+       {
+        "Id": "427215420"
+       },
+       {
+        "Id": "428029986"
+       },
+       {
+        "Id": "428278711"
+       },
+       {
+        "Id": "436292517"
+       },
+       {
+        "Id": "440542341"
+       },
+       {
+        "Id": "442298474"
+       },
+       {
+        "Id": "445177836"
+       },
+       {
+        "Id": "445328684"
+       },
+       {
+        "Id": "450879635"
+       },
+       {
+        "Id": "451541361"
+       },
+       {
+        "Id": "452240670"
+       },
+       {
+        "Id": "457870168"
+       },
+       {
+        "Id": "458037523"
+       },
+       {
+        "Id": "459267277"
+       },
+       {
+        "Id": "459535189"
+       },
+       {
+        "Id": "462007144"
+       },
+       {
+        "Id": "468073868"
+       },
+       {
+        "Id": "468967625"
+       },
+       {
+        "Id": "469185088"
+       },
+       {
+        "Id": "470909278"
+       },
+       {
+        "Id": "471383976"
+       },
+       {
+        "Id": "473532142"
+       },
+       {
+        "Id": "474077924"
+       },
+       {
+        "Id": "475756439"
+       },
+       {
+        "Id": "475882251"
+       },
+       {
+        "Id": "485139616"
+       },
+       {
+        "Id": "487836446"
+       },
+       {
+        "Id": "490740353"
+       },
+       {
+        "Id": "490951067"
+       },
+       {
+        "Id": "491014133"
+       },
+       {
+        "Id": "499507119"
+       },
+       {
+        "Id": "500829512"
+       },
+       {
+        "Id": "503636846"
+       },
+       {
+        "Id": "508571168"
+       },
+       {
+        "Id": "509678705"
+       },
+       {
+        "Id": "510328836"
+       },
+       {
+        "Id": "512711140"
+       },
+       {
+        "Id": "514274139"
+       },
+       {
+        "Id": "515600191"
+       },
+       {
+        "Id": "517002295"
+       },
+       {
+        "Id": "517640608"
+       },
+       {
+        "Id": "523829047"
+       },
+       {
+        "Id": "525766946"
+       },
+       {
+        "Id": "525850813"
+       },
+       {
+        "Id": "528821726"
+       },
+       {
+        "Id": "530546492"
+       },
+       {
+        "Id": "531520737"
+       },
+       {
+        "Id": "535540288"
+       },
+       {
+        "Id": "539563178"
+       },
+       {
+        "Id": "540614330"
+       },
+       {
+        "Id": "543432925"
+       },
+       {
+        "Id": "544486939"
+       },
+       {
+        "Id": "545046596"
+       },
+       {
+        "Id": "545651443"
+       },
+       {
+        "Id": "546822540"
+       },
+       {
+        "Id": "549572716"
+       },
+       {
+        "Id": "550031233"
+       },
+       {
+        "Id": "551747623"
+       },
+       {
+        "Id": "554932157"
+       },
+       {
+        "Id": "558643149"
+       },
+       {
+        "Id": "559246894"
+       },
+       {
+        "Id": "563860182"
+       },
+       {
+        "Id": "565708093"
+       },
+       {
+        "Id": "570812423"
+       },
+       {
+        "Id": "574001564"
+       },
+       {
+        "Id": "575575716"
+       },
+       {
+        "Id": "576431499"
+       },
+       {
+        "Id": "577692163"
+       },
+       {
+        "Id": "577782490"
+       },
+       {
+        "Id": "579929523"
+       },
+       {
+        "Id": "582475670"
+       },
+       {
+        "Id": "585206133"
+       },
+       {
+        "Id": "587142006"
+       },
+       {
+        "Id": "587834434"
+       },
+       {
+        "Id": "592576006"
+       },
+       {
+        "Id": "593042180"
+       },
+       {
+        "Id": "599423762"
+       },
+       {
+        "Id": "601321482"
+       },
+       {
+        "Id": "604222247"
+       },
+       {
+        "Id": "606188244"
+       },
+       {
+        "Id": "609654576"
+       },
+       {
+        "Id": "610250922"
+       },
+       {
+        "Id": "614247710"
+       },
+       {
+        "Id": "616205867"
+       },
+       {
+        "Id": "616572257"
+       },
+       {
+        "Id": "623086102"
+       },
+       {
+        "Id": "626621871"
+       },
+       {
+        "Id": "627723819"
+       },
+       {
+        "Id": "630324862"
+       },
+       {
+        "Id": "632674512"
+       },
+       {
+        "Id": "633192126"
+       },
+       {
+        "Id": "634523006"
+       },
+       {
+        "Id": "635492298"
+       },
+       {
+        "Id": "639175187"
+       },
+       {
+        "Id": "649486686"
+       },
+       {
+        "Id": "652395845"
+       },
+       {
+        "Id": "652998035"
+       },
+       {
+        "Id": "661415140"
+       },
+       {
+        "Id": "661576523"
+       },
+       {
+        "Id": "663497079"
+       },
+       {
+        "Id": "663702620"
+       },
+       {
+        "Id": "664205855"
+       },
+       {
+        "Id": "665897494"
+       },
+       {
+        "Id": "671057283"
+       },
+       {
+        "Id": "675492892"
+       },
+       {
+        "Id": "682491578"
+       },
+       {
+        "Id": "683912388"
+       },
+       {
+        "Id": "687999286"
+       },
+       {
+        "Id": "697906610"
+       },
+       {
+        "Id": "701459979"
+       },
+       {
+        "Id": "701571295"
+       },
+       {
+        "Id": "702931137"
+       },
+       {
+        "Id": "703785980"
+       },
+       {
+        "Id": "704253390"
+       },
+       {
+        "Id": "705335531"
+       },
+       {
+        "Id": "726667027"
+       },
+       {
+        "Id": "728973493"
+       },
+       {
+        "Id": "730158390"
+       },
+       {
+        "Id": "731195047"
+       },
+       {
+        "Id": "732358395"
+       },
+       {
+        "Id": "732451914"
+       },
+       {
+        "Id": "734674654"
+       },
+       {
+        "Id": "737113384"
+       },
+       {
+        "Id": "743127439"
+       },
+       {
+        "Id": "746380247"
+       },
+       {
+        "Id": "747501468"
+       },
+       {
+        "Id": "749849405"
+       },
+       {
+        "Id": "751601444"
+       },
+       {
+        "Id": "753364354"
+       },
+       {
+        "Id": "754737171"
+       },
+       {
+        "Id": "756950181"
+       },
+       {
+        "Id": "765296256"
+       },
+       {
+        "Id": "769275126"
+       },
+       {
+        "Id": "769586167"
+       },
+       {
+        "Id": "773182663"
+       },
+       {
+        "Id": "775046600"
+       },
+       {
+        "Id": "776451998"
+       },
+       {
+        "Id": "779460630"
+       },
+       {
+        "Id": "783217746"
+       },
+       {
+        "Id": "790603763"
+       },
+       {
+        "Id": "792970752"
+       },
+       {
+        "Id": "793729772"
+       },
+       {
+        "Id": "794825017"
+       },
+       {
+        "Id": "796397920"
+       },
+       {
+        "Id": "803168021"
+       },
+       {
+        "Id": "805368003"
+       },
+       {
+        "Id": "811541862"
+       },
+       {
+        "Id": "813353166"
+       },
+       {
+        "Id": "813643200"
+       },
+       {
+        "Id": "816787651"
+       },
+       {
+        "Id": "818008264"
+       },
+       {
+        "Id": "823677179"
+       },
+       {
+        "Id": "826589817"
+       },
+       {
+        "Id": "829699739"
+       },
+       {
+        "Id": "830492792"
+       },
+       {
+        "Id": "831035867"
+       },
+       {
+        "Id": "832506825"
+       },
+       {
+        "Id": "833168132"
+       },
+       {
+        "Id": "835534349"
+       },
+       {
+        "Id": "836394672"
+       },
+       {
+        "Id": "840167568"
+       },
+       {
+        "Id": "847484891"
+       },
+       {
+        "Id": "854523287"
+       },
+       {
+        "Id": "855724205"
+       },
+       {
+        "Id": "855876426"
+       },
+       {
+        "Id": "863206823"
+       },
+       {
+        "Id": "863631207"
+       },
+       {
+        "Id": "864655323"
+       },
+       {
+        "Id": "869359312"
+       },
+       {
+        "Id": "876340311"
+       },
+       {
+        "Id": "876349647"
+       },
+       {
+        "Id": "878636830"
+       },
+       {
+        "Id": "878721896"
+       },
+       {
+        "Id": "879381182"
+       },
+       {
+        "Id": "880159901"
+       },
+       {
+        "Id": "881136023"
+       },
+       {
+        "Id": "883862847"
+       },
+       {
+        "Id": "885695844"
+       },
+       {
+        "Id": "886699710"
+       },
+       {
+        "Id": "888969336"
+       },
+       {
+        "Id": "889073751"
+       },
+       {
+        "Id": "889816203"
+       },
+       {
+        "Id": "891933742"
+       },
+       {
+        "Id": "892621121"
+       },
+       {
+        "Id": "896072974"
+       },
+       {
+        "Id": "898230005"
+       },
+       {
+        "Id": "905501705"
+       },
+       {
+        "Id": "905822695"
+       },
+       {
+        "Id": "908835970"
+       },
+       {
+        "Id": "909887747"
+       },
+       {
+        "Id": "911111294"
+       },
+       {
+        "Id": "915063569"
+       },
+       {
+        "Id": "916583028"
+       },
+       {
+        "Id": "917593734"
+       },
+       {
+        "Id": "918151162"
+       },
+       {
+        "Id": "918481730"
+       },
+       {
+        "Id": "918765828"
+       },
+       {
+        "Id": "920490563"
+       },
+       {
+        "Id": "921177141"
+       },
+       {
+        "Id": "922372359"
+       },
+       {
+        "Id": "926910193"
+       },
+       {
+        "Id": "927025447"
+       },
+       {
+        "Id": "927436136"
+       },
+       {
+        "Id": "930926261"
+       },
+       {
+        "Id": "934644856"
+       },
+       {
+        "Id": "939922972"
+       },
+       {
+        "Id": "949298774"
+       },
+       {
+        "Id": "949762831"
+       },
+       {
+        "Id": "951287413"
+       },
+       {
+        "Id": "953559841"
+       },
+       {
+        "Id": "958929737"
+       },
+       {
+        "Id": "963947200"
+       },
+       {
+        "Id": "965335731"
+       },
+       {
+        "Id": "967871766"
+       },
+       {
+        "Id": "971985938"
+       },
+       {
+        "Id": "972963235"
+       },
+       {
+        "Id": "973695398"
+       },
+       {
+        "Id": "973974619"
+       },
+       {
+        "Id": "974006803"
+       },
+       {
+        "Id": "974046727"
+       },
+       {
+        "Id": "975827321"
+       },
+       {
+        "Id": "975916691"
+       },
+       {
+        "Id": "976683412"
+       },
+       {
+        "Id": "983330696"
+       },
+       {
+        "Id": "989158920"
+       },
+       {
+        "Id": "989598401"
+       },
+       {
+        "Id": "990657672"
+       },
+       {
+        "Id": "992913321"
+       },
+       {
+        "Id": "995464744"
+       },
+       {
+        "Id": "998328220"
+       },
+       {
+        "Id": "1003668973"
+       },
+       {
+        "Id": "1003757347"
+       },
+       {
+        "Id": "1005171565"
+       },
+       {
+        "Id": "1006573459"
+       },
+       {
+        "Id": "1008115885"
+       },
+       {
+        "Id": "1010652535"
+       },
+       {
+        "Id": "1011428257"
+       },
+       {
+        "Id": "1012886531"
+       },
+       {
+        "Id": "1014005610"
+       },
+       {
+        "Id": "1020875682"
+       },
+       {
+        "Id": "1026236251"
+       },
+       {
+        "Id": "1028248302"
+       },
+       {
+        "Id": "1030705377"
+       },
+       {
+        "Id": "1038268121"
+       },
+       {
+        "Id": "1042797889"
+       },
+       {
+        "Id": "1047757846"
+       },
+       {
+        "Id": "1048995393"
+       },
+       {
+        "Id": "1054453262"
+       },
+       {
+        "Id": "1055495477"
+       },
+       {
+        "Id": "1056133703"
+       },
+       {
+        "Id": "1058288609"
+       },
+       {
+        "Id": "1058326709"
+       },
+       {
+        "Id": "1062956687"
+       },
+       {
+        "Id": "1063082767"
+       },
+       {
+        "Id": "1071788646"
+       },
+       {
+        "Id": "1072207344"
+       }
+      ],
+      "ActionSetState": [
+       {
+        "GroupId": "1705315364",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\None",
+        "GUID": "{C12E06F8-4D52-4DBD-9F79-F90B0AD4DCB6}"
+       }
+      ]
+     },
+     {
+      "Id": "2714279725",
+      "Name": "Play_SetState_All_NPC",
+      "ObjectPath": "\\Events\\Default Work Unit\\Global_Events\\Play_SetState_All_NPC",
+      "GUID": "{73384C2E-A90C-45C5-9C14-794E4A4955BC}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "689272"
+       },
+       {
+        "Id": "3353201"
+       },
+       {
+        "Id": "4669765"
+       },
+       {
+        "Id": "12921684"
+       },
+       {
+        "Id": "14839378"
+       },
+       {
+        "Id": "15255499"
+       },
+       {
+        "Id": "16756287"
+       },
+       {
+        "Id": "17702575"
+       },
+       {
+        "Id": "20417624"
+       },
+       {
+        "Id": "21415402"
+       },
+       {
+        "Id": "21784592"
+       },
+       {
+        "Id": "23271907"
+       },
+       {
+        "Id": "27830178"
+       },
+       {
+        "Id": "27957574"
+       },
+       {
+        "Id": "31185591"
+       },
+       {
+        "Id": "32398722"
+       },
+       {
+        "Id": "38741245"
+       },
+       {
+        "Id": "40056596"
+       },
+       {
+        "Id": "42259494"
+       },
+       {
+        "Id": "44581923"
+       },
+       {
+        "Id": "56464040"
+       },
+       {
+        "Id": "60482078"
+       },
+       {
+        "Id": "61253708"
+       },
+       {
+        "Id": "68673862"
+       },
+       {
+        "Id": "71677529"
+       },
+       {
+        "Id": "71854843"
+       },
+       {
+        "Id": "75547722"
+       },
+       {
+        "Id": "75885555"
+       },
+       {
+        "Id": "76130517"
+       },
+       {
+        "Id": "83208944"
+       },
+       {
+        "Id": "83455997"
+       },
+       {
+        "Id": "84233198"
+       },
+       {
+        "Id": "85865070"
+       },
+       {
+        "Id": "87032757"
+       },
+       {
+        "Id": "90120799"
+       },
+       {
+        "Id": "91783057"
+       },
+       {
+        "Id": "91887539"
+       },
+       {
+        "Id": "92173294"
+       },
+       {
+        "Id": "92768601"
+       },
+       {
+        "Id": "95108799"
+       },
+       {
+        "Id": "96069176"
+       },
+       {
+        "Id": "97555033"
+       },
+       {
+        "Id": "102221632"
+       },
+       {
+        "Id": "102267127"
+       },
+       {
+        "Id": "102590234"
+       },
+       {
+        "Id": "107130729"
+       },
+       {
+        "Id": "108327184"
+       },
+       {
+        "Id": "110144224"
+       },
+       {
+        "Id": "110955213"
+       },
+       {
+        "Id": "113968636"
+       },
+       {
+        "Id": "115155849"
+       },
+       {
+        "Id": "116126986"
+       },
+       {
+        "Id": "117872015"
+       },
+       {
+        "Id": "120345041"
+       },
+       {
+        "Id": "124166167"
+       },
+       {
+        "Id": "124954580"
+       },
+       {
+        "Id": "128453004"
+       },
+       {
+        "Id": "129402466"
+       },
+       {
+        "Id": "130700704"
+       },
+       {
+        "Id": "137145340"
+       },
+       {
+        "Id": "147538421"
+       },
+       {
+        "Id": "148178644"
+       },
+       {
+        "Id": "163231996"
+       },
+       {
+        "Id": "163858747"
+       },
+       {
+        "Id": "165124588"
+       },
+       {
+        "Id": "166547667"
+       },
+       {
+        "Id": "169269049"
+       },
+       {
+        "Id": "170012542"
+       },
+       {
+        "Id": "172709377"
+       },
+       {
+        "Id": "177100185"
+       },
+       {
+        "Id": "186209506"
+       },
+       {
+        "Id": "192633058"
+       },
+       {
+        "Id": "197945168"
+       },
+       {
+        "Id": "199368353"
+       },
+       {
+        "Id": "200239377"
+       },
+       {
+        "Id": "201212973"
+       },
+       {
+        "Id": "205789152"
+       },
+       {
+        "Id": "207503840"
+       },
+       {
+        "Id": "207776403"
+       },
+       {
+        "Id": "209649507"
+       },
+       {
+        "Id": "211957193"
+       },
+       {
+        "Id": "212579209"
+       },
+       {
+        "Id": "213736176"
+       },
+       {
+        "Id": "213884473"
+       },
+       {
+        "Id": "214187809"
+       },
+       {
+        "Id": "222677479"
+       },
+       {
+        "Id": "232362962"
+       },
+       {
+        "Id": "232547070"
+       },
+       {
+        "Id": "233934279"
+       },
+       {
+        "Id": "236301090"
+       },
+       {
+        "Id": "237844074"
+       },
+       {
+        "Id": "239149171"
+       },
+       {
+        "Id": "247429081"
+       },
+       {
+        "Id": "250345606"
+       },
+       {
+        "Id": "251379201"
+       },
+       {
+        "Id": "253826488"
+       },
+       {
+        "Id": "255514248"
+       },
+       {
+        "Id": "260625366"
+       },
+       {
+        "Id": "261265794"
+       },
+       {
+        "Id": "261408932"
+       },
+       {
+        "Id": "263625493"
+       },
+       {
+        "Id": "264546312"
+       },
+       {
+        "Id": "265400033"
+       },
+       {
+        "Id": "265695773"
+       },
+       {
+        "Id": "267832212"
+       },
+       {
+        "Id": "267938365"
+       },
+       {
+        "Id": "269181606"
+       },
+       {
+        "Id": "270987751"
+       },
+       {
+        "Id": "270988081"
+       },
+       {
+        "Id": "272155081"
+       },
+       {
+        "Id": "273935497"
+       },
+       {
+        "Id": "275428034"
+       },
+       {
+        "Id": "280912481"
+       },
+       {
+        "Id": "281631531"
+       },
+       {
+        "Id": "281908218"
+       },
+       {
+        "Id": "282832448"
+       },
+       {
+        "Id": "287469539"
+       },
+       {
+        "Id": "289783468"
+       },
+       {
+        "Id": "291231289"
+       },
+       {
+        "Id": "293949217"
+       },
+       {
+        "Id": "299184655"
+       },
+       {
+        "Id": "300376831"
+       },
+       {
+        "Id": "301799423"
+       },
+       {
+        "Id": "303581462"
+       },
+       {
+        "Id": "304690743"
+       },
+       {
+        "Id": "306393088"
+       },
+       {
+        "Id": "307087347"
+       },
+       {
+        "Id": "308004264"
+       },
+       {
+        "Id": "312165925"
+       },
+       {
+        "Id": "314265877"
+       },
+       {
+        "Id": "321890565"
+       },
+       {
+        "Id": "333265941"
+       },
+       {
+        "Id": "333638848"
+       },
+       {
+        "Id": "335863411"
+       },
+       {
+        "Id": "336272938"
+       },
+       {
+        "Id": "348624598"
+       },
+       {
+        "Id": "350926906"
+       },
+       {
+        "Id": "366395370"
+       },
+       {
+        "Id": "366401855"
+       },
+       {
+        "Id": "375913495"
+       },
+       {
+        "Id": "378688346"
+       },
+       {
+        "Id": "378743144"
+       },
+       {
+        "Id": "380309901"
+       },
+       {
+        "Id": "381268898"
+       },
+       {
+        "Id": "381950430"
+       },
+       {
+        "Id": "391242189"
+       },
+       {
+        "Id": "391829110"
+       },
+       {
+        "Id": "393957052"
+       },
+       {
+        "Id": "394854655"
+       },
+       {
+        "Id": "402810176"
+       },
+       {
+        "Id": "403261595"
+       },
+       {
+        "Id": "403439396"
+       },
+       {
+        "Id": "408879825"
+       },
+       {
+        "Id": "413570812"
+       },
+       {
+        "Id": "413602454"
+       },
+       {
+        "Id": "424883239"
+       },
+       {
+        "Id": "425227757"
+       },
+       {
+        "Id": "427215420"
+       },
+       {
+        "Id": "428029986"
+       },
+       {
+        "Id": "428278711"
+       },
+       {
+        "Id": "436292517"
+       },
+       {
+        "Id": "440542341"
+       },
+       {
+        "Id": "442298474"
+       },
+       {
+        "Id": "445177836"
+       },
+       {
+        "Id": "445328684"
+       },
+       {
+        "Id": "450879635"
+       },
+       {
+        "Id": "451541361"
+       },
+       {
+        "Id": "452240670"
+       },
+       {
+        "Id": "457870168"
+       },
+       {
+        "Id": "458037523"
+       },
+       {
+        "Id": "459267277"
+       },
+       {
+        "Id": "459535189"
+       },
+       {
+        "Id": "462007144"
+       },
+       {
+        "Id": "468073868"
+       },
+       {
+        "Id": "468967625"
+       },
+       {
+        "Id": "469185088"
+       },
+       {
+        "Id": "470909278"
+       },
+       {
+        "Id": "471383976"
+       },
+       {
+        "Id": "473532142"
+       },
+       {
+        "Id": "474077924"
+       },
+       {
+        "Id": "475756439"
+       },
+       {
+        "Id": "475882251"
+       },
+       {
+        "Id": "485139616"
+       },
+       {
+        "Id": "487836446"
+       },
+       {
+        "Id": "490740353"
+       },
+       {
+        "Id": "490951067"
+       },
+       {
+        "Id": "491014133"
+       },
+       {
+        "Id": "499507119"
+       },
+       {
+        "Id": "500829512"
+       },
+       {
+        "Id": "503636846"
+       },
+       {
+        "Id": "508571168"
+       },
+       {
+        "Id": "509678705"
+       },
+       {
+        "Id": "510328836"
+       },
+       {
+        "Id": "512711140"
+       },
+       {
+        "Id": "514274139"
+       },
+       {
+        "Id": "515600191"
+       },
+       {
+        "Id": "517002295"
+       },
+       {
+        "Id": "517640608"
+       },
+       {
+        "Id": "523829047"
+       },
+       {
+        "Id": "525766946"
+       },
+       {
+        "Id": "525850813"
+       },
+       {
+        "Id": "528821726"
+       },
+       {
+        "Id": "530546492"
+       },
+       {
+        "Id": "531520737"
+       },
+       {
+        "Id": "535540288"
+       },
+       {
+        "Id": "539563178"
+       },
+       {
+        "Id": "540614330"
+       },
+       {
+        "Id": "543432925"
+       },
+       {
+        "Id": "544486939"
+       },
+       {
+        "Id": "545046596"
+       },
+       {
+        "Id": "545651443"
+       },
+       {
+        "Id": "546822540"
+       },
+       {
+        "Id": "549572716"
+       },
+       {
+        "Id": "550031233"
+       },
+       {
+        "Id": "551747623"
+       },
+       {
+        "Id": "554932157"
+       },
+       {
+        "Id": "558643149"
+       },
+       {
+        "Id": "559246894"
+       },
+       {
+        "Id": "563860182"
+       },
+       {
+        "Id": "565708093"
+       },
+       {
+        "Id": "570812423"
+       },
+       {
+        "Id": "574001564"
+       },
+       {
+        "Id": "575575716"
+       },
+       {
+        "Id": "576431499"
+       },
+       {
+        "Id": "577692163"
+       },
+       {
+        "Id": "577782490"
+       },
+       {
+        "Id": "579929523"
+       },
+       {
+        "Id": "582475670"
+       },
+       {
+        "Id": "585206133"
+       },
+       {
+        "Id": "587142006"
+       },
+       {
+        "Id": "587834434"
+       },
+       {
+        "Id": "592576006"
+       },
+       {
+        "Id": "593042180"
+       },
+       {
+        "Id": "599423762"
+       },
+       {
+        "Id": "601321482"
+       },
+       {
+        "Id": "604222247"
+       },
+       {
+        "Id": "606188244"
+       },
+       {
+        "Id": "609654576"
+       },
+       {
+        "Id": "610250922"
+       },
+       {
+        "Id": "614247710"
+       },
+       {
+        "Id": "616205867"
+       },
+       {
+        "Id": "616572257"
+       },
+       {
+        "Id": "623086102"
+       },
+       {
+        "Id": "626621871"
+       },
+       {
+        "Id": "627723819"
+       },
+       {
+        "Id": "630324862"
+       },
+       {
+        "Id": "632674512"
+       },
+       {
+        "Id": "633192126"
+       },
+       {
+        "Id": "634523006"
+       },
+       {
+        "Id": "635492298"
+       },
+       {
+        "Id": "639175187"
+       },
+       {
+        "Id": "649486686"
+       },
+       {
+        "Id": "652395845"
+       },
+       {
+        "Id": "652998035"
+       },
+       {
+        "Id": "661415140"
+       },
+       {
+        "Id": "661576523"
+       },
+       {
+        "Id": "663497079"
+       },
+       {
+        "Id": "663702620"
+       },
+       {
+        "Id": "664205855"
+       },
+       {
+        "Id": "665897494"
+       },
+       {
+        "Id": "671057283"
+       },
+       {
+        "Id": "675492892"
+       },
+       {
+        "Id": "682491578"
+       },
+       {
+        "Id": "683912388"
+       },
+       {
+        "Id": "687999286"
+       },
+       {
+        "Id": "697906610"
+       },
+       {
+        "Id": "701459979"
+       },
+       {
+        "Id": "701571295"
+       },
+       {
+        "Id": "702931137"
+       },
+       {
+        "Id": "703785980"
+       },
+       {
+        "Id": "704253390"
+       },
+       {
+        "Id": "705335531"
+       },
+       {
+        "Id": "726667027"
+       },
+       {
+        "Id": "728973493"
+       },
+       {
+        "Id": "730158390"
+       },
+       {
+        "Id": "731195047"
+       },
+       {
+        "Id": "732358395"
+       },
+       {
+        "Id": "732451914"
+       },
+       {
+        "Id": "734674654"
+       },
+       {
+        "Id": "737113384"
+       },
+       {
+        "Id": "743127439"
+       },
+       {
+        "Id": "746380247"
+       },
+       {
+        "Id": "747501468"
+       },
+       {
+        "Id": "749849405"
+       },
+       {
+        "Id": "751601444"
+       },
+       {
+        "Id": "753364354"
+       },
+       {
+        "Id": "754737171"
+       },
+       {
+        "Id": "756950181"
+       },
+       {
+        "Id": "765296256"
+       },
+       {
+        "Id": "769275126"
+       },
+       {
+        "Id": "769586167"
+       },
+       {
+        "Id": "773182663"
+       },
+       {
+        "Id": "775046600"
+       },
+       {
+        "Id": "776451998"
+       },
+       {
+        "Id": "779460630"
+       },
+       {
+        "Id": "783217746"
+       },
+       {
+        "Id": "790603763"
+       },
+       {
+        "Id": "792970752"
+       },
+       {
+        "Id": "793729772"
+       },
+       {
+        "Id": "794825017"
+       },
+       {
+        "Id": "796397920"
+       },
+       {
+        "Id": "803168021"
+       },
+       {
+        "Id": "805368003"
+       },
+       {
+        "Id": "811541862"
+       },
+       {
+        "Id": "813353166"
+       },
+       {
+        "Id": "813643200"
+       },
+       {
+        "Id": "816787651"
+       },
+       {
+        "Id": "818008264"
+       },
+       {
+        "Id": "823677179"
+       },
+       {
+        "Id": "826589817"
+       },
+       {
+        "Id": "829699739"
+       },
+       {
+        "Id": "830492792"
+       },
+       {
+        "Id": "831035867"
+       },
+       {
+        "Id": "832506825"
+       },
+       {
+        "Id": "833168132"
+       },
+       {
+        "Id": "835534349"
+       },
+       {
+        "Id": "836394672"
+       },
+       {
+        "Id": "840167568"
+       },
+       {
+        "Id": "847484891"
+       },
+       {
+        "Id": "854523287"
+       },
+       {
+        "Id": "855724205"
+       },
+       {
+        "Id": "855876426"
+       },
+       {
+        "Id": "863206823"
+       },
+       {
+        "Id": "863631207"
+       },
+       {
+        "Id": "864655323"
+       },
+       {
+        "Id": "869359312"
+       },
+       {
+        "Id": "876340311"
+       },
+       {
+        "Id": "876349647"
+       },
+       {
+        "Id": "878636830"
+       },
+       {
+        "Id": "878721896"
+       },
+       {
+        "Id": "879381182"
+       },
+       {
+        "Id": "880159901"
+       },
+       {
+        "Id": "881136023"
+       },
+       {
+        "Id": "883862847"
+       },
+       {
+        "Id": "885695844"
+       },
+       {
+        "Id": "886699710"
+       },
+       {
+        "Id": "888969336"
+       },
+       {
+        "Id": "889073751"
+       },
+       {
+        "Id": "889816203"
+       },
+       {
+        "Id": "891933742"
+       },
+       {
+        "Id": "892621121"
+       },
+       {
+        "Id": "896072974"
+       },
+       {
+        "Id": "898230005"
+       },
+       {
+        "Id": "905501705"
+       },
+       {
+        "Id": "905822695"
+       },
+       {
+        "Id": "908835970"
+       },
+       {
+        "Id": "909887747"
+       },
+       {
+        "Id": "911111294"
+       },
+       {
+        "Id": "915063569"
+       },
+       {
+        "Id": "916583028"
+       },
+       {
+        "Id": "917593734"
+       },
+       {
+        "Id": "918151162"
+       },
+       {
+        "Id": "918481730"
+       },
+       {
+        "Id": "918765828"
+       },
+       {
+        "Id": "920490563"
+       },
+       {
+        "Id": "921177141"
+       },
+       {
+        "Id": "922372359"
+       },
+       {
+        "Id": "926910193"
+       },
+       {
+        "Id": "927025447"
+       },
+       {
+        "Id": "927436136"
+       },
+       {
+        "Id": "930926261"
+       },
+       {
+        "Id": "934644856"
+       },
+       {
+        "Id": "939922972"
+       },
+       {
+        "Id": "949298774"
+       },
+       {
+        "Id": "949762831"
+       },
+       {
+        "Id": "951287413"
+       },
+       {
+        "Id": "953559841"
+       },
+       {
+        "Id": "958929737"
+       },
+       {
+        "Id": "963947200"
+       },
+       {
+        "Id": "965335731"
+       },
+       {
+        "Id": "967871766"
+       },
+       {
+        "Id": "971985938"
+       },
+       {
+        "Id": "972963235"
+       },
+       {
+        "Id": "973695398"
+       },
+       {
+        "Id": "973974619"
+       },
+       {
+        "Id": "974006803"
+       },
+       {
+        "Id": "974046727"
+       },
+       {
+        "Id": "975827321"
+       },
+       {
+        "Id": "975916691"
+       },
+       {
+        "Id": "976683412"
+       },
+       {
+        "Id": "983330696"
+       },
+       {
+        "Id": "989158920"
+       },
+       {
+        "Id": "989598401"
+       },
+       {
+        "Id": "990657672"
+       },
+       {
+        "Id": "992913321"
+       },
+       {
+        "Id": "995464744"
+       },
+       {
+        "Id": "998328220"
+       },
+       {
+        "Id": "1003668973"
+       },
+       {
+        "Id": "1003757347"
+       },
+       {
+        "Id": "1005171565"
+       },
+       {
+        "Id": "1006573459"
+       },
+       {
+        "Id": "1008115885"
+       },
+       {
+        "Id": "1010652535"
+       },
+       {
+        "Id": "1011428257"
+       },
+       {
+        "Id": "1012886531"
+       },
+       {
+        "Id": "1014005610"
+       },
+       {
+        "Id": "1020875682"
+       },
+       {
+        "Id": "1026236251"
+       },
+       {
+        "Id": "1028248302"
+       },
+       {
+        "Id": "1030705377"
+       },
+       {
+        "Id": "1038268121"
+       },
+       {
+        "Id": "1042797889"
+       },
+       {
+        "Id": "1047757846"
+       },
+       {
+        "Id": "1048995393"
+       },
+       {
+        "Id": "1054453262"
+       },
+       {
+        "Id": "1055495477"
+       },
+       {
+        "Id": "1056133703"
+       },
+       {
+        "Id": "1058288609"
+       },
+       {
+        "Id": "1058326709"
+       },
+       {
+        "Id": "1062956687"
+       },
+       {
+        "Id": "1063082767"
+       },
+       {
+        "Id": "1071788646"
        },
        {
         "Id": "1072207344"
@@ -6471,6 +9424,6 @@
     ]
    }
   ],
-  "FileHash": "{BC44A16E-3A5C-C3C3-1385-378E6B36892A}"
+  "FileHash": "{832CCDBB-6203-7593-E6E0-1A82DBDD9FA2}"
  }
 }
