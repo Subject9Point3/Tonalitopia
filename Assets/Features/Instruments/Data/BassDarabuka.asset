@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: BassDarabuka
   m_EditorClassIdentifier: Assembly-CSharp::InstrumentObjectSO
   <Name>k__BackingField: BassDarabuka
-  <Prefab>k__BackingField: {fileID: 0}
+  <Prefab>k__BackingField: {fileID: 4951653661126913396, guid: e54281204eacd214f98666241e0d7b77, type: 3}
+  <Colour>k__BackingField: {r: 1, g: 0, b: 0, a: 1}
   npcEvent:
     idInternal: 0
     valueGuidInternal: 
@@ -29,4 +30,4 @@ MonoBehaviour:
   droppedEvent:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 0}
+    WwiseObjectReference: {fileID: 11400000, guid: d2a6d142bb6364fa0aad9e8172e599f9, type: 2}

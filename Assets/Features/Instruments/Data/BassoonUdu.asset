@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: BassoonUdu
   m_EditorClassIdentifier: Assembly-CSharp::InstrumentObjectSO
   <Name>k__BackingField: BassoonUdu
-  <Prefab>k__BackingField: {fileID: 2148446878372373274, guid: 5d52cac4a14a4164ba1cf9e349cea60e, type: 3}
+  <Prefab>k__BackingField: {fileID: 4951653661126913396, guid: e54281204eacd214f98666241e0d7b77, type: 3}
+  <Colour>k__BackingField: {r: 1, g: 0.5, b: 0, a: 1}
   npcEvent:
     idInternal: 0
     valueGuidInternal: 

@@ -6,7 +6,8 @@ public class InstrumentVisuals : MonoBehaviour
 
     public void SetInstrument(InstrumentObjectSO newInstrument)
     {
-        Instantiate(newInstrument.Prefab, instrumentTransform);
+        var instrument = Instantiate(newInstrument.Prefab, instrumentTransform);
+        instrument.GetComponent<MeshRenderer>().material.color = newInstrument.Colour;
     }
 
     public void ClearInstrument()

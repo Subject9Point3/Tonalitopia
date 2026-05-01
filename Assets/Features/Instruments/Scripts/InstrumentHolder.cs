@@ -54,21 +54,20 @@ public class InstrumentHolder : MonoBehaviour
     {
         if (instrumentHolder.GetInstrument() == null) return;
         
-        // if (instrument != null) DropInstrument();
-        if (instrument != null) return;
+        if (instrument != null) DropInstrument();
         
         instrumentHolder.GiveInstrument(this);
     }
 
     private void DropInstrument()
     {
-        if (instrument == null) return;
-        Instantiate(instrument.Prefab, transform.position + transform.forward, Quaternion.identity);
-        ClearInstrument();
+        if (instrument == null) return; 
+        var droppedHolder = DroppedInstrumentFactory.Instance.SpawnDroppedInstrument(transform.position, transform.forward);
+        GiveInstrument(droppedHolder);
     }
 
     private void PlayInstrument()
-    {
+    {        
         instrument?.Play(holderType, gameObject);
     }
 }

@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: FluteHighCowbell
   m_EditorClassIdentifier: Assembly-CSharp::InstrumentObjectSO
   <Name>k__BackingField: FluteHighCowbell
-  <Prefab>k__BackingField: {fileID: 0}
+  <Prefab>k__BackingField: {fileID: 4951653661126913396, guid: e54281204eacd214f98666241e0d7b77, type: 3}
+  <Colour>k__BackingField: {r: 0, g: 1, b: 0.5, a: 1}
   npcEvent:
     idInternal: 0
     valueGuidInternal: 
