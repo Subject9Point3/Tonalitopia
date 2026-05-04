@@ -101,6 +101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d68889797c507b44c91c1e6ee6f0d335, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Npc
+  instrumentName: 
   state: 0
   agent: {fileID: 4546241570793559189}
   minWaitTime: 5
@@ -117,7 +118,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3b39ee1fce94de6ac713146a482ec1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InstrumentHolder
+  holderType: 1
   instrument: {fileID: 0}
+  requiredInstrument: {fileID: 0}
   canBeGivenTo: 1
   OnInstrumentSet:
     m_PersistentCalls:

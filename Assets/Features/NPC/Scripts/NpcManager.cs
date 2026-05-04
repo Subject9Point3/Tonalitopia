@@ -7,7 +7,6 @@ using Random = UnityEngine.Random;
 public class NpcManager : Singleton<NpcManager>
 {
     [SerializeField] private float maxDestinationDistance = 40f;
-    [SerializeField] private NpcSpawner npcSpawner = new();
     
     private NavMeshTriangulation triangulation;
     private List<INpc> npcs = new();
@@ -19,7 +18,7 @@ public class NpcManager : Singleton<NpcManager>
     private void Start()
     {
         triangulation = NavMesh.CalculateTriangulation();
-        npcSpawner.SpawnNpcs(triangulation);
+        Spawner.Instance.SpawnNpcs(triangulation);
     }
 
     private void Update()
