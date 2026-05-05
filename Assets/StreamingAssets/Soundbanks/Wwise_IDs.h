@@ -239,56 +239,31 @@ namespace AK
 
     namespace GAME_PARAMETERS
     {
-        static const AkUniqueID BITCRUSHAMOUNT = 4237034167U;
-        static const AkUniqueID MIDIMITE_DISTANCE_ANVIL = 1334567154U;
-        static const AkUniqueID MIDIMITE_DISTANCE_BAMBOO = 522080476U;
-        static const AkUniqueID MIDIMITE_DISTANCE_CONGA = 4267506872U;
-        static const AkUniqueID MIDIMITE_DISTANCE_CYMBAL = 2825161798U;
-        static const AkUniqueID MIDIMITE_DISTANCE_DARABUKA = 2689207365U;
-        static const AkUniqueID MIDIMITE_DISTANCE_HIGHCOWBELL = 334945398U;
-        static const AkUniqueID MIDIMITE_DISTANCE_HIGHKIT = 3271029776U;
-        static const AkUniqueID MIDIMITE_DISTANCE_KICKSNARE = 3151135617U;
-        static const AkUniqueID MIDIMITE_DISTANCE_LOWCOWBELL = 3295000348U;
-        static const AkUniqueID MIDIMITE_DISTANCE_LOWKIT = 677520706U;
-        static const AkUniqueID MIDIMITE_DISTANCE_TABLA = 2883991624U;
-        static const AkUniqueID MIDIMITE_DISTANCE_UDU = 3447802340U;
-        static const AkUniqueID MIDIMITE_PANNING_ANVIL = 1920498140U;
-        static const AkUniqueID MIDIMITE_PANNING_BAMBOO = 576587594U;
-        static const AkUniqueID MIDIMITE_PANNING_CONGA = 3535064650U;
-        static const AkUniqueID MIDIMITE_PANNING_CYMBAL = 1696939484U;
-        static const AkUniqueID MIDIMITE_PANNING_DARABUKA = 2721143815U;
-        static const AkUniqueID MIDIMITE_PANNING_HIGHCOWBELL = 1893100756U;
-        static const AkUniqueID MIDIMITE_PANNING_HIGHKIT = 325574282U;
-        static const AkUniqueID MIDIMITE_PANNING_KICKSNARE = 4034540667U;
-        static const AkUniqueID MIDIMITE_PANNING_LOWCOWBELL = 2261158922U;
-        static const AkUniqueID MIDIMITE_PANNING_LOWKIT = 3163123476U;
-        static const AkUniqueID MIDIMITE_PANNING_TABLA = 1873237942U;
-        static const AkUniqueID MIDIMITE_PANNING_UDU = 1179797174U;
-        static const AkUniqueID NPC_DISTANCE_BASS = 4167638730U;
-        static const AkUniqueID NPC_DISTANCE_BASSOON = 2529230890U;
-        static const AkUniqueID NPC_DISTANCE_CELESTE = 2738122292U;
-        static const AkUniqueID NPC_DISTANCE_CELLO = 2376723374U;
-        static const AkUniqueID NPC_DISTANCE_CLARINET = 1531480149U;
-        static const AkUniqueID NPC_DISTANCE_FLUTE = 2497158567U;
-        static const AkUniqueID NPC_DISTANCE_MARIMBA = 199996588U;
-        static const AkUniqueID NPC_DISTANCE_OBOE = 4081574792U;
-        static const AkUniqueID NPC_DISTANCE_PIANO = 2913963278U;
-        static const AkUniqueID NPC_DISTANCE_VIBRAPHONE = 3774632483U;
-        static const AkUniqueID NPC_DISTANCE_VIOLA = 144715662U;
-        static const AkUniqueID NPC_DISTANCE_VIOLIN = 439013276U;
-        static const AkUniqueID NPC_PANNING_BASS = 212586450U;
-        static const AkUniqueID NPC_PANNING_BASSOON = 3074845842U;
-        static const AkUniqueID NPC_PANNING_CELESTE = 1675879548U;
-        static const AkUniqueID NPC_PANNING_CELLO = 761916086U;
-        static const AkUniqueID NPC_PANNING_CLARINET = 3379599085U;
-        static const AkUniqueID NPC_PANNING_FLUTE = 454719951U;
-        static const AkUniqueID NPC_PANNING_MARIMBA = 1504964084U;
-        static const AkUniqueID NPC_PANNING_OBOE = 3341885200U;
-        static const AkUniqueID NPC_PANNING_PIANO = 490656470U;
-        static const AkUniqueID NPC_PANNING_VIBRAPHONE = 1839766923U;
-        static const AkUniqueID NPC_PANNING_VIOLA = 2965826582U;
-        static const AkUniqueID NPC_PANNING_VIOLIN = 1730523988U;
-        static const AkUniqueID RTPC_GLOBAL_PLAYBACKSPEED = 50307539U;
+        static const AkUniqueID BASSDARABUKA_DISTANCE = 1504250713U;
+        static const AkUniqueID BASSDARABUKA_PANNING = 4121630319U;
+        static const AkUniqueID BASSOONUDU_DISTANCE = 229401162U;
+        static const AkUniqueID BASSOONUDU_PANNING = 4135332298U;
+        static const AkUniqueID CELESTEHIGHKIT_DISTANCE = 2726979152U;
+        static const AkUniqueID CELESTEHIGHKIT_PANNING = 3435138512U;
+        static const AkUniqueID CELLOCONGA_DISTANCE = 2562564850U;
+        static const AkUniqueID CELLOCONGA_PANNING = 1249587394U;
+        static const AkUniqueID CLARINETLOWCOWBELL_DISTANCE = 1384007107U;
+        static const AkUniqueID CLARINETLOWCOWBELL_PANNING = 863036641U;
+        static const AkUniqueID FLUTEHIGHCOWBELL_DISTANCE = 1539938881U;
+        static const AkUniqueID FLUTEHIGHCOWBELL_PANNING = 3095843175U;
+        static const AkUniqueID GLOBAL_PLAYBACKSPEED = 2320868521U;
+        static const AkUniqueID MARIMBALOWKIT_DISTANCE = 3677775190U;
+        static const AkUniqueID MARIMBALOWKIT_PANNING = 249282734U;
+        static const AkUniqueID OBOEANVIL_DISTANCE = 3952414466U;
+        static const AkUniqueID OBOEANVIL_PANNING = 330190162U;
+        static const AkUniqueID PIANOKICKSNARE_DISTANCE = 428782977U;
+        static const AkUniqueID PIANOKICKSNARE_PANNING = 2355946919U;
+        static const AkUniqueID VIBRAPHONECYMBAL_DISTANCE = 1580972647U;
+        static const AkUniqueID VIBRAPHONECYMBAL_PANNING = 3046386237U;
+        static const AkUniqueID VIOLATABLA_DISTANCE = 2458106498U;
+        static const AkUniqueID VIOLATABLA_PANNING = 2378048466U;
+        static const AkUniqueID VIOLINBAMBOO_DISTANCE = 2262976736U;
+        static const AkUniqueID VIOLINBAMBOO_PANNING = 2011618336U;
     } // namespace GAME_PARAMETERS
 
     namespace BANKS
@@ -299,30 +274,18 @@ namespace AK
 
     namespace BUSSES
     {
-        static const AkUniqueID _1_CELESTE_BUS = 352808577U;
-        static const AkUniqueID _2_VIBRAPHONE_BUS = 3946816007U;
-        static const AkUniqueID _3_MARIMBA_BUS = 2846183311U;
-        static const AkUniqueID _4_PIANO_BUS = 340962702U;
-        static const AkUniqueID _5_FLUTE_BUS = 696295018U;
-        static const AkUniqueID _6_OBOE_BUS = 4190585176U;
-        static const AkUniqueID _7_CLARINET_BUS = 2254362702U;
-        static const AkUniqueID _8_BASSOON_BUS = 3468401410U;
-        static const AkUniqueID _9_VIOLIN_BUS = 1626669593U;
-        static const AkUniqueID _10_VIOLA_BUS = 1510118747U;
-        static const AkUniqueID _11_CELLO_BUS = 286980346U;
-        static const AkUniqueID _12_BASS_BUS = 597408597U;
-        static const AkUniqueID _13_HIGHKIT_BUS = 3022163943U;
-        static const AkUniqueID _14_CYMBAL_BUS = 1837151996U;
-        static const AkUniqueID _15_LOWKIT_BUS = 773301083U;
-        static const AkUniqueID _16_KICKSNARE_BUS = 1919791919U;
-        static const AkUniqueID _17_HIGHCOWBELL_BUS = 379072645U;
-        static const AkUniqueID _18_ANVIL_BUS = 3734045458U;
-        static const AkUniqueID _19_LOWCOWBELL_BUS = 2616391121U;
-        static const AkUniqueID _20_UDU_BUS = 4091838673U;
-        static const AkUniqueID _21_BAMBOO_BUS = 2422729062U;
-        static const AkUniqueID _22_TABLA_BUS = 3721509603U;
-        static const AkUniqueID _23_CONGA_BUS = 1089313318U;
-        static const AkUniqueID _24_DARABUKA_BUS = 3456549632U;
+        static const AkUniqueID _1_CELESTEHIGHKIT_BUS = 3107498413U;
+        static const AkUniqueID _2_VIBRAPHONECYMBAL_BUS = 3873177769U;
+        static const AkUniqueID _3_MARIMBALOWKIT_BUS = 1710966925U;
+        static const AkUniqueID _4_PIANOKICKSNARE_BUS = 2475524269U;
+        static const AkUniqueID _5_FLUTEHIGHCOWBELL_BUS = 2420999782U;
+        static const AkUniqueID _6_OBOEANVIL_BUS = 2144477256U;
+        static const AkUniqueID _7_CLARINETLOWCOWBELL_BUS = 573721998U;
+        static const AkUniqueID _8_BASSOONUDU_BUS = 2316247660U;
+        static const AkUniqueID _9_VIOLINBAMBOO_BUS = 3410587621U;
+        static const AkUniqueID _10_VIOLATABLA_BUS = 1271452851U;
+        static const AkUniqueID _11_CELLOCONGA_BUS = 1297051208U;
+        static const AkUniqueID _12_BASSDARABUKA_BUS = 2323279752U;
         static const AkUniqueID MAIN_AUDIO_BUS = 2246998526U;
     } // namespace BUSSES
 

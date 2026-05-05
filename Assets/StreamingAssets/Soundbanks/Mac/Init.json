@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{479A948A-20BA-52D0-9EC5-06E7D2787C27}",
+    "Hash": "{FC18B0E0-7B94-AEEB-1D35-1F775D29CAEC}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -19,23 +19,15 @@
       {
        "Id": "25870510",
        "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\12_Bass_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
+       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\12_BassDarabuka_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
        "GUID": "{04904056-9445-4B90-80B4-2E6635C591DA}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "84043093",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\16_KickSnare_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{96A3CF79-52F5-4E5A-A42D-99B5CF91A52B}",
        "LibName": "AkPanner",
        "LibId": "13239299"
       },
       {
        "Id": "92450607",
        "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\7_Clarinet_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
+       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\7_ClarinetLowCowbell_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
        "GUID": "{C4F11B34-CB83-4968-A6C8-BE9E627A868C}",
        "LibName": "AkPanner",
        "LibId": "13239299"
@@ -43,39 +35,15 @@
       {
        "Id": "119683697",
        "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\10_Viola_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
+       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\10_ViolaTabla_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
        "GUID": "{F003F15A-ED06-4A56-868A-FC6280958F39}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "156269138",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\22_Tabla_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{00473D03-9D9F-48B9-B652-A1BFEE5BD7C2}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "159009130",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\15_LowKit_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{A9CEAD00-E557-4CCC-9E25-6A30044CFE42}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "228646736",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\13_HighKit_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{31BC0C96-BA95-4523-B193-B82114FC725E}",
        "LibName": "AkPanner",
        "LibId": "13239299"
       },
       {
        "Id": "260530254",
        "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\11_Cello_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
+       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\11_CelloConga_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
        "GUID": "{DFF6FA1D-5AD2-47D7-916A-B2D908989C07}",
        "LibName": "AkPanner",
        "LibId": "13239299"
@@ -83,7 +51,7 @@
       {
        "Id": "304821432",
        "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\9_Violin_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
+       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\9_ViolinBamboo_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
        "GUID": "{9EA977D0-12B5-4FB7-A99B-D8AE8A417023}",
        "LibName": "AkPanner",
        "LibId": "13239299"
@@ -91,120 +59,56 @@
       {
        "Id": "307596371",
        "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\6_Oboe_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
+       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\6_OboeAnvil_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
        "GUID": "{1B7BC540-8CB8-4F0E-8270-BE115D083D9D}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "319254333",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\18_Anvil_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{A49BD15A-2E2E-4CDD-863E-A03E61CB1923}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "332429510",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\21_Bamboo_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{4B38F9ED-B1FA-473C-A1D1-E513814C433C}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "609494422",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\24_Darabuka_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{C9C5CB2F-5ADB-466E-928F-AAD3347D4987}",
        "LibName": "AkPanner",
        "LibId": "13239299"
       },
       {
        "Id": "621305949",
        "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\4_Piano_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
+       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\4_PianoKickSnare_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
        "GUID": "{05C47E27-6474-4495-A593-2130437377D5}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "658178683",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\23_Conga_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{4439F732-17AF-4A68-A978-3366DBFB2DC8}",
        "LibName": "AkPanner",
        "LibId": "13239299"
       },
       {
        "Id": "663811596",
        "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\3_Marimba_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
+       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\3_MarimbaLowKit_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
        "GUID": "{C71509DD-0B78-4DAD-BF4E-6E5F58B9B74B}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "819036592",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\17_HighCowbell_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{66F48C08-DB2A-4B9C-A2C3-E42815468CAD}",
        "LibName": "AkPanner",
        "LibId": "13239299"
       },
       {
        "Id": "821505040",
        "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\8_Bassoon_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
+       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\8_BassoonUdu_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
        "GUID": "{CEB4A3A4-7731-4720-8B26-E5C2C936F40A}",
+       "LibName": "AkPanner",
+       "LibId": "13239299"
+      },
+      {
+       "Id": "891849460",
+       "Name": "AkPanner (Custom)",
+       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\1_CelesteHighKit_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
+       "GUID": "{60608F6F-4811-463D-908A-0BBA405DC5B1}",
        "LibName": "AkPanner",
        "LibId": "13239299"
       },
       {
        "Id": "934122047",
        "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\2_Vibraphone_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
+       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\2_VibraphoneCymbal_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
        "GUID": "{08B2864C-5758-4536-9EDA-4D73C87E97A3}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "974744559",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\20_Udu_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{C5B0EDB5-120C-42D4-8D1A-F568C8ED1269}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "1000448658",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\19_LowCowbell_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{0374B2F7-693E-413F-8FD4-964DA4D44865}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "1027655012",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\14_Cymbal_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{AFB2AEE5-C512-4461-B5E9-409D287E9C64}",
        "LibName": "AkPanner",
        "LibId": "13239299"
       },
       {
        "Id": "1035156516",
        "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\5_Flute_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
+       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\5_FluteHighCowbell_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
        "GUID": "{A91B19B8-DF42-4E4C-9AEA-89538ACB175A}",
-       "LibName": "AkPanner",
-       "LibId": "13239299"
-      },
-      {
-       "Id": "1054657199",
-       "Name": "AkPanner (Custom)",
-       "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\1_Celeste_Bus\\[Effect Slot [0]: (AkPanner)]\\AkPanner (Custom)",
-       "GUID": "{7F2BBF09-8985-43F2-B9FA-53C3C1EF01E7}",
        "LibName": "AkPanner",
        "LibId": "13239299"
       }
@@ -217,14 +121,6 @@
        "GUID": "{D0443FC1-4E15-40FA-B0EC-DA0EE6314019}",
        "LibName": "Wwise Compressor",
        "LibId": "7077891"
-      },
-      {
-       "Id": "3825041543",
-       "Name": "New_AkBitcrusher",
-       "ObjectPath": "\\Effects\\Default Work Unit\\New_AkBitcrusher",
-       "GUID": "{0EE9053D-5EF5-437D-8D4D-B8C587012FB6}",
-       "LibName": "AkBitcrusher",
-       "LibId": "13173763"
       }
      ],
      "AudioDevices": [
@@ -248,123 +144,25 @@
     },
     "Busses": [
      {
-      "Id": "286980346",
-      "Name": "11_Cello_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\11_Cello_Bus",
-      "GUID": "{F41EC34E-2CAE-40E8-A3BC-A91B89042B08}",
-      "Color": "4",
+      "Id": "573721998",
+      "Name": "7_ClarinetLowCowbell_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\7_ClarinetLowCowbell_Bus",
+      "GUID": "{5A45C3CA-0364-4F69-BE2B-833B69809E29}",
+      "Color": "8",
       "PluginRefs": {
        "Custom": [
         {
-         "Id": "260530254"
+         "Id": "92450607"
         }
        ]
       }
      },
      {
-      "Id": "340962702",
-      "Name": "4_Piano_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\4_Piano_Bus",
-      "GUID": "{0A254E9D-295F-40E4-88C3-F8036AA68236}",
-      "Color": "4",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "621305949"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "352808577",
-      "Name": "1_Celeste_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\1_Celeste_Bus",
-      "GUID": "{87CF3A5E-FB4B-432E-A418-5A3B0303D006}",
-      "Color": "4",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "1054657199"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "379072645",
-      "Name": "17_HighCowbell_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\17_HighCowbell_Bus",
-      "GUID": "{B1F6705B-72B4-411F-8934-0DC6FA16466C}",
-      "Color": "10",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "819036592"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "597408597",
-      "Name": "12_Bass_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\12_Bass_Bus",
-      "GUID": "{7D26F0E7-708F-45B2-9BA7-291346A6270F}",
-      "Color": "4",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "25870510"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "696295018",
-      "Name": "5_Flute_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\5_Flute_Bus",
-      "GUID": "{CBCD06B2-C136-4464-AD4E-ABB7F3C08A0E}",
-      "Color": "4",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "1035156516"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "773301083",
-      "Name": "15_LowKit_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\15_LowKit_Bus",
-      "GUID": "{1E1D7E77-6A0F-4618-98D2-FC1960F9AA04}",
-      "Color": "10",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "159009130"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "1089313318",
-      "Name": "23_Conga_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\23_Conga_Bus",
-      "GUID": "{AC46E06D-6C62-4A04-A594-6FC42A90B125}",
-      "Color": "10",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "658178683"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "1510118747",
-      "Name": "10_Viola_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\10_Viola_Bus",
+      "Id": "1271452851",
+      "Name": "10_ViolaTabla_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\10_ViolaTabla_Bus",
       "GUID": "{ED8FFB5C-7E1A-4EF8-BC76-5790F68E5A06}",
-      "Color": "4",
+      "Color": "8",
       "PluginRefs": {
        "Custom": [
         {
@@ -374,43 +172,43 @@
       }
      },
      {
-      "Id": "1626669593",
-      "Name": "9_Violin_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\9_Violin_Bus",
-      "GUID": "{4DDA3B63-1786-44E9-B634-36F083FD59A3}",
-      "Color": "4",
+      "Id": "1297051208",
+      "Name": "11_CelloConga_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\11_CelloConga_Bus",
+      "GUID": "{F41EC34E-2CAE-40E8-A3BC-A91B89042B08}",
+      "Color": "8",
       "PluginRefs": {
        "Custom": [
         {
-         "Id": "304821432"
+         "Id": "260530254"
         }
        ]
       }
      },
      {
-      "Id": "1837151996",
-      "Name": "14_Cymbal_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\14_Cymbal_Bus",
-      "GUID": "{0155F384-5BAF-4BBC-9375-6C903282ADCA}",
-      "Color": "10",
+      "Id": "1710966925",
+      "Name": "3_MarimbaLowKit_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\3_MarimbaLowKit_Bus",
+      "GUID": "{8911FDDF-73F1-44AE-A8AD-8393B6F839D2}",
+      "Color": "8",
       "PluginRefs": {
        "Custom": [
         {
-         "Id": "1027655012"
+         "Id": "663811596"
         }
        ]
       }
      },
      {
-      "Id": "1919791919",
-      "Name": "16_KickSnare_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\16_KickSnare_Bus",
-      "GUID": "{7F3FB446-28A3-44AC-AF4C-1CEEA092C9E4}",
-      "Color": "10",
+      "Id": "2144477256",
+      "Name": "6_OboeAnvil_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\6_OboeAnvil_Bus",
+      "GUID": "{DA164A19-C0B7-436F-9D8E-CD16F04F55A9}",
+      "Color": "8",
       "PluginRefs": {
        "Custom": [
         {
-         "Id": "84043093"
+         "Id": "307596371"
         }
        ]
       }
@@ -424,103 +222,16 @@
        "ShareSets": [
         {
          "Id": "505060943"
-        },
-        {
-         "Id": "3825041543"
         }
        ]
       }
      },
      {
-      "Id": "2254362702",
-      "Name": "7_Clarinet_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\7_Clarinet_Bus",
-      "GUID": "{5A45C3CA-0364-4F69-BE2B-833B69809E29}",
-      "Color": "4",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "92450607"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "2422729062",
-      "Name": "21_Bamboo_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\21_Bamboo_Bus",
-      "GUID": "{975C9024-EEA4-4181-9F6E-F675577DD26F}",
-      "Color": "10",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "332429510"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "2616391121",
-      "Name": "19_LowCowbell_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\19_LowCowbell_Bus",
-      "GUID": "{61C8E316-04E0-4792-B147-DC0B38CCD894}",
-      "Color": "10",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "1000448658"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "2846183311",
-      "Name": "3_Marimba_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\3_Marimba_Bus",
-      "GUID": "{8911FDDF-73F1-44AE-A8AD-8393B6F839D2}",
-      "Color": "4",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "663811596"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "3022163943",
-      "Name": "13_HighKit_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\13_HighKit_Bus",
-      "GUID": "{AC24D423-9E6E-42EF-9FA2-D0A393132D8A}",
-      "Color": "10",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "228646736"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "3456549632",
-      "Name": "24_Darabuka_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\24_Darabuka_Bus",
-      "GUID": "{B9295876-6594-467F-9C2B-FE905141F0D5}",
-      "Color": "10",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "609494422"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "3468401410",
-      "Name": "8_Bassoon_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\8_Bassoon_Bus",
+      "Id": "2316247660",
+      "Name": "8_BassoonUdu_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\8_BassoonUdu_Bus",
       "GUID": "{1EAB94CB-1043-4B90-AC8C-9F10E2991405}",
-      "Color": "4",
+      "Color": "8",
       "PluginRefs": {
        "Custom": [
         {
@@ -530,39 +241,81 @@
       }
      },
      {
-      "Id": "3721509603",
-      "Name": "22_Tabla_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\22_Tabla_Bus",
-      "GUID": "{90DDC733-9EC9-47B6-A993-FB6C9D987DD4}",
-      "Color": "10",
+      "Id": "2323279752",
+      "Name": "12_BassDarabuka_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\12_BassDarabuka_Bus",
+      "GUID": "{7D26F0E7-708F-45B2-9BA7-291346A6270F}",
+      "Color": "8",
       "PluginRefs": {
        "Custom": [
         {
-         "Id": "156269138"
+         "Id": "25870510"
         }
        ]
       }
      },
      {
-      "Id": "3734045458",
-      "Name": "18_Anvil_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\18_Anvil_Bus",
-      "GUID": "{2E05F043-AB2A-4176-B3DB-66CC9C869C64}",
-      "Color": "10",
+      "Id": "2420999782",
+      "Name": "5_FluteHighCowbell_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\5_FluteHighCowbell_Bus",
+      "GUID": "{CBCD06B2-C136-4464-AD4E-ABB7F3C08A0E}",
+      "Color": "8",
       "PluginRefs": {
        "Custom": [
         {
-         "Id": "319254333"
+         "Id": "1035156516"
         }
        ]
       }
      },
      {
-      "Id": "3946816007",
-      "Name": "2_Vibraphone_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\2_Vibraphone_Bus",
+      "Id": "2475524269",
+      "Name": "4_PianoKickSnare_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\4_PianoKickSnare_Bus",
+      "GUID": "{0A254E9D-295F-40E4-88C3-F8036AA68236}",
+      "Color": "8",
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "621305949"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "3107498413",
+      "Name": "1_CelesteHighKit_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\1_CelesteHighKit_Bus",
+      "GUID": "{87CF3A5E-FB4B-432E-A418-5A3B0303D006}",
+      "Color": "8",
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "891849460"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "3410587621",
+      "Name": "9_ViolinBamboo_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\9_ViolinBamboo_Bus",
+      "GUID": "{4DDA3B63-1786-44E9-B634-36F083FD59A3}",
+      "Color": "8",
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "304821432"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "3873177769",
+      "Name": "2_VibraphoneCymbal_Bus",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\2_VibraphoneCymbal_Bus",
       "GUID": "{C46FA661-429A-4CF7-B5E4-39AC5FB7DDAC}",
-      "Color": "4",
+      "Color": "8",
       "PluginRefs": {
        "Custom": [
         {
@@ -570,417 +323,215 @@
         }
        ]
       }
-     },
-     {
-      "Id": "4091838673",
-      "Name": "20_Udu_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\20_Udu_Bus",
-      "GUID": "{CE26D35C-AA74-4DA5-8862-793FC77FAF00}",
-      "Color": "10",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "974744559"
-        }
-       ]
-      }
-     },
-     {
-      "Id": "4190585176",
-      "Name": "6_Oboe_Bus",
-      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\6_Oboe_Bus",
-      "GUID": "{DA164A19-C0B7-436F-9D8E-CD16F04F55A9}",
-      "Color": "4",
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "307596371"
-        }
-       ]
-      }
      }
     ],
     "GameParameters": [
      {
-      "Id": "50307539",
-      "Name": "RTPC_Global_PlaybackSpeed",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\RTPC_Global_PlaybackSpeed",
+      "Id": "229401162",
+      "Name": "BassoonUdu_Distance",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Distance\\BassoonUdu_Distance",
+      "GUID": "{7CAD8B40-9FBA-4408-B088-B3DEEBCE3874}",
+      "Color": "8"
+     },
+     {
+      "Id": "249282734",
+      "Name": "MarimbaLowKit_Panning",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Panning\\MarimbaLowKit_Panning",
+      "GUID": "{EF1BF632-7769-444F-93DB-531C89F2870C}",
+      "Color": "8"
+     },
+     {
+      "Id": "330190162",
+      "Name": "OboeAnvil_Panning",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Panning\\OboeAnvil_Panning",
+      "GUID": "{1045ABC4-E821-42AA-9E2B-FBCCC0C4BE56}",
+      "Color": "8"
+     },
+     {
+      "Id": "428782977",
+      "Name": "PianoKickSnare_Distance",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Distance\\PianoKickSnare_Distance",
+      "GUID": "{407036EF-7EFB-45FD-8496-60989E09339A}",
+      "Color": "8"
+     },
+     {
+      "Id": "863036641",
+      "Name": "ClarinetLowCowbell_Panning",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Panning\\ClarinetLowCowbell_Panning",
+      "GUID": "{11CACABF-4E39-45EE-B453-AF5CE9B425F0}",
+      "Color": "8"
+     },
+     {
+      "Id": "1249587394",
+      "Name": "CelloConga_Panning",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Panning\\CelloConga_Panning",
+      "GUID": "{BF616BAE-5EC0-4499-AC9F-DFCC14FCED43}",
+      "Color": "8"
+     },
+     {
+      "Id": "1384007107",
+      "Name": "ClarinetLowCowbell_Distance",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Distance\\ClarinetLowCowbell_Distance",
+      "GUID": "{3AFBE585-56B7-448A-A165-5F94CDEADEF2}",
+      "Color": "8"
+     },
+     {
+      "Id": "1504250713",
+      "Name": "BassDarabuka_Distance",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Distance\\BassDarabuka_Distance",
+      "GUID": "{16E452CC-29C0-4D88-99F5-3D0A0CE1D8D3}",
+      "Color": "8"
+     },
+     {
+      "Id": "1539938881",
+      "Name": "FluteHighCowbell_Distance",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Distance\\FluteHighCowbell_Distance",
+      "GUID": "{BAFF7A94-0DC4-4CD2-90C9-2D87AFF6B342}",
+      "Color": "8"
+     },
+     {
+      "Id": "1580972647",
+      "Name": "VibraphoneCymbal_Distance",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Distance\\VibraphoneCymbal_Distance",
+      "GUID": "{D12857F9-966C-4240-8D78-C56D482F3965}",
+      "Color": "8"
+     },
+     {
+      "Id": "2011618336",
+      "Name": "ViolinBamboo_Panning",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Panning\\ViolinBamboo_Panning",
+      "GUID": "{5D6EDAF7-0FB1-43D2-9B56-28ABC2C6E17B}",
+      "Color": "8"
+     },
+     {
+      "Id": "2262976736",
+      "Name": "ViolinBamboo_Distance",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Distance\\ViolinBamboo_Distance",
+      "GUID": "{86ADD9C1-07D7-4728-B78F-058F3DDA36D7}",
+      "Color": "8"
+     },
+     {
+      "Id": "2320868521",
+      "Name": "Global_PlaybackSpeed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Global\\Global_PlaybackSpeed",
       "GUID": "{CBDD31D1-936B-4C13-B196-95D4B8073B07}"
      },
      {
-      "Id": "144715662",
-      "Name": "NPC_Distance_Viola",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Viola",
-      "GUID": "{A8E78431-0504-4C1E-80F9-A37C02950E5D}",
-      "Color": "4"
-     },
-     {
-      "Id": "199996588",
-      "Name": "NPC_Distance_Marimba",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Marimba",
-      "GUID": "{3E1FD867-0838-4A2F-BD6F-05766CE7E1B1}",
-      "Color": "4"
-     },
-     {
-      "Id": "212586450",
-      "Name": "NPC_Panning_Bass",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\NPC_Panning\\NPC_Panning_Bass",
-      "GUID": "{DED1C6F2-3B50-473B-B23B-29E8FB39DA11}",
-      "Color": "4"
-     },
-     {
-      "Id": "325574282",
-      "Name": "Midimite_Panning_HighKit",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\Midimite_Panning\\Midimite_Panning_HighKit",
-      "GUID": "{FF987E1C-A0C7-44E8-BD25-180BCF0125F1}",
-      "Color": "10"
-     },
-     {
-      "Id": "334945398",
-      "Name": "Midimite_Distance_HighCowbell",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_HighCowbell",
-      "GUID": "{2DB61598-BAC9-44AA-A18F-9F90BF68C19B}",
-      "Color": "10"
-     },
-     {
-      "Id": "439013276",
-      "Name": "NPC_Distance_Violin",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Violin",
-      "GUID": "{86ADD9C1-07D7-4728-B78F-058F3DDA36D7}",
-      "Color": "4"
-     },
-     {
-      "Id": "454719951",
-      "Name": "NPC_Panning_Flute",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\NPC_Panning\\NPC_Panning_Flute",
-      "GUID": "{87D94341-1F11-4D8C-8417-B2F09F7A1D34}",
-      "Color": "4"
-     },
-     {
-      "Id": "490656470",
-      "Name": "NPC_Panning_Piano",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\NPC_Panning\\NPC_Panning_Piano",
+      "Id": "2355946919",
+      "Name": "PianoKickSnare_Panning",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Panning\\PianoKickSnare_Panning",
       "GUID": "{42F5D1CC-9AC3-4415-A855-DD5E981D7F8C}",
-      "Color": "4"
+      "Color": "8"
      },
      {
-      "Id": "522080476",
-      "Name": "Midimite_Distance_Bamboo",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Bamboo",
-      "GUID": "{1306126D-E596-4F3F-9743-5E59FBB388B7}",
-      "Color": "10"
-     },
-     {
-      "Id": "576587594",
-      "Name": "Midimite_Panning_Bamboo",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\Midimite_Panning\\Midimite_Panning_Bamboo",
-      "GUID": "{477FE720-92BB-4566-8755-9CBE2D1D4655}",
-      "Color": "10"
-     },
-     {
-      "Id": "677520706",
-      "Name": "Midimite_Distance_LowKit",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_LowKit",
-      "GUID": "{31B401F8-4704-41BF-BD33-F7F6F6F61FB3}",
-      "Color": "10"
-     },
-     {
-      "Id": "761916086",
-      "Name": "NPC_Panning_Cello",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\NPC_Panning\\NPC_Panning_Cello",
-      "GUID": "{BF616BAE-5EC0-4499-AC9F-DFCC14FCED43}",
-      "Color": "4"
-     },
-     {
-      "Id": "1179797174",
-      "Name": "Midimite_Panning_Udu",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\Midimite_Panning\\Midimite_Panning_Udu",
-      "GUID": "{E91FF2F0-7424-40F2-9E53-5E53571B50E3}",
-      "Color": "10"
-     },
-     {
-      "Id": "1334567154",
-      "Name": "Midimite_Distance_Anvil",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Anvil",
-      "GUID": "{07660342-56CE-4A61-B8EF-9708040FE7CD}",
-      "Color": "10"
-     },
-     {
-      "Id": "1504964084",
-      "Name": "NPC_Panning_Marimba",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\NPC_Panning\\NPC_Panning_Marimba",
-      "GUID": "{EF1BF632-7769-444F-93DB-531C89F2870C}",
-      "Color": "4"
-     },
-     {
-      "Id": "1531480149",
-      "Name": "NPC_Distance_Clarinet",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Clarinet",
-      "GUID": "{3AFBE585-56B7-448A-A165-5F94CDEADEF2}",
-      "Color": "4"
-     },
-     {
-      "Id": "1675879548",
-      "Name": "NPC_Panning_Celeste",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\NPC_Panning\\NPC_Panning_Celeste",
-      "GUID": "{D09B696E-E1C7-4F68-BB62-991B78062158}",
-      "Color": "4"
-     },
-     {
-      "Id": "1696939484",
-      "Name": "Midimite_Panning_Cymbal",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\Midimite_Panning\\Midimite_Panning_Cymbal",
-      "GUID": "{140BB868-2DDE-4E94-AA9F-25D2EFFD5EE5}",
-      "Color": "10"
-     },
-     {
-      "Id": "1730523988",
-      "Name": "NPC_Panning_Violin",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\NPC_Panning\\NPC_Panning_Violin",
-      "GUID": "{5D6EDAF7-0FB1-43D2-9B56-28ABC2C6E17B}",
-      "Color": "4"
-     },
-     {
-      "Id": "1839766923",
-      "Name": "NPC_Panning_Vibraphone",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\NPC_Panning\\NPC_Panning_Vibraphone",
-      "GUID": "{93635D0A-187F-4A55-9E20-1C4B688671F9}",
-      "Color": "4"
-     },
-     {
-      "Id": "1873237942",
-      "Name": "Midimite_Panning_Tabla",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\Midimite_Panning\\Midimite_Panning_Tabla",
-      "GUID": "{88ED830E-6E64-4318-AD83-F7C50B9DEB77}",
-      "Color": "10"
-     },
-     {
-      "Id": "1893100756",
-      "Name": "Midimite_Panning_HighCowbell",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\Midimite_Panning\\Midimite_Panning_HighCowbell",
-      "GUID": "{207ACDB1-E2C8-45C6-B196-B44D7329FB61}",
-      "Color": "10"
-     },
-     {
-      "Id": "1920498140",
-      "Name": "Midimite_Panning_Anvil",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\Midimite_Panning\\Midimite_Panning_Anvil",
-      "GUID": "{061E3B12-A606-4B78-AAED-D48C359424B2}",
-      "Color": "10"
-     },
-     {
-      "Id": "2261158922",
-      "Name": "Midimite_Panning_LowCowbell",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\Midimite_Panning\\Midimite_Panning_LowCowbell",
-      "GUID": "{922DD4C9-3072-4875-BBF6-187AC563A3A5}",
-      "Color": "10"
-     },
-     {
-      "Id": "2376723374",
-      "Name": "NPC_Distance_Cello",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Cello",
-      "GUID": "{7E72AF0F-18C9-4193-A08F-3C6CD8E94C2C}",
-      "Color": "4"
-     },
-     {
-      "Id": "2497158567",
-      "Name": "NPC_Distance_Flute",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Flute",
-      "GUID": "{BAFF7A94-0DC4-4CD2-90C9-2D87AFF6B342}",
-      "Color": "4"
-     },
-     {
-      "Id": "2529230890",
-      "Name": "NPC_Distance_Bassoon",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Bassoon",
-      "GUID": "{7CAD8B40-9FBA-4408-B088-B3DEEBCE3874}",
-      "Color": "4"
-     },
-     {
-      "Id": "2689207365",
-      "Name": "Midimite_Distance_Darabuka",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Darabuka",
-      "GUID": "{230579A4-D73F-4E32-8010-469C145E0233}",
-      "Color": "10"
-     },
-     {
-      "Id": "2721143815",
-      "Name": "Midimite_Panning_Darabuka",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\Midimite_Panning\\Midimite_Panning_Darabuka",
-      "GUID": "{F895C11D-839B-4BA3-A4DD-EFBB49139835}",
-      "Color": "10"
-     },
-     {
-      "Id": "2738122292",
-      "Name": "NPC_Distance_Celeste",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Celeste",
-      "GUID": "{7C736D7B-EE74-489F-B1E3-4780033875A2}",
-      "Color": "4"
-     },
-     {
-      "Id": "2825161798",
-      "Name": "Midimite_Distance_Cymbal",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Cymbal",
-      "GUID": "{FE96FEAA-44A2-48A2-B724-A49E49E7255B}",
-      "Color": "10"
-     },
-     {
-      "Id": "2883991624",
-      "Name": "Midimite_Distance_Tabla",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Tabla",
-      "GUID": "{23CACBD4-1669-475E-A278-89B516C54C7D}",
-      "Color": "10"
-     },
-     {
-      "Id": "2913963278",
-      "Name": "NPC_Distance_Piano",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Piano",
-      "GUID": "{407036EF-7EFB-45FD-8496-60989E09339A}",
-      "Color": "4"
-     },
-     {
-      "Id": "2965826582",
-      "Name": "NPC_Panning_Viola",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\NPC_Panning\\NPC_Panning_Viola",
+      "Id": "2378048466",
+      "Name": "ViolaTabla_Panning",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Panning\\ViolaTabla_Panning",
       "GUID": "{6729EF06-67D4-4809-9150-E43A0539EB31}",
-      "Color": "4"
+      "Color": "8"
      },
      {
-      "Id": "3074845842",
-      "Name": "NPC_Panning_Bassoon",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\NPC_Panning\\NPC_Panning_Bassoon",
-      "GUID": "{A1DE4F63-94A9-43B5-8D0F-AE0701091901}",
-      "Color": "4"
+      "Id": "2458106498",
+      "Name": "ViolaTabla_Distance",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Distance\\ViolaTabla_Distance",
+      "GUID": "{A8E78431-0504-4C1E-80F9-A37C02950E5D}",
+      "Color": "8"
      },
      {
-      "Id": "3151135617",
-      "Name": "Midimite_Distance_KickSnare",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_KickSnare",
-      "GUID": "{05E542F6-8E40-43C0-B84C-3F06034E7EFE}",
-      "Color": "10"
+      "Id": "2562564850",
+      "Name": "CelloConga_Distance",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Distance\\CelloConga_Distance",
+      "GUID": "{7E72AF0F-18C9-4193-A08F-3C6CD8E94C2C}",
+      "Color": "8"
      },
      {
-      "Id": "3163123476",
-      "Name": "Midimite_Panning_LowKit",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\Midimite_Panning\\Midimite_Panning_LowKit",
-      "GUID": "{C18D32EF-526E-4759-9306-EC1F4AEDBC17}",
-      "Color": "10"
+      "Id": "2726979152",
+      "Name": "CelesteHighKit_Distance",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Distance\\CelesteHighKit_Distance",
+      "GUID": "{7C736D7B-EE74-489F-B1E3-4780033875A2}",
+      "Color": "8"
      },
      {
-      "Id": "3271029776",
-      "Name": "Midimite_Distance_HighKit",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_HighKit",
-      "GUID": "{439561C9-0652-441F-83D1-B25915174F47}",
-      "Color": "10"
+      "Id": "3046386237",
+      "Name": "VibraphoneCymbal_Panning",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Panning\\VibraphoneCymbal_Panning",
+      "GUID": "{93635D0A-187F-4A55-9E20-1C4B688671F9}",
+      "Color": "8"
      },
      {
-      "Id": "3295000348",
-      "Name": "Midimite_Distance_LowCowbell",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_LowCowbell",
-      "GUID": "{1DD5BBD7-B19A-410F-96E7-7AE78BD554E9}",
-      "Color": "10"
+      "Id": "3095843175",
+      "Name": "FluteHighCowbell_Panning",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Panning\\FluteHighCowbell_Panning",
+      "GUID": "{87D94341-1F11-4D8C-8417-B2F09F7A1D34}",
+      "Color": "8"
      },
      {
-      "Id": "3341885200",
-      "Name": "NPC_Panning_Oboe",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\NPC_Panning\\NPC_Panning_Oboe",
-      "GUID": "{1045ABC4-E821-42AA-9E2B-FBCCC0C4BE56}",
-      "Color": "4"
+      "Id": "3435138512",
+      "Name": "CelesteHighKit_Panning",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Panning\\CelesteHighKit_Panning",
+      "GUID": "{D09B696E-E1C7-4F68-BB62-991B78062158}",
+      "Color": "8"
      },
      {
-      "Id": "3379599085",
-      "Name": "NPC_Panning_Clarinet",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\NPC_Panning\\NPC_Panning_Clarinet",
-      "GUID": "{11CACABF-4E39-45EE-B453-AF5CE9B425F0}",
-      "Color": "4"
+      "Id": "3677775190",
+      "Name": "MarimbaLowKit_Distance",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Distance\\MarimbaLowKit_Distance",
+      "GUID": "{3E1FD867-0838-4A2F-BD6F-05766CE7E1B1}",
+      "Color": "8"
      },
      {
-      "Id": "3447802340",
-      "Name": "Midimite_Distance_Udu",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Udu",
-      "GUID": "{9646412B-57D2-4D44-940B-B5C7BF99C203}",
-      "Color": "10"
-     },
-     {
-      "Id": "3535064650",
-      "Name": "Midimite_Panning_Conga",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\Midimite_Panning\\Midimite_Panning_Conga",
-      "GUID": "{FDBFA5A3-16BC-4107-82D7-04123FD6B5C4}",
-      "Color": "10"
-     },
-     {
-      "Id": "3774632483",
-      "Name": "NPC_Distance_Vibraphone",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Vibraphone",
-      "GUID": "{D12857F9-966C-4240-8D78-C56D482F3965}",
-      "Color": "4"
-     },
-     {
-      "Id": "4034540667",
-      "Name": "Midimite_Panning_KickSnare",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Panning\\Midimite_Panning\\Midimite_Panning_KickSnare",
-      "GUID": "{FBF9DF20-1BBA-433D-91A6-5D4A3A6ABDCB}",
-      "Color": "10"
-     },
-     {
-      "Id": "4081574792",
-      "Name": "NPC_Distance_Oboe",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Oboe",
+      "Id": "3952414466",
+      "Name": "OboeAnvil_Distance",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Distance\\OboeAnvil_Distance",
       "GUID": "{38612FF0-8FD6-4C1A-947B-8F05AEAF6BB6}",
-      "Color": "4"
+      "Color": "8"
      },
      {
-      "Id": "4167638730",
-      "Name": "NPC_Distance_Bass",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\NPC_Distance\\NPC_Distance_Bass",
-      "GUID": "{16E452CC-29C0-4D88-99F5-3D0A0CE1D8D3}",
-      "Color": "4"
+      "Id": "4121630319",
+      "Name": "BassDarabuka_Panning",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Panning\\BassDarabuka_Panning",
+      "GUID": "{DED1C6F2-3B50-473B-B23B-29E8FB39DA11}",
+      "Color": "8"
      },
      {
-      "Id": "4237034167",
-      "Name": "BitcrushAmount",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\BitcrushAmount",
-      "GUID": "{45141CB3-3B48-4F83-9006-7DA0A731A281}"
-     },
-     {
-      "Id": "4267506872",
-      "Name": "Midimite_Distance_Conga",
-      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument_Distance\\Midimite_Distance\\Midimite_Distance_Conga",
-      "GUID": "{E002DA37-40B8-41DE-9CED-D53CB0E61D7E}",
-      "Color": "10"
+      "Id": "4135332298",
+      "Name": "BassoonUdu_Panning",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Instrument Panning\\BassoonUdu_Panning",
+      "GUID": "{A1DE4F63-94A9-43B5-8D0F-AE0701091901}",
+      "Color": "8"
      }
     ],
     "StateGroups": [
      {
       "Id": "73183939",
       "Name": "ClarinetLowCowbell",
-      "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell",
+      "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ClarinetLowCowbell",
       "GUID": "{D1907E4C-26CB-47F3-AAFB-0C63B55BFBAD}",
       "States": [
        {
         "Id": "748895195",
         "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\None",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ClarinetLowCowbell\\None",
         "GUID": "{8C524E1A-C30A-4C93-9933-8E28017EE769}"
        },
        {
         "Id": "2032637112",
         "Name": "Midimite_LowCowbell",
-        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\Midimite_LowCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ClarinetLowCowbell\\Midimite_LowCowbell",
         "GUID": "{037AD994-F038-4CB7-AB45-05C624F7BCB5}",
         "Color": "10"
        },
        {
         "Id": "3339647189",
         "Name": "Modalman_Clarinet",
-        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\Modalman_Clarinet",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ClarinetLowCowbell\\Modalman_Clarinet",
         "GUID": "{D03F36B9-B839-47E5-BEE6-6A0DB51B1197}",
         "Color": "2"
        },
        {
         "Id": "4047794399",
         "Name": "NPC_Clarinet",
-        "ObjectPath": "\\States\\Default Work Unit\\ClarinetLowCowbell\\NPC_Clarinet",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ClarinetLowCowbell\\NPC_Clarinet",
         "GUID": "{D6E4F502-53E4-4F95-A2C9-F6DDBB44463E}",
         "Color": "4"
        }
@@ -989,33 +540,33 @@
      {
       "Id": "474846413",
       "Name": "FluteHighCowbell",
-      "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell",
+      "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\FluteHighCowbell",
       "GUID": "{EA5B980A-0E43-4400-9EB8-E864BD29455D}",
       "States": [
        {
         "Id": "648049514",
         "Name": "Midimite_HighCowbell",
-        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\Midimite_HighCowbell",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\FluteHighCowbell\\Midimite_HighCowbell",
         "GUID": "{5072FA08-0A7D-4E86-BE66-43FDD0A6ECD0}",
         "Color": "10"
        },
        {
         "Id": "748895195",
         "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\None",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\FluteHighCowbell\\None",
         "GUID": "{6EBD3726-831A-43D8-821A-B8DBBE6603A4}"
        },
        {
         "Id": "2626952999",
         "Name": "Modalman_Flute",
-        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\Modalman_Flute",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\FluteHighCowbell\\Modalman_Flute",
         "GUID": "{0C2A2777-CD68-4096-9430-9ABF6C36E907}",
         "Color": "2"
        },
        {
         "Id": "4050165685",
         "Name": "NPC_Flute",
-        "ObjectPath": "\\States\\Default Work Unit\\FluteHighCowbell\\NPC_Flute",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\FluteHighCowbell\\NPC_Flute",
         "GUID": "{067606F5-5D0F-4B21-9DD3-ABEC4E7B2C75}",
         "Color": "4"
        }
@@ -1024,33 +575,33 @@
      {
       "Id": "1301975716",
       "Name": "ViolaTabla",
-      "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla",
+      "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ViolaTabla",
       "GUID": "{6D45FC29-614D-4A55-A9BF-2D5F09C76319}",
       "States": [
        {
         "Id": "274510094",
         "Name": "Modalman_Viola",
-        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\Modalman_Viola",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ViolaTabla\\Modalman_Viola",
         "GUID": "{B8AD13A5-ACBB-430B-BC8E-8FBCD5DABED8}",
         "Color": "2"
        },
        {
         "Id": "632282368",
         "Name": "NPC_Viola",
-        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\NPC_Viola",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ViolaTabla\\NPC_Viola",
         "GUID": "{C09721E9-1ADE-4710-85B0-F3DB97E2F8B2}",
         "Color": "4"
        },
        {
         "Id": "748895195",
         "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\None",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ViolaTabla\\None",
         "GUID": "{31133AD6-5F78-48D2-859A-008C05A6DE5C}"
        },
        {
         "Id": "1702411004",
         "Name": "Midimite_Tabla",
-        "ObjectPath": "\\States\\Default Work Unit\\ViolaTabla\\Midimite_Tabla",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ViolaTabla\\Midimite_Tabla",
         "GUID": "{7E0FD7EA-EDAE-4525-8E14-0FC09C2BB959}",
         "Color": "10"
        }
@@ -1059,33 +610,33 @@
      {
       "Id": "1413498124",
       "Name": "BassoonUdu",
-      "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu",
+      "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\BassoonUdu",
       "GUID": "{CA1C2FC5-E071-4948-97EF-DB1CB3F12E1A}",
       "States": [
        {
         "Id": "748895195",
         "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\None",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\BassoonUdu\\None",
         "GUID": "{E8159135-D8A8-4DF1-A70E-BE4CD0C6285C}"
        },
        {
         "Id": "2582786496",
         "Name": "Midimite_Udu",
-        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\Midimite_Udu",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\BassoonUdu\\Midimite_Udu",
         "GUID": "{25BC8CF3-CDD7-476E-9561-780E4AEF0FF9}",
         "Color": "10"
        },
        {
         "Id": "2613648810",
         "Name": "Modalman_Bassoon",
-        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\Modalman_Bassoon",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\BassoonUdu\\Modalman_Bassoon",
         "GUID": "{ECE25CEB-B417-4102-9E76-17FB952417DD}",
         "Color": "2"
        },
        {
         "Id": "2747654820",
         "Name": "NPC_Bassoon",
-        "ObjectPath": "\\States\\Default Work Unit\\BassoonUdu\\NPC_Bassoon",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\BassoonUdu\\NPC_Bassoon",
         "GUID": "{D2EF3D91-3836-4A2B-B30C-960E86267302}",
         "Color": "4"
        }
@@ -1094,33 +645,33 @@
      {
       "Id": "1705315364",
       "Name": "OboeAnvil",
-      "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil",
+      "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\OboeAnvil",
       "GUID": "{42660BAC-4ECC-450A-AD8F-4B742C17953B}",
       "States": [
        {
         "Id": "516967432",
         "Name": "Modalman_Oboe",
-        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\Modalman_Oboe",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\OboeAnvil\\Modalman_Oboe",
         "GUID": "{11AF86E4-4DAC-4CEE-A392-D724728CDAC3}",
         "Color": "2"
        },
        {
         "Id": "748895195",
         "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\None",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\OboeAnvil\\None",
         "GUID": "{C12E06F8-4D52-4DBD-9F79-F90B0AD4DCB6}"
        },
        {
         "Id": "1274921330",
         "Name": "NPC_Oboe",
-        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\NPC_Oboe",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\OboeAnvil\\NPC_Oboe",
         "GUID": "{DF422829-51B1-4293-BD21-D48CFBD969C0}",
         "Color": "4"
        },
        {
         "Id": "1819772878",
         "Name": "Midimite_Anvil",
-        "ObjectPath": "\\States\\Default Work Unit\\OboeAnvil\\Midimite_Anvil",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\OboeAnvil\\Midimite_Anvil",
         "GUID": "{378D5D8F-E24A-4A80-91E6-80F0C09045F3}",
         "Color": "10"
        }
@@ -1129,33 +680,33 @@
      {
       "Id": "2303000183",
       "Name": "VibraphoneCymbal",
-      "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal",
+      "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\VibraphoneCymbal",
       "GUID": "{0287CC98-B007-4F19-B213-5223E3965E7D}",
       "States": [
        {
         "Id": "748895195",
         "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\None",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\VibraphoneCymbal\\None",
         "GUID": "{68B41C1C-77B9-439D-B4A3-0CA15E6C8386}"
        },
        {
         "Id": "911569586",
         "Name": "Midimite_Cymbal",
-        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\Midimite_Cymbal",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\VibraphoneCymbal\\Midimite_Cymbal",
         "GUID": "{E31E6E22-7B25-463A-AF33-673C8AB71085}",
         "Color": "10"
        },
        {
         "Id": "2281535139",
         "Name": "Modalman_Vibraphone",
-        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\Modalman_Vibraphone",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\VibraphoneCymbal\\Modalman_Vibraphone",
         "GUID": "{D4053C52-A5BA-4D0F-986B-F57E6D24A174}",
         "Color": "2"
        },
        {
         "Id": "4239875109",
         "Name": "NPC_Vibraphone",
-        "ObjectPath": "\\States\\Default Work Unit\\VibraphoneCymbal\\NPC_Vibraphone",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\VibraphoneCymbal\\NPC_Vibraphone",
         "GUID": "{FEB58FB5-A216-4A9D-8174-7195E33063E2}",
         "Color": "4"
        }
@@ -1164,33 +715,33 @@
      {
       "Id": "2357403405",
       "Name": "PianoKickSnare",
-      "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare",
+      "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\PianoKickSnare",
       "GUID": "{C1AF14DD-3364-4BCE-8AF5-9E89928C596F}",
       "States": [
        {
         "Id": "748895195",
         "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\None",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\PianoKickSnare\\None",
         "GUID": "{11DB9CC3-A90B-45E7-9A5E-D5924F1649D2}"
        },
        {
         "Id": "3043757710",
         "Name": "Modalman_Piano",
-        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\Modalman_Piano",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\PianoKickSnare\\Modalman_Piano",
         "GUID": "{D195B6A1-4917-41DC-9C1D-16CE5131C9FA}",
         "Color": "2"
        },
        {
         "Id": "3369293493",
         "Name": "Midimite_KickSnare",
-        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\Midimite_KickSnare",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\PianoKickSnare\\Midimite_KickSnare",
         "GUID": "{687871FD-15D2-4A84-B077-BE88FAF68382}",
         "Color": "10"
        },
        {
         "Id": "3805777016",
         "Name": "NPC_Piano",
-        "ObjectPath": "\\States\\Default Work Unit\\PianoKickSnare\\NPC_Piano",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\PianoKickSnare\\NPC_Piano",
         "GUID": "{88490592-22F3-4DF9-ADEC-4AE782C5E6B2}",
         "Color": "4"
        }
@@ -1199,33 +750,33 @@
      {
       "Id": "2608626964",
       "Name": "CelloConga",
-      "ObjectPath": "\\States\\Default Work Unit\\CelloConga",
+      "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\CelloConga",
       "GUID": "{A6C26B97-1386-43A4-A93C-3169A4C35D95}",
       "States": [
        {
         "Id": "748895195",
         "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\None",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\CelloConga\\None",
         "GUID": "{15F55C78-4CA3-4363-A799-B2487B08549F}"
        },
        {
         "Id": "1781666048",
         "Name": "NPC_Cello",
-        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\NPC_Cello",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\CelloConga\\NPC_Cello",
         "GUID": "{A9C22207-9B25-4EE0-A166-16945210CB81}",
         "Color": "4"
        },
        {
         "Id": "1962323748",
         "Name": "Midimite_Conga",
-        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\Midimite_Conga",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\CelloConga\\Midimite_Conga",
         "GUID": "{C8A259D9-63A5-46F7-A435-BD243C1C9433}",
         "Color": "10"
        },
        {
         "Id": "2506517806",
         "Name": "Modalman_Cello",
-        "ObjectPath": "\\States\\Default Work Unit\\CelloConga\\Modalman_Cello",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\CelloConga\\Modalman_Cello",
         "GUID": "{E7CE52EA-3C02-4B82-86EA-9D70A6C1F39F}",
         "Color": "2"
        }
@@ -1234,33 +785,33 @@
      {
       "Id": "2694696584",
       "Name": "MarimbaLowKit",
-      "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit",
+      "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\MarimbaLowKit",
       "GUID": "{3F36416A-434E-4957-940F-46073E85F724}",
       "States": [
        {
         "Id": "284414508",
         "Name": "Modalman_Marimba",
-        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\Modalman_Marimba",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\MarimbaLowKit\\Modalman_Marimba",
         "GUID": "{73DB7FF0-FB86-4E52-ACBB-A91944E7ADD5}",
         "Color": "2"
        },
        {
         "Id": "608418222",
         "Name": "NPC_Marimba",
-        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\NPC_Marimba",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\MarimbaLowKit\\NPC_Marimba",
         "GUID": "{C54D15C8-DFCC-4F19-86BF-ACE686B5398D}",
         "Color": "4"
        },
        {
         "Id": "748895195",
         "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\None",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\MarimbaLowKit\\None",
         "GUID": "{E7F03BD0-DF8C-4B93-BD0C-73B417AC683A}"
        },
        {
         "Id": "2514397822",
         "Name": "Midimite_LowKit",
-        "ObjectPath": "\\States\\Default Work Unit\\MarimbaLowKit\\Midimite_LowKit",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\MarimbaLowKit\\Midimite_LowKit",
         "GUID": "{1B514A97-249E-4879-ABF2-FD4D22D415D6}",
         "Color": "10"
        }
@@ -1269,33 +820,33 @@
      {
       "Id": "3464414902",
       "Name": "ViolinBamboo",
-      "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo",
+      "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ViolinBamboo",
       "GUID": "{5C87EAF2-B6F2-45DA-8920-F6A0097C77E9}",
       "States": [
        {
         "Id": "748895195",
         "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\None",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ViolinBamboo\\None",
         "GUID": "{870AE249-CA46-4710-BD85-C5ACAD56F5F3}"
        },
        {
         "Id": "1540944886",
         "Name": "NPC_Violin",
-        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\NPC_Violin",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ViolinBamboo\\NPC_Violin",
         "GUID": "{78444450-1D6A-42FC-9258-5787C2DE175A}",
         "Color": "4"
        },
        {
         "Id": "3172327104",
         "Name": "Midimite_Bamboo",
-        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\Midimite_Bamboo",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ViolinBamboo\\Midimite_Bamboo",
         "GUID": "{76FDCB66-89D7-4C9D-8093-FDAD0F3EC878}",
         "Color": "10"
        },
        {
         "Id": "3354045468",
         "Name": "Modalman_Violin",
-        "ObjectPath": "\\States\\Default Work Unit\\ViolinBamboo\\Modalman_Violin",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\ViolinBamboo\\Modalman_Violin",
         "GUID": "{97F5516E-3CD2-4B1F-A2BF-E4C3D17F94F6}",
         "Color": "2"
        }
@@ -1304,33 +855,33 @@
      {
       "Id": "3482004262",
       "Name": "CelesteHighKit",
-      "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit",
+      "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\CelesteHighKit",
       "GUID": "{16240C4D-077E-4DD6-AFB9-B1802554E550}",
       "States": [
        {
         "Id": "748895195",
         "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\None",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\CelesteHighKit\\None",
         "GUID": "{4192EC8C-2BDC-48C4-B4E2-1BB69044F3D5}"
        },
        {
         "Id": "1937297268",
         "Name": "Midimite_HighKit",
-        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\Midimite_HighKit",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\CelesteHighKit\\Midimite_HighKit",
         "GUID": "{D2CBDC70-EA96-4016-B48B-42A473E2ABE1}",
         "Color": "10"
        },
        {
         "Id": "2822540212",
         "Name": "Modalman_Celeste",
-        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\Modalman_Celeste",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\CelesteHighKit\\Modalman_Celeste",
         "GUID": "{D22495F8-8B6E-4658-9CED-B210C0946C56}",
         "Color": "2"
        },
        {
         "Id": "4244078214",
         "Name": "NPC_Celeste",
-        "ObjectPath": "\\States\\Default Work Unit\\CelesteHighKit\\NPC_Celeste",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\CelesteHighKit\\NPC_Celeste",
         "GUID": "{2C8A1017-19C2-4B57-B11C-0720412E1AE1}",
         "Color": "4"
        }
@@ -1339,33 +890,33 @@
      {
       "Id": "4165357381",
       "Name": "BassDarabuka",
-      "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka",
+      "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\BassDarabuka",
       "GUID": "{2288B661-A264-4AF0-AE1B-99AAC1A94F9B}",
       "States": [
        {
         "Id": "603031370",
         "Name": "Modalman_Bass",
-        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\Modalman_Bass",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\BassDarabuka\\Modalman_Bass",
         "GUID": "{FE7829FE-A7EA-4411-9A7D-34B458C4A4CC}",
         "Color": "2"
        },
        {
         "Id": "748895195",
         "Name": "None",
-        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\None",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\BassDarabuka\\None",
         "GUID": "{20C33161-1025-4351-9781-66DFF2DF7952}"
        },
        {
         "Id": "1517246961",
         "Name": "Midimite_Darabuka",
-        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\Midimite_Darabuka",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\BassDarabuka\\Midimite_Darabuka",
         "GUID": "{BE00C6F0-8A3E-4D21-90B7-A982473FC9D7}",
         "Color": "10"
        },
        {
         "Id": "2873691804",
         "Name": "NPC_Bass",
-        "ObjectPath": "\\States\\Default Work Unit\\BassDarabuka\\NPC_Bass",
+        "ObjectPath": "\\States\\Default Work Unit\\Instrument State\\BassDarabuka\\NPC_Bass",
         "GUID": "{C1351B67-A8BD-44F3-8455-64DF51DA70D8}",
         "Color": "4"
        }
@@ -1374,6 +925,6 @@
     ]
    }
   ],
-  "FileHash": "{47F88BE8-0ED8-0BCA-EDCC-713CD220DDAF}"
+  "FileHash": "{41C60B60-0911-5215-09DD-B2EB52FE2F19}"
  }
 }

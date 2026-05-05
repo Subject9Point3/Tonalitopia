@@ -1085,7 +1085,6 @@ GameObject:
   - component: {fileID: 935859923}
   - component: {fileID: 935859924}
   - component: {fileID: 935859926}
-  - component: {fileID: 935859925}
   m_Layer: 0
   m_Name: MusicSpatialManager
   m_TagString: Untagged
@@ -1133,19 +1132,6 @@ MonoBehaviour:
   unloadTriggerList: 958ca0ea
   bankNameInternal: 
   valueGuidInternal: 
---- !u!114 &935859925
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 935859921}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6da455019569644dab09a747a0c58ca7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  BitcrushAmount: 100
 --- !u!114 &935859926
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1161,10 +1147,12 @@ MonoBehaviour:
   masterMusicEvent:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: 89aa79ccb0a54434baac0f799314454e, type: 2}
+    WwiseObjectReference: {fileID: 11400000, guid: af494e65286e845ca99b8d0b477a5ce9, type: 2}
   player: {fileID: 1885829783121133044}
-  maxDistance: 250
+  maxDistance: 50
   panSmoothSpeed: 8
+  minSpreadAtMaxDistance: 0.033
+  spreadNarrowingStartDistance: 5
 --- !u!1 &1036487643
 GameObject:
   m_ObjectHideFlags: 0

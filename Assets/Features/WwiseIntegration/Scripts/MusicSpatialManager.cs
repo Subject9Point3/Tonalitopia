@@ -1,27 +1,47 @@
 using System.Collections;
-using UnityEngine;
 using System.Collections.Generic;
+using UnityEngine;
 
 public class MusicSpatialManager : MonoBehaviour
 {
     private Camera cam;
-    
+
     [Header("Wwise Event")]
     public AK.Wwise.Event masterMusicEvent;
 
     [Header("Player Reference")]
     public GameObject player;
 
-    [Header("Settings")]
+    [Header("Distance Settings")]
     public float maxDistance = 50f;
 
     [Header("Pan Smoothing")]
     [Tooltip("Higher = faster response, Lower = smoother. Try 5-15.")]
     public float panSmoothSpeed = 8f;
 
-    private Dictionary<string, GameObject> instrumentNpcs = new Dictionary<string, GameObject>();
+    [Header("Stereo Spread")]
+    [Range(0f, 1f)]
+    [Tooltip("At max distance, stereo spread is reduced to this fraction. 0 = fully mono, 1 = no narrowing")]
+    public float minSpreadAtMaxDistance = 0.2f;
+
+    [Tooltip("Distance at which spread starts narrowing. Below this, full stereo spread.")]
+    public float spreadNarrowingStartDistance = 5f;
+
+    // Track instruments by their current holder
+    private Dictionary<string, InstrumentHolder> trackedInstruments = new Dictionary<string, InstrumentHolder>();
     private Dictionary<string, float> smoothedPanAngles = new Dictionary<string, float>();
     private bool isSetupComplete = false;
+
+    // Singleton for easy access from InstrumentHolder
+    public static MusicSpatialManager Instance { get; private set; }
+
+    void Awake()
+    {
+        if (Instance == null)
+            Instance = this;
+        else
+            Destroy(gameObject);
+    }
 
     void Start()
     {
@@ -33,70 +53,122 @@ public class MusicSpatialManager : MonoBehaviour
     {
         yield return new WaitForSeconds(0.5f);
 
-        // Find all NPCs and map them to instruments
-        var allNpcs = FindObjectsOfType<Npc>();
-        foreach (var npc in allNpcs)
+        // Find all InstrumentHolders that currently have instruments
+        var allHolders = FindObjectsOfType<InstrumentHolder>();
+        foreach (var holder in allHolders)
         {
-            string instrumentName = npc.InstrumentName;
-            if (!string.IsNullOrEmpty(instrumentName))
+            if (holder.HasInstrument)
             {
-                instrumentNpcs[instrumentName] = npc.gameObject;
-                Debug.Log($"Mapped instrument '{instrumentName}' to NPC at {npc.transform.position}");
+                string instrumentName = holder.GetInstrument().Name;
+                trackedInstruments[instrumentName] = holder;
+                Debug.Log($"Tracking '{instrumentName}' held by {holder.GetHolderType()} at {holder.transform.position}");
             }
         }
 
-        Debug.Log($"Total instruments mapped: {instrumentNpcs.Count}");
+        Debug.Log($"Total instruments tracked: {trackedInstruments.Count}");
 
-        // Post the music event on a game object
         masterMusicEvent.Post(gameObject);
         Debug.Log("Music started!");
 
         isSetupComplete = true;
     }
 
+    /// <summary>
+    /// Called by InstrumentHolder when an instrument changes hands
+    /// </summary>
+    public void UpdateInstrumentHolder(string instrumentName, InstrumentHolder newHolder)
+    {
+        if (newHolder != null)
+        {
+            trackedInstruments[instrumentName] = newHolder;
+            Debug.Log($"Instrument '{instrumentName}' now held by {newHolder.GetHolderType()}");
+        }
+    }
+
     void Update()
     {
         if (!isSetupComplete || player == null) return;
 
-        // Update distance and panning RTPCs for each instrument
-        foreach (var kvp in instrumentNpcs)
+        foreach (var kvp in trackedInstruments)
         {
             string instrumentName = kvp.Key;
-            GameObject npcObject = kvp.Value;
+            InstrumentHolder holder = kvp.Value;
+
+            // Safety check
+            if (holder == null) continue;
+
+            // Skip spatialization if player is holding it (attached to listener)
+            if (holder.GetHolderType() == EInstrumentHolderType.Player)
+            {
+                // Set to center/close values when player holds it
+                AkSoundEngine.SetRTPCValue($"{instrumentName}_Distance", 0f);
+                AkSoundEngine.SetRTPCValue($"{instrumentName}_Panning", 0f);
+                continue;
+            }
 
             // Calculate distance
-            float distance = Vector3.Distance(player.transform.position, npcObject.transform.position);
+            float distance = Vector3.Distance(player.transform.position, holder.transform.position);
             distance = Mathf.Min(distance, maxDistance);
 
-            // Calculate panning angle with smoothing (-180 to 180)
-            float panAngle = CalculatePanAngle(npcObject.transform.position, instrumentName);
+            // Calculate panning with spread narrowing
+            float panAngle = CalculatePanAngle(holder.transform.position, instrumentName, distance);
 
-            // Get RTPC names
-            string distanceRtpc = GetDistanceRTPCName(instrumentName);
-            string panRtpc = GetPanningRTPCName(instrumentName);
-
-            // Set the RTPC values
-            if (!string.IsNullOrEmpty(distanceRtpc))
-                AkSoundEngine.SetRTPCValue(distanceRtpc, distance);
-
-            if (!string.IsNullOrEmpty(panRtpc))
-                AkSoundEngine.SetRTPCValue(panRtpc, panAngle);
+            // Set RTPCs (matching your Wwise naming: CelesteHighKit_Distance, CelesteHighKit_Panning)
+            AkSoundEngine.SetRTPCValue($"{instrumentName}_Distance", distance);
+            AkSoundEngine.SetRTPCValue($"{instrumentName}_Panning", panAngle);
         }
     }
 
-    float CalculatePanAngle(Vector3 npcPosition, string instrumentName)
+    float CalculatePanAngle(Vector3 targetPosition, string instrumentName, float distance)
     {
-        // Get direction from camera to NPC
-        Vector3 directionToNpc = npcPosition - cam.transform.position;
-        directionToNpc.y = 0;
+        // Get direction from camera to target
+        Vector3 directionToTarget = targetPosition - cam.transform.position;
+        directionToTarget.y = 0;
 
-        if (directionToNpc.sqrMagnitude < 0.001f)
-            return 0f;
+        if (directionToTarget.sqrMagnitude < 0.001f)
+            return smoothedPanAngles.ContainsKey(instrumentName) ? smoothedPanAngles[instrumentName] : 0f;
 
-        // Get target angle (-180 to 180)
-        float targetAngle = Vector3.SignedAngle(cam.transform.forward, directionToNpc, Vector3.up);
+        // Get raw angle (-180 to 180)
+        float rawAngle = Vector3.SignedAngle(cam.transform.forward, directionToTarget, Vector3.up);
 
-        // Initialize if first time
+        // === Distance-based stereo spread narrowing ===
+        float spreadMultiplier;
+
+        if (distance <= spreadNarrowingStartDistance)
+        {
+            // Within close range: full stereo spread
+            spreadMultiplier = 1f;
+        }
+        else
+        {
+            // Beyond threshold: gradually narrow
+            float effectiveDistance = distance - spreadNarrowingStartDistance;
+            float effectiveMaxDistance = maxDistance - spreadNarrowingStartDistance;
+
+            if (effectiveMaxDistance <= 0f)
+            {
+                spreadMultiplier = minSpreadAtMaxDistance;
+            }
+            else
+            {
+                float t = Mathf.Clamp01(effectiveDistance / effectiveMaxDistance);
+                spreadMultiplier = Mathf.Lerp(1f, minSpreadAtMaxDistance, t);
+            }
+        }
+
+        // Apply spread narrowing using trigonometric decomposition
+        // This preserves front/back position while narrowing left/right spread
+        float angleRad = rawAngle * Mathf.Deg2Rad;
+        float frontBackComponent = Mathf.Cos(angleRad);
+        float leftRightComponent = Mathf.Sin(angleRad);
+
+        // Only narrow the left/right spread
+        leftRightComponent *= spreadMultiplier;
+
+        // Reconstruct the angle
+        float targetAngle = Mathf.Atan2(leftRightComponent, frontBackComponent) * Mathf.Rad2Deg;
+
+        // === Smoothing ===
         if (!smoothedPanAngles.ContainsKey(instrumentName))
         {
             smoothedPanAngles[instrumentName] = targetAngle;
@@ -104,97 +176,15 @@ public class MusicSpatialManager : MonoBehaviour
         }
 
         float currentAngle = smoothedPanAngles[instrumentName];
-
-        // Use Mathf.DeltaAngle to handle wrap-around correctly!
-        // This gives the shortest path between angles (handles -180/180 crossing)
         float angleDiff = Mathf.DeltaAngle(currentAngle, targetAngle);
-
-        // Smoothly move toward target
         float smoothedAngle = currentAngle + angleDiff * Time.deltaTime * panSmoothSpeed;
 
-        // Normalize back to -180 to 180
+        // Normalize to -180 to 180
         if (smoothedAngle > 180f) smoothedAngle -= 360f;
         if (smoothedAngle < -180f) smoothedAngle += 360f;
 
-        // Store for next frame
         smoothedPanAngles[instrumentName] = smoothedAngle;
 
         return smoothedAngle;
-    }
-
-    string GetDistanceRTPCName(string instrumentName)
-    {
-        switch (instrumentName)
-        {
-            // NPC instruments (orchestral)
-            case "Piano": return "NPC_Distance_Piano";
-            case "Flute": return "NPC_Distance_Flute";
-            case "Violin": return "NPC_Distance_Violin";
-            case "Viola": return "NPC_Distance_Viola";
-            case "Cello": return "NPC_Distance_Cello";
-            case "Bass": return "NPC_Distance_Bass";
-            case "Oboe": return "NPC_Distance_Oboe";
-            case "Clarinet": return "NPC_Distance_Clarinet";
-            case "Bassoon": return "NPC_Distance_Bassoon";
-            case "Celeste": return "NPC_Distance_Celeste";
-            case "Vibraphone": return "NPC_Distance_Vibraphone";
-            case "Marimba": return "NPC_Distance_Marimba";
-
-            // Midimite instruments (percussion)
-            case "Anvil": return "Midimite_Distance_Anvil";
-            case "Bamboo": return "Midimite_Distance_Bamboo";
-            case "Conga": return "Midimite_Distance_Conga";
-            case "Cymbal": return "Midimite_Distance_Cymbal";
-            case "Darabuka": return "Midimite_Distance_Darabuka";
-            case "HighCowbell": return "Midimite_Distance_HighCowbell";
-            case "HighKit": return "Midimite_Distance_HighKit";
-            case "KickSnare": return "Midimite_Distance_KickSnare";
-            case "LowCowbell": return "Midimite_Distance_LowCowbell";
-            case "LowKit": return "Midimite_Distance_LowKit";
-            case "Tabla": return "Midimite_Distance_Tabla";
-            case "Udu": return "Midimite_Distance_Udu";
-
-            default:
-                Debug.LogWarning($"No Distance RTPC mapping for instrument: {instrumentName}");
-                return "";
-        }
-    }
-
-    string GetPanningRTPCName(string instrumentName)
-    {
-        switch (instrumentName)
-        {
-            // NPC instruments (orchestral)
-            case "Piano": return "NPC_Panning_Piano";
-            case "Flute": return "NPC_Panning_Flute";
-            case "Violin": return "NPC_Panning_Violin";
-            case "Viola": return "NPC_Panning_Viola";
-            case "Cello": return "NPC_Panning_Cello";
-            case "Bass": return "NPC_Panning_Bass";
-            case "Oboe": return "NPC_Panning_Oboe";
-            case "Clarinet": return "NPC_Panning_Clarinet";
-            case "Bassoon": return "NPC_Panning_Bassoon";
-            case "Celeste": return "NPC_Panning_Celeste";
-            case "Vibraphone": return "NPC_Panning_Vibraphone";
-            case "Marimba": return "NPC_Panning_Marimba";
-
-            // Midimite instruments (percussion)
-            case "Anvil": return "Midimite_Panning_Anvil";
-            case "Bamboo": return "Midimite_Panning_Bamboo";
-            case "Conga": return "Midimite_Panning_Conga";
-            case "Cymbal": return "Midimite_Panning_Cymbal";
-            case "Darabuka": return "Midimite_Panning_Darabuka";
-            case "HighCowbell": return "Midimite_Panning_HighCowbell";
-            case "HighKit": return "Midimite_Panning_HighKit";
-            case "KickSnare": return "Midimite_Panning_KickSnare";
-            case "LowCowbell": return "Midimite_Panning_LowCowbell";
-            case "LowKit": return "Midimite_Panning_LowKit";
-            case "Tabla": return "Midimite_Panning_Tabla";
-            case "Udu": return "Midimite_Panning_Udu";
-
-            default:
-                Debug.LogWarning($"No Panning RTPC mapping for instrument: {instrumentName}");
-                return "";
-        }
     }
 }

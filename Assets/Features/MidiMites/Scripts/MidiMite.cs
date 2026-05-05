@@ -7,6 +7,12 @@ using Random = UnityEngine.Random;
 public class MidiMite : MonoBehaviour, IMidiMite
 {
 
+    // NEW: Instrument name for music spatialization
+    [SerializeField] private string instrumentName;
+    public string InstrumentName => instrumentName;
+    public void SetInstrumentName(string name) => instrumentName = name;
+    // END NEW
+
     [SerializeField] private ENpcState state = ENpcState.Idle;
     [SerializeField] private NavMeshAgent agent;
     private bool wasAtDestination;

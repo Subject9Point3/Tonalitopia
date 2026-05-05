@@ -1,16 +1,16 @@
 State Group	ID	Name			Wwise Object Path	Notes
-	73183939	ClarinetLowCowbell			\Default Work Unit\ClarinetLowCowbell	
-	474846413	FluteHighCowbell			\Default Work Unit\FluteHighCowbell	
-	1301975716	ViolaTabla			\Default Work Unit\ViolaTabla	
-	1413498124	BassoonUdu			\Default Work Unit\BassoonUdu	
-	1705315364	OboeAnvil			\Default Work Unit\OboeAnvil	
-	2303000183	VibraphoneCymbal			\Default Work Unit\VibraphoneCymbal	
-	2357403405	PianoKickSnare			\Default Work Unit\PianoKickSnare	
-	2608626964	CelloConga			\Default Work Unit\CelloConga	
-	2694696584	MarimbaLowKit			\Default Work Unit\MarimbaLowKit	
-	3464414902	ViolinBamboo			\Default Work Unit\ViolinBamboo	
-	3482004262	CelesteHighKit			\Default Work Unit\CelesteHighKit	
-	4165357381	BassDarabuka			\Default Work Unit\BassDarabuka	
+	73183939	ClarinetLowCowbell			\Default Work Unit\Instrument State\ClarinetLowCowbell	
+	474846413	FluteHighCowbell			\Default Work Unit\Instrument State\FluteHighCowbell	
+	1301975716	ViolaTabla			\Default Work Unit\Instrument State\ViolaTabla	
+	1413498124	BassoonUdu			\Default Work Unit\Instrument State\BassoonUdu	
+	1705315364	OboeAnvil			\Default Work Unit\Instrument State\OboeAnvil	
+	2303000183	VibraphoneCymbal			\Default Work Unit\Instrument State\VibraphoneCymbal	
+	2357403405	PianoKickSnare			\Default Work Unit\Instrument State\PianoKickSnare	
+	2608626964	CelloConga			\Default Work Unit\Instrument State\CelloConga	
+	2694696584	MarimbaLowKit			\Default Work Unit\Instrument State\MarimbaLowKit	
+	3464414902	ViolinBamboo			\Default Work Unit\Instrument State\ViolinBamboo	
+	3482004262	CelesteHighKit			\Default Work Unit\Instrument State\CelesteHighKit	
+	4165357381	BassDarabuka			\Default Work Unit\Instrument State\BassDarabuka	
 
 State	ID	Name	State Group			Notes
 	748895195	None	ClarinetLowCowbell			
@@ -63,86 +63,60 @@ State	ID	Name	State Group			Notes
 	2873691804	NPC_Bass	BassDarabuka			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
-	212586450	NPC_Panning_Bass			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Bass	
-	325574282	Midimite_Panning_HighKit			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_HighKit	
-	454719951	NPC_Panning_Flute			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Flute	
-	490656470	NPC_Panning_Piano			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Piano	
-	576587594	Midimite_Panning_Bamboo			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Bamboo	
-	761916086	NPC_Panning_Cello			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Cello	
-	1179797174	Midimite_Panning_Udu			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Udu	
-	1504964084	NPC_Panning_Marimba			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Marimba	
-	1675879548	NPC_Panning_Celeste			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Celeste	
-	1696939484	Midimite_Panning_Cymbal			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Cymbal	
-	1730523988	NPC_Panning_Violin			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Violin	
-	1839766923	NPC_Panning_Vibraphone			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Vibraphone	
-	1873237942	Midimite_Panning_Tabla			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Tabla	
-	1893100756	Midimite_Panning_HighCowbell			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_HighCowbell	
-	1920498140	Midimite_Panning_Anvil			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Anvil	
-	2261158922	Midimite_Panning_LowCowbell			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_LowCowbell	
-	2721143815	Midimite_Panning_Darabuka			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Darabuka	
-	2965826582	NPC_Panning_Viola			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Viola	
-	3074845842	NPC_Panning_Bassoon			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Bassoon	
-	3163123476	Midimite_Panning_LowKit			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_LowKit	
-	3341885200	NPC_Panning_Oboe			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Oboe	
-	3379599085	NPC_Panning_Clarinet			\Default Work Unit\Instrument_Panning\NPC_Panning\NPC_Panning_Clarinet	
-	3535064650	Midimite_Panning_Conga			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_Conga	
-	4034540667	Midimite_Panning_KickSnare			\Default Work Unit\Instrument_Panning\Midimite_Panning\Midimite_Panning_KickSnare	
-	4237034167	BitcrushAmount			\Default Work Unit\BitcrushAmount	
+	229401162	BassoonUdu_Distance			\Default Work Unit\Instrument Distance\BassoonUdu_Distance	
+	249282734	MarimbaLowKit_Panning			\Default Work Unit\Instrument Panning\MarimbaLowKit_Panning	
+	330190162	OboeAnvil_Panning			\Default Work Unit\Instrument Panning\OboeAnvil_Panning	
+	428782977	PianoKickSnare_Distance			\Default Work Unit\Instrument Distance\PianoKickSnare_Distance	
+	863036641	ClarinetLowCowbell_Panning			\Default Work Unit\Instrument Panning\ClarinetLowCowbell_Panning	
+	1249587394	CelloConga_Panning			\Default Work Unit\Instrument Panning\CelloConga_Panning	
+	1384007107	ClarinetLowCowbell_Distance			\Default Work Unit\Instrument Distance\ClarinetLowCowbell_Distance	
+	1504250713	BassDarabuka_Distance			\Default Work Unit\Instrument Distance\BassDarabuka_Distance	
+	1539938881	FluteHighCowbell_Distance			\Default Work Unit\Instrument Distance\FluteHighCowbell_Distance	
+	1580972647	VibraphoneCymbal_Distance			\Default Work Unit\Instrument Distance\VibraphoneCymbal_Distance	
+	2011618336	ViolinBamboo_Panning			\Default Work Unit\Instrument Panning\ViolinBamboo_Panning	
+	2262976736	ViolinBamboo_Distance			\Default Work Unit\Instrument Distance\ViolinBamboo_Distance	
+	2355946919	PianoKickSnare_Panning			\Default Work Unit\Instrument Panning\PianoKickSnare_Panning	
+	2378048466	ViolaTabla_Panning			\Default Work Unit\Instrument Panning\ViolaTabla_Panning	
+	2458106498	ViolaTabla_Distance			\Default Work Unit\Instrument Distance\ViolaTabla_Distance	
+	2562564850	CelloConga_Distance			\Default Work Unit\Instrument Distance\CelloConga_Distance	
+	2726979152	CelesteHighKit_Distance			\Default Work Unit\Instrument Distance\CelesteHighKit_Distance	
+	3046386237	VibraphoneCymbal_Panning			\Default Work Unit\Instrument Panning\VibraphoneCymbal_Panning	
+	3095843175	FluteHighCowbell_Panning			\Default Work Unit\Instrument Panning\FluteHighCowbell_Panning	
+	3435138512	CelesteHighKit_Panning			\Default Work Unit\Instrument Panning\CelesteHighKit_Panning	
+	3677775190	MarimbaLowKit_Distance			\Default Work Unit\Instrument Distance\MarimbaLowKit_Distance	
+	3952414466	OboeAnvil_Distance			\Default Work Unit\Instrument Distance\OboeAnvil_Distance	
+	4121630319	BassDarabuka_Panning			\Default Work Unit\Instrument Panning\BassDarabuka_Panning	
+	4135332298	BassoonUdu_Panning			\Default Work Unit\Instrument Panning\BassoonUdu_Panning	
 
 Audio Bus	ID	Name			Wwise Object Path	Notes
-	286980346	11_Cello_Bus			\Default Work Unit\Main Audio Bus\11_Cello_Bus	
-	340962702	4_Piano_Bus			\Default Work Unit\Main Audio Bus\4_Piano_Bus	
-	352808577	1_Celeste_Bus			\Default Work Unit\Main Audio Bus\1_Celeste_Bus	
-	379072645	17_HighCowbell_Bus			\Default Work Unit\Main Audio Bus\17_HighCowbell_Bus	
-	597408597	12_Bass_Bus			\Default Work Unit\Main Audio Bus\12_Bass_Bus	
-	696295018	5_Flute_Bus			\Default Work Unit\Main Audio Bus\5_Flute_Bus	
-	773301083	15_LowKit_Bus			\Default Work Unit\Main Audio Bus\15_LowKit_Bus	
-	1089313318	23_Conga_Bus			\Default Work Unit\Main Audio Bus\23_Conga_Bus	
-	1510118747	10_Viola_Bus			\Default Work Unit\Main Audio Bus\10_Viola_Bus	
-	1626669593	9_Violin_Bus			\Default Work Unit\Main Audio Bus\9_Violin_Bus	
-	1837151996	14_Cymbal_Bus			\Default Work Unit\Main Audio Bus\14_Cymbal_Bus	
-	1919791919	16_KickSnare_Bus			\Default Work Unit\Main Audio Bus\16_KickSnare_Bus	
+	573721998	7_ClarinetLowCowbell_Bus			\Default Work Unit\Main Audio Bus\7_ClarinetLowCowbell_Bus	
+	1271452851	10_ViolaTabla_Bus			\Default Work Unit\Main Audio Bus\10_ViolaTabla_Bus	
+	1297051208	11_CelloConga_Bus			\Default Work Unit\Main Audio Bus\11_CelloConga_Bus	
+	1710966925	3_MarimbaLowKit_Bus			\Default Work Unit\Main Audio Bus\3_MarimbaLowKit_Bus	
+	2144477256	6_OboeAnvil_Bus			\Default Work Unit\Main Audio Bus\6_OboeAnvil_Bus	
 	2246998526	Main Audio Bus			\Default Work Unit\Main Audio Bus	
-	2254362702	7_Clarinet_Bus			\Default Work Unit\Main Audio Bus\7_Clarinet_Bus	
-	2422729062	21_Bamboo_Bus			\Default Work Unit\Main Audio Bus\21_Bamboo_Bus	
-	2616391121	19_LowCowbell_Bus			\Default Work Unit\Main Audio Bus\19_LowCowbell_Bus	
-	2846183311	3_Marimba_Bus			\Default Work Unit\Main Audio Bus\3_Marimba_Bus	
-	3022163943	13_HighKit_Bus			\Default Work Unit\Main Audio Bus\13_HighKit_Bus	
-	3456549632	24_Darabuka_Bus			\Default Work Unit\Main Audio Bus\24_Darabuka_Bus	
-	3468401410	8_Bassoon_Bus			\Default Work Unit\Main Audio Bus\8_Bassoon_Bus	
-	3721509603	22_Tabla_Bus			\Default Work Unit\Main Audio Bus\22_Tabla_Bus	
-	3734045458	18_Anvil_Bus			\Default Work Unit\Main Audio Bus\18_Anvil_Bus	
-	3946816007	2_Vibraphone_Bus			\Default Work Unit\Main Audio Bus\2_Vibraphone_Bus	
-	4091838673	20_Udu_Bus			\Default Work Unit\Main Audio Bus\20_Udu_Bus	
-	4190585176	6_Oboe_Bus			\Default Work Unit\Main Audio Bus\6_Oboe_Bus	
+	2316247660	8_BassoonUdu_Bus			\Default Work Unit\Main Audio Bus\8_BassoonUdu_Bus	
+	2323279752	12_BassDarabuka_Bus			\Default Work Unit\Main Audio Bus\12_BassDarabuka_Bus	
+	2420999782	5_FluteHighCowbell_Bus			\Default Work Unit\Main Audio Bus\5_FluteHighCowbell_Bus	
+	2475524269	4_PianoKickSnare_Bus			\Default Work Unit\Main Audio Bus\4_PianoKickSnare_Bus	
+	3107498413	1_CelesteHighKit_Bus			\Default Work Unit\Main Audio Bus\1_CelesteHighKit_Bus	
+	3410587621	9_ViolinBamboo_Bus			\Default Work Unit\Main Audio Bus\9_ViolinBamboo_Bus	
+	3873177769	2_VibraphoneCymbal_Bus			\Default Work Unit\Main Audio Bus\2_VibraphoneCymbal_Bus	
 
 Effect plug-ins	ID	Name	Type				Notes
 	25870510	AkPanner (Custom)	AkPanner			
-	84043093	AkPanner (Custom)	AkPanner			
 	92450607	AkPanner (Custom)	AkPanner			
 	119683697	AkPanner (Custom)	AkPanner			
-	156269138	AkPanner (Custom)	AkPanner			
-	159009130	AkPanner (Custom)	AkPanner			
-	228646736	AkPanner (Custom)	AkPanner			
 	260530254	AkPanner (Custom)	AkPanner			
 	304821432	AkPanner (Custom)	AkPanner			
 	307596371	AkPanner (Custom)	AkPanner			
-	319254333	AkPanner (Custom)	AkPanner			
-	332429510	AkPanner (Custom)	AkPanner			
 	505060943	Limiter	Wwise Compressor			
-	609494422	AkPanner (Custom)	AkPanner			
 	621305949	AkPanner (Custom)	AkPanner			
-	658178683	AkPanner (Custom)	AkPanner			
 	663811596	AkPanner (Custom)	AkPanner			
-	819036592	AkPanner (Custom)	AkPanner			
 	821505040	AkPanner (Custom)	AkPanner			
+	891849460	AkPanner (Custom)	AkPanner			
 	934122047	AkPanner (Custom)	AkPanner			
-	974744559	AkPanner (Custom)	AkPanner			
-	1000448658	AkPanner (Custom)	AkPanner			
-	1027655012	AkPanner (Custom)	AkPanner			
 	1035156516	AkPanner (Custom)	AkPanner			
-	1054657199	AkPanner (Custom)	AkPanner			
-	3825041543	New_AkBitcrusher	AkBitcrusher			
 
 Audio Devices	ID	Name	Type				Notes
 	2317455096	No_Output	No Output			
