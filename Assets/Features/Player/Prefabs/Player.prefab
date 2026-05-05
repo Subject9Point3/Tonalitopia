@@ -408,7 +408,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3b39ee1fce94de6ac713146a482ec1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InstrumentHolder
+  holderType: 0
   instrument: {fileID: 0}
+  requiredInstrument: {fileID: 0}
   canBeGivenTo: 1
   OnInstrumentSet:
     m_PersistentCalls:
@@ -471,7 +473,7 @@ MonoBehaviour:
   interactRadius: 1.5
   interactableLayers:
     serializedVersion: 2
-    m_Bits: 128
+    m_Bits: 896
   interactPressed: 0
   interactAction: {fileID: 1781555164194001046, guid: 052faaac586de48259a63d0c4782560b, type: 3}
 --- !u!1 &6366783231494929631
