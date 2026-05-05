@@ -23,13 +23,14 @@ public class Spawner : Singleton<Spawner>
             var randomPosition = NavMeshUtils.GetRandomNavMeshPosition(triangulation);
             GameObject npcObject = Instantiate(npcPrefab, randomPosition, Quaternion.identity);
 
-            // Set instrument name for RTPC tracking
             if (npcObject.TryGetComponent<Npc>(out var npc))
             {
                 npc.SetInstrumentName(instruments[i].Name);
+
+                // Register for color indicator
+                InstrumentPairIndicator.Instance?.RegisterNpc(instruments[i].Name, npc);
             }
 
-            // NPCs start empty but know which instrument they need
             if (npcObject.TryGetComponent<InstrumentHolder>(out var holder))
             {
                 holder.SetRequiredInstrument(instruments[i]);
@@ -46,14 +47,14 @@ public class Spawner : Singleton<Spawner>
             var randomPosition = NavMeshUtils.GetRandomNavMeshPosition(triangulation);
             GameObject miteObject = Instantiate(midiMitePrefab, randomPosition, Quaternion.identity);
 
-            // Set instrument name for RTPC tracking
             if (miteObject.TryGetComponent<MidiMite>(out var mite))
             {
                 mite.SetInstrumentName(instruments[i].Name);
+
+                // Register for color indicator
+                InstrumentPairIndicator.Instance?.RegisterMidiMite(instruments[i].Name, mite);
             }
 
-            // Tell Unity this MidiMite has this instrument (for tracking)
-            // Your Wwise start event handles the actual playback
             if (miteObject.TryGetComponent<InstrumentHolder>(out var holder))
             {
                 holder.InitializeWithInstrument(instruments[i]);

@@ -24,18 +24,11 @@ public class InstrumentHolder : MonoBehaviour
     public InstrumentObjectSO GetInstrument() => instrument;
     public InstrumentObjectSO GetRequiredInstrument() => requiredInstrument;
 
-    /// <summary>
-    /// Used by Spawner to assign an instrument at spawn time.
-    /// Start() will then call SetInstrument() to trigger the Wwise event.
-    /// </summary>
     public void InitializeWithInstrument(InstrumentObjectSO startingInstrument)
     {
         instrument = startingInstrument;
     }
 
-    /// <summary>
-    /// Used by Spawner to set which instrument this NPC needs
-    /// </summary>
     public void SetRequiredInstrument(InstrumentObjectSO required)
     {
         requiredInstrument = required;
@@ -47,17 +40,25 @@ public class InstrumentHolder : MonoBehaviour
 
         if (newInstrument == null) return;
 
-        // Notify the spatial manager that this instrument changed hands
         MusicSpatialManager.Instance?.UpdateInstrumentHolder(newInstrument.Name, this);
+
+        if (holderType == EInstrumentHolderType.Player)
+        {
+            InstrumentPairIndicator.Instance?.OnPlayerPickedUpInstrument(newInstrument.Name);
+        }
 
         OnInstrumentSet.Invoke(newInstrument);
         PlayInstrument();
     }
 
-    private void ClearInstrument()
+    private void ClearInstrument(bool fireDroppedEvent = true)
     {
-        // Fire the dropped/none event BEFORE clearing the reference
-        if (instrument != null)
+        if (holderType == EInstrumentHolderType.Player && instrument != null)
+        {
+            InstrumentPairIndicator.Instance?.OnPlayerReleasedInstrument();
+        }
+
+        if (fireDroppedEvent && instrument != null)
         {
             instrument.Play(EInstrumentHolderType.Dropped, gameObject);
         }
@@ -66,14 +67,16 @@ public class InstrumentHolder : MonoBehaviour
         OnInstrumentCleared.Invoke();
     }
 
+    // ONE GiveInstrument method - merged logic with no dropped event on transfer
     public void GiveInstrument(InstrumentHolder instrumentHolder)
     {
+        if (instrument == null) return;
         if (instrumentHolder.GetInstrument() != null) return;
         if (!instrumentHolder.CanBeGivenTo) return;
         if (instrumentHolder.GetRequiredInstrument() != null && instrumentHolder.GetRequiredInstrument() != instrument) return;
 
         instrumentHolder.SetInstrument(instrument);
-        ClearInstrument();
+        ClearInstrument(false);  // Don't fire dropped event - instrument was transferred
     }
 
     public void TakeInstrument(InstrumentHolder instrumentHolder)
@@ -94,6 +97,7 @@ public class InstrumentHolder : MonoBehaviour
 
     private void PlayInstrument()
     {
+        Debug.Log($"PlayInstrument called - HolderType: {holderType}, Instrument: {instrument?.Name}");
         instrument?.Play(holderType, gameObject);
     }
 }
