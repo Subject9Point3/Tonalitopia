@@ -30,4 +30,4 @@ MonoBehaviour:
   droppedEvent:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 0}
+    WwiseObjectReference: {fileID: 11400000, guid: add3e988709034d21aee9aab7b4cc8c5, type: 2}

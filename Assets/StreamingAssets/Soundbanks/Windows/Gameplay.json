@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{D8D3F7AC-8ECC-47DC-BC7E-E64C75702A11}",
     "Language": "SFX",
-    "Hash": "{8EAE1D77-2434-EB8A-8749-BABDA8792E2B}",
+    "Hash": "{8057C846-DA6A-84DD-9FBE-41D809E3519C}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Gameplay",
     "ShortName": "Gameplay",
     "Path": "Gameplay.bnk",
@@ -10240,6 +10240,6 @@
     ]
    }
   ],
-  "FileHash": "{A350700C-3BD5-B27B-59E0-792466487B85}"
+  "FileHash": "{3E75DE95-4AAF-2A4D-20CA-5C2ABCDC9BFB}"
  }
 }

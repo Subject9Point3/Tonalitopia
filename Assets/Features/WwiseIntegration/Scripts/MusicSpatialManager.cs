@@ -87,6 +87,60 @@ public class MusicSpatialManager : MonoBehaviour
 
     void Update()
     {
+        // === TEST CONTROLS ===
+        if (UnityEngine.InputSystem.Keyboard.current.mKey.wasPressedThisFrame)
+        {
+            Debug.Log("TEST: Setting all instruments to MIDIMITE state");
+            foreach (var kvp in trackedInstruments)
+            {
+                var instrument = kvp.Value.GetInstrument();
+                if (instrument != null)
+                {
+                    instrument.Play(EInstrumentHolderType.Mite, kvp.Value.gameObject);
+                }
+            }
+        }
+
+        if (UnityEngine.InputSystem.Keyboard.current.nKey.wasPressedThisFrame)
+        {
+            Debug.Log("TEST: Setting all instruments to NPC state");
+            foreach (var kvp in trackedInstruments)
+            {
+                var instrument = kvp.Value.GetInstrument();
+                if (instrument != null)
+                {
+                    instrument.Play(EInstrumentHolderType.Npc, kvp.Value.gameObject);
+                }
+            }
+        }
+
+        if (UnityEngine.InputSystem.Keyboard.current.pKey.wasPressedThisFrame)
+        {
+            Debug.Log("TEST: Setting all instruments to PLAYER state");
+            foreach (var kvp in trackedInstruments)
+            {
+                var instrument = kvp.Value.GetInstrument();
+                if (instrument != null)
+                {
+                    instrument.Play(EInstrumentHolderType.Player, kvp.Value.gameObject);
+                }
+            }
+        }
+
+        if (UnityEngine.InputSystem.Keyboard.current.oKey.wasPressedThisFrame)
+        {
+            Debug.Log("TEST: Setting all instruments to NONE/OFF state");
+            foreach (var kvp in trackedInstruments)
+            {
+                var instrument = kvp.Value.GetInstrument();
+                if (instrument != null)
+                {
+                    instrument.Play(EInstrumentHolderType.Dropped, kvp.Value.gameObject);
+                }
+            }
+        }
+        // === END TEST CONTROLS ===
+
         if (!isSetupComplete || player == null) return;
 
         foreach (var kvp in trackedInstruments)
