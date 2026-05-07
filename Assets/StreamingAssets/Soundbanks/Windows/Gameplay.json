@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{D8D3F7AC-8ECC-47DC-BC7E-E64C75702A11}",
     "Language": "SFX",
-    "Hash": "{AA229F73-632B-ABF4-04BA-0FF47764F818}",
+    "Hash": "{955C6147-5EDE-057A-9E05-135FA91D1058}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Gameplay",
     "ShortName": "Gameplay",
     "Path": "Gameplay.bnk",
@@ -190,6 +190,14 @@
       "Location": "Memory",
       "ShortName": "LowCowbell Pattern 2.mid",
       "CachePath": "72/{724892EC-1127-48BC-0B8E-FA8BDA340EA2}.wem"
+     },
+     {
+      "Id": "60205197",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Darabuka Pattern 5.mid",
+      "CachePath": "81/{8143BB95-CCC9-EB42-E2F4-FB3C51991E11}.wem"
      },
      {
       "Id": "60482078",
@@ -590,6 +598,14 @@
       "Location": "Memory",
       "ShortName": "Vibraphone Pattern 1 Variation 4.mid",
       "CachePath": "89/{89CD18A7-AFB0-66DA-0370-DBE3802A7279}.wem"
+     },
+     {
+      "Id": "165861013",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "KickSnare Pattern 5.mid",
+      "CachePath": "07/{0773DDEC-6125-4DB6-A443-0774A4E7B053}.wem"
      },
      {
       "Id": "166547667",
@@ -1208,6 +1224,14 @@
       "CachePath": "D6/{D6AD8FAE-C1D7-98F4-1C2A-F4732178234A}.wem"
      },
      {
+      "Id": "340461862",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "LowKit Pattern 5.mid",
+      "CachePath": "53/{538C51A1-3872-7FC7-5392-57B17845A3C6}.wem"
+     },
+     {
       "Id": "350926906",
       "Language": "SFX",
       "Streaming": "false",
@@ -1286,6 +1310,14 @@
       "Location": "Memory",
       "ShortName": "Celeste Pattern 1 Variation 2.mid",
       "CachePath": "0D/{0D8AA7AC-61DF-0A8D-7B13-0CB209E01E75}.wem"
+     },
+     {
+      "Id": "390323972",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "HighCowbell Pattern 5.mid",
+      "CachePath": "15/{15CF0DF6-1E2D-C513-BBDC-8F76FA486EC1}.wem"
      },
      {
       "Id": "391242189",
@@ -1448,6 +1480,14 @@
       "CachePath": "25/{25DA0043-9A90-5174-14DB-52FE5A2A4D79}.wem"
      },
      {
+      "Id": "443985518",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "LowCowbell Pattern 5.mid",
+      "CachePath": "B5/{B57BB788-C37A-6881-AAA5-7CC9D70303DD}.wem"
+     },
+     {
       "Id": "445177836",
       "Language": "SFX",
       "Streaming": "false",
@@ -1518,6 +1558,14 @@
       "Location": "Memory",
       "ShortName": "Bass F#1.wav",
       "CachePath": "A4/{A4D42995-2239-98BB-441E-58CD3DE968BF}.wem"
+     },
+     {
+      "Id": "460009086",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cymbal Pattern 5.mid",
+      "CachePath": "45/{4592FCB8-49FB-593A-34C9-A52F90677999}.wem"
      },
      {
       "Id": "462007144",
@@ -1912,6 +1960,14 @@
       "CachePath": "8C/{8C891186-96A1-DE53-3AA4-2BB7BE69FE38}.wem"
      },
      {
+      "Id": "562113365",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Conga Pattern 5.mid",
+      "CachePath": "06/{06DA4877-6525-16CA-7303-C04CF2DBB843}.wem"
+     },
+     {
       "Id": "563860182",
       "Language": "SFX",
       "Streaming": "false",
@@ -2182,6 +2238,14 @@
       "Location": "Memory",
       "ShortName": "Marimba Pattern 4.mid",
       "CachePath": "5E/{5EFA7D08-51DF-BA1D-F0EA-4A602895EA66}.wem"
+     },
+     {
+      "Id": "645881523",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bamboo Pattern 5.mid",
+      "CachePath": "2E/{2EEFBFE8-E2AE-1FDA-9F09-C88DFC5D3E4D}.wem"
      },
      {
       "Id": "649486686",
@@ -2496,6 +2560,14 @@
       "CachePath": "45/{45C0F9CD-6599-DD41-A38C-F3AC4FCCC6F6}.wem"
      },
      {
+      "Id": "767558091",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Udu Pattern 5.mid",
+      "CachePath": "F4/{F436FA40-0316-4FBA-5596-FB8163777D86}.wem"
+     },
+     {
       "Id": "769275126",
       "Language": "SFX",
       "Streaming": "false",
@@ -2534,6 +2606,14 @@
       "Location": "Memory",
       "ShortName": "Kick Snare Pattern 1 Variation 2.mid",
       "CachePath": "2F/{2F08B330-3974-3721-50B1-9668D77C7BD0}.wem"
+     },
+     {
+      "Id": "777241987",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "HighKit Pattern 5.mid",
+      "CachePath": "3F/{3FE91826-8192-D91F-0FF0-481BE67522A8}.wem"
      },
      {
       "Id": "779460630",
@@ -2678,6 +2758,14 @@
       "Location": "Memory",
       "ShortName": "Piano Pattern 1 Variation 5.mid",
       "CachePath": "92/{92E51A6D-63EF-709D-4859-81B80B9D00EE}.wem"
+     },
+     {
+      "Id": "826948862",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tabla Pattern 5.mid",
+      "CachePath": "23/{23959559-81EE-41F2-54C6-BE6EB478E3A1}.wem"
      },
      {
       "Id": "827633306",
@@ -2998,6 +3086,14 @@
       "Location": "Memory",
       "ShortName": "Cymbals Pattern 1 Variation 1.mid",
       "CachePath": "90/{908418A8-0125-457C-2D63-C3FD88C62979}.wem"
+     },
+     {
+      "Id": "911297522",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Anvil Pattern 5.mid",
+      "CachePath": "52/{52B0CA58-9401-A874-CB39-8E55B81C1386}.wem"
      },
      {
       "Id": "915063569",
@@ -5329,6 +5425,9 @@
         "Id": "56464040"
        },
        {
+        "Id": "60205197"
+       },
+       {
         "Id": "60482078"
        },
        {
@@ -5477,6 +5576,9 @@
        },
        {
         "Id": "165124588"
+       },
+       {
+        "Id": "165861013"
        },
        {
         "Id": "166547667"
@@ -5710,6 +5812,9 @@
         "Id": "336272938"
        },
        {
+        "Id": "340461862"
+       },
+       {
         "Id": "350926906"
        },
        {
@@ -5738,6 +5843,9 @@
        },
        {
         "Id": "381950430"
+       },
+       {
+        "Id": "390323972"
        },
        {
         "Id": "391242189"
@@ -5800,6 +5908,9 @@
         "Id": "442298474"
        },
        {
+        "Id": "443985518"
+       },
+       {
         "Id": "445177836"
        },
        {
@@ -5825,6 +5936,9 @@
        },
        {
         "Id": "459535189"
+       },
+       {
+        "Id": "460009086"
        },
        {
         "Id": "462007144"
@@ -5974,6 +6088,9 @@
         "Id": "559246894"
        },
        {
+        "Id": "562113365"
+       },
+       {
         "Id": "563860182"
        },
        {
@@ -6074,6 +6191,9 @@
        },
        {
         "Id": "640296351"
+       },
+       {
+        "Id": "645881523"
        },
        {
         "Id": "649486686"
@@ -6193,6 +6313,9 @@
         "Id": "765296256"
        },
        {
+        "Id": "767558091"
+       },
+       {
         "Id": "769275126"
        },
        {
@@ -6206,6 +6329,9 @@
        },
        {
         "Id": "776451998"
+       },
+       {
+        "Id": "777241987"
        },
        {
         "Id": "779460630"
@@ -6260,6 +6386,9 @@
        },
        {
         "Id": "826589817"
+       },
+       {
+        "Id": "826948862"
        },
        {
         "Id": "827633306"
@@ -6380,6 +6509,9 @@
        },
        {
         "Id": "911111294"
+       },
+       {
+        "Id": "911297522"
        },
        {
         "Id": "915063569"
@@ -6835,6 +6967,9 @@
         "Id": "56464040"
        },
        {
+        "Id": "60205197"
+       },
+       {
         "Id": "60482078"
        },
        {
@@ -6983,6 +7118,9 @@
        },
        {
         "Id": "165124588"
+       },
+       {
+        "Id": "165861013"
        },
        {
         "Id": "166547667"
@@ -7216,6 +7354,9 @@
         "Id": "336272938"
        },
        {
+        "Id": "340461862"
+       },
+       {
         "Id": "350926906"
        },
        {
@@ -7244,6 +7385,9 @@
        },
        {
         "Id": "381950430"
+       },
+       {
+        "Id": "390323972"
        },
        {
         "Id": "391242189"
@@ -7306,6 +7450,9 @@
         "Id": "442298474"
        },
        {
+        "Id": "443985518"
+       },
+       {
         "Id": "445177836"
        },
        {
@@ -7331,6 +7478,9 @@
        },
        {
         "Id": "459535189"
+       },
+       {
+        "Id": "460009086"
        },
        {
         "Id": "462007144"
@@ -7480,6 +7630,9 @@
         "Id": "559246894"
        },
        {
+        "Id": "562113365"
+       },
+       {
         "Id": "563860182"
        },
        {
@@ -7580,6 +7733,9 @@
        },
        {
         "Id": "640296351"
+       },
+       {
+        "Id": "645881523"
        },
        {
         "Id": "649486686"
@@ -7699,6 +7855,9 @@
         "Id": "765296256"
        },
        {
+        "Id": "767558091"
+       },
+       {
         "Id": "769275126"
        },
        {
@@ -7712,6 +7871,9 @@
        },
        {
         "Id": "776451998"
+       },
+       {
+        "Id": "777241987"
        },
        {
         "Id": "779460630"
@@ -7766,6 +7928,9 @@
        },
        {
         "Id": "826589817"
+       },
+       {
+        "Id": "826948862"
        },
        {
         "Id": "827633306"
@@ -7886,6 +8051,9 @@
        },
        {
         "Id": "911111294"
+       },
+       {
+        "Id": "911297522"
        },
        {
         "Id": "915063569"
@@ -8252,6 +8420,9 @@
         "Id": "56464040"
        },
        {
+        "Id": "60205197"
+       },
+       {
         "Id": "60482078"
        },
        {
@@ -8400,6 +8571,9 @@
        },
        {
         "Id": "165124588"
+       },
+       {
+        "Id": "165861013"
        },
        {
         "Id": "166547667"
@@ -8633,6 +8807,9 @@
         "Id": "336272938"
        },
        {
+        "Id": "340461862"
+       },
+       {
         "Id": "350926906"
        },
        {
@@ -8661,6 +8838,9 @@
        },
        {
         "Id": "381950430"
+       },
+       {
+        "Id": "390323972"
        },
        {
         "Id": "391242189"
@@ -8723,6 +8903,9 @@
         "Id": "442298474"
        },
        {
+        "Id": "443985518"
+       },
+       {
         "Id": "445177836"
        },
        {
@@ -8748,6 +8931,9 @@
        },
        {
         "Id": "459535189"
+       },
+       {
+        "Id": "460009086"
        },
        {
         "Id": "462007144"
@@ -8897,6 +9083,9 @@
         "Id": "559246894"
        },
        {
+        "Id": "562113365"
+       },
+       {
         "Id": "563860182"
        },
        {
@@ -8997,6 +9186,9 @@
        },
        {
         "Id": "640296351"
+       },
+       {
+        "Id": "645881523"
        },
        {
         "Id": "649486686"
@@ -9116,6 +9308,9 @@
         "Id": "765296256"
        },
        {
+        "Id": "767558091"
+       },
+       {
         "Id": "769275126"
        },
        {
@@ -9129,6 +9324,9 @@
        },
        {
         "Id": "776451998"
+       },
+       {
+        "Id": "777241987"
        },
        {
         "Id": "779460630"
@@ -9183,6 +9381,9 @@
        },
        {
         "Id": "826589817"
+       },
+       {
+        "Id": "826948862"
        },
        {
         "Id": "827633306"
@@ -9303,6 +9504,9 @@
        },
        {
         "Id": "911111294"
+       },
+       {
+        "Id": "911297522"
        },
        {
         "Id": "915063569"
@@ -10240,6 +10444,6 @@
     ]
    }
   ],
-  "FileHash": "{97B9F0A5-B18F-9EA0-DF42-C0816C41C420}"
+  "FileHash": "{B9859129-898D-0E37-2965-81DCAB82C8EC}"
  }
 }
