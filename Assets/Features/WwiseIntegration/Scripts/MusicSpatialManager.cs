@@ -155,8 +155,8 @@ public class MusicSpatialManager : MonoBehaviour
             if (holder.GetHolderType() == EInstrumentHolderType.Player)
             {
                 // Set to center/close values when player holds it
-                AkSoundEngine.SetRTPCValue($"{instrumentName}_Distance", 0f);
-                AkSoundEngine.SetRTPCValue($"{instrumentName}_Panning", 0f);
+                AkUnitySoundEngine.SetRTPCValue($"{instrumentName}_Distance", 0f);
+                AkUnitySoundEngine.SetRTPCValue($"{instrumentName}_Panning", 0f);
                 continue;
             }
 
@@ -168,8 +168,8 @@ public class MusicSpatialManager : MonoBehaviour
             float panAngle = CalculatePanAngle(holder.transform.position, instrumentName, distance);
 
             // Set RTPCs (matching your Wwise naming: CelesteHighKit_Distance, CelesteHighKit_Panning)
-            AkSoundEngine.SetRTPCValue($"{instrumentName}_Distance", distance);
-            AkSoundEngine.SetRTPCValue($"{instrumentName}_Panning", panAngle);
+            AkUnitySoundEngine.SetRTPCValue($"{instrumentName}_Distance", distance);
+            AkUnitySoundEngine.SetRTPCValue($"{instrumentName}_Panning", panAngle);
         }
     }
 

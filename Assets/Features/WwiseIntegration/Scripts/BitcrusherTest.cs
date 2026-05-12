@@ -7,6 +7,6 @@ public class BitcrusherTest : MonoBehaviour
 
     void Update()
     {
-        AkSoundEngine.SetRTPCValue("BitcrushAmount", BitcrushAmount);
+        AkUnitySoundEngine.SetRTPCValue("BitcrushAmount", BitcrushAmount);
     }
 }
