@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using BabbittsUnityUtils;
+using SOAP.Variables;
 using UnityEngine;
 using UnityEngine.AI;
 using Random = UnityEngine.Random;
@@ -9,6 +10,7 @@ using Random = UnityEngine.Random;
 public class Npc : MonoBehaviour, INpc
 {
     // NEW: Instrument name for music spatialization
+    [SerializeField] private IntVariable NPCInstrumentCounter;
     [SerializeField] private string instrumentName;
     public string InstrumentName => instrumentName;
     public void SetInstrumentName(string name) => instrumentName = name;
@@ -102,6 +104,16 @@ public class Npc : MonoBehaviour, INpc
         if (agent.velocity.sqrMagnitude > 0.01f) return false;
 
         return true;
+    }
+
+    public void OnGivenInstrument()
+    {
+        NPCInstrumentCounter.Value -= 1;
+    }
+
+    public void OnLostInstrument()
+    {
+        NPCInstrumentCounter.Value += 1;
     }
 
     private void OnDrawGizmos()
